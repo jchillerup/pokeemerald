@@ -21,7 +21,7 @@ const u8 gText_ExpandedPlaceholder_May[] = _("MAY");
 const u8 gText_EggNickname[] = _("EGG");
 const u8 gText_Pokemon[] = _("POKéMON");
 const u8 gText_ProfBirchMatchCallName[] = _("PROF. BIRCH");
-const u8 gText_MainMenuNewGame[] = _("NEW GAME");
+const u8 gText_MainMenuNewGame[] = _("NYT SPIL");
 const u8 gText_MainMenuContinue[] = _("CONTINUE");
 const u8 gText_MainMenuOption[] = _("OPTION");
 const u8 gText_MainMenuMysteryGift[] = _("MYSTERY GIFT");
@@ -55,8 +55,8 @@ ALIGNED(4) const u8 gText_NextBack[] = _("{A_BUTTON}NEXT {B_BUTTON}BACK"); // Un
 ALIGNED(4) const u8 gText_PickNextCancel[] = _("{DPAD_UPDOWN}PICK {A_BUTTON}NEXT {B_BUTTON}CANCEL");
 ALIGNED(4) const u8 gText_PickCancel[] = _("{DPAD_UPDOWN}PICK {A_BUTTON}{B_BUTTON}CANCEL");
 ALIGNED(4) const u8 gText_AButtonExit[] = _("{A_BUTTON}EXIT");
-const u8 gText_BirchBoy[] = _("BOY");
-const u8 gText_BirchGirl[] = _("GIRL");
+const u8 gText_BirchBoy[] = _("DRENG");
+const u8 gText_BirchGirl[] = _("PIGE");
 const u8 gText_DefaultNameStu[] = _("STU");
 const u8 gText_DefaultNameMilton[] = _("MILTON");
 const u8 gText_DefaultNameTom[] = _("TOM");
@@ -97,7 +97,7 @@ const u8 gText_DefaultNameLillie[] = _("LILLIE");
 const u8 gText_DefaultNameTerra[] = _("TERRA");
 const u8 gText_DefaultNameLucy[] = _("LUCY");
 const u8 gText_DefaultNameHalie[] = _("HALIE");
-const u8 gText_ThisIsAPokemon[] = _("This is what we call a “POKéMON.”{PAUSE 96}\p");
+const u8 gText_ThisIsAPokemon[] = _("Dette er, hvad vi kalder en “POKéMON.”{PAUSE 96}\p");
 const u8 gText_5MarksPokemon[] = _("????? POKéMON");
 const u8 gText_UnkHeight[] = _("{CLEAR_TO 0x0C}??'??”");
 const u8 gText_UnkWeight[] = _("????.? lbs.");
@@ -278,12 +278,12 @@ const u8 *const gPyramidBagMenu_ReturnToStrings[] =
     [PYRAMIDBAG_LOC_CHOOSE_TOSS] = gText_TheField
 };
 
-const u8 gText_ReturnToVar1[] = _("Return to\n{STR_VAR_1}.");
-const u8 gText_ItemsPocket[] = _("ITEMS");
+const u8 gText_ReturnToVar1[] = _("Tilbage til\n{STR_VAR_1}.");
+const u8 gText_ItemsPocket[] = _("TING");
 const u8 gText_PokeBallsPocket[] = _("POKé BALLS");
 const u8 gText_TMHMPocket[] = _("TMs & HMs");
-const u8 gText_BerriesPocket[] = _("BERRIES");
-const u8 gText_KeyItemsPocket[] = _("KEY ITEMS");
+const u8 gText_BerriesPocket[] = _("BÆR");
+const u8 gText_KeyItemsPocket[] = _("VIGTIGE TING");
 
 const u8 *const gPocketNamesStringsTable[] =
 {
