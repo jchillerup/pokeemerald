@@ -1,33 +1,32 @@
-	.align 2
+.align 2
 gText_ConfirmSave::
-	.string "Vil du gerne gemme?$"
+	.string "Ønsker du at gemme?$"
 
 gText_AlreadySavedFile::
-	.string "There is already a saved file.\n"
-	.string "Is it okay to overwrite it?$"
+	.string "Der er allerede en gemt fil.\n"
+	.string "Er det okay at overskrive den?$"
 
 gText_SavingDontTurnOff::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "GEMMER…\n"
+	.string "SLUK IKKE FOR STRØMMEN.$"
 
 gText_PlayerSavedGame::
-	.string "{PLAYER} saved the game.$"
+	.string "{PLAYER} har gemt spillet.$"
 
 gText_DifferentSaveFile::
-	.string "WARNING!\p"
-	.string "There is a different game file that\n"
-	.string "is already saved.\p"
-	.string "If you save now, the other file's\n"
-	.string "adventure, including items and\l"
-	.string "POKéMON, will be entirely lost.\p"
-	.string "Are you sure you want to save now\n"
-	.string "and overwrite the other save file?$"
+	.string "ADVARSEL!\p"
+	.string "Der er allerede en anden gemt fil.\p"
+	.string "Hvis du gemmer nu, vil den anden\n"
+	.string "fil's eventyr, herunder genstande og\l"
+	.string "POKéMON, være helt tabt.\p"
+	.string "Er du sikker på, at du vil gemme nu\n"
+	.string "og overskrive den anden gemte fil?$"
 
 gText_SaveError::
-	.string "Save error.\p"
-	.string "Please exchange the\n"
-	.string "backup memory.$"
+	.string "Fejl ved gemning.\p"
+	.string "Udskift venligst\n"
+	.string "backup-hukommelsen.$"
 
 gText_SavingDontTurnOffPower::
-	.string "SAVING…\n"
-	.string "DON'T TURN OFF THE POWER.$"
+	.string "GEMMER…\n"
+	.string "SLUK IKKE FOR STRØMMEN.$"

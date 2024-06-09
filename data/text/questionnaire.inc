@@ -1,43 +1,43 @@
 Questionnaire_Text_FillOut::
-	.string "There is a questionnaire.\n"
-	.string "Would you like to fill it out?$"
+	.string "Der er en spørgeskema.\n"
+	.string "Ønsker du at udfylde det?$"
 
 Questionnaire_Text_ThankYou::
-	.string "Thank you for taking the time to\n"
-	.string "fill out our questionnaire.\p"
-	.string "Your feedback will be used for\n"
-	.string "future reference.$"
+	.string "Tak fordi du tog dig tid til\n"
+	.string "at udfylde vores spørgeskema.\p"
+	.string "Din feedback vil blive brugt til\n"
+	.string "fremtidig reference.$"
 
 Questionnaire_Text_YouKnowThoseWordsGift::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY GIFT.\p"
-	.string "From now on, you should be\n"
-	.string "receiving MYSTERY GIFTS!$"
+	.string "Åh, hej!\n"
+	.string "Kender du de ord?\p"
+	.string "Det betyder, at du må kende til\n"
+	.string "Mystery Gift.\p"
+	.string "Fra nu af burde du modtage\n"
+	.string "Mystery Gifts!$"
 
 Questionnaire_Text_YouCanAccessMysteryGift::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY GIFT.$"
+	.string "Når du har gemt dit spil, kan du\n"
+	.string "få adgang til Mystery Gift.$"
 
 Questionnaire_Text_YouKnowThoseWordsEvent::
-	.string "Oh, hello!\n"
-	.string "You know those words?\p"
-	.string "That means you must know about\n"
-	.string "the MYSTERY EVENT.$"
+	.string "Åh, hej!\n"
+	.string "Kender du de ord?\p"
+	.string "Det betyder, at du må kende til\n"
+	.string "Mystery Event.$"
 
 Questionnaire_Text_YouCanAccessMysteryEvent::
-	.string "Once you save your game, you can\n"
-	.string "access the MYSTERY EVENT.$"
+	.string "Når du har gemt dit spil, kan du\n"
+	.string "få adgang til Mystery Event.$"
 
 MysteryGift_Text_TheresATicketForYou::
-	.string "Thank you for using the MYSTERY\n"
-	.string "EVENT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Tak fordi du bruger Mystery\n"
+	.string "Event Systemet.\p"
+	.string "Du må være {PLAYER}.\n"
+	.string "Der er en billet her til dig.$"
 
 MysteryGift_Text_TryUsingItAtLilycovePort::
-	.string "It appears to be for use at\n"
-	.string "the LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Den ser ud til at være til brug ved\n"
+	.string "Lilycove City havn.\p"
+	.string "Hvorfor ikke prøve det og se, hvad\n"
+	.string "det handler om?$"
