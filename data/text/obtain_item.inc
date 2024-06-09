@@ -1,31 +1,31 @@
 gText_ObtainedTheItem::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Modtog {STR_VAR_2}!$"
 
 gText_TheBagIsFull::
-	.string "The BAG is full…$"
+	.string "Tasken er fuld…$"
 
 gText_PutItemInPocket::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the {STR_VAR_3} POCKET.$"
+	.string "{PLAYER} lagde {STR_VAR_2}\n"
+	.string "i {STR_VAR_3} LOMMEN.$"
 
 gText_PlayerFoundOneItem::
-	.string "{PLAYER} found one {STR_VAR_2}!$"
+	.string "{PLAYER} fandt en {STR_VAR_2}!$"
 
 gText_TooBadBagIsFull::
-	.string "Too bad!\n"
-	.string "The BAG is full…$"
+	.string "Øv!\n"
+	.string "Tasken er fuld…$"
 
 gText_PlayerPutItemInBag::
-	.string "{PLAYER} put away the {STR_VAR_2}\n"
-	.string "in the BAG.$"
+	.string "{PLAYER} lagde {STR_VAR_2}\n"
+	.string "i TASKEN.$"
 
 gText_ObtainedTheDecor::
-	.string "Obtained the {STR_VAR_2}!$"
+	.string "Modtog {STR_VAR_2}!$"
 
 gText_NoRoomLeftForAnother::
-	.string "Too bad! There's no room left for\n"
-	.string "another {STR_VAR_2}…$"
+	.string "Øv! Der er ikke plads til\n"
+	.string "endnu en {STR_VAR_2}…$"
 
 gText_TheDecorWasTransferredToThePC::
-	.string "The {STR_VAR_2} was transferred\n"
-	.string "to the PC.$"
+	.string "{STR_VAR_2} blev overført\n"
+	.string "til PC'en.$"

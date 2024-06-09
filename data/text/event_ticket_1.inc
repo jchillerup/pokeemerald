@@ -1,41 +1,41 @@
 EventTicket_Text_ShowOldSeaMap:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "I beg your pardon?\n"
-	.string "Can we sail to this place on the map?\p"
-	.string "I know someone who will help you better.\n"
-	.string "Please wait.$"
+	.string "Færgen til SLATEPORT er…\p"
+	.string "Undskyld mig?\n"
+	.string "Kan vi sejle til dette sted på kortet?\p"
+	.string "Jeg kender nogen, der vil kunne hjælpe dig bedre.\n"
+	.string "Vent venligst.$"
 
 EventTicket_Text_ThatPass:
-	.string "The ferry to SLATEPORT is…\p"
-	.string "Oh?\n"
-	.string "That PASS…$"
+	.string "Færgen til SLATEPORT er…\p"
+	.string "Åh?\n"
+	.string "Det PASS…$"
 
 EventTicket_Text_ShowEonTicket:
-	.string "Aye, mate, are you the one who brought\n"
-	.string "that mighty odd PASS?\p"
-	.string "I'll tell you, you're trying to reach a\n"
-	.string "tiny spit of an island far in the south.\p"
-	.string "There's no telling what we'll encounter\n"
-	.string "once we reach there, aye.\l"
-	.string "That shivers my timbers!\p"
-	.string "All aboard!$"
+	.string "Hej, makker, er du den, der bragte\n"
+	.string "det mærkelige PASS?\p"
+	.string "Jeg skal sige dig, du prøver at nå\n"
+	.string "en lille ø langt mod syd.\p"
+	.string "Der er ingen garanti for, hvad vi møder\n"
+	.string "når vi når dertil, åh.\l"
+	.string "Det giver mig kuldegysninger!\p"
+	.string "Alle ombord!$"
 
 EventTicket_Text_SouthernIslandSailBack:
-	.string "Aye, mate, there's nothing here to\n"
-	.string "see or do on this forgettable island.\p"
-	.string "What say we sail back to LILYCOVE?$"
+	.string "Hej, makker, der er intet her at\n"
+	.string "se eller gøre på denne kedelige ø.\p"
+	.string "Hvad siger du til, at vi sejler tilbage til LILYCOVE?$"
 
 EventTicket_Text_SailHome:
-	.string "Aye, right, then!\n"
-	.string "Sail home we will!$"
+	.string "Aye, lige præcis!\n"
+	.string "Vi sejler hjem!$"
 
 EventTicket_Text_AsYouLike:
-	.string "Aye, right, as you like, then.$"
+	.string "Aye, lige præcis, som du ønsker.$"
 
 SouthernIsland_Interior_Text_Sign:
-	.string "“All dreams are but another reality.\n"
-	.string "Never forget…”$"
+	.string "“Alle drømme er blot en anden virkelighed.\n"
+	.string "Glem det aldrig…”$"
 
 SouthernIsland_Exterior_Text_Sign:
-	.string "“Those whose memories fade seek to\n"
-	.string "carve them in their hearts…”$"
+	.string "“De, hvis minder falmer, søger at\n"
+	.string "indgravere dem i deres hjerter…”$"

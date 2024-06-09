@@ -1,63 +1,63 @@
 @ Only contains the text for the Mauville Man named Giddy. The rest is in scripts/mauville_man.inc
 GiddyText_SoPretty::
-	.string " so pretty!$"
+	.string " så smukt!$"
 
 GiddyText_SoDarling::
-	.string " so darling!$"
+	.string " så kær!$"
 
 GiddyText_SoRelaxed::
-	.string " so relaxed!$"
+	.string " så afslappende!$"
 
 GiddyText_SoSunny::
-	.string " so sunny!$"
+	.string " så solrigt!$"
 
 GiddyText_SoDesirable::
-	.string " so desirable!$"
+	.string " så ønskværdigt!$"
 
 GiddyText_SoExciting::
-	.string " so exciting!$"
+	.string " så spændende!$"
 
 GiddyText_SoAmusing::
-	.string " so amusing!$"
+	.string " så underholdende!$"
 
 GiddyText_SoMagical::
-	.string " so magical!$"
+	.string " så magisk!$"
 
 GiddyText_Is::
-	.string " is$"
+	.string " er$"
 
 GiddyText_DontYouAgree::
 	.string "\n"
-	.string "Don't you agree?$"
+	.string "Er du ikke enig?$"
 
 GiddyText_ISoWantToGoOnAVacation::
-	.string "I so want to go on a vacation.\n"
-	.string "Would you happen to know a nice place?$"
+	.string "Jeg vil så gerne på ferie.\n"
+	.string "Kender du et dejligt sted?$"
 
 GiddyText_IBoughtCrayonsWith120Colors::
-	.string "I bought crayons with 120 colors!\n"
-	.string "Don't you think that's nice?$"
+	.string "Jeg købte farvekridt med 120 farver!\n"
+	.string "Er det ikke fantastisk?$"
 
 GiddyText_WouldntItBeNiceIfWeCouldFloat::
-	.string "Wouldn't it be nice if we could float\n"
-	.string "away on a cloud of bubbles?$"
+	.string "Ville det ikke være dejligt, hvis vi kunne\n"
+	.string "svæve væk på en sky af bobler?$"
 
 GiddyText_WhenYouWriteOnASandyBeach::
-	.string "When you write on a sandy beach,\n"
-	.string "they wash away. It makes me sad.$"
+	.string "Når du skriver på en sandstrand,\n"
+	.string "bliver det skyllet væk. Det gør mig trist.$"
 
 GiddyText_WhatsTheBottomOfTheSeaLike::
-	.string "What's the bottom of the sea like?\n"
-	.string "Just once I would so love to go!$"
+	.string "Hvordan er bunden af havet?\n"
+	.string "Bare en gang vil jeg så gerne dykke ned!$"
 
 GiddyText_WhenYouSeeTheSettingSunDoesIt::
-	.string "When you see the setting sun, does it\n"
-	.string "make you want to go home?$"
+	.string "Når du ser solen gå ned, får det dig\n"
+	.string "så til at ville tage hjem?$"
 
 GiddyText_LyingBackInTheGreenGrass::
-	.string "Lying back in the green grass…\n"
-	.string "Oh, it's so, so nice!$"
+	.string "Liggende tilbage i det grønne græs…\n"
+	.string "Åh, det er så, så dejligt!$"
 
 GiddyText_SecretBasesAreSoWonderful::
-	.string "SECRET BASES are so wonderful!\n"
-	.string "Can't you feel the excitement?$"
+	.string "HEMMELIGE BASER er så vidunderlige!\n"
+	.string "Kan du ikke mærke spændingen?$"

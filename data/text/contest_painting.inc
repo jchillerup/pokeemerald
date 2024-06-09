@@ -4,93 +4,93 @@ gContestHallPaintingCaption::
 
 @ Unused
 gContestPaintingContest::
-	.string "CONTEST$"
+	.string "KONKURRENCE$"
 
 gContestRankNormal::
-	.string "NORMAL RANK$"
+	.string "NORMAL RANG$"
 
 gContestRankSuper::
-	.string "SUPER RANK$"
+	.string "SUPER RANG$"
 
 gContestRankHyper::
-	.string "HYPER RANK$"
+	.string "HYPER RANG$"
 
 gContestRankMaster::
-	.string "MASTER RANK$"
+	.string "MESTER RANG$"
 
 gContestLink::
 	.string "LINK$"
 
 gContestCoolness::
-	.string "COOLNESS$"
+	.string "KØLIGHED$"
 
 gContestBeauty::
-	.string "BEAUTY$"
+	.string "SKØNHED$"
 
 gContestCuteness::
-	.string "CUTENESS$"
+	.string "SØDHED$"
 
 gContestSmartness::
-	.string "SMARTNESS$"
+	.string "KLOKHED$"
 
 gContestToughness::
-	.string "TOUGHNESS$"
+	.string "SEJHED$"
 
 gContestPaintingCool1::
 	.string "Nonstop supercool--\n"
-	.string "the inestimable {STR_VAR_1}$"
+	.string "den uovertrufne {STR_VAR_1}$"
 
 gContestPaintingCool2::
-	.string "Hey, there!\n"
-	.string "The good-looking POKéMON {STR_VAR_1}$"
+	.string "Hey, der!\n"
+	.string "Den flotte POKéMON {STR_VAR_1}$"
 
 gContestPaintingCool3::
-	.string "The marvelous, wonderful, and\n"
-	.string "very great {STR_VAR_1}$"
+	.string "Den fantastiske, vidunderlige og\n"
+	.string "meget store {STR_VAR_1}$"
 
 gContestPaintingBeauty1::
-	.string "This century's last Venus--\n"
-	.string "the beautiful {STR_VAR_1}$"
+	.string "Dette århundredes sidste Venus--\n"
+	.string "den smukke {STR_VAR_1}$"
 
 gContestPaintingBeauty2::
-	.string "{STR_VAR_1}'s dazzling,\n"
-	.string "glittering smile$"
+	.string "{STR_VAR_1}'s strålende,\n"
+	.string "glitrende smil$"
 
 gContestPaintingBeauty3::
 	.string "POKéMON CENTER's super idol--\n"
-	.string "the incomparable {STR_VAR_1}$"
+	.string "den uforlignelige {STR_VAR_1}$"
 
 gContestPaintingCute1::
-	.string "The lovely and sweet {STR_VAR_1}$"
+	.string "Den dejlige og søde {STR_VAR_1}$"
 
 gContestPaintingCute2::
-	.string "The pretty {STR_VAR_1}'s\n"
-	.string "winning portrait$"
+	.string "Den yndige {STR_VAR_1}'s\n"
+	.string "vindende portræt$"
 
 gContestPaintingCute3::
-	.string "Give us a wink!\n"
-	.string "The cutie POKéMON {STR_VAR_1}$"
+	.string "Giv os et blink!\n"
+	.string "Den søde POKéMON {STR_VAR_1}$"
 
 gContestPaintingSmart1::
-	.string "The smartness maestro--\n"
-	.string "the wise POKéMON {STR_VAR_1}$"
+	.string "Klokhedens mester--\n"
+	.string "den vise POKéMON {STR_VAR_1}$"
 
 gContestPaintingSmart2::
-	.string "{STR_VAR_1}--the one chosen\n"
-	.string "above all POKéMON$"
+	.string "{STR_VAR_1}--den ene udvalgte\n"
+	.string "over alle POKéMON$"
 
 gContestPaintingSmart3::
-	.string "The excellent {STR_VAR_1}'s\n"
-	.string "moment of elegance$"
+	.string "Den fremragende {STR_VAR_1}'s\n"
+	.string "øjeblik af elegance$"
 
 gContestPaintingTough1::
-	.string "The powerfully muscular\n"
-	.string "speedster {STR_VAR_1}$"
+	.string "Den kraftfulde muskuløse\n"
+	.string "hurtigløber {STR_VAR_1}$"
 
 gContestPaintingTough2::
-	.string "The strong, stronger, and\n"
-	.string "strongest {STR_VAR_1}$"
+	.string "Den stærke, stærkere og\n"
+	.string "stærkeste {STR_VAR_1}$"
 
 gContestPaintingTough3::
-	.string "The mighty tough\n"
+	.string "Den mægtige seje\n"
 	.string "hyper POKéMON {STR_VAR_1}$"
