@@ -1,115 +1,111 @@
 gBirchDexRatingText_AreYouCurious::
 	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
-	.string "Are you curious about how your\n"
-	.string "POKéDEX is coming along?$"
+	.string "Er du nysgerrig på, hvordan din\n"
+	.string "POKéDEX klarer sig?$"
 
 gBirchDexRatingText_Cancel::
-	.string "Hm? Oh, you haven't caught enough\n"
-	.string "POKéMON to make it worthwhile.$"
+	.string "Hm? Åh, du har ikke fanget nok\n"
+	.string "POKéMON til at gøre det værd.$"
 
 gBirchDexRatingText_SoYouveSeenAndCaught::
 	.string "Hmhm…\p"
-	.string "So, you've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "Så du har set {STR_VAR_1} POKéMON\n"
+	.string "og fanget {STR_VAR_2} POKéMON…$"
 
 gBirchDexRatingText_LessThan10::
-	.string "Go into grassy areas more and look\n"
-	.string "for POKéMON more carefully.$"
+	.string "Gå mere rundt i græsområderne\n"
+	.string "og kig mere omhyggeligt efter POKéMON.$"
 
 gBirchDexRatingText_LessThan20::
-	.string "I guess you're getting the hang\n"
-	.string "of it. But, it gets harder from here.$"
+	.string "Jeg antager, at du er ved at få\n"
+	.string "det ind. Men det bliver sværere herfra.$"
 
 gBirchDexRatingText_LessThan30::
-	.string "Some POKéMON only appear in\n"
-	.string "certain areas.\l"
-	.string "You must be persistent.$"
+	.string "Nogle POKéMON vises kun i\n"
+	.string "bestemte områder.\l"
+	.string "Du skal være vedholdende.$"
 
 gBirchDexRatingText_LessThan40::
-	.string "Well, it could use more quantity,\n"
-	.string "but this is looking more like\l"
-	.string "a POKéDEX now.$"
+	.string "Nå, der kunne bruges flere af dem,\n"
+	.string "men det ligner mere en POKéDEX nu.$"
 
 gBirchDexRatingText_LessThan50::
-	.string "This is coming along pretty good.\n"
-	.string "Keep up the effort.$"
+	.string "Dette går ret godt.\n"
+	.string "Fortsæt det gode arbejde.$"
 
 gBirchDexRatingText_LessThan60::
-	.string "Are you using any RODS?\n"
-	.string "There are many POKéMON in the sea.$"
+	.string "Bruger du nogen STÆNGER?\n"
+	.string "Der er mange POKéMON i havet.$"
 
 gBirchDexRatingText_LessThan70::
-	.string "Instead of just catching POKéMON,\n"
-	.string "how about making them evolve, too?$"
+	.string "I stedet for bare at fange POKéMON,\n"
+	.string "hvorfor ikke også lade dem udvikle sig?$"
 
 gBirchDexRatingText_LessThan80::
-	.string "This is going to be a fantastic\n"
+	.string "Dette kommer til at blive en fantastisk\n"
 	.string "POKéDEX.\l"
-	.string "That's the feeling I'm getting.$"
+	.string "Det er følelsen, jeg får.$"
 
 gBirchDexRatingText_LessThan90::
-	.string "You've collected this many…\n"
-	.string "Your talent is remarkable!$"
+	.string "Du har samlet så mange…\n"
+	.string "Dit talent er bemærkelsesværdigt!$"
 
 gBirchDexRatingText_LessThan100::
-	.string "Have you visited the SAFARI ZONE?\p"
-	.string "I hear there are some POKéMON that\n"
-	.string "can only be caught there.$"
+	.string "Har du besøgt SAFARI ZONE?\p"
+	.string "Jeg hører, at der er nogle POKéMON,\n"
+	.string "der kun kan fanges der.$"
 
 gBirchDexRatingText_LessThan110::
-	.string "You've finally reached\n"
-	.string "the 100-kind mark.\p"
-	.string "This is an impressive POKéDEX!$"
+	.string "Du har endelig nået\n"
+	.string "mærket på 100 slags.\p"
+	.string "Det er en imponerende POKéDEX!$"
 
 gBirchDexRatingText_LessThan120::
-	.string "There might be POKéMON that can be\n"
-	.string "found using ROCK SMASH.$"
+	.string "Der kunne være POKéMON, der kan findes\n"
+	.string "ved at bruge ROCK SMASH.$"
 
 gBirchDexRatingText_LessThan130::
-	.string "You should get some more POKéMON\n"
-	.string "by trading with others.$"
+	.string "Du burde få nogle flere POKéMON\n"
+	.string "ved at handle med andre.$"
 
 gBirchDexRatingText_LessThan140::
-	.string "I've heard of POKéMON that evolve\n"
-	.string "when they come to fully love their\l"
-	.string "TRAINERS.$"
+	.string "Jeg har hørt om POKéMON, der udvikler sig,\n"
+	.string "når de kommer til at elske deres TRÆNERE.$"
 
 gBirchDexRatingText_LessThan150::
-	.string "I had no idea that there were so\n"
-	.string "many POKéMON species in the HOENN\l"
-	.string "region.$"
+	.string "Jeg havde ingen idé om, at der var så\n"
+	.string "mange POKéMON-arter i HOENN-regionen.$"
 
 gBirchDexRatingText_LessThan160::
-	.string "On occasion, some POKéMON appear\n"
-	.string "in large numbers like outbreaks.\p"
-	.string "Don't miss opportunities like\n"
-	.string "those.$"
+	.string "Fra tid til anden vises nogle POKéMON\n"
+	.string "i store mængder som udbrud.\p"
+	.string "Gå ikke glip af sådanne muligheder.$"
 
 gBirchDexRatingText_LessThan170::
-	.string "One can get a very good idea about\n"
-	.string "the POKéMON of the HOENN region\l"
-	.string "by looking through your POKéDEX.$"
+	.string "Man kan få en rigtig god idé om\n"
+	.string "POKéMON i HOENN-regionen\n"
+	.string "ved at se igennem din POKéDEX.$"
 
 gBirchDexRatingText_LessThan180::
-	.string "I would say you already qualify as\n"
-	.string "a POKéMON PROFESSOR, and a good\l"
-	.string "one, too!$"
+	.string "Jeg ville sige, at du allerede kvalificerer\n"
+	.string "dig som en POKéMON-PROFESSOR, og en god\l"
+	.string "en af slagsen også!$"
 
 gBirchDexRatingText_LessThan190::
-	.string "With a POKéDEX this complete,\n"
-	.string "you're a real professional at this!$"
+	.string "Med en så komplet POKéDEX er du\n"
+	.string "en rigtig professionel til dette!$"
 
 gBirchDexRatingText_LessThan200::
-	.string "You're very close to completing\n"
-	.string "this POKéDEX.\l"
-	.string "I can feel it in my bones!$"
+	.string "Du er meget tæt på at fuldføre\n"
+	.string "denne POKéDEX.\l"
+	.string "Jeg kan mærke det i mine knogler!$"
 
 gBirchDexRatingText_DexCompleted::
-	.string "Congratulations!\n"
-	.string "Your POKéDEX is complete!$"
+	.string "Tillykke!\n"
+	.string "Din POKéDEX er fuldendt!$"
 
 gBirchDexRatingText_OnANationwideBasis::
 	.string "Hmhm…\n"
-	.string "On a nationwide basis…\p"
-	.string "You've seen {STR_VAR_1} POKéMON,\n"
-	.string "and you've caught {STR_VAR_2} POKéMON…$"
+	.string "På landsbasis…\p"
+	.string "Du har set {STR_VAR_1} POKéMON\n"
+	.string "og fanget {STR_VAR_2} POKéMON…$"

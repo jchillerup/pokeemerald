@@ -1,51 +1,51 @@
 gText_WouldYouLikeToRestYourPkmn::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to rest your POKéMON?$"
+	.string "Hej, og velkommen til\n"
+	.string "POKéMON CENTERET.\p"
+	.string "Vi genskaber dine trætte POKéMON\n"
+	.string "til fuld sundhed.\p"
+	.string "Vil du hvile dine POKéMON?$"
 
 gText_IllTakeYourPkmn::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "Okay, jeg tager dine POKéMON\n"
+	.string "i et par sekunder.$"
 
 gText_RestoredPkmnToFullHealth::
-	.string "Thank you for waiting.\p"
-	.string "We've restored your POKéMON\n"
-	.string "to full health.$"
+	.string "Tak fordi du ventede.\p"
+	.string "Vi har genskabt dine POKéMON\n"
+	.string "til fuld sundhed.$"
 
 gText_WeHopeToSeeYouAgain::
-	.string "We hope to see you again!$"
+	.string "Vi håber at se dig igen!$"
 
 gText_WelcomeCutShort::
-	.string "Hello, and welcome to\n"
-	.string "the POKéMON CENTER.\p"
-	.string "We restore your tired POKéMON\n"
-	.string "to full health.\p"
-	.string "Would you like to…$"
+	.string "Hej, og velkommen til\n"
+	.string "POKéMON CENTERET.\p"
+	.string "Vi genskaber dine trætte POKéMON\n"
+	.string "til fuld sundhed.\p"
+	.string "Vil du gerne…$"
 
 gText_NoticesGoldCard::
-	.string "Th-that card…\n"
-	.string "Could it be… The GOLD CARD?!\p"
-	.string "Oh, the gold color is brilliant!\n"
-	.string "The four stars seem to sparkle!\p"
-	.string "I've seen several TRAINERS with\n"
-	.string "a SILVER CARD before, but, {PLAYER},\l"
-	.string "you're the first TRAINER I've ever\l"
-	.string "seen with a GOLD CARD!\p"
-	.string "Okay, {PLAYER}, please allow me\n"
-	.string "the honor of resting your POKéMON!$"
+	.string "D-dét kort…\n"
+	.string "Kunne det være… GULD KORTET?!\p"
+	.string "Åh, guldfarven er strålende!\n"
+	.string "De fire stjerner synes at funkler!\p"
+	.string "Jeg har set flere TRÆNERE med\n"
+	.string "et SØLVKORT før, men, {PLAYER},\l"
+	.string "du er den første TRÆNER jeg nogensinde\l"
+	.string "har set med et GULD KORT!\p"
+	.string "Okay, {PLAYER}, tillad mig\n"
+	.string "ære at hvile dine POKéMON!$"
 
 gText_YouWantTheUsual::
-	.string "I'm delighted to see you, {PLAYER}!\n"
-	.string "You want the usual, am I right?$"
+	.string "Jeg er henrykt over at se dig, {PLAYER}!\n"
+	.string "Du vil have det sædvanlige, ikke?$"
 
 gText_IllTakeYourPkmn2::
-	.string "Okay, I'll take your POKéMON\n"
-	.string "for a few seconds.$"
+	.string "Okay, jeg tager dine POKéMON\n"
+	.string "i et par sekunder.$"
 
 gText_ThankYouForWaiting::
-	.string "Thank you for waiting.$"
+	.string "Tak fordi du ventede.$"
 
 gText_WeHopeToSeeYouAgain2::
-	.string "We hope to see you again!$"
+	.string "Vi håber at se dig igen!$"
