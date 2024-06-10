@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 MauvilleCity_PokemonCenter_1F_MapScripts::
@@ -36,21 +38,22 @@ MauvilleCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
-	.string "That man over there, he says weird\n"
-	.string "things!\p"
-	.string "He's funny in a weird way.\n"
-	.string "I doubt I'll forget about him!$"
+	.string "Den mand derovre, han siger mærkelige\n"
+	.string "ting!\p"
+	.string "Han er sjov på en underlig måde.\n"
+	.string "Jeg tvivler på, at jeg glemmer ham!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
-	.string "When I accessed the RECORD CORNER,\n"
-	.string "the data for what's hot in DEWFORD\l"
-	.string "got updated.\p"
-	.string "Now that bit of data is the same\n"
-	.string "as my friend's!$"
+	.string "Da jeg fik adgang til REGISTRERINGSKROGEN,\n"
+	.string "opdateredes dataene for hvad der er hot i DEWFORD\l"
+	.string "Nu er den information den samme\n"
+	.string "som min vens!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
-	.string "A RECORD CORNER opened upstairs in\n"
-	.string "the POKéMON CENTER.\p"
-	.string "I don't know what it's about, but it\n"
-	.string "sounds fun. I'll go check it out!$"
+	.string "En PLADEKROG åbnede ovenpå i\n"
+	.string "POKéMON-CENTRET.\p"
+	.string "Jeg ved ikke, hvad det handler om, men det\n"
+	.string "lyder sjovt. Jeg vil gå tjekke det ud!$"
+
+
 
