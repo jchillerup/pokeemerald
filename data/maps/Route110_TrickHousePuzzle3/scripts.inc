@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route110_TrickHousePuzzle3_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, Route110_TrickHousePuzzle3_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, Route110_TrickHousePuzzle3_OnTransition
@@ -302,44 +304,46 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 	end
 
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is coveted.”\n"
+	.string "{PLAYER} skrev den hemmelige kode\n"
+	.string "på døren.\p"
+	.string "“TRICK MASTER er eftertragtet.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "I keep coming back to this same place!$"
+	.string "Jeg bliver ved med at komme tilbage til det samme sted!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "I'm already having trouble, and then\n"
-	.string "you have to beat me? It's not fair!$"
+	.string "Jeg har allerede problemer, og så\n"
+	.string "skal du slå mig? Det er ikke fair!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "It's full of doors here!\n"
-	.string "It's too small and dark in here! Help!$"
+	.string "Der er fyldt med døre her!\n"
+	.string "Det er for lille og mørkt herinde! Hjælp!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
-	.string "I don't know what's going on here.\n"
-	.string "I'm starting to feel sad…$"
+	.string "Jeg ved ikke, hvad der foregår her.\n"
+	.string "Jeg begynder at føle mig trist…$"
 
 Route110_TrickHousePuzzle3_Text_MarthaDefeat:
-	.string "You… You're awful!$"
+.string "Du… Du er forfærdelig!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaPostBattle:
-	.string "I know I'm weak!\n"
-	.string "And, I have no sense of direction!$"
+	.string "Jeg ved, jeg er svag!\n"
+	.string "Og jeg har ingen fornemmelse for retning!$"
 
 Route110_TrickHousePuzzle3_Text_AlanIntro:
-	.string "I don't get it. What would anyone want\n"
-	.string "with a house this bizarre?$"
+	.string "Jeg forstår det ikke. Hvad skulle\n"
+	.string "nogen ønske med et så mærkeligt hus?$"
 
 Route110_TrickHousePuzzle3_Text_AlanDefeat:
-	.string "I don't get it.\n"
-	.string "How did I lose?$"
+	.string "Jeg fatter det ikke.\n"
+	.string "Hvordan tabte jeg?$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "I don't get it.\n"
-	.string "How many traps are in this house?\p"
-	.string "You may be the one to solve that.$"
+	.string "Jeg fatter det ikke.\n"
+	.string "Hvor mange fælder er der i dette hus?\p"
+	.string "Du kan være den, der løser det.$"
+
+
 
