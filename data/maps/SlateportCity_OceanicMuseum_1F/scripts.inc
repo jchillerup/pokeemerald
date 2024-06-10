@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_FAMILIAR_GRUNT, 13
 
 SlateportCity_OceanicMuseum_1F_MapScripts::
@@ -225,156 +227,159 @@ SlateportCity_OceanicMuseum_1F_Movement_FamiliarGruntExitNorth:
 	step_end
 
 SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter:
-	.string "Welcome to the OCEANIC MUSEUM.\p"
-	.string "The entrance fee is ¥50.\n"
-	.string "Would you like to enter?$"
+	.string "Velkommen til HAVMUSEET.\p"
+	.string "Indgangsgebyret er ¥50.\n"
+	.string "Ønsker du at gå ind?$"
 
 SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself:
-	.string "Please enjoy yourself.$"
+	.string "Vær sød at nyde dig selv.$"
 
 SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney:
-	.string "Oh? I'm sorry, but you don't seem to\n"
-	.string "have enough money.$"
+	.string "Åh? Undskyld, men du synes ikke at\n"
+	.string "have nok penge.$"
 
 SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup:
-	.string "Oh? You're with that group that\n"
-	.string "went in earlier?\p"
-	.string "You're the only one who's late.\n"
-	.string "You'd better go catch up to them!$"
+	.string "Nå? Du er med den gruppe, der\n"
+	.string "gik ind tidligere?\p"
+	.string "Du er den eneste, der er sent.\n"
+	.string "Du burde skynde dig at indhente dem!$"
 
 SlateportCity_OceanicMuseum_1F_Text_AquaExistForGoodOfAll:
-	.string "We, TEAM AQUA, exist for the good\n"
-	.string "of all!$"
+	.string "Vi, TEAM AQUA, eksisterer for alles\n"
+	.string "bedste!$" 
 
 SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere:
-	.string "We were told to assemble here,\n"
-	.string "so we did, but…\p"
-	.string "Our BOSS, the linchpin, isn't here.$"
+	.string "Vi fik besked på at samle os her,\n"
+	.string "så det gjorde vi, men…\p"
+	.string "Vores CHEF, nøglepersonen, er ikke her.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich:
-	.string "If I ripped off the stuff here,\n"
-	.string "would it make me rich?$"
+	.string "Hvis jeg rev alt dette her\n"
+	.string "af, ville det gøre mig rigtig?$"
 
 SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds:
-	.string "What I learn here, I can put to use on\n"
-	.string "nefarious deeds…$"
+	.string "Hvad jeg lærer her, kan jeg bruge til\n"
+	.string "skurkagtige gerninger…$"
 
 SlateportCity_OceanicMuseum_1F_Text_RustboroBungled:
-	.string "If our goons didn't bungle things\n"
-	.string "in RUSTBORO, we wouldn't be here!$"
+	.string "Hvis vores skurke ikke rodede tingene til\n"
+	.string "i RUSTBORO, ville vi ikke være her!$"
 
 SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney:
-	.string "I didn't have ¥50, so it took a long\n"
-	.string "time getting by the receptionist.$"
+	.string "Jeg havde ikke ¥50, så det\n"
+	.string "tog lang tid at komme forbi receptionisten.$"
 
 SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling:
-	.string "I want to learn about the sea and\n"
-	.string "use that knowledge for battling.$"
+	.string "Jeg vil gerne lære om havet og\n"
+	.string "bruge den viden til at kæmpe.$"
 
 SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel:
-	.string "I get all giddy and gooey when\n"
-	.string "I see the sea!\p"
-	.string "For me, CAPT. STERN is the number\n"
-	.string "one role model!$"
+	.string "Jeg bliver helt fjollet og fnisende\n"
+	.string "når jeg ser havet!\p"
+	.string "For mig er KAPT. STERN den bedste\n"
+	.string "rollemodel!$"
 
 SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
-	.string "The sea is vast without end, and\n"
-	.string "infinitely deep…\p"
-	.string "There must be many POKéMON that\n"
-	.string "we don't know about.$"
+	.string "Havet er uendeligt stort og\n"
+	.string "dybt som en evighed…\p"
+	.string "Der må være mange POKéMON,\n"
+	.string "som vi ikke kender til.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "I want a sea POKéMON.\p"
-	.string "I think it would feel cool and nice\n"
-	.string "to hug.$"
+	.string "Jeg vil gerne have en hav POKéMON.\p"\n
+	.string "Jeg tror, det ville føles sejt og lækkert\n"
+	.string "at kramme.$"
 
 SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis:
 	.string "Aiyeeeh!\n"
-	.string "What are you doing here?\p"
-	.string "Me? I'm the TEAM AQUA member\n"
-	.string "you thumped before, remember?\l"
-	.string "Back in RUSTURF TUNNEL?\p"
-	.string "Here, take this!\n"
-	.string "You have to forgive me!$"
+	.string "Hvad laver du her?\p"
+	.string "Mig? Jeg er det TEAM AQUA-medlem\n"
+	.string "du slog før, husker du det?\l"
+	.string "Tilbage i RUSTURF TUNNEL?\p"
+	.string "Her, tag dette!\n"
+	.string "Du bliver nødt til at tilgive mig!$"
 
 SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain:
-	.string "That TM, it suits you more than it\n"
-	.string "does me.\p"
-	.string "Hope I never see you again!\n"
+	.string "Den TM passer dig bedre end den\n"
+	.string "gør mig.\p"
+	.string "Håber aldrig at se dig igen!\n"
 	.string "Wahahaha!$"
 
 SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis:
-	.string "Awww, come on!\n"
-	.string "You have to take this and let me go!$"
+	.string "Åh, kom nu!\n"
+	.string "Du er nødt til at tage det her og lade mig gå!$"
 
 SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment:
-	.string "A blue fluid is spiraling inside\n"
-	.string "a glass vessel.\p"
-	.string "“This is an experiment to create a\n"
-	.string "WHIRLPOOL artificially using wind.”$"
+	.string "En blå væske snor sig indeni\n"
+	.string "et glasbeholder.\p"
+	.string "“Dette er et eksperiment for at skabe\n"
+	.string "en HVIRVELPOOL kunstigt ved hjælp af\n"
+	.string "vind.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment:
-	.string "A red ball is bobbing up and down\n"
-	.string "inside a glass vessel.\p"
-	.string "“This is an experiment simulating a\n"
-	.string "WATERFALL using the ball's buoyancy.”$"
+	.string "En rød bold hopper op og ned\n"
+	.string "i en glasbeholder.\p"
+	.string "“Dette er et eksperiment, der simulerer en\n"
+	.string "VANDFALD ved at bruge boldens opdrift.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay:
-	.string "It's a sample of soil from the ocean\n"
-	.string "floor.\p"
-	.string "“Over many years, the remains of\n"
-	.string "life-forms settle at the bottom of\l"
-	.string "the sea, making sedimentary layers.\p"
-	.string "“By analyzing these layers, the\n"
-	.string "ancient past is revealed.”$"
+	.string "Det er et eksempel på jord fra havets\n"
+	.string "bund.\p"
+	.string "“I løbet af mange år sætter resterne af\n"
+	.string "livsformer sig i bunden af havet og danner\n"
+	.string "sedimentlag.\p"
+	.string "“Ved at analysere disse lag bliver den\n"
+	.string "gamle fortid afsløret.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay:
-	.string "It's a sample of beach sand.\p"
-	.string "“Stones from mountains are washed\n"
-	.string "down by rivers where they are\l"
-	.string "chipped and ground down.\p"
-	.string "“They are reduced to grains and end\n"
-	.string "up as sand on beaches.”$"
+	.string "Det er et eksempel på strandsand.\p"
+	.string "“Sten fra bjerge skylles\n"
+	.string "ned af floder, hvor de\l"
+	.string "splintres og slides ned.\p"
+	.string "“De bliver reduceret til korn og ender\n"
+	.string "som sand på strande.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1:
-	.string "“OCEANIC MINIFACT 1\n"
-	.string "Why is seawater blue?\p"
-	.string "“Light is composed of many colors.\p"
-	.string "“When light passes through water,\n"
-	.string "most kinds of light lose color.\p"
-	.string "“However, blue light retains its\n"
-	.string "color, making the sea appear blue.”$"
+	.string "“HAVS MINIFAKTUM 1\n"
+	.string "Hvorfor er havvand blåt?\p"
+	.string "“Lys består af mange farver.\p"
+	.string "“Når lys passerer gennem vand,\n"
+	.string "mister de fleste farver deres farve.\p"
+	.string "“Dog bevarer blå lys sin farve,\n"
+	.string "hvilket får havet til at se blåt ud.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2:
-	.string "“OCEANIC MINIFACT 2\n"
-	.string "Why is the sea salty?\p"
-	.string "“Seawater contains dissolved salt in\n"
-	.string "the form of sodium and chlorine ions.\p"
-	.string "“These ions leech out of rocks\n"
-	.string "and are carried out to sea by rain.\p"
-	.string "“The concentration of dissolved salt\n"
-	.string "makes the sea salty.”$"
+	.string "“HAVS MINIFAKT 2\n"
+	.string "Hvorfor er havet saltet?\p"
+	.string "“Havvand indeholder opløst salt\n"
+	.string "i form af natrium- og klorioner.\p"
+	.string "“Disse ioner udvaskes fra klipperne\n"
+	.string "og transporteres ud til havet via regn.\p"
+	.string "“Koncentrationen af opløst salt\n"
+	.string "gør havet salt.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3:
-	.string "“OCEANIC MINIFACT 3\n"
-	.string "Which is bigger? The sea or land?\p"
-	.string "“The sea covers about 70% of\n"
-	.string "the planet, and the rest is land.\p"
-	.string "“The sea is therefore more than twice\n"
-	.string "the size of land.”$"
+	.string "“HAVSKE MINIFAKT 3\n"
+	.string "Hvad er større? Havet eller landet?\p"
+	.string "“Havet dækker cirka 70%\n" 
+	.string "af planeten, og resten er land.\p"
+	.string "“Havet er derfor mere end dobbelt\n"
+	.string "så stort som land.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_FossilDisplay:
-	.string "It's a fossil with wavy ridges on it.\p"
-	.string "“Soil on the ocean floor gets scoured\n"
-	.string "by the tide.\p"
-	.string "“The flowing seawater marks the soil\n"
-	.string "with small ridges and valleys.\p"
-	.string "“If this soil becomes fossilized, it is\n"
-	.string "called a ripple mark.”$"
+	.string "Det er et fossilt med bølgede ridser på det.\p"
+	.string "“Jorden på havbunden bliver skuret\n"
+	.string "af tidevandet.\p"
+	.string "“Det strømmende havvand markerer jorden\n"
+	.string "med små ridser og dale.\p"
+	.string "“Hvis denne jord bliver fossiliseret, kaldes det\n"
+	.string "en bølgeaftryksfossil.”$"
 
 SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine:
-	.string "A strange machine is rotating under\n"
-	.string "a glass dome.\p"
-	.string "Maybe it's for measuring the depth\n"
-	.string "of something…$"
+	.string "En mærkelig maskine roterer\n"
+	.string "under en glaskuppel.\p"
+	.string "Måske er det til at måle dybden\n"
+	.string "af noget…$"
+
+
 
