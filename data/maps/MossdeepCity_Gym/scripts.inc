@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MossdeepCity_Gym_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, MossdeepCity_Gym_OnLoad
 	.byte 0
@@ -365,284 +367,284 @@ MossdeepCity_Gym_EventScript_RedFloorSwitch::
 	end
 
 MossdeepCity_Gym_Text_GymGuideAdvice:
-	.string "Yo, how's it going, CHAMPION-bound\n"
-	.string "{PLAYER}?\p"
-	.string "The GYM LEADERS here use\n"
-	.string "PSYCHIC-type POKéMON.\p"
-	.string "If you go up against them with\n"
-	.string "FIGHTING- or POISON-type POKéMON,\l"
-	.string "they'll inflict horrible damage!\p"
-	.string "Plus, they'll come at you with\n"
-	.string "outstanding combination attacks.\p"
-	.string "If you want to win, you'll need to show\n"
-	.string "them how tight you are with your\l"
-	.string "POKéMON. Go for it!$"
+	.string "Yo, hvordan går det, kommende\n"
+	.string "MESTER?\p"
+	.string "Her i gymmet bruger lederne\n"
+	.string "PSYKISK-type POKéMON.\p" 
+	.string "Hvis du står over for dem med\n"
+	.string "KAMP- eller GIFT-type POKéMON,\l"
+	.string "vil de påføre dig frygtelige skader!\p"
+	.string "Desuden vil de angribe dig med\n"
+	.string "imponerende kombinationsangreb.\p"
+	.string "Hvis du vil vinde, skal du vise dem,\n"
+	.string "hvor tæt du er med dine\l"
+	.string "POKéMON. Kom så!$"
 
 MossdeepCity_Gym_Text_GymGuidePostVictory:
-	.string "Wow, you're astounding!\n"
-	.string "You're one great TRAINER!$"
+	.string "Wow, du er fantastisk!\n"
+	.string "Du er en super TRÆNER!$"
 
 MossdeepCity_Gym_Text_PrestonIntro:
-	.string "Battles hinge on the strength of your\n"
-	.string "spirit! The weak-spirited will never win!$"
+	.string "Kampe afhænger af styrken i dit\n"
+	.string "indre! De svagtsindede vil aldrig vinde!$"
 
 MossdeepCity_Gym_Text_PrestonDefeat:
-	.string "I lost!\n"
-	.string "I must temper my spirit again!$"
+	.string "Jeg tabte!\n"
+	.string "Jeg skal styrke mit mod igen!$"
 
 MossdeepCity_Gym_Text_PrestonPostBattle:
-	.string "The indecisive lose.\n"
-	.string "That's my warning to you.$"
+	.string "De tøvende taber.\n"
+	.string "Det er min advarsel til dig.$"
 
 MossdeepCity_Gym_Text_VirgilIntro:
-	.string "Let me see your talent!$"
+	.string "Vis mig dit talent!$"
 
 MossdeepCity_Gym_Text_VirgilDefeat:
-	.string "You possess spectacular talent!$"
+	.string "Du besidder spektakulært talent!$"
 
 MossdeepCity_Gym_Text_VirgilPostBattle:
-	.string "If there are prodigies in the world,\n"
-	.string "then our GYM LEADERS are them!\p"
-	.string "However, you may be even more talented\n"
-	.string "than them…$"
+	.string "Hvis der er vidundere i verden,\n"
+	.string "så er vores GYM LEADERS dem!\p"
+	.string "Du kan dog være endnu dygtigere\n"
+	.string "end dem...$"
 
 MossdeepCity_Gym_Text_BlakeIntro:
-	.string "Fufufufu… Watch me levitate a POKé\n"
-	.string "BALL telekinetically!\p"
+	.string "Hihihihi… Se mig levitere en POKé\n"
+	.string "BOLD telekinetisk!\p"
 	.string "Wrooooooooaaaar!\n"
 	.string "… … … … … … …\p"
-	.string "Sometimes, I'm out of sync…$"
+	.string "Nogle gange er jeg ude af sync…$"
 
 MossdeepCity_Gym_Text_BlakeDefeat:
-	.string "My POKéMON battling skills are out\n"
-	.string "of sync, too!$"
+	.string "Mine POKéMON kampfærdigheder er ude\n"
+	.string "af sync, også!$"
 
 MossdeepCity_Gym_Text_BlakePostBattle:
-	.string "A POKé BALL was too heavy to lift\n"
-	.string "psychically. But this dust bunny…\p"
+	.string "En POKé BALL var for tung at løfte\n"
+	.string "psykisk. Men denne støvbunny…\p"
 	.string "Whoooooooooooooooh!\n"
 	.string "… … … … … …\p"
-	.string "No, I'm not cheating!\n"
-	.string "I didn't blow on it! Honestly!$"
+	.string "Nej, jeg snyder ikke!\n"
+	.string "Jeg blæste ikke på den! Ærligt!$"
 
 MossdeepCity_Gym_Text_HannahIntro:
-	.string "When you lose to me, don't be too hard\n"
-	.string "on yourself.\p"
-	.string "It's not that you're weak--I'm just\n"
-	.string "too strong!$"
+	.string "Når du taber til mig, så vær ikke for\n"
+	.string "hård ved dig selv.\p"
+	.string "Det er ikke fordi, du er svag--jeg er\n"
+	.string "bare for stærk!$"
 
 MossdeepCity_Gym_Text_HannahDefeat:
-	.string "You're just too strong!$"
+	.string "Du er bare for stærk!$"
 
 MossdeepCity_Gym_Text_HannahPostBattle:
-	.string "I'm not going to get down on myself for\n"
-	.string "losing. I just need to train harder.\p"
-	.string "Positive thinking--that's my strong\n"
-	.string "point!$"
+	.string "Jeg vil ikke blive nedtrykt over at\n"
+	.string "tabe. Jeg skal bare træne hårdere.\p"
+	.string "Positiv tænkning - det er mit\n"
+	.string "stærkeste punkt!$"
 
 MossdeepCity_Gym_Text_SamanthaIntro:
-	.string "I see it…\n"
-	.string "I see your future…\p"
-	.string "If you can beat me, I will tell you\n"
-	.string "your future!$"
+	.string "Jeg ser det...\n"
+	.string "Jeg ser din fremtid...\p"
+	.string "Hvis du kan slå mig, vil jeg fortælle\n"
+	.string "dig din fremtid!$"
 
 MossdeepCity_Gym_Text_SamanthaDefeat:
-	.string "I surrender!$"
+	.string "Jeg giver op!$"
 
 MossdeepCity_Gym_Text_SamanthaPostBattle:
-	.string "You will wage a terrifically intense\n"
-	.string "battle with our GYM LEADERS…\p"
-	.string "The result…\n"
-	.string "You won't hear it from me!$"
+	.string "Du vil udkæmpe en fantastisk intens\n"
+	.string "kamp med vores GYM LEDERE…\p"
+	.string "Resultatet…\n"
+	.string "Du vil ikke høre det fra mig!$"
 
 MossdeepCity_Gym_Text_MauraIntro:
-	.string "The roads you have traveled…\n"
-	.string "What you have experienced…\p"
-	.string "Come at me with everything you've\n"
-	.string "learned!$"
+	.string "De veje, du har rejst...\n"
+	.string "Hvad du har oplevet...\p"
+	.string "Kom efter mig med alt, hvad du har\n"
+	.string "lært!$"
 
 MossdeepCity_Gym_Text_MauraDefeat:
-	.string "You've traveled a path of greatness!$"
+    .string "Du har fulgt en sti af storhed!$"
 
 MossdeepCity_Gym_Text_MauraPostBattle:
-	.string "A bright future awaits those who have\n"
-	.string "worked diligently.\p"
-	.string "For those who lazed idly, there is\n"
-	.string "only despair at the end.\p"
-	.string "What goes around comes around…$"
+	.string "En lys fremtid venter dem, der har\n"
+	.string "arbejdet flittigt.\p"
+	.string "For dem, der slaskede, er der kun\n"
+	.string "fortvivlelse tilbage.\p"
+	.string "Man høster som man sår...$"
 
 MossdeepCity_Gym_Text_SylviaIntro:
-	.string "Even at the risk of life, I will win\n"
-	.string "this battle!$"
+	.string "Selv på risikoen for livet, vil jeg\n"
+	.string "vinde dette slag!$"
 
 MossdeepCity_Gym_Text_SylviaDefeat:
-	.string "What you do…\n"
-	.string "It horrifies me…$"
+	.string "Hvad du gør…\n"
+	.string "Det skræmmer mig…$"
 
 MossdeepCity_Gym_Text_SylviaPostBattle:
-	.string "How dare you beat me…\p"
-	.string "It won't be my fault if something\n"
-	.string "horrible befalls you…$"
+	.string "Hvordan tør du at slå mig…\p"
+	.string "Det bliver ikke min skyld, hvis noget\n"
+	.string "forfærdeligt overgår dig…$"
 
 MossdeepCity_Gym_Text_NateIntro:
 	.string "Hohoho.\p"
-	.string "You need me to show you how tenacious\n"
-	.string "the PSYCHIC type can be.$"
+	.string "Du har brug for at jeg viser dig, hvor\n"
+	.string "udholdende PSYCHIC-typen kan være.$"
 
 MossdeepCity_Gym_Text_NateDefeat:
-	.string "Oh! My, my!\n"
-	.string "Your battle style is fantastic!$"
+	.string "Åh! Du, du!\n"
+	.string "Dit kampstil er fantastisk!$"
 
 MossdeepCity_Gym_Text_NatePostBattle:
-	.string "I… I don't let defeat rattle m-me,\n"
-	.string "however b-badly.$"
+	.string "Jeg... Jeg lader mig ikke slå ud af nederlaget,\n"
+	.string "uanset hvor slemt det er.$"
 
 MossdeepCity_Gym_Text_KathleenIntro:
-	.string "Let me show you a perfectly awful,\n"
-	.string "horrifying time!$"
+	.string "Lad mig vise dig en helt forfærdelig,\n"
+	.string "skræmmende tid!$"
 
 MossdeepCity_Gym_Text_KathleenDefeat:
-	.string "N-nooooo!$"
+	.string "N-nej!\p$"
 
 MossdeepCity_Gym_Text_KathleenPostBattle:
-	.string "Your vitality is contagious!\n"
-	.string "Get away from me quickly!$"
+	.string "Din livsgnist er smittende!\n"
+	.string "Kom hurtigt væk fra mig!$"
 
 MossdeepCity_Gym_Text_CliffordIntro:
-	.string "I may be past my prime, but I suggest\n"
-	.string "you not patronize me.$"
+	.string "Jeg er måske passeret min storhedstid,\n"
+	.string "men jeg foreslår, at du ikke nedvurderer mig.$"
 
 MossdeepCity_Gym_Text_CliffordDefeat:
-	.string "Ah, you overflow with the power\n"
-	.string "of youth!$"
+	.string "Åh, du flyder over med kraften\n"
+	.string "fra ungdommen!$"
 
 MossdeepCity_Gym_Text_CliffordPostBattle:
-	.string "It seems that I could not overcome\n"
-	.string "your youthful energy.$"
+	.string "Det ser ud til, at jeg ikke kunne\n"
+	.string "overvinde din unge energi.$"
 
 MossdeepCity_Gym_Text_MaceyIntro:
-	.string "You're not getting through to the end!\n"
-	.string "Not if I can help it!$"
+	.string "Du kommer ikke igennem til slutningen!\p\n"
+	.string "Ikke hvis jeg kan forhindre det!$"
 
 MossdeepCity_Gym_Text_MaceyDefeat:
-	.string "How could you be so ludicrously\n"
-	.string "strong?$"
+	.string "Hvordan kunne du være så latterligt\n"
+	.string "stærk?$"
 
 MossdeepCity_Gym_Text_MaceyPostBattle:
-	.string "Humph! You may be strong, but you're\n"
-	.string "not suitable for the PSYCHIC type!\p"
-	.string "The way you battle is somehow brutal!$"
+	.string "Hov! Du er måske stærk, men du er ikke\n"
+	.string "egnet til det PSYKISKE type!\p"
+	.string "Din kampstil er på en eller anden måde brutal!$"
 
 MossdeepCity_Gym_Text_NicholasIntro:
-	.string "Wroooar! Have a taste of my super\n"
-	.string "POKéMON hard-battling power!$"
+	.string "Wroooar! Få en smag af min super\n"
+	.string "POKéMON hårdkæmpende kraft!$"
 
 MossdeepCity_Gym_Text_NicholasDefeat:
-	.string "Oh!\n"
-	.string "Done in!$"
+	.string "Åh!\n"
+	.string "Færdig!$"
 
 MossdeepCity_Gym_Text_NicholasPostBattle:
-	.string "All right! I think I'll develop a special\n"
-	.string "invincible POKéMON power next.$"
+	.string "Sådan! Jeg tror, jeg vil udvikle en\n"
+	.string "speciel uovervindelig POKéMON-evne næste gang.$"
 
 MossdeepCity_Gym_Text_TateAndLizaIntro:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: Fufufu… Were you surprised?\p"
-	.string "TATE: That there are two GYM LEADERS?\n"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: We're twins!\n"
-	.string "LIZA: We're twins!\p"
-	.string "TATE: We don't need to talk because…\n"
-	.string "LIZA: We can each determine what…\p"
-	.string "TATE: The other is thinking…\n"
-	.string "LIZA: All in our minds!\p"
-	.string "TATE: This combination of ours…\n"
-	.string "LIZA: Can you beat it?$"
+	.string "TATE: Hihihi… Blev du overrasket?\p"
+	.string "LIZA: Huhuhu… Blev du overrasket?\p"
+	.string "TATE: At der er to GYM LEADERS?\n"
+	.string "LIZA: At der er to GYM LEADERS?\p"
+	.string "TATE: Vi er tvillinger!\n"
+	.string "LIZA: Vi er tvillinger!\p"
+	.string "TATE: Vi behøver ikke at tale, fordi…\n"
+	.string "LIZA: Vi kan hver især fornemme…\p"
+	.string "TATE: Hvad den anden tænker…\n"
+	.string "LIZA: Alt i vores sind!\p"
+	.string "TATE: Vores kombination…\n"
+	.string "LIZA: Kan du slå den?$"
 
 MossdeepCity_Gym_Text_TateAndLizaDefeat:
-	.string "TATE: What?! Our combination…\n"
-	.string "LIZA: Was shattered!\p"
-	.string "TATE: It can't be helped. You've won…\n"
-	.string "LIZA: So, in recognition, take this.$"
+	.string "TATE: Hvad?! Vores kombination...\n"
+	.string "LIZA: Blev knust!\p"
+	.string "TATE: Det kan ikke undgås. Du har vundet...\n"
+	.string "LIZA: Så tag dette som anerkendelse.$"
 
 MossdeepCity_Gym_Text_ReceivedMindBadge:
-	.string "{PLAYER} received the MIND BADGE\n"
-	.string "from TATE and LIZA.$"
+	.string "{PLAYER} modtog SINDS-EMBLEMET\n"
+	.string "fra TATE og LIZA.$"
 
 MossdeepCity_Gym_Text_ExplainMindBadgeTakeThis:
-	.string "TATE: The MIND BADGE enhances the\n"
-	.string "SP. ATK and SP. DEF of POKéMON.\p"
-	.string "LIZA: It also lets you use the HM move\n"
-	.string "DIVE outside of battle.\p"
-	.string "TATE: You should also take this, too.$"
+	.string "TATE: MIND BADGE styrker\n"
+	.string "SP. ATK og SP. DEF hos POKéMON.\p"
+	.string "LIZA: Det giver dig også mulighed for at bruge\n"
+	.string "HM-trækket DYK uden for kamp.\p"
+	.string "TATE: Du bør også tage dette med, også.$"
 
 MossdeepCity_Gym_Text_ExplainCalmMind:
-	.string "TATE: That TM04 contains…\n"
-	.string "LIZA: CALM MIND!\p"
-	.string "TATE: It raises SP. ATK and…\n"
-	.string "LIZA: It raises SP. DEF!\p"
-	.string "TATE: It's a move that's perfect…\n"
-	.string "LIZA: For PSYCHIC POKéMON!\p"
-	.string "… … … … … …$"
+    .string "TATE: Den TM04 indeholder…\n"
+    .string "LIZA: RO FRÆK!\p"
+    .string "TATE: Den øger SP. ATK og…\n"
+    .string "LIZA: Den øger SP. DEF!\p"
+    .string "TATE: Det er et træk, der er perfekt…\n"
+    .string "LIZA: Til PSYKISK POKÉMON!\p"
+    .string "… … … … … …$"
 
 MossdeepCity_Gym_Text_RegisteredTateAndLiza:
-	.string "Registered GYM LEADERS TATE & LIZA\n"
-	.string "in the POKéNAV.$"
+	.string "Registrerede GYM LEADERS TATE & LIZA\n"
+	.string "i POKéNAV.\p$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostBattle:
-	.string "TATE: Looks like the bond between you\n"
-	.string "and your POKéMON is far stronger than\l"
-	.string "the bond that we share as twins.\p"
-	.string "LIZA: You will become even stronger!\n"
-	.string "We've battled you, so we know.$"
+	.string "TATE: Ser ud til, at båndet mellem dig\n"
+	.string "og dine POKéMON er langt stærkere\l"
+	.string "end det bånd, vi deler som tvillinger.\p"
+	.string "LIZA: Du vil blive endnu stærkere!\n"
+	.string "Vi har kæmpet mod dig, så vi ved.$"
 
 MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons:
-	.string "TATE: Hehehe… Were you surprised?\p"
-	.string "LIZA: That there are two GYM LEADERS?\p"
-	.string "TATE: Oops, you have only one…\n"
-	.string "LIZA: POKéMON that can battle.\p"
-	.string "TATE: We can't battle that way!\p"
-	.string "LIZA: If you want to challenge us,\n"
-	.string "bring some more POKéMON.$"
+	.string "TATE: Hihihi... Blev du overrasket?\p"
+	.string "LIZA: At der er to GYM LEADERS?\p"
+	.string "TATE: Ups, du har kun en...\n"
+	.string "LIZA: POKéMON der kan kæmpe.\p"
+	.string "TATE: Vi kan ikke kæmpe på den måde!\p"
+	.string "LIZA: Hvis du vil udfordre os,\n"
+	.string "tag nogle flere POKéMON.$"
 
 MossdeepCity_Gym_Text_GymStatue:
-	.string "MOSSDEEP CITY POKéMON GYM$"
+    .string "MOSSDEEP BYS POKéMON-GYM$"
 
 MossdeepCity_Gym_Text_GymStatueCertified:
-	.string "MOSSDEEP CITY POKéMON GYM\p"
-	.string "LIZA AND TATE'S CERTIFIED TRAINERS:\n"
+	.string "MOSSDEEP BYS POKÉMON GYM\p"
+	.string "LIZA OG TATE'S CERTIFICEREDE TRÆNERE:\n"
 	.string "{PLAYER}$"
 
 MossdeepCity_Gym_Text_TateAndLizaPreRematch:
 	.string "TATE: POKéMON…\n"
 	.string "LIZA: POKéMON…\p"
-	.string "TATE: By changing the party's mix…\n"
-	.string "LIZA: The battle style changes.\p"
-	.string "TATE: But me…\n"
-	.string "LIZA: But me…\p"
-	.string "TATE: I'll always be with LIZA!\n"
-	.string "LIZA: I'll always be with TATE!\p"
-	.string "TATE: Our combination…\n"
-	.string "LIZA: We'll show you again and again!$"
+	.string "TATE: Ved at ændre holdets sammensætning…\n"
+	.string "LIZA: Ændrer kampstilen sig.\p"
+	.string "TATE: Men mig…\n"
+	.string "LIZA: Men mig…\p"
+	.string "TATE: Jeg vil altid være sammen med LIZA!\n"
+	.string "LIZA: Jeg vil altid være sammen med TATE!\p"
+	.string "TATE: Vores kombination…\n"
+	.string "LIZA: Vi vil vise dig igen og igen!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchDefeat:
-	.string "TATE: You and your POKéMON…\n"
-	.string "LIZA: It's as if you were siblings!$"
+	.string "TATE: Du og dine POKéMON...\n"
+	.string "LIZA: Det er ligesom I var søskende!$"
 
 MossdeepCity_Gym_Text_TateAndLizaPostRematch:
-	.string "TATE: You can knock us down,\n"
-	.string "but we'll never stay down!\p"
-	.string "LIZA: Because the two of us,\n"
-	.string "we always support each other!$"
+	.string "TATE: Du kan slå os ned,\n"
+	.string "men vi bliver aldrig nede!\p"
+	.string "LIZA: Fordi vi to,\n"
+	.string "altid støtter hinanden!$"
 
 MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons:
-	.string "TATE: You're back again…\n"
-	.string "LIZA: You're back again…\p"
-	.string "TATE: To give us a rematch.\n"
-	.string "LIZA: To give us a rematch.\p"
-	.string "TATE: But…\n"
-	.string "LIZA: For our match…\p"
-	.string "TATE: You brought just one POKéMON!\n"
-	.string "LIZA: You brought just one POKéMON!\p"
-	.string "TATE: We need you to bring at least…\n"
-	.string "LIZA: Two POKéMON when you come back.$"
+	.string "TATE: Du er tilbage igen…\n"
+	.string "LIZA: Du er tilbage igen…\p"
+	.string "TATE: For at udfordre os igen.\n"
+	.string "LIZA: For at udfordre os igen.\p"
+	.string "TATE: Men…\n"
+	.string "LIZA: Til vores kamp…\p"
+	.string "TATE: Du har kun medbragt én POKéMON!\n"
+	.string "LIZA: Du har kun medbragt én POKéMON!\p"
+	.string "TATE: Vi har brug for, at du medbringer mindst…\n"
+	.string "LIZA: To POKéMON, når du vender tilbage.$"

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 PetalburgCity_House1_MapScripts::
 	.byte 0
 
@@ -10,19 +12,21 @@ PetalburgCity_House1_EventScript_Woman::
 	end
 
 PetalburgCity_House1_Text_TravelingIsWonderful:
-	.string "Traveling is wonderful!\p"
-	.string "When I was young, I roamed the seas\n"
-	.string "and the mountains!$"
+	.string "At rejse er vidunderligt!\p"
+	.string "Da jeg var ung, strejfede jeg\n"
+	.string "havene og bjergene!$"
 
 PetalburgCity_House1_Text_GoOnAdventure:
-	.string "Sigh…\p"
-	.string "I wish I could go on an adventure\n"
-	.string "with some POKéMON…\p"
-	.string "Crawl through some damp grass…\n"
-	.string "Climb rocky, rugged mountains…\p"
-	.string "Cross the raging seas…\n"
-	.string "Wander about in dark caves…\p"
-	.string "And, sometimes, even get a little\n"
-	.string "homesick…\p"
-	.string "It must be fabulous to travel!$"
+	.string "Suk…\p"
+	.string "Jeg ville ønske, jeg kunne tage på et\n"
+	.string "eventyr med nogle POKéMON…\p"
+	.string "Kravle gennem fugtigt græs…\n"
+	.string "Bestige stejle bjerge…\p"
+	.string "Krydse det brusende hav…\n"
+	.string "Vandre rundt i mørke huler…\p"
+	.string "Og nogle gange endda få lidt\n"
+	.string "hjemve…\p"
+	.string "Det må være fantastisk at rejse!$"
+
+
 

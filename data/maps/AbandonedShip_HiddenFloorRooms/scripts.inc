@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 AbandonedShip_HiddenFloorRooms_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, AbandonedShip_HiddenFloorRooms_OnFrame
 	.byte 0
@@ -112,6 +114,8 @@ AbandonedShip_HiddenFloorRooms_EventScript_Trash::
 	end
 
 AbandonedShip_HiddenFloorRooms_Text_BrightShinyTrash:
-	.string "It's bright and shiny!\n"
-	.string "But it's just trash…$"
+	.string "Det er skinnende og lyst!\n"
+	.string "Men det er bare skrald…$"
+
+
 

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 AbandonedShip_HiddenFloorCorridors_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, AbandonedShip_HiddenFloorCorridors_OnResume
 	map_script MAP_SCRIPT_ON_LOAD, AbandonedShip_HiddenFloorCorridors_OnLoad
@@ -132,24 +134,26 @@ AbandonedShip_HiddenFloorCorridors_EventScript_TheDoorIsOpen::
 	end
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 1” is painted on the door.$"
+	.string "Døren er låst.\p"
+	.string "“RM. 1” står malet på døren.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 2” is painted on the door.$"
+	.string "Døren er låst.\p"
+	.string "“RM. 2” står malet på døren.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 4” is painted on the door.$"
+	.string "Døren er låst.\p"
+	.string "“RM. 4” er malet på døren.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“RM. 6” is painted on the door.$"
+	.string "Døren er låst.\p"
+	.string "“RM. 6” er malet på døren.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+    .string "{PLAYER} satte nøglen i og\n"
+    .string "drejede om.\p"
+    .string "Nøglen sad fast, men døren\n"
+    .string "åbnede.$"
+
+
 

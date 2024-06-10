@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_DepartmentStore_4F_MapScripts::
 	.byte 0
 
@@ -55,18 +57,21 @@ LilycoveCity_DepartmentStore_4F_Pokemart_DefenseTMs:
 
 LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM:
 	.string "Hmm…\p"
-	.string "An attacking move…\n"
-	.string "Or a defensive move…\p"
-	.string "It's no easy matter to decide which TM\n"
-	.string "moves should be taught to POKéMON…$"
+	.string "En angrebsmanøvre…\n"
+	.string "Eller en forsvarsmanøvre…\p"
+	.string "Det er ikke nogen let opgave at beslutte,\n"
+	.string "hvad for nogle TM-manøvrer der skal\n"
+    .string "læres til POKéMON…$"
 
 LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs:
-	.string "There are so many different kinds of\n"
-	.string "TM moves.\p"
-	.string "A catalog I read said there are fifty\n"
-	.string "different kinds.$"
+    .string "Der er så mange forskellige slags\n"
+    .string "TM-moves.\p"
+    .string "En katalog jeg læste sagde, at der er\n"
+    .string "halvtreds forskellige slags.$"
 
 LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves:
-	.string "I'd like to get all the different TMs,\n"
-	.string "but a POKéMON learns only four moves.$"
+	.string "Jeg vil gerne have alle de forskellige TMs,\n"
+	.string "men en POKéMON kan kun lære fire træk.$" 
+
+
 

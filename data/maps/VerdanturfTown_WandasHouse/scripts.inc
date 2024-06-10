@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 VerdanturfTown_WandasHouse_MapScripts::
 	.byte 0
 
@@ -83,86 +85,86 @@ VerdanturfTown_WandasHouse_EventScript_WallysAuntEverGrande::
 	end
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeech:
-	.string "WALLY: I lost to you, {PLAYER}, but I'm\n"
-	.string "not feeling down anymore.\p"
-	.string "Because I have a new purpose in life.\n"
-	.string "Together with my RALTS, I'm going\l"
-	.string "to challenge POKéMON GYMS and become\l"
-	.string "a great TRAINER.\p"
-	.string "Please watch me, {PLAYER}.\n"
-	.string "I'm going to be stronger than you.\p"
-	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+    .string "WALLY: Jeg tabte til dig, {PLAYER}, men jeg\n"
+    .string "er ikke længere nedtrykt.\p"
+    .string "Fordi jeg har en ny mening med mit liv.\n"
+    .string "Sammen med min RALTS vil jeg tage\n"
+    .string "udfordringen op fra POKéMON GYMS og\n"
+    .string "blive en fantastisk TRÆNER.\p"
+    .string "Vær sød at følge med, {PLAYER}.\n"
+    .string "Jeg vil blive stærkere end dig.\p"
+    .string "Når jeg er det, vil jeg udfordre dig til\n"
+    .string "en anden kamp.$"
 
 VerdanturfTown_WandasHouse_Text_StrongerSpeechShort:
-	.string "WALLY: Please watch me, {PLAYER}.\n"
-	.string "I'm going to get stronger than you.\p"
-	.string "When I do, I'm going to challenge you\n"
-	.string "to another battle.$"
+	.string "WALLY: Vær sød at se på mig, {PLAYER}.\n"
+	.string "Jeg vil blive stærkere end dig.\p"
+	.string "Når jeg gør det, vil jeg udfordre dig\n"
+	.string "til endnu et slag.$"
 
 VerdanturfTown_WandasHouse_Text_WallysNextDoor:
-	.string "UNCLE: Oh! {PLAYER}{KUN}!\n"
-	.string "WALLY's next door.\p"
-	.string "But, boy, there's something I have to\n"
-	.string "tell you.\p"
-	.string "This natural environment is doing\n"
-	.string "wonders for WALLY's health.\p"
-	.string "Maybe it's not just the environment.\n"
-	.string "It could be POKéMON that are giving\l"
-	.string "the boy hope.$"
+	.string "ONKEL: Åh! {PLAYER}{KUN}!\n"
+	.string "WALLY bor ved siden af.\p"
+	.string "Men, dreng, der er noget, jeg skal\n"
+	.string "fortælle dig.\p"
+	.string "Denne naturlige omgivelse gør\n"
+	.string "vidundere for WALLYs helbred.\p"
+	.string "Måske er det ikke kun\n"
+	.string "omgivelserne.\nDet kunne være\n"
+	.string "POKéMON, der giver drengen håb.$"
 
 VerdanturfTown_WandasHouse_Text_WallySlippedOff:
-	.string "WALLY's gone away…\n"
-	.string "He slipped off on his own…$"
+	.string "WALLY er taget væk…\n"
+	.string "Han smuttede af på egen hånd…$"
 
 VerdanturfTown_WandasHouse_Text_WallyGoneThatFar:
-	.string "UNCLE: Is that right?\n"
-	.string "WALLY's gone away that far all by\l"
-	.string "himself…\p"
-	.string "Well, I have to give him credit--he is\n"
-	.string "my little brother's son.$"
+	.string "ONKEL: Er det rigtigt?\n"
+	.string "WALLY er gået så langt væk helt på\l"
+	.string "egen hånd…\p"
+	.string "Nå, jeg må give ham kredit - han er\n"
+	.string "min lillebrors søn.$"
 
 VerdanturfTown_WandasHouse_Text_MeetWanda:
-	.string "WANDA: You are?\n"
-	.string "Oh, right, I get it!\p"
-	.string "You're the {PLAYER} who WALLY was\n"
-	.string "telling me about.\p"
-	.string "I'm WALLY's cousin.\n"
-	.string "Glad to meet you!\p"
-	.string "I think WALLY's become a lot more lively\n"
-	.string "and healthy since he came here.$"
+	.string "WANDA: Hvem er du?\n"
+	.string "Åh, nu forstår jeg!\p"
+	.string "Du er {PLAYER}, som WALLY\n"
+	.string "fortalte mig om.\p"
+	.string "Jeg er WALLYs fætter.\n"
+	.string "Det er dejligt at møde dig!\p"
+	.string "Jeg synes, at WALLY er blevet\n"
+	.string "meget mere livlig og sund siden\n"
+	.string "han kom hertil.$"
 
 VerdanturfTown_WandasHouse_Text_DontWorryAboutWally:
-	.string "WANDA: Don't worry about WALLY.\n"
-	.string "He'll be just fine.\p"
-	.string "I know my little cousin, and he has\n"
-	.string "POKéMON with him, too.$"
+	.string "WANDA: Bare rolig med WALLY.\n"
+	.string "Han skal nok klare sig.\p"
+	.string "Jeg kender min lille fætter, og han\n"
+	.string "har også POKéMON med sig.$"
 
 VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay:
-	.string "Thanks to you, I can see my girlfriend\n"
-	.string "every day.\l"
-	.string "Happy? You bet I am!$"
+	.string "Takket være dig kan jeg se min kæreste\n"
+	.string "hver dag.\l"
+	.string "Er jeg glad? Du kan tro, jeg er!$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven:
-	.string "My daughter's boyfriend is a very\n"
-	.string "driven and passionate sort of person.\p"
-	.string "He's been digging a tunnel nonstop\n"
-	.string "just so he can see my daughter.\p"
-	.string "My daughter's a little concerned,\n"
-	.string "so she goes out to the tunnel a lot.$"
+	.string "Min datters kæreste er en meget\n"
+	.string "dedikeret og lidenskabelig person.\p"
+	.string "Han har gravet en tunnel uden stop,\n"
+	.string "bare for at kunne se min datter.\p"
+	.string "Min datter er lidt bekymret,\n"
+	.string "så hun går ofte ud til tunnelen.$"
 
 VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging:
-	.string "It's amazing. My daughter's boyfriend\n"
-	.string "was digging the tunnel by hand!\p"
-	.string "It's so incredible!$"
+	.string "Det er fantastisk. Min datters kæreste\n"
+	.string "var ved at grave tunnelen for hånd!\p"
+	.string "Det er så utroligt!$"
 
 VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally:
-	.string "If anything were to happen to WALLY,\n"
-	.string "I would never be able to look his\l"
-	.string "parents in PETALBURG in the eye…$"
+	.string "Hvis der sker noget med WALLY,\n"
+	.string "ville jeg aldrig kunne se hans\n"
+	.string "forældre i PETALBURG i øjnene…$"
 
 VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande:
-	.string "WALLY was in EVER GRANDE?\p"
-	.string "His parents in PETALBURG would be\n"
-	.string "astonished to hear that!$"
-
+	.string "WALLY var i EVER GRANDE?\p"
+	.string "Hans forældre i PETALBURG ville blive\n"
+	.string "overraskede over at høre det!$"

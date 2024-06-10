@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route110_TrickHousePuzzle7_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, Route110_TrickHousePuzzle7_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, Route110_TrickHousePuzzle7_OnTransition
@@ -315,78 +317,80 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 	end
 
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is huggable.”\n"
+	.string "{PLAYER} skrev den hemmelige kode\n"
+	.string "på døren.\p"
+	.string "“TRICK MASTER er krammevenlig.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "The TRICK MASTER always vanishes\n"
-	.string "like smoke. How does he do it?$"
+	.string "Den SNYDE MASTER forsvinder altid\n"
+	.string "som røg. Hvordan gør han det?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! You're much too strong!\n"
-	.string "How do you do it?$"
+	.string "Aiyeeeh! Du er alt for stærk!\n"
+	.string "Hvordan gør du det?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "I wish I could appear and disappear as\n"
-	.string "if I were smoke, too.$"
+	.string "Jeg ønsker, jeg kunne dukke op og forsvinde\n"
+	.string "som røg også.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "Going around the same spot…\n"
-	.string "It begets ill fortune…$"
+	.string "At gå rundt om det samme sted...\n"
+	.string "Det bringer ulykke...$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
-	.string "Defeated!\n"
-	.string "It's a bad sign…$"
+	.string "Nedkæmpet!\n"
+	.string "Det er et dårligt tegn…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "I've circled the same spot over ten\n"
-	.string "times now… It's ill fortune…$"
+	.string "Jeg har gået rundt om det samme sted\n"
+	.string "over ti gange nu... Det er uheldigt...$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Whoever wins will get through here\n"
-	.string "first. That's the feeling I get.$"
+	.string "Den, der vinder, kommer gennem her\n"
+	.string "først. Sådan er følelsen, jeg får.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
-	.string "Oh!\n"
-	.string "Well, go ahead, then!$"
+	.string "Åh!\n"
+	.string "Nå, så kom nu bare frem!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "You're solving all the puzzles in the\n"
-	.string "TRICK HOUSE. That's the feeling I get.$"
+	.string "Du løser alle gåderne i\n"
+	.string "TRICK HOUSE. Sådan føles det.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, here at last!\n"
-	.string "Let's get right with it!$"
+	.string "Nufufufu, endelig her!\n"
+	.string "Lad os komme i gang!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
-	.string "You're so casual about winning!$"
+	.string "Du er så afslappet med at vinde!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaPostBattle:
-	.string "Humph! I'm not upset!\n"
-	.string "Not me!$"
+	.string "Hov! Jeg er ikke sur!\n"
+	.string "Slet ikke!$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroIntro:
-	.string "I ever so closely watched you coming!$"
+	.string "Jeg holdt nøje øje med dig, da du kom!$" 
 
 Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
-	.string "This outcome I didn't see coming…$"
+	.string "Denne udfald havde jeg ikke forudset...$"
 
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
-	.string "Well, anyway, we both picked a weird\n"
-	.string "place to get acquainted.\p"
-	.string "As one weirdo to another,\n"
-	.string "let's do our best!$"
+	.string "Nå, uanset, vi valgte begge et mærkeligt\n"
+	.string "sted at lære hinanden at kende.\p"
+	.string "Som en mærkelig person til en anden,\n"
+	.string "lad os gøre vores bedste!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
-	.string "It's awfully cramped in here…$"
+	.string "Det er noget trangt herinde…$"
 
 Route110_TrickHousePuzzle7_Text_EverettDefeat:
-	.string "Oh, yes, strong you are.$"
+	.string "Åh, ja, stærk du er.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "I was hoping to switch places with you\n"
-	.string "when I beat you, but…$"
+	.string "Jeg håbede at bytte plads med dig\n"
+	.string "når jeg slog dig, men…$"
+
+
 

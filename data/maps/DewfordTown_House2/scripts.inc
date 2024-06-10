@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 DewfordTown_House2_MapScripts::
 	.byte 0
 
@@ -27,31 +29,33 @@ DewfordTown_House2_EventScript_Boy::
 	end
 
 DewfordTown_House2_Text_WantYouToHaveSilkScarf:
-	.string "Gorge your eyes on this!\p"
-	.string "It's a SILK SCARF. It's right at the\n"
-	.string "cutting edge of fashion, yeah!\p"
-	.string "Oh, I can see your eyes twinkling!\n"
-	.string "You appreciate my dazzling style!\p"
-	.string "Oh, you're a delight!\n"
-	.string "Here you go. I want you to have it!$"
+	.string "Slå dig løs med dette!\p"
+	.string "Det er et SILKESJAL. Det er lige på\n"
+	.string "modefronten, ja!\p"
+	.string "Åh, jeg kan se dine øjne funkler!\n"
+	.string "Du værdsætter min blændende stil!\p"
+	.string "Åh, du er en fornøjelse!\n"
+	.string "Her har du. Jeg vil gerne give dig det!$"
 
 DewfordTown_House2_Text_NoRoom:
-	.string "Oh, you don't have room?\p"
-	.string "Now, listen tight, this SCARF is a must-\n"
-	.string "have! Why, I would sell all my items\l"
-	.string "in order to get it!$"
+	.string "Åh, du har ikke plads?\p"
+	.string "Nu skal du høre, dette TØRKLÆDE er et\n"
+	.string "must-have! Jeg ville endda sælge\n"
+	.string "alle mine ting for at få det!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "The SILK SCARF raises the power of\n"
-	.string "NORMAL-type moves.\p"
-	.string "It's a marvelous SCARF that will go\n"
-	.string "with almost all POKéMON!$"
+	.string "SILK SCARF øger styrken af\n"
+	.string "NORMAL-type angreb.\p"
+	.string "Det er et fantastisk TØRKLÆDE, som vil\n"
+	.string "klæde næsten alle POKéMON!"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, you bothered to cross the sea\n"
-	.string "to visit DEWFORD?\p"
-	.string "Did you maybe come here because you\n"
-	.string "heard about BRAWLY?\p"
-	.string "He's so cool…\n"
-	.string "Everyone idolizes him.$"
+    .string "Wow, du besværede dig med at\n"
+    .string "krydse havet for at besøge DEWFORD?\p"
+    .string "Kom du måske hertil, fordi du hørte om\n"
+    .string "BRAWLY?\p"
+    .string "Han er så sej…\n"
+    .string "Alle idoliserer ham.$"
+
+
 

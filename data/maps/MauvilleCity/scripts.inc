@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WALLY, 6
 .set LOCALID_WALLYS_UNCLE, 7
 .set LOCALID_SCOTT, 11
@@ -463,205 +465,209 @@ MauvilleCity_EventScript_RegisterWallyCall::
 	end
 
 MauvilleCity_Text_UncleHesTooPeppy:
-	.string "UNCLE: It's because of POKéMON that\n"
-	.string "this boy's got more pep, I suppose…\l"
-	.string "But he's become a bit too peppy…$"
+	.string "ONKEL: Det er på grund af POKéMON, at\n"
+	.string "denne dreng er så pjattet, antager jeg…\p"
+	.string "Men han er blevet lidt for pjattet…$"
 
 MauvilleCity_Text_WallyWantToChallengeGym:
-	.string "WALLY: Aww, UNCLE, please?\p"
-	.string "I want to challenge this GYM and see\n"
-	.string "how much better I've become.\p"
-	.string "Please? May I, please?$"
+	.string "WALLY: Ej, ONKEL, kan du ikke?\p"
+	.string "Jeg vil udfordre dette GYM og se,\n"
+	.string "hvor meget bedre jeg er blevet.\p"
+	.string "Må jeg, vær sød?$"
 
 MauvilleCity_Text_UncleYourePushingIt:
-	.string "UNCLE: Now hold on, WALLY.\p"
-	.string "Since you started living with POKéMON,\n"
-	.string "you have grown quite a lot stronger.\p"
-	.string "But don't you think you're pushing it\n"
-	.string "to suddenly challenge a GYM?$"
+    .string "ONKEL: Nu hold nu igen, WALLY.\p"
+	.string "Siden du begyndte at bo med POKéMON,\n"
+	.string "er du blevet ret meget stærkere.\p"
+	.string "Men synes du ikke, at du tager det for\n"
+	.string "langt ved pludselig at udfordre en GYM?$"
 
 MauvilleCity_Text_WallyWeCanBeatAnyone:
-	.string "WALLY: I'm not pushing it.\p"
-	.string "If I combine forces with RALTS,\n"
-	.string "we can beat anyone!$"
+	.string "WALLY: Jeg trykker ikke på det.\p"
+	.string "Hvis jeg kombinerer kræfter med RALTS,\n"
+	.string "kan vi slå enhver!$"
 
 MauvilleCity_Text_WallyWillYouBattleMe:
-	.string "WALLY: Oh! Hi, {PLAYER}!\p"
-	.string "I've gotten a lot stronger since\n"
-	.string "we met.\p"
-	.string "{PLAYER}, I want you and my UNCLE to\n"
-	.string "understand that.\p"
-	.string "{PLAYER}, please, will you have\n"
-	.string "a battle with me?$"
+	.string "WALLY: Åh! Hej, {PLAYER}!\p"
+	.string "Jeg er blevet meget stærkere siden\n"
+	.string "sidst vi mødtes.\p"
+	.string "{PLAYER}, jeg vil have dig og min ONKEL til\n"
+	.string "at forstå det.\p"
+	.string "{PLAYER}, vil du venligst tage\n"
+	.string "en kamp med mig?$"
 
 MauvilleCity_Text_WallyMyUncleWontKnowImStrong:
-	.string "WALLY: Oh… If you won't battle me,\n"
-	.string "{PLAYER}, my UNCLE won't know that I've\l"
-	.string "become really strong.$"
+	.string "WALLY: Åh… Hvis du ikke vil kæmpe\n"
+	.string "imod mig, {PLAYER}, min ONKEL får ikke\n"
+	.string "at vide, at jeg er blevet rigtig\n"
+	.string "stærk.$"
 
 MauvilleCity_Text_UncleCanYouBattleWally:
-	.string "UNCLE: {PLAYER}{KUN}, was it?\n"
-	.string "On WALLY's behalf, can I ask you to\l"
-	.string "battle with him just this once?\p"
-	.string "I don't think he's going to listen to\n"
-	.string "any reason the way he is now.$"
+	.string "ONKEL: {PLAYER}{KUN}, ikke sandt?\n"
+	.string "På WALLY's vegne, kan jeg bede dig om at\l"
+	.string "kæmpe med ham bare denne ene gang?\p"
+	.string "Jeg tror ikke, at han vil lytte til\n"
+	.string "nogen grund i den tilstand, han er i.$"
 
 MauvilleCity_Text_WallyPleaseBattleMe:
-	.string "WALLY: {PLAYER}, please!\n"
-	.string "Battle with me, please.$"
+	.string "WALLY: {PLAYER}, kom nu!\n"
+	.string "Kæmp med mig, vær sød.$"
 
 MauvilleCity_Text_WallyHereICome:
-	.string "WALLY: {PLAYER}, thank you.\p"
-	.string "Okay… Here I come!$"
+	.string "WALLY: {PLAYER}, tak.\p"
+	.string "Okay... Her kommer jeg!$"
 
 MauvilleCity_Text_WallyDefeat:
-	.string "WALLY: … … … … … … …\p"
-	.string "… … … … … … … …\p"
-	.string "I lost…$"
+	.string "WALLY: ... ... ... ... ... ...\p"
+	.string "... ... ... ... ... ... ...\p"
+	.string "Jeg tabte...$"
 
 MauvilleCity_Text_WallyIllGoBackToVerdanturf:
-	.string "WALLY: UNCLE…\n"
-	.string "I'll go back to VERDANTURF…$"
+	.string "WALLY: ONKEL…\n"
+	.string "Jeg vil tage til VERDANTURF…$"
 
 MauvilleCity_Text_ThankYouNotEnoughToBattle:
-	.string "{PLAYER}, thank you.\n"
-	.string "Being a TRAINER is tough, isn't it?\p"
-	.string "It's not enough just to have POKéMON\n"
-	.string "and make them battle. That isn't what\l"
-	.string "being a real TRAINER is about.$"
+	.string "{PLAYER}, tak.\n"
+	.string "Det er hårdt at være en TRÆNER, ikke sandt?\p"
+	.string "Det er ikke nok bare at have POKéMON\n"
+	.string "og lade dem kæmpe. Det er ikke det,\l"
+	.string "det handler om at være en rigtig TRÆNER.$"
 
 MauvilleCity_Text_UncleNoNeedToBeDown:
-	.string "UNCLE: WALLY, there's no need to be so\n"
-	.string "down on yourself.\p"
-	.string "Why, what's keeping you from becoming\n"
-	.string "stronger and stronger?\p"
-	.string "Come on, let's go home.\n"
-	.string "Everyone's waiting for you.$"
+	.string "ONKEL: WALLY, der er ingen grund til at være\n"
+	.string "så nedtrykt over dig selv.\p"
+	.string "Hvad er det, der holder dig tilbage fra\n"
+	.string "at blive stærkere og stærkere?\p"
+	.string "Kom nu, lad os gå hjem.\n"
+	.string "Alle venter på dig.$"
 
 MauvilleCity_Text_UncleVisitUsSometime:
-	.string "UNCLE: {PLAYER}{KUN}, it just dawned on me\n"
-	.string "that you must be the TRAINER who kept\l"
-	.string "an eye out for WALLY when he caught\l"
-	.string "his POKéMON.\p"
-	.string "Why don't you visit us in VERDANTURF\n"
-	.string "sometime?\l"
-	.string "I'm sure WALLY would enjoy it.$"
+	.string "ONKEL: {PLAYER}{KUN}, det slog mig lige\n"
+	.string "at du må være TRÆNEREN, som holdt\n"
+	.string "øje med WALLY, da han fangete sin\n"
+	.string "POKéMON.\p"
+	.string "Hvorfor besøger du os ikke i\n"
+	.string "VERDANTURF en gang imellem?\l"
+	.string "Jeg er sikker på, at WALLY ville elske det.$"
 
 
 MauvilleCity_Text_WallyPokenavCall:
 	.string "… … … … … …\n"
 	.string "… … … … … Beep!\p"
-	.string "WALLY: Oh, hello, {PLAYER}!\p"
-	.string "I just wanted to tell you that\n"
-	.string "my uncle bought me a POKéNAV!\p"
-	.string "Now I can get in touch with you\n"
-	.string "anytime, {PLAYER}!\p"
+	.string "WALLY: Åh, hej, {PLAYER}!\p"
+	.string "Jeg ville bare fortælle dig, at\n"
+	.string "min onkel har købt mig en POKéNAV!\p"
+	.string "Nu kan jeg kontakte dig når som\n"
+	.string "helst, {PLAYER}!\p"
 	.string "… … … … … …\n"
-	.string "… … … … … Click!$"
+	.string "… … … … … Klik!$"
 
 MauvilleCity_Text_RegisteredWally:
-	.string "Registered WALLY\n"
-	.string "in the POKéNAV.$"
+	.string "Registreret WALLY\n"
+	.string "i POKéNAV'en.$"
 
 MauvilleCity_Text_ScottYouDidntHoldBack:
-	.string "SCOTT: Hehe…\n"
-	.string "I was watching that match!\p"
-	.string "You're friends with that boy WALLY,\n"
-	.string "aren't you?\p"
-	.string "But you didn't hold anything back\n"
-	.string "and beat him impressively.\p"
-	.string "Yeah! That's what a real POKéMON\n"
-	.string "battle is all about!\p"
-	.string "I idolize TRAINERS like that!\p"
+	.string "SCOTT: Hihi…\n"
+	.string "Jeg så den kamp!\p"
+	.string "Du er venner med den dreng WALLY,\n"
+	.string "ikke sandt?\p"
+	.string "Men du holdt ikke noget tilbage og\n"
+	.string "slog ham imponerende.\p"
+	.string "Ja! Det er, hvad en rigtig POKéMON-\n"
+	.string "kamp handler om!\p"
+	.string "Jeg idoliserer TRÆNERE som dig!\p"
 	.string "… … … … … …\n"
-	.string "I'll be cheering for you!$"
+	.string "Jeg vil heppe på dig!$"
 
 MauvilleCity_Text_WattsonNeedFavorTakeKey:
-	.string "WATTSON: Oh, {PLAYER}{KUN}!\n"
-	.string "You look like you have a lot of zip!\l"
-	.string "That's a good thing, wahahahaha!\p"
-	.string "Fine! I've decided!\n"
-	.string "I need a favor, {PLAYER}{KUN}!\p"
-	.string "MAUVILLE CITY has an underground\n"
-	.string "sector called NEW MAUVILLE.\p"
-	.string "{PLAYER}{KUN}, I'd like you to go there and\n"
-	.string "switch off the GENERATOR.\p"
-	.string "The GENERATOR has been running a bit\n"
-	.string "haywire. It's getting unsafe.\p"
-	.string "Here, this is the KEY to get into\n"
-	.string "NEW MAUVILLE.$"
+	.string "WATTSON: Åh, {PLAYER}{KUN}!\n"
+	.string "Du ser ud til at have masser af energi!\l"
+	.string "Det er en god ting, wahahahaha!\p"
+	.string "Fint! Jeg har bestemt mig!\n"
+	.string "Jeg har brug for en tjeneste, {PLAYER}{KUN}!\p"
+	.string "MAUVILLE CITY har en underjordisk\n"
+	.string "sektor kaldet NEW MAUVILLE.\p"
+	.string "{PLAYER}{KUN}, jeg vil gerne have dig til\n"
+	.string "at gå derhen og slukke for GENERATOREN.\p"
+	.string "GENERATOREN har kørt lidt\n"
+	.string "amok. Det er blevet usikkert.\p"
+	.string "Her er nøglen til at komme ind\n"
+	.string "i NEW MAUVILLE.$"
 
 MauvilleCity_Text_WattsonWontBeChallenge:
-	.string "WATTSON: Don't you worry about it.\n"
-	.string "It won't be a challenge to you.\p"
-	.string "The entrance to NEW MAUVILLE is just\n"
-	.string "a short SURF away from ROUTE 110.\p"
-	.string "That's it, then, you have my trust!\n"
+	.string "WATTSON: Bare rolig.\n"
+	.string "Det bliver ikke en udfordring for dig.\p"
+	.string "Indgangen til NY MAUVILLE er kun\n"
+	.string "en kort SURF-tur væk fra RUTE 110.\p"
+	.string "Det er det, så har du min tillid!\n"
 	.string "Wahahahaha!$"
 
 MauvilleCity_Text_WattsonThanksTakeTM:
 	.string "WATTSON: Wahahahaha!\p"
-	.string "I knew it, {PLAYER}{KUN}! I knew I'd made\n"
-	.string "the right choice asking you!\p"
-	.string "This is my thanks--a TM containing\n"
+	.string "Jeg vidste det, {PLAYER}! Jeg vidste, jeg\n"
+	.string "havde truffet det rigtige valg ved\n"
+	.string "at bede dig om hjælp!\p"
+	.string "Her er min tak - en TM med\n"
 	.string "THUNDERBOLT!\p"
-	.string "Go on, you've earned it!$"
+	.string "Fortsæt endelig, du har fortjent den!$"
 
 MauvilleCity_Text_WattsonYoungTakeCharge:
 	.string "WATTSON: Wahahahaha!\p"
-	.string "It pleases me to no end to see\n"
-	.string "the young step up and take charge!$"
+	.string "Det glæder mig ufatteligt at se de\n"
+	.string "unge træde frem og tage styringen!$"
 
 MauvilleCity_Text_NurseHurtMonBackToHealth:
-	.string "You know, it's cool to have POKéMON\n"
-	.string "battles and stuff…\p"
-	.string "But if your POKéMON gets hurt,\n"
-	.string "you have to nurse it back to health.$"
+	.string "Du ved, det er sjovt at have POKéMON\n"
+	.string "kampe og sådan…\p"
+	.string "Men hvis din POKéMON bliver såret,\n"
+	.string "skal du pleje den tilbage til sundhed.$"
 
 MauvilleCity_Text_AllSortsOfPeopleComeThrough:
-	.string "The roads of this town stretch north\n"
-	.string "and south, and east and west.\p"
-	.string "Because of that, we get all sorts of\n"
-	.string "people coming through.$"
+	.string "Vejen i denne by strækker sig mod\n"
+	.string "nord og syd, øst og vest.\p"
+	.string "På grund af det får vi alle mulige\n"
+	.string "mennesker forbi.$"
 
 MauvilleCity_Text_RydelVeryGenerous:
-	.string "Have you been to RYDEL'S CYCLES yet?\p"
-	.string "RYDEL, the owner, is a very generous\n"
-	.string "man.$"
+	.string "Har du været i RYDEL'S CYCLES endnu?\p"
+	.string "RYDEL, ejeren, er en meget gavmild\n"
+	.string "mand.$"
 
 MauvilleCity_Text_PokemonCanJumpYouOnBike:
-	.string "Even if you're riding a BIKE,\n"
-	.string "wild POKéMON could jump you.$"
+	.string "Selvom du cykler,\n"
+	.string "kan vilde POKéMON angribe dig.$"
 
 MauvilleCity_Text_CitySign:
 	.string "MAUVILLE CITY\n"
-	.string "“The bright and shiny city of fun!”$"
+	.string "“Den lyse og skinnende by fyldt med sjov!”$"
 
 MauvilleCity_Text_GymSign:
 	.string "MAUVILLE CITY POKéMON GYM\n"
-	.string "LEADER: WATTSON\l"
-	.string "“The cheerfully electrifying man!”$"
+	.string "LEDER: WATTSON\l"
+	.string "“Den livlige og elektrificerende mand!”$"
 
 MauvilleCity_Text_BikeShopSign:
-	.string "“Ride in gravel and shake up your\n"
-	.string "soul!”\l"
-	.string "RYDEL'S CYCLES$"
+	.string "Kør i grus og ryst din\n"
+	.string "sjæl!\l"
+	.string "RYDELS CYKLER$"
 
 MauvilleCity_Text_GameCornerSign:
-	.string "“The play spot for all!”\n"
-	.string "MAUVILLE GAME CORNER$"
+	.string "“Legestedet for alle!”\n"
+	.string "MAUVILLE SPILHJØRNE$"
 
 MauvilleCity_Text_ExplainTV:
-	.string "Hi, do you check out TV at all?\p"
-	.string "They've added a bunch of cool new\n"
-	.string "shows recently.\p"
-	.string "TV is so cool. I've seen my friends on\n"
-	.string "TV just out of the blue.\p"
-	.string "And, sometimes, they even put you on TV\n"
-	.string "without telling you.\p"
-	.string "I wish I would be on TV sometime.\p"
-	.string "That's why I think you should check\n"
-	.string "out TVs whenever you can.$"
+	.string "Hej, kigger du overhovedet på TV?\p"
+	.string "De har tilføjet en masse seje nye\n"
+	.string "shows for nylig.\p"
+	.string "TV er så sejt. Jeg har set mine venner\n"
+	.string "på TV helt ud af det blå.\p"
+	.string "Og nogle gange kommer man endda på TV\n"
+	.string "uden at blive fortalt det.\p"
+	.string "Jeg ville ønske, at jeg kunne være på TV\n"
+	.string "engang.\p"
+	.string "Derfor synes jeg, at du burde kigge\n"
+	.string "på TV, når du kan.$"
 
 MauvilleCity_Text_BeenCheckingOutTV:
-	.string "Hi, have you been checking out TVs?$"
+.string "Hej, har du kigget på fjernsyn?$"
+
