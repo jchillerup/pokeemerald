@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 PacifidlogTown_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, PacifidlogTown_OnTransition
 	map_script MAP_SCRIPT_ON_RESUME, PacifidlogTown_OnResume
@@ -28,27 +30,28 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "The sea between PACIFIDLOG and\n"
-	.string "SLATEPORT has a fast-running tide.\p"
-	.string "If you decide to SURF, you could end\n"
-	.string "up swept away somewhere else.$"
+	.string "Havet mellem PACIFIDLOG og\n"
+	.string "SLATEPORT har en hurtigt løbende tidevand.\p"
+	.string "Hvis du beslutter dig for at SURFE, kan du ende\n"
+	.string "et helt andet sted.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "See, isn't it neat?\n"
-	.string "These houses are on water!\p"
-	.string "I was born here!$"
+	.string "Se, er det ikke skønt?\n"
+	.string "Disse huse er på vandet!\p"
+	.string "Jeg blev født her!$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
-	.string "The SKY PILLAR?\p"
-	.string "…Oh, you must mean that tall, tall\n"
-	.string "tower a little further out.\p"
-	.string "If you asked me, I wouldn't climb it.\n"
-	.string "It's too scary to get up that high.\p"
-	.string "Life at sea level in PACIFIDLOG,\n"
-	.string "that suits me fine.$"
+	.string "Himlens PILLE?\p"
+	.string "…Åh, du mener nok den høje, høje\n"
+	.string "tårn lidt længere væk.\p"
+	.string "Hvis du spørger mig, ville jeg ikke\n"
+	.string "bestige det. Det er alt for uhyggeligt\n"
+	.string "at komme så højt op.$"
 
 PacifidlogTown_Text_TownSign:
-	.string "PACIFIDLOG TOWN\p"
-	.string "“Where the morning sun smiles upon\n"
-	.string "the waters.”$"
+	.string "PACIFIDLOG BY\p"
+	.string "“Hvor morgensolen smiler ned\n"
+	.string "på vandene.”$"
+
+
 
