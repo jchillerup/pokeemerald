@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 SlateportCity_BattleTentLobby_MapScripts::
@@ -275,35 +277,38 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-	.string "So, like, I couldn't find myself any\n"
-	.string "POKéMON that were, like, for me.\p"
-	.string "So, I figured, like, hey, I should file\n"
-	.string "a complaint to the guy there?\p"
-	.string "And he wouldn't hear me out, like, hey!\n"
-	.string "So, like, total bummer, man!\p"
-	.string "Hey, like, you! Zip it, you know?\n"
-	.string "Just, you know, take this!$"
+	.string "Så, som, jeg kunne ikke finde nogen\n"
+	.string "POKéMON, der var, ligesom, til mig.\p"
+	.string "Så tænkte jeg, som, hey, jeg burde\n"
+	.string "klage til fyren dér?\p"
+	.string "Og han ville ikke lytte til mig, som,\n"
+	.string "hey! Sådan en nedtur, mand!\p"
+	.string "Hey, som, dig! Bare luk, du ved?\n"
+	.string "Bare, du ved, tag dette!$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-	.string "That's, like, TM41, you know?\n"
-	.string "Hey, it's TORMENT, you hearing me?\p"
-	.string "Like, it won't let the other guy\n"
-	.string "use the same move twice in a row, see?\p"
-	.string "Hey, now, you listen here, like,\n"
-	.string "I'm not laying a torment on you!$"
+	.string "Det der er ligesom TM41, ved du?\n"
+	.string "Hey, det er TORMENT, hører du mig?\p"
+	.string "Sådan, det tillader ikke den anden\n"
+	.string "at bruge den samme move to gange i\n"
+	.string "træk, ser du?\p"
+	.string "Hey, nu hør her, ligesom,\n"
+	.string "jeg pålægger dig ikke en plage!$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "I don't really like BUG POKéMON,\n"
-	.string "but maybe I'll try using some for\l"
-	.string "a change of pace.\p"
-	.string "Who knows, I might even get to like\n"
-	.string "them!$"
+	.string "Jeg er ikke rigtig vild med INSEKT POKéMON,\n"
+	.string "men måske prøver jeg at bruge nogle for\l"
+	.string "at variere lidt.\p"
+	.string "Hvem ved, jeg kunne måske endda\l"
+	.string "begynde at kunne lide dem!$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
-	.string "You can battle all you want here even\n"
-	.string "if you don't have any tough POKéMON.$"
+	.string "Du kan kæmpe alt det du vil her, selv\n"
+	.string "hvis du ikke har nogen seje POKéMON.$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-	.string "Wouldn't it be nice if they had more of\n"
-	.string "a selection?$"
+	.string "Ville det ikke være dejligt, hvis de havde\n"
+	.string "et større udvalg?$"
+
+
 
