@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 PetalburgCity_House2_MapScripts::
 	.byte 0
 
@@ -10,15 +12,17 @@ PetalburgCity_House2_EventScript_SchoolKid::
 	end
 
 PetalburgCity_House2_Text_NormanBecameGymLeader:
-	.string "NORMAN became our town's new\n"
-	.string "GYM LEADER.\p"
-	.string "I think he called his family over from\n"
-	.string "somewhere far away.$"
+	.string "NORMAN blev vores bys nye\n"
+	.string "GÅRDLÆRER.\p"
+	.string "Jeg tror, han kaldte sin familie hertil\n"
+	.string "fra et fjernt sted.$"
 
 PetalburgCity_House2_Text_BattledNormanOnce:
-	.string "I battled NORMAN once, but, whew,\n"
-	.string "he was way too strong.\p"
-	.string "How would I put it?\p"
-	.string "I just got the feeling that he\n"
-	.string "lives for POKéMON.$"
+	.string "Jeg kæmpede mod NORMAN en gang, men,\n"
+	.string "puha, han var alt for stærk.\p"
+	.string "Hvordan skal jeg sige det?\p"
+	.string "Jeg fik bare fornemmelsen af,\n"
+	.string "at han lever for POKéMON.$"
+
+
 
