@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MagmaHideout_3F_2R_MapScripts::
 	.byte 0
 
@@ -7,20 +9,22 @@ MagmaHideout_3F_2R_EventScript_Grunt10::
 	end
 
 MagmaHideout_3F_2R_Text_Grunt10Intro:
-	.string "I understand everything our leader\n"
-	.string "says. But you know what?\p"
-	.string "Doing stuff like digging up a super-\n"
-	.string "ancient POKéMON and ripping off\l"
-	.string "someone's METEORITE…\p"
-	.string "I think we're going a little too far.\n"
-	.string "What do you think?$"
+	.string "Jeg forstår alt, hvad vores leder\n"
+	.string "siger. Men ved du hvad?\p"
+	.string "At lave ting som at grave en super-\n"
+	.string "ældgammel POKéMON op og stjæle\l"
+	.string "en METEORIT fra nogen…\p"
+	.string "Jeg synes, vi går lidt for langt.\n"
+	.string "Hvad synes du?$"
 
 MagmaHideout_3F_2R_Text_Grunt10Defeat:
-	.string "Yeah, I think we are doing something\n"
-	.string "wrong somehow.$"
+	.string "Ja, jeg tror vi gør noget forkert\n"
+	.string "på en eller anden måde.$"
 
 MagmaHideout_3F_2R_Text_Grunt10PostBattle:
-	.string "You know, losing to you cleared my mind.\p"
-	.string "The next time I see our leader,\n"
-	.string "I'm going to ask him about what we do.$"
+	.string "Du ved, at tabe til dig ryddede mine tanker.\p"
+	.string "Næste gang jeg ser vores leder,\n"
+	.string "vil jeg spørge ham om, hvad vi gør.$"
+
+
 
