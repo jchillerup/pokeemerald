@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_House3_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, LilycoveCity_House3_OnTransition
 	.byte 0
@@ -98,71 +100,73 @@ LilycoveCity_House3_EventScript_WereDoingContest::
 	end
 
 LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks:
-	.string "Oh, my, my! Are you traveling alone?\n"
-	.string "But you're so young! Good for you!\p"
-	.string "I'm sure my kids could learn a thing\n"
-	.string "or two from you!\p"
-	.string "Me? I'm a master of {POKEBLOCK}S.\p"
-	.string "If I get serious just a little, why,\n"
-	.string "I can concoct great {POKEBLOCK}S.\p"
-	.string "Would you like to learn from me,\n"
-	.string "a master of {POKEBLOCK}S?$"
+	.string "Åh, åh! Rejser du alene?\n"
+	.string "Men du er så ung! Godt klaret!\p"
+	.string "Jeg er sikker på, at mine børn kunne\n"
+	.string "lære en ting eller to af dig!\p"
+	.string "Jeg? Jeg er en mester i {POKEBLOCK}S.\p"
+	.string "Hvis jeg bliver lidt mere alvorlig,\n"
+	.string "kan jeg fremtrylle fantastiske {POKEBLOCK}S.\p"
+	.string "Vil du lære af mig,\n"
+	.string "en mester i {POKEBLOCK}S?$"
 
 LilycoveCity_House3_Text_OhAreYouSure:
-	.string "Oh? Are you sure?\p"
-	.string "You shouldn't always try to do\n"
-	.string "everything by yourself, dear!$"
+	.string "Åh? Er du sikker?\p"
+	.string "Du skal ikke altid prøve at gøre\n"
+	.string "alting selv, kære!$"
 
 LilycoveCity_House3_Text_ExplainPokeblocks:
-	.string "Oh, good! You're a smart soul!\n"
-	.string "This is a bit long, so listen up!\p"
-	.string "Are you ready?\p"
-	.string "If you look at {POKEBLOCK}S, you should see\n"
-	.string "that they are rated on how they feel.\p"
-	.string "The lower the feel rating,\n"
-	.string "the better it is. Don't forget this!\p"
-	.string "A good {POKEBLOCK} has a low feel\n"
-	.string "rating and a high level.\p"
-	.string "A POKéMON can eat more good\n"
-	.string "{POKEBLOCK}S than ordinary ones, too.\p"
-	.string "And this is important.\p"
-	.string "If you want to make smooth {POKEBLOCK}S,\n"
-	.string "use different kinds of BERRIES.\p"
-	.string "Don't be stingy--the kinds of BERRIES\n"
-	.string "affect the smoothness of {POKEBLOCK}S.\p"
-	.string "And another thing.\p"
-	.string "The more people blending BERRIES,\n"
-	.string "the smoother the {POKEBLOCK}S.\p"
-	.string "That's why you should talk to other\n"
-	.string "people and make {POKEBLOCK}S together.\p"
-	.string "That's about all you need to know to\n"
-	.string "make good {POKEBLOCK}S.\p"
-	.string "If everyone had POKéMON they love,\n"
-	.string "smooth {POKEBLOCK}S, and a loving family,\l"
-	.string "the world would be a happier place.\p"
-	.string "Don't give up, dear!$"
+	.string "Åh, godt! Du er en klog sjæl!\n"
+	.string "Dette er lidt langt, så lyt godt efter!\p"
+	.string "Er du klar?\p"
+	.string "Hvis du kigger på {POKEBLOCK}S, bør du se\n"
+	.string "at de er vurderet ud fra, hvordan de føles.\p"
+	.string "Jo lavere følelsesvurderingen er,\n"
+	.string "jo bedre er den. Glem ikke dette!\p"
+	.string "En god {POKEBLOCK} har en lav følelses-\n"
+	.string "vurdering og et højt niveau.\p"
+	.string "En POKéMON kan spise flere gode\n"
+	.string "{POKEBLOCK}S end almindelige, også.\p"
+	.string "Og dette er vigtigt.\p"
+	.string "Hvis du vil lave glatte {POKEBLOCK}S,\n"
+	.string "brug forskellige slags BÆR.\p"
+	.string "Vær ikke nærig--slags BÆR påvirker\n"
+	.string "glattheden af {POKEBLOCK}S.\p"
+	.string "Og en ting til.\p"
+	.string "Jo flere personer der blander BÆR,\n"
+	.string "desto glattere bliver {POKEBLOCK}S.\p"
+	.string "Derfor bør du tale med andre\n"
+	.string "personer og lave {POKEBLOCK}S sammen.\p"
+	.string "Det er alt, du behøver at vide for at\n"
+	.string "lave gode {POKEBLOCK}S.\p"
+	.string "Hvis alle havde POKéMON de elsker,\n"
+	.string "glatte {POKEBLOCK}S, og en kærlig familie,\l"
+	.string "ville verden være et gladere sted.\p"
+	.string "Giv ikke op, kære!$"
 
 LilycoveCity_House3_Text_HappyToHaveQuadruplets:
-	.string "When my wife gave birth to quadruplets,\n"
-	.string "you bet I was shocked.\p"
-	.string "But, now, seeing them play together,\n"
-	.string "it makes me happy.$"
+	.string "Da min kone fødte firlinger,\n"
+	.string "kan du tro, jeg var chokeret.\p"
+	.string "Men nu, når jeg ser dem lege sammen,\n"
+	.string "gør det mig glad.$"
 
 LilycoveCity_House3_Text_GoingToWinMultiBattles:
-	.string "We're having MULTI BATTLES, but I know\n"
-	.string "I'm going to win.$"
+	.string "Vi skal kæmpe flere KAMPE, men jeg\n"
+	.string "ved, jeg vil vinde.$"
 
 LilycoveCity_House3_Text_LikeMixingAtRecordCorner:
-	.string "We like mixing stuff at\n"
-	.string "the RECORD CORNER.\p"
-	.string "But what gets mixed up?$"
+	.string "Vi kan godt lide at blande ting på\n"
+	.string "RECORD CORNER.\p"
+	.string "Men hvad bliver blandet? $" 
 
 LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender:
-	.string "We're going to make super {POKEBLOCK}S\n"
-	.string "with a BERRY BLENDER!$"
+	.string "Vi skal lave super {POKEBLOCK}S\n"
+	.string "med en BÆRBLÆNDER!$"
 
 LilycoveCity_House3_Text_GoingToEnterContest:
-	.string "I want to brag about how tough my\n"
-	.string "POKéMON is, so we're going to enter\l"
-	.string "a CONTEST together.$"
+	.string "Jeg vil gerne prale af, hvor sej min\n"
+	.string "POKéMON er, så vi skal deltage\n"
+	.string "i en KONKURRENCE sammen.$"
+
+
 
