@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MagmaHideout_2F_1R_MapScripts::
 	.byte 0
 
@@ -22,54 +24,56 @@ MagmaHideout_2F_1R_EventScript_Grunt5::
 	end
 
 MagmaHideout_2F_1R_Text_Grunt14Intro:
-	.string "What, what, what?\p"
-	.string "Only TEAM MAGMA members are supposed\n"
-	.string "to be in here!\p"
-	.string "But you're not dressed in TEAM MAGMA's\n"
+	.string "Hvad, hvad, hvad?\p"
+	.string "Kun TEAM MAGMA medlemmer skulle være\n"
+	.string "herinde!\p"
+	.string "Men du er ikke iført TEAM MAGMA's\n"
 	.string "uniform…\p"
-	.string "You rouse my suspicion!\n"
-	.string "Battle with me!$"
+	.string "Du vækker min mistanke!\n"
+	.string "Kæmp med mig!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
 	.string "Aiyiyi…\n"
-	.string "My pride as a TEAM MAGMA member…$"
+	.string "Min stolthed som et TEAM MAGMA medlem…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
-	.string "If you suffer from chills, you should\n"
-	.string "join TEAM MAGMA.$"
+	.string "Hvis du lider af kuldegysninger, bør du\n"
+	.string "melde dig til TEAM MAGMA.$"
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
-	.string "Hold it right there!\p"
-	.string "You don't really expect me to keep\n"
-	.string "my trap shut and let you waltz by me?$"
+	.string "Stop lige der!\p"
+	.string "Du forventer vel ikke,\n"
+	.string "at jeg bare lukker og lader dig gå forbi?$"
 
 MagmaHideout_2F_1R_Text_Grunt3Defeat:
-	.string "Ooh wow!\n"
-	.string "I concede!$"
+	.string "Åh wow!\n"
+	.string "Jeg giver op!$"
 
 MagmaHideout_2F_1R_Text_Grunt3PostBattle:
-	.string "Maybe it would've been better if I did\n"
-	.string "just let you go unchallenged…$"
+	.string "Måske det ville have været bedre, hvis jeg\n"
+	.string "bare lod dig gå udfordringsløs…$"
 
 MagmaHideout_2F_1R_Text_Grunt4Intro:
 	.string "Ahah!\n"
-	.string "An intruder!$"
+	.string "En indtrænger!$"
 
 MagmaHideout_2F_1R_Text_Grunt4Defeat:
-	.string "Graaah!$"
+.string "Graaah!$"
 
 MagmaHideout_2F_1R_Text_Grunt4PostBattle:
-	.string "I've already lost.\p"
-	.string "Do I really need to keep running\n"
-	.string "around in a circle?$"
+	.string "Jeg har allerede tabt.\p"
+	.string "Skal jeg virkelig blive ved med at\n"
+	.string "løbe rundt i en cirkel?$"
 
 MagmaHideout_2F_1R_Text_Grunt5Intro:
-	.string "Oh, oh!\n"
-	.string "An intruder!$"
+	.string "Åh, åh!\n"
+	.string "En indtrænger!$"
 
 MagmaHideout_2F_1R_Text_Grunt5Defeat:
-	.string "Mutter…$"
+.string "Mor...$"
 
 MagmaHideout_2F_1R_Text_Grunt5PostBattle:
-	.string "Actually, I'm no expert at battling…$"
+.string "Faktisk er jeg ikke nogen ekspert i at kæmpe...$"
+
+
 
