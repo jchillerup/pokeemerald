@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 BattleFrontier_PokemonCenter_1F_MapScripts::
@@ -40,22 +42,24 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty::
 	end
 
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
-	.string "There was someone here using a \n"
-	.string "POKéMON I've never seen before.\p"
-	.string "I never learned about it at\n"
-	.string "TRAINER'S SCHOOL at least.\p"
-	.string "I wonder where you can catch POKéMON\n"
-	.string "like that.$"
+	.string "Der var nogen her, der brugte en \n"
+	.string "POKéMON, jeg aldrig har set før.\p"
+	.string "Jeg lærte i hvert fald aldrig om den\n"
+	.string "på TRÆNER SKOLEN.\p"
+	.string "Jeg spekulerer på, hvor man kan fange\n"
+	.string "POKéMON som den.$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
-	.string "Okay! Next stop, the BATTLE ARENA!\n"
-	.string "I'd better get the right POKéMON from\l"
-	.string "the PC Storage System.$"
+	.string "Okay! Næste stop, KAMPARENAEN!\n"
+	.string "Jeg må hellere få den rette POKéMON fra\l"
+	.string "PC-opbevaringssystemet.$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
-	.string "Giggle… I'm going to go through every\n"
-	.string "challenge with just this baby!$"
+	.string "Hihi... Jeg vil klare enhver\n"
+	.string "udfordring med bare denne baby!$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
 	.string "SKITTY: Mya myaaah!$"
+
+
 
