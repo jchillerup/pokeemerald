@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route116_TunnelersRestHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route116_TunnelersRestHouse_OnTransition
 	.byte 0
@@ -28,35 +30,41 @@ Route116_TunnelersRestHouse_EventScript_TunnelOpened::
 	end
 
 Route116_TunnelersRestHouse_Text_WeHadToStopBoring:
-	.string "That RUSTURF TUNNEL there…\p"
-	.string "At first, we had a huge work crew boring\n"
-	.string "through rock with the latest machinery.\l"
-	.string "But, we had to stop.\p"
-	.string "It turns out that we would have had\n"
-	.string "a negative effect on wild POKéMON in\l"
-	.string "the area.\p"
-	.string "So, we've got nothing to do but loll\n"
-	.string "around here doing nothing.$"
+	.string "Den RUSTAKKER TUNNEL der…\p"
+	.string "Først havde vi en stor arbejdsstyrke,\n"
+	.string "der borede gennem stenen med den\n"
+	.string "nyeste maskinteknologi.\l"
+	.string "Men vi var nødt til at stoppe.\p"
+	.string "Det viser sig, at vi ville have haft en\n"
+	.string "negativ effekt på vilde POKéMON i\n"
+	.string "området.\p"
+	.string "Så vi har intet andet at gøre end at\n"
+	.string "dumpe rundt her og lave ingenting.$"
 
 Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf:
-	.string "There's a man digging his way to\n"
-	.string "VERDANTURF all by his lonesome.\l"
-	.string "He's desperate to get through.\p"
-	.string "He says that if he digs little by little\n"
-	.string "without using machines, he won't\l"
-	.string "disturb POKéMON, and he'll avoid\l"
-	.string "harming the natural environment.\p"
-	.string "I wonder if he made it through yet.$"
+	.string "Der er en mand, der graver sig vej til\n"
+	.string "VERDANTURF helt alene.\l"
+	.string "Han er desperat for at komme igennem.\p"
+	.string "Han siger, at hvis han graver lidt\n"
+	.string "ad gangen uden at bruge maskiner,\n"
+	.string "vil han ikke forstyrre POKéMON og\n"
+	.string "undgå at skade den naturlige\n"
+	.string "miljø.\p"
+	.string "Jeg undrer mig over, om han er kommet\n"
+	.string "igennem endnu.$"
 
 Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel:
-	.string "To get to VERDANTURF without using\n"
-	.string "this TUNNEL, you'd have to cross the\l"
-	.string "sea to DEWFORD, sail on to SLATEPORT,\l"
-	.string "then travel through MAUVILLE.$"
+	.string "For at komme til VERDANTURF uden at\n"
+	.string "bruge denne TUNNEL, skulle du krydse\n"
+	.string "havet til DEWFORD, sejle videre til\n"
+	.string "SLATEPORT og derefter rejse gennem\n"
+	.string "MAUVILLE.$"
 
 Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough:
-	.string "Did you hear? The TUNNEL to VERDANTURF\n"
-	.string "has gone through!\p"
-	.string "Sometimes, if you hope strongly enough,\n"
-	.string "dreams do come true.$"
+	.string "Har du hørt? TUNNELEN til VERDANTURF\n"
+	.string "er blevet færdig!\p"
+	.string "Nogle gange, hvis du håber stærkt nok,\n"
+	.string "går drømme i opfyldelse.$"
+
+
 
