@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_OLD_WOMAN, 2
 
 BattleFrontier_Mart_MapScripts::
@@ -49,21 +51,23 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-	.string "We came here to chaperon our\n"
-	.string "grandson.\p"
-	.string "But since we're here, we thought\n"
-	.string "we should get some souvenirs.$"
+	.string "Vi kom her for at være forsigtige med\n"
+	.string "vores barnebarn.\p"
+	.string "Men siden vi er her, tænkte vi, at vi\n"
+	.string "burde få nogle souvenirs.$"
 
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
-	.string "Dear, what do you think of this?\n"
-	.string "Wouldn't this make a nice gift?\p"
-	.string "It's…PRO…TE…IN?\n"
-	.string "It sounds delicious, doesn't it?$"
+	.string "Kære, hvad synes du om dette?\n"
+	.string "Ville dette ikke være en fin gave?\p"
+	.string "Det er…PRO…TE…IN?\n"
+	.string "Det lyder lækkert, gør det ikke?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
-	.string "A lot of the BATTLE FRONTIER's\n"
-	.string "facilities don't allow the use of items\l"
-	.string "during battles.\p"
-	.string "That rule makes things tougher than\n"
-	.string "they already are!$"
+	.string "En stor del af SLAGETS FRONTIER's\n"
+	.string "faciliteter tillader ikke brugen af\n"
+	.string "genstande under kampe.\p"
+	.string "Den regel gør tingene sværere\n"
+	.string "end de allerede er!$"
+
+
 
