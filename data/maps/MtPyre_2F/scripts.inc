@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MtPyre_2F_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, CaveHole_CheckFallDownHole
 	map_script MAP_SCRIPT_ON_TRANSITION, CaveHole_FixCrackedGround
@@ -43,93 +45,94 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Memories of my darling SKITTY…\n"
-	.string "My eyes overflow thinking about it.$"
+	.string "Mindet om min skønne SKITTY…\n"
+	.string "Tårerne strømmer, når jeg tænker på det.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Ooch, ouch… There are holes in the\n"
-	.string "ground here and there.\p"
-	.string "I didn't notice and took a tumble from\n"
-	.string "the floor above.$"
+	.string "Av, av,... Der er huller i\ngulvet her og der.\p" 
+	.string "Jeg lagde ikke mærke til dem og faldt ned\n"
+	.string "fra etage over.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hey! Are you searching for POKéMON?\n"
-	.string "You came along after me! You're rude!$"
+	.string "Hej! Leder du efter POKéMON?\n"
+	.string "Du kom efter mig! Du er uforskammet!$"
 
 MtPyre_2F_Text_MarkDefeat:
-	.string "Ayieeeeh!\n"
-	.string "I'm sorry, forgive me, please!$"
+	.string "Åååh!\n"
+	.string "Undskyld, tilgiv mig, vær sød!$"
 
 MtPyre_2F_Text_MarkPostBattle:
-	.string "People don't come here often, so\n"
-	.string "I thought there'd be rare POKéMON.$"
+	.string "Folk kommer ikke her så tit, så\n"
+	.string "jeg troede, der ville være sjældne POKéMON.$"
 
 MtPyre_2F_Text_LukeIntro:
-	.string "LUKE: We're here on a dare.\p"
-	.string "Heheh, if I show her how cool I am,\n"
-	.string "she'll fall for me. I know it!\p"
-	.string "I know! I'll cream you and show her\n"
-	.string "how cool I am!$"
+	.string "LUKE: Vi er her på en udfordring.\p"
+	.string "Heheh, hvis jeg viser hende, hvor sej jeg er,\n"
+	.string "vil hun falde for mig. Jeg ved det!\p"
+	.string "Jeg ved det! Jeg vil slå dig og vise hende,\n"
+	.string "hvor sej jeg er!$"
 
 MtPyre_2F_Text_LukeDefeat:
-	.string "LUKE: Whoopsie!$"
+	.string "LUKE: Upsadaisy!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Well, we lost but that's okay!\n"
-	.string "I'm right here by your side.\l"
-	.string "We'll make it through this dare!$"
+	.string "LUKE: Nå, vi tabte, men det er okay!\n"
+	.string "Jeg er lige her ved din side.\p"
+	.string "Vi klarer denne udfordring sammen!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: If you want to take me on,\n"
-	.string "bring some more POKéMON.\p"
-	.string "If you don't, I won't be able to show\n"
-	.string "off to my girl how cool I am!$"
+	.string "LUKE: Hvis du vil udfordre mig,\n"
+	.string "så tag flere POKéMON med.\p"
+	.string "Hvis ikke, kan jeg ikke vise\n"
+	.string "min pige, hvor sej jeg er!$"
 
 MtPyre_2F_Text_DezIntro:
-	.string "DEZ: I came here on a dare with my\n"
-	.string "boyfriend.\p"
-	.string "It's really scary, but I'm with my\n"
-	.string "boyfriend. It's okay.\p"
-	.string "I know! I'll get my boyfriend to look\n"
-	.string "cool by beating you!$"
+	.string "DEZ: Jeg kom her på en udfordring med min\n"
+	.string "kæreste.\p"
+	.string "Det er virkelig skræmmende, men jeg er\n"
+	.string "sammen med min kæreste. Det er okay.\p"
+	.string "Jeg ved det! Jeg vil få min kæreste til at\n"
+	.string "se sej ud ved at slå dig!\p$"
 
 MtPyre_2F_Text_DezDefeat:
-	.string "DEZ: Waaaah! I'm scared!$"
+	.string "DEZ: Åh nej! Jeg er bange!$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: We're lovey-dovey, so we don't\n"
-	.string "care if we lose!$"
+	.string "DEZ: Vi er kærlige og kælen, så vi\n"
+	.string "bekymrer os ikke, hvis vi taber!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: If you want to challenge us, you\n"
-	.string "should bring at least two POKéMON.\p"
-	.string "My boyfriend's strong.\n"
-	.string "Just one POKéMON won't do at all.$"
+	.string "DEZ: Hvis du vil udfordre os, skal du\n"
+	.string "have mindst to POKéMON med.\p"
+	.string "Min kæreste er stærk.\n"
+	.string "Bare en POKéMON er slet ikke nok.$"
 
 MtPyre_2F_Text_LeahIntro:
-	.string "You are an unfamiliar sight…\n"
-	.string "Depart before anything befalls you!$"
+	.string "Du er et ukendt syn…\n"
+	.string "Forsvind før der sker dig noget!$"
 
 MtPyre_2F_Text_LeahDefeat:
 	.string "Hmm…\n"
-	.string "You're durable.$"
+	.string "Du er sej.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Our family has been TRAINERS here\n"
-	.string "since my great-grandmother's time…\p"
-	.string "It is my duty to protect this\n"
-	.string "mountain…$"
+	.string "Vores familie har været TRÆNERE her\n"
+	.string "siden min oldemors tid…\p"
+	.string "Det er min pligt at beskytte dette\n"
+	.string "bjerg…$"
 
 MtPyre_2F_Text_ZanderIntro:
-	.string "Kiyaaaaah!\n"
-	.string "I'm terrified!$"
+	.string "Åh nej!\n"
+	.string "Jeg er skræmt!$" 
 
 MtPyre_2F_Text_ZanderDefeat:
-	.string "Nooooooo!\n"
-	.string "I lost my wits!$"
+	.string "Neeeej!\n"
+	.string "Jeg har mistet fatningen!$"
 
 MtPyre_2F_Text_ZanderPostBattle:
-	.string "I get freaked out every time I see\n"
-	.string "anything move…\p"
-	.string "I shouldn't have come here to train…$"
+	.string "Jeg bliver skræmt hver gang jeg ser\n"
+	.string "noget bevæge sig…\p"
+	.string "Jeg skulle ikke have taget herhen for at træne…$"
+
+
 
