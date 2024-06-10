@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 NewMauville_Inside_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, NewMauville_Inside_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, NewMauville_Inside_OnTransition
@@ -246,18 +248,19 @@ NewMauville_Inside_EventScript_DefeatedVoltorb3::
 	end
 
 NewMauville_Inside_Text_GeneratorRadiatingHeat:
-	.string "The generator is radiating heat that\n"
-	.string "can be felt even at a distance.\p"
-	.string "It looks like it should be turned off\n"
-	.string "as soon as possible.$"
+	.string "Generatoren stråler varme, som kan\n"
+	.string "mærkes selv på afstand.\p"
+	.string "Det ser ud til, at den bør slukkes\n"
+	.string "så hurtigt som muligt.$"
 
 NewMauville_Inside_Text_GeneratorQuietedDown:
-	.string "The generator quieted down.$"
+.string "Generator blev stille.$" 
 
 NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped:
-	.string "{PLAYER} stepped on the switch.\p"
-	.string "Click…\p"
+	.string "{PLAYER} trådte på knappen.\p"
+	.string "Klik...\p"
 	.string "… … … … … … … …\n"
 	.string "… … … … … … … …\p"
-	.string "The generator appears to have\n"
-	.string "stopped…$"
+	.string "Generatorn ser ud til at være\n"
+	.string "holdt op...$"
+
