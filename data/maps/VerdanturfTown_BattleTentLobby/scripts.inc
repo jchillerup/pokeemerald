@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 VerdanturfTown_BattleTentLobby_MapScripts::
@@ -328,56 +330,59 @@ VerdanturfTown_BattleTentLobby_EventScript_ExitRules::
 	end
 
 VerdanturfTown_BattleTentLobby_Text_MonsReluctantToUseDislikedMoves:
-	.string "If it doesn't like a certain move,\n"
-	.string "a POKéMON will be reluctant to use it.\p"
-	.string "It doesn't matter how strong it is,\n"
-	.string "either.\p"
-	.string "For example, a POKéMON with a GENTLE\n"
-	.string "nature probably won't enjoy hurting\l"
-	.string "its opponents.\p"
-	.string "If it can't seem to live up to its\n"
-	.string "potential, it's probably failing at\l"
-	.string "using a disliked move against its will.$"
+	.string "Hvis den ikke kan lide en bestemt bevægelse,\n"
+	.string "vil en POKéMON være tilbageholdende med at\n"
+	.string "anvende den.\p"
+	.string "Det betyder ikke, hvor stærk den er,\n"
+	.string "heller ikke.\p"
+	.string "For eksempel vil en POKéMON med en MILD\n"
+	.string "natur sandsynligvis ikke nyde at skade\n"
+	.string "sine modstandere.\p"
+	.string "Hvis den ikke synes at leve op til sit\n"
+	.string "potentiale, fejler den sandsynligvis i at\n"
+	.string "bruge en ikke-ønsket bevægelse mod sin vilje.$"
 
 VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry:
-	.string "My big sister is gentle usually.\n"
-	.string "But when she gets angry,\l"
-	.string "she's really, really scary!\p"
-	.string "I bet a gentle POKéMON will be scary\n"
-	.string "if it gets angry!$"
+	.string "Min store søster er normalt venlig.\n"
+	.string "Men når hun bliver sur,\l"
+	.string "er hun virkelig, virkelig skræmmende!\p"
+	.string "Jeg satser på, at en venlig POKéMON\n"
+	.string "vil være skræmmende, hvis den bliver vred!$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
-	.string "My feelings toward my POKéMON…\n"
-	.string "The attraction runs deep…\p"
-	.string "Oh, hi, you didn't see that, did you?\n"
-	.string "Well, it doesn't matter.\p"
-	.string "How would you like this TM for\n"
-	.string "your POKéMON?$"
+	.string "Mine følelser over for mine POKéMON…\n"
+	.string "Tiltrækningen er dyb…\p"
+	.string "Åh, hej, du så det ikke, gjorde du?\n"
+	.string "Nå, det betyder ikke noget.\p"
+	.string "Hvad siger du til denne TM til\n"
+	.string "din POKéMON?$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionMutual:
-	.string "My feelings toward my POKéMON…\n"
-	.string "I'm sure the attraction is mutual!\p"
-	.string "They battle exactly the way I want\n"
-	.string "them to!$"
+	.string "Mine følelser over for mine POKéMON…\n"
+	.string "Jeg er sikker på, at tiltrækningen er gensidig!\p"
+	.string "De kæmper præcis på den måde, jeg ønsker\n"
+	.string "dem til!$"
 
 VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves:
-	.string "What kind of moves have you taught\n"
-	.string "your POKéMON?\p"
-	.string "I think you would give yourself\n"
-	.string "an advantage if they knew how to\l"
-	.string "heal or protect themselves.$"
+	.string "Hvilke bevægelser har du lært\n"
+	.string "dine POKéMON?\p"
+	.string "Jeg tror, at du ville give dig selv\n"
+	.string "en fordel, hvis de vidste, hvordan\n"
+	.string "de skulle hele sig eller beskytte\n"
+	.string "sig selv.$"
 
 VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
-	.string "SCOTT: Hey there, {PLAYER}{KUN}!\n"
-	.string "I thought I might see you here.\p"
-	.string "A BATTLE TENT's a place where\n"
-	.string "you can meet tough TRAINERS.\p"
-	.string "It doesn't matter what the rules are,\n"
-	.string "or how battles are waged, either.\p"
-	.string "{PLAYER}{KUN}, I expect you to do\n"
-	.string "the best you can!$"
+	.string "SCOTT: Hej, {PLAYER}{KUN}!\n"
+	.string "Jeg tænkte, at jeg måske ville se dig her.\p"
+	.string "I en KAMPPLADS er det et sted, hvor\n"
+	.string "du kan møde seje TRÆNERE.\p"
+	.string "Det har ingen betydning, hvad reglerne er,\n"
+	.string "eller hvordan kampe udkæmpes.\p"
+	.string "{PLAYER}{KUN}, jeg forventer, at du gør\n"
+	.string "dit bedste!$"
 
 VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly:
-	.string "SCOTT: I visit here regularly in hopes\n"
-	.string "of seeing tough TRAINERS in action\l"
-	.string "in whatever the situation.$"
+	.string "SCOTT: Jeg besøger dette sted regelmæssigt i håb\n"
+	.string "om at se seje TRÆNERE i aktion,\l"
+	.string "uanset situationen.$"
+
