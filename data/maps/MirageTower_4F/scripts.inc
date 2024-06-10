@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ROOT_FOSSIL, 1
 .set LOCALID_CLAW_FOSSIL, 2
 
@@ -61,20 +63,23 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 	end
 
 MirageTower_4F_Text_TakeRootFossil:
-	.string "You found the ROOT FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-	.string "around it will likely crumble away…\p"
-	.string "Take the ROOT FOSSIL anyway?$"
+	.string "Du har fundet RODEN FOSILEN.\p"
+	.string "Hvis denne FOSIL bliver taget, vil\t\n"
+	.string "jorden omkring den sandsynligvis\t\n"
+	.string "smuldre væk…\p"
+	.string "Skal du tage RODEN FOSILEN alligevel?$"
 
 MirageTower_4F_Text_LeftRootFossilAlone:
-	.string "{PLAYER} left the ROOT FOSSIL alone.$"
+	.string "{PLAYER} lod RODFOSILET være alene.$"
 
 MirageTower_4F_Text_TakeClawFossil:
-	.string "You found the CLAW FOSSIL.\p"
-	.string "If this FOSSIL is taken, the ground\n"
-	.string "around it will likely crumble away…\p"
-	.string "Take the CLAW FOSSIL anyway?$"
+	.string "Du har fundet KLOFOSILET.\p"
+	.string "Hvis dette FOSIL bliver taget, vil\n"
+	.string "jorden omkring det sandsynligvis smuldre…\p"
+	.string "Vil du tage KLOFOSILET alligevel?$"
 
 MirageTower_4F_Text_LeaveClawFossilAlone:
-	.string "{PLAYER} left the CLAW FOSSIL alone.$"
+.string "{PLAYER} lod KLO FOSILET for sig selv.$"
+
+
 
