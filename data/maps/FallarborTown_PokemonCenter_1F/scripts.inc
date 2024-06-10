@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 .set LOCALID_LANETTE, 4
 
@@ -85,30 +87,32 @@ FallarborTown_PokemonCenter_1F_Movement_LanetteExitWest:
 	step_end
 
 FallarborTown_PokemonCenter_1F_Text_LanetteGreeting:
-	.string "Oh, hello.\n"
-	.string "You are?\p"
-	.string "Okay, your name's {PLAYER}{KUN}.\n"
-	.string "I can see that you're a TRAINER.\p"
-	.string "So that means you use the POKéMON\n"
-	.string "Storage System I developed.\p"
-	.string "How I arrived at that conclusion is\n"
-	.string "a simple deductive process.\p"
-	.string "You spoke to me because you wanted\n"
-	.string "to access something on this PC.\p"
-	.string "Oh, I'm sorry. I'm LANETTE.\p"
-	.string "Honestly, I'm glad to meet you--it's\n"
-	.string "great you're using the Storage System.\p"
-	.string "If you could, please visit me at home.\n"
-	.string "My house is on ROUTE 114.$"
+	.string "Hej, hej.\n"
+	.string "Hvad hedder du?\p"
+	.string "Okay, dit navn er {PLAYER}{KUN}.\n"
+	.string "Jeg kan se, at du er en TRÆNER.\p"
+	.string "Det betyder, at du bruger det POKéMON\n"
+	.string "Opbevaringssystem, jeg har udviklet.\p"
+	.string "Hvordan jeg nåede frem til den konklusion,\n"
+	.string "er en enkel deduktiv proces.\p"
+	.string "Du talte med mig, fordi du ønskede\n"
+	.string "adgang til noget på denne computer.\p"
+	.string "Åh, undskyld. Jeg er LANETTE.\p"
+	.string "Ærligt talt er jeg glad for at møde dig--det\n"
+	.string "er fantastisk, at du bruger Opbevaringssystemet.\p"
+	.string "Hvis du kunne, så besøg mig derhjemme.\n"
+	.string "Mit hus er på RUTE 114.$"
 
 FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown:
-	.string "I wonder what POKéMON looked like\n"
-	.string "long, long ago?\p"
-	.string "Maybe the FOSSIL MANIAC at the edge\n"
-	.string "of town will know.$"
+	.string "Jeg er nysgerrig på, hvordan POKéMON så ud\n"
+	.string "for længe, længe siden?\p"
+	.string "Måske vil FOSSILFANATIKEREN ved kanten\n"
+	.string "af byen vide.$"
 
 FallarborTown_PokemonCenter_1F_Text_PlantHardyTrees:
-	.string "In the fields of FALLARBOR, we plant\n"
-	.string "seedlings of hardy trees that thrive\l"
-	.string "even in volcanic ash.$"
+	.string "I FJEDENE AF FALLARBOR, planter vi\n"
+	.string "spirer af robuste træer, der trives\n"
+	.string "selv i vulkansk aske.$"
+
+
 
