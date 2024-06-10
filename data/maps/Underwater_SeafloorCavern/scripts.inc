@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Underwater_SeafloorCavern_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, Underwater_SeafloorCavern_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, Underwater_SeafloorCavern_OnTransition
@@ -41,10 +43,12 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	end
 
 Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "“SUBMARINE EXPLORER 1” is painted\n"
-	.string "on the hull.\p"
-	.string "This is the submarine TEAM AQUA\n"
-	.string "stole in SLATEPORT!\p"
-	.string "TEAM AQUA must have gone\n"
-	.string "ashore here.$"
+	.string "“UNDERSØISKER 1” er malet\n"
+	.string "på skroget.\p"
+	.string "Dette er ubåden HOLD AQUA\n"
+	.string "stjal i SLATEPORT!\p"
+	.string "HOLD AQUA må være gået\n"
+	.string "i land her.$"
+
+
 
