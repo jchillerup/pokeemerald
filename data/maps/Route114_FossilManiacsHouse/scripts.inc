@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route114_FossilManiacsHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route114_FossilManiacsHouse_OnTransition
 	.byte 0
@@ -31,24 +33,26 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "My big brother's the FOSSIL MANIAC…\n"
-	.string "He's a nice guy who loves FOSSILS…\p"
-	.string "He loves digging holes, too…\n"
-	.string "He dug this hole by himself…\p"
-	.string "You can have this, so you can DIG\n"
-	.string "holes just like my big brother…$"
+	.string "Min storebror er Fossilentusiasten…\n"
+	.string "Han er en rar fyr, som elsker FOSSILER…\p"
+	.string "Han elsker også at grave huller…\n"
+	.string "Han gravede dette hul selv…\p"
+	.string "Du kan få dette, så du kan GRAVE\n"
+	.string "huller ligesom min storebror…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "If you make a POKéMON DIG inside a\n"
-	.string "cave, you're returned to the entrance…$"
+	.string "Hvis du laver en POKéMON GRAVE inde i\n"
+	.string "en hule, så bliver du sendt tilbage til indgangen…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
-	.string "Rocks in peculiar shapes fill\n"
-	.string "the display case…$"
+	.string "Sten i sælsomme former fylder\n"
+	.string "udstillingskabinettet…$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "THE COMPOSITION OF STRATA…\n"
-	.string "HOW RAIN SHAPES THE LAND…\l"
-	.string "STONES, SOIL, AND ROCK…\p"
-	.string "It's crammed with books.$"
+	.string "SAMMENSÆTNINGEN AF LAGENE…\n"
+	.string "HVORDAN REGN FORMER LANDET…\l"
+	.string "STEN, JORD OG KLIPPER…\p"
+	.string "Den er proppet med bøger.$"
+
+
 
