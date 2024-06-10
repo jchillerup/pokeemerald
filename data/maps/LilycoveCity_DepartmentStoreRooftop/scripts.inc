@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_DepartmentStoreRooftop_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, LilycoveCity_DepartmentStoreRooftop_OnTransition
 	.byte 0
@@ -185,35 +187,36 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 	end
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
-	.string "Don't they have set dates for their\n"
-	.string "clear-out sales?\p"
-	.string "I watch TV, but they never show any\n"
-	.string "commercials.$"
+	.string "Har de ikke faste datoer for deres\n"
+	.string "udsalg?\p"
+	.string "Jeg ser fjernsyn, men de viser aldrig\n"
+	.string "nogen reklamer.$"  
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
-	.string "Yes! I've been waiting a long time for\n"
-	.string "this clear-out sale.\p"
-	.string "They have items that you can only get\n"
-	.string "here. I'm going to load up, that I am!$"
+	.string "Ja! Jeg har ventet længe på den\n"
+	.string "her lagersalg.\p"
+	.string "De har ting, som du kun kan få\n"
+	.string "her. Jeg vil fylde kurven, det vil jeg!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
-	.string "Ohh… I'm bone-dry thirsty!$"
+.string "Åh... Jeg er tørst som en kamel i ørkenen!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike:
-	.string "It's a VENDING MACHINE.\n"
-	.string "Which drink would you like?$"
+	.string "Det er en SLIKAUTOMAT.\n"
+	.string "Hvilken drikkelse vil du have?$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
-	.string "Clang!\p"
-	.string "A can of {STR_VAR_1} dropped down.$"
+	.string "Pang!\p"
+	.string "En dåse med {STR_VAR_1} faldt ned.$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown:
-	.string "Clang!\p"
-	.string "Score! An extra can of {STR_VAR_1}\n"
-	.string "dropped down!$"
+	.string "Pang!\p"
+	.string "Score! En ekstra dåse {STR_VAR_1}\n"
+	.string "er røget ned!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
-	.string "Not enough money…$"
+.string "Ikke nok penge…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Decided against buying a drink.$"
+	.string "Besluttede mig for ikke at købe en drink.$"
+
