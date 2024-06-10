@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_RIVAL_ON_BIKE, 7
 .set LOCALID_RIVAL, 8
 
@@ -277,133 +279,136 @@ LavaridgeTown_EventScript_HerbShopSign::
 	end
 
 LavaridgeTown_Text_MayNiceBadgesTakeThis:
-	.string "MAY: {PLAYER}{KUN}! Long time no see!\p"
-	.string "Oh? While I visited the hot springs,\n"
-	.string "you got the LAVARIDGE GYM BADGE.\p"
-	.string "You must have collected\n"
-	.string "good POKéMON…\l"
-	.string "No, I believe you raised some.\p"
-	.string "I guess it would be okay for you to\n"
-	.string "have this.$"
+	.string "MAY: {PLAYER}{KUN}! Lang tid siden vi har set hinanden!\p"
+	.string "Åh? Mens jeg besøgte varme kilder,\n"
+	.string "fik du LAVARIDGE GYM BADGE.\p"
+	.string "Du må have samlet\n"
+	.string "gode POKéMON…\l"
+	.string "Nej, jeg tror du har opdrættet nogle.\p"
+	.string "Jeg gætter på, at det er okay for dig at\n"
+	.string "få dette.$"
 
 LavaridgeTown_Text_MayExplainGoGogglesChallengeDad:
-	.string "MAY: With those GO-GOGGLES, you'll\n"
-	.string "have no trouble getting through the\l"
-	.string "desert near ROUTE 111.\p"
-	.string "But, wow, {PLAYER}{KUN}…\n"
-	.string "Challenging GYMS…\p"
-	.string "You're trying hard because you don't\n"
-	.string "want to lose to me, I bet!\p"
-	.string "{PLAYER}{KUN}, I think I should challenge\n"
-	.string "your dad in PETALBURG GYM.\p"
-	.string "See you again!$"
+	.string "MED de GO-BRILLER, kommer du ingen\n"
+	.string "problemer igennem ørkenen nær\n"
+	.string "VEJ 111.\p"
+	.string "Men, wow, {PLAYER}{KUN}…\n"
+	.string "At udfordre GYMMER…\p"
+	.string "Du gør virkelig en indsats, fordi\n"
+	.string "du ikke vil tabe til mig, hva'!\p"
+	.string "{PLAYER}{KUN}, jeg tror, jeg burde\n"
+	.string "udfordre din far i PETALBURG GYM.\p"
+	.string "Vi ses igen!$"
 
 LavaridgeTown_Text_BrendanNiceBadgesTakeThis:
-	.string "BRENDAN: {PLAYER}, hey, it's been a while.\n"
-	.string "How's it going?\p"
+	.string "BRENDAN: {PLAYER}, hey, det var længe siden.\n"
+	.string "Hvordan går det?\p"
 	.string "Hmm…\n"
-	.string "That's a decent collection of BADGES.\p"
-	.string "All right, then.\n"
-	.string "You may as well have this.$"
+	.string "Det er en fin samling af MÆRKER.\p"
+	.string "Godt, så.\n"
+	.string "Du kan ligeså godt få dette.$"
 
 LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad:
-	.string "BRENDAN: Keep those with you if you're\n"
-	.string "planning on going into that desert near\l"
+	.string "BRENDAN: Hold dem godt fast, hvis du har\n"
+	.string "planer om at tage ind i ørkenen nær\l"
 	.string "ROUTE 111.\p"
-	.string "There should be some POKéMON that\n"
-	.string "are exclusively desert-dwellers.\l"
-	.string "You might look around for those.\p"
-	.string "As for me…\n"
-	.string "I'm considering challenging NORMAN,\l"
-	.string "the GYM LEADER of PETALBURG.\p"
-	.string "Unlike you, {PLAYER}, your dad looks like\n"
-	.string "he really is tough.\p"
-	.string "See you around!$"
+	.string "Der burde være nogle POKéMON, der\n"
+	.string "kun bor i ørkenområder.\l"
+	.string "Du skulle kigge efter dem.\p"
+	.string "Hvad angår mig…\n"
+	.string "Jeg overvejer at udfordre NORMAN,\l"
+	.string "LEDEREN af PETALBURG's GYM.\p"
+	.string "I modsætning til dig, {PLAYER}, ser\n"
+	.string "din far virkelig sej ud.\p"
+	.string "Vi ses!$"
 
 LavaridgeTown_Text_HaveEggWillYouTakeIt:
-	.string "I have here an EGG.\p"
-	.string "I'd hoped to hatch it by covering it in\n"
-	.string "hot sand by the hot springs.\l"
-	.string "But that doesn't seem to be enough…\p"
-	.string "I've heard it would be best if it were\n"
-	.string "kept together with POKéMON and\l"
-	.string "carried about.\p"
-	.string "You are a TRAINER, yes?\n"
-	.string "And your POKéMON radiate vitality.\p"
-	.string "So, what say you?\n"
-	.string "Will you take this EGG to hatch?$"
+	.string "Jeg har her ET ÆG.\p"
+	.string "Jeg havde håbet at få det til at\l"
+	.string "klække ved at dække det til med varm\n"
+	.string "sand ved de varme kilder.\l"
+	.string "Men det ser ikke ud til at være\n"
+	.string "nok…\p"
+	.string "Jeg har hørt, at det ville være bedst,\n"
+	.string "hvis det blev holdt sammen med POKéMON\n"
+	.string "og båret rundt.\p"
+	.string "Du er en TRÆNER, ikke sandt?\n"
+	.string "Og dine POKéMON udstråler vitalitet.\p"
+	.string "Så, hvad siger du?\n"
+	.string "Vil du tage dette ÆG for at klække?$"
 
 LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
-	.string "Good! I hope you'll walk plenty with\n"
-	.string "this here EGG!$"
+	.string "Godt! Jeg håber, du vil gå rigeligt\n"
+	.string "med dette her ÆG!$"
 
 LavaridgeTown_Text_ReceivedTheEgg:
-	.string "{PLAYER} received the EGG.$"
+".string "{PLAYER} modtog ÆGGET.$"
 
 LavaridgeTown_Text_NoRoomForThisEgg:
-	.string "Oh? You've too many POKéMON.\n"
-	.string "There's no room for this EGG…$"
+	.string "Åh? Du har for mange POKéMON.\n"
+	.string "Der er ikke plads til dette ÆG…$"
 
 LavaridgeTown_Text_AsYouWishThen:
-	.string "As you wish, then…\p"
-	.string "If you have a change of heart about\n"
-	.string "hatching this EGG, I will be here.$"
+	.string "Som du ønsker, så...\p"
+	.string "Hvis du ændrer mening om at\n"
+	.string "udruge dette ÆG, så er jeg her.$"
 
 LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare:
-	.string "Every so often, an EGG will be found at\n"
-	.string "the POKéMON DAY CARE.\p"
-	.string "Or at least that's how the rumor goes.$"
+	.string "Af og til vil der blive fundet et \n"
+	.string "ÆG på POKéMON-BØRNEHUSET.\p"
+	.string "I hvert fald sådan lyder rygtet.$"
 
 LavaridgeTown_Text_HotSpringsNeverRunDry:
-	.string "We draw as much hot water as we need,\n"
-	.string "and yet the hot springs never run dry.\p"
-	.string "Isn't it magical?\p"
-	.string "These hot springs appear near active\n"
-	.string "volcanoes. Veins of water under the\l"
-	.string "ground are heated by magma to well up\l"
-	.string "as hot springs.$"
+	.string "Vi tager så meget varmt vand, som vi har brug for,\n"
+	.string "og alligevel løber varme kilder aldrig tør.\p"
+	.string "Er det ikke magisk?\p"
+	.string "Disse varme kilder opstår nær aktive\n"
+	.string "vulkaner. Vandårer under jorden opvarmes af magma\l"
+	.string "for at stige op som varme kilder.$" 
 
 LavaridgeTown_Text_PokemonNippedBackside:
-	.string "Being buried in this hot sand is…\n"
-	.string "Sigh…\p"
-	.string "So warm and heavenly…\p"
-	.string "Eh? Gyaah! Ouch!\p"
-	.string "A POKéMON nipped my backside!$"
+	.string "At være begravet i denne varme sand er…\n"
+	.string "Suk…\p"
+	.string "Så varmt og himmelsk…\p"
+	.string "Hvad? Gyaah! Av!\p"
+	.string "En POKéMON bed mig bag i!$"
 
 LavaridgeTown_Text_OhYouLikeHotSprings:
-	.string "Oh, you like hot springs, do you?\p"
-	.string "That's surprising for one as young\n"
-	.string "as you.$"
+	.string "Åh, kan du lide varme kilder, gør du?\p"
+	.string "Det er overraskende for en så ung\n"
+	.string "som dig.$"
 
 LavaridgeTown_Text_BatheInHotSpringsEveryDay:
-	.string "I bathe in the hot springs every day.\p"
-	.string "I want to become a beautiful and strong\n"
-	.string "GYM LEADER like FLANNERY.$"
+	.string "Jeg bader i de varme kilder hver dag.\p"
+	.string "Jeg vil gerne blive en smuk og stærk\n"
+	.string "GYM LEDER som FLANNERY.$"
 
 LavaridgeTown_Text_IfPokemonInHotSprings:
-	.string "If people put POKéMON in hot springs,\n"
-	.string "it might be seriously strange.\p"
-	.string "Why, it might be an electric bath, or\n"
-	.string "a bubble bath, or even a lava bath…$"
+	.string "Hvis folk lægger POKéMON i varme kilder,\n"
+	.string "kunne det være virkelig mærkeligt.\p"
+	.string "Måske ender det som et elektrisk bad,\n"
+	.string "et boblebad eller endda et lava-bad…$"
 
 LavaridgeTown_Text_HotSpringsClaims:
-	.string "They're claiming that these hot springs\n"
-	.string "are good for calming nervous tension,\l"
-	.string "relieving aching muscles, solving\l"
-	.string "romantic problems, and attracting\l"
-	.string "money…$"
+	.string "De påstår, at disse varme kilder\n"
+	.string "er gode til at berolige nervøs\n"
+	.string "spænding, lindre ømme muskler,\l"
+	.string "løse romantiske problemer og\l"
+	.string "tiltrække penge…$"
 
 LavaridgeTown_Text_TownSign:
 	.string "LAVARIDGE TOWN\p"
-	.string "“POKéMON CENTER HOT SPRINGS\n"
-	.string "An excellent place for relaxing!”$"
+	.string "“POKéMON CENTER VARME KILDER\n"
+	.string "Et fremragende sted at slappe af!”$"
 
 LavaridgeTown_Text_GymSign:
-	.string "LAVARIDGE TOWN POKéMON GYM\n"
-	.string "LEADER: FLANNERY\l"
-	.string "“One with a fiery passion that burns!”$"
+	.string "LAVARIDGE BY POKéMON GYM\n"
+	.string "LEDER: FLANNERY\l"
+	.string "“En med en ildfuld passion, der brænder!”$"
 
 LavaridgeTown_Text_HerbShopSign:
-	.string "POKéMON HERB SHOP\n"
-	.string "“Bitter taste--better cure!”$"
+	.string "POKéMON URTEBUTIK\n"
+	.string "“Bitter smag - bedre kur!”$"
+
+
 
