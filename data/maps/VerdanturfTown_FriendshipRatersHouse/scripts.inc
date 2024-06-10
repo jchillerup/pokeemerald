@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 VerdanturfTown_FriendshipRatersHouse_MapScripts::
 	.byte 0
 
@@ -63,42 +65,44 @@ VerdanturfTown_FriendshipRatersHouse_EventScript_Pikachu::
 	end
 
 VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou:
-	.string "Let me see your POKéMON.\n"
-	.string "I'll check to see how much it likes you.\p"
-	.string "Oh.\n"
-	.string "Your POKéMON…$"
+	.string "Lad mig se dine POKéMON.\n"
+	.string "Jeg vil tjekke for at se, hvor meget det kan lide dig.\p"
+	.string "Åh.\n"
+	.string "Dit POKéMON…$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou:
-	.string "It adores you.\n"
-	.string "It can't possibly love you any more.\l"
-	.string "I even feel happy seeing it.$"
+	.string "Den er vild med dig.\n"
+	.string "Den kan ikke elske dig mere.\l"
+	.string "Jeg bliver endda glad, når jeg ser det.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy:
-	.string "It seems to be very happy.\n"
-	.string "It obviously likes you a whole lot.$"
+	.string "Den ser ud til at være meget glad.\n"
+	.string "Den kan tydeligvis rigtig godt lide dig.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot:
-	.string "It likes you quite a lot.\n"
-	.string "It seems to want to be babied a little.$"
+	.string "Den kan godt lide dig en hel masse.\n"
+	.string "Den virker til at ville passes lidt på.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou:
-	.string "It's getting used to you.\n"
-	.string "It seems to believe in you.$"
+	.string "Den vænner sig til dig.\n"
+	.string "Den virker til at tro på dig.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou:
-	.string "It's not very used to you yet.\n"
-	.string "It neither loves nor hates you.$"
+	.string "Det er ikke meget brugt til dig endnu.\n"
+	.string "Det elsker eller hader dig ikke.$" 
 
 VerdanturfTown_FriendshipRatersHouse_Text_VeryWary:
-	.string "It's very wary.\n"
-	.string "It has scary viciousness in its eyes.\l"
-	.string "It doesn't like you much at all.$"
+	.string "Den er meget forsigtig.\n"
+	.string "Den har skræmmende ondskab i sine øjne.\l"
+	.string "Den kan ikke lide dig meget.$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou:
-	.string "This is a little hard for me to say…\p"
-	.string "Your POKéMON simply detests you.\n"
-	.string "Doesn't that make you uncomfortable?$"
+	.string "Det her er lidt svært for mig at sige…\p"
+	.string "Din POKéMON hader dig simpelthen.\n"
+	.string "Gør det dig ikke utilpas?$"
 
 VerdanturfTown_FriendshipRatersHouse_Text_Pikachu:
-	.string "PIKACHU: Pika pika!$"
+	.string "PIKACHU: Pika pika!$"  
+
+
 
