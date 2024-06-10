@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 PacifidlogTown_PokemonCenter_1F_MapScripts::
@@ -30,21 +32,23 @@ PacifidlogTown_PokemonCenter_1F_EventScript_OldMan::
 	end
 
 PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
-	.string "What color is your TRAINER CARD?\n"
-	.string "Mine's copper!$"
+	.string "Hvilken farve er dit TRÆNERKORT?\n"
+	.string "Mit er kobber!$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "PACIFIDLOG TOWN floats on top of\n"
-	.string "a colony of CORSOLA.\p"
-	.string "If I told you that, would you believe\n"
-	.string "me?$"
+	.string "PACIFIDLOG BY f l o a t e r på t o p p e n a f\n"
+	.string "en koloni af CORSOLA.\p"
+	.string "Hvis jeg fortalte dig det, ville du\n"
+	.string "t r o  m i g?$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
-	.string "The ancestors of the people in\n"
-	.string "PACIFIDLOG were said to have been\l"
-	.string "born on boats and then lived and died \l"
-	.string "aboard them.\p"
-	.string "I understand that they lived that way\n"
-	.string "because they were searching for\l"
-	.string "something.$"
+	.string "Forfædrene til folkene i\n"
+	.string "PACIFIDLOG siges at være blevet\l"
+	.string "født på både og levede og døde \l"
+	.string "ombord på dem.\p"
+	.string "Jeg forstår, at de levede på den måde\n"
+	.string "fordi de søgte efter\l"
+	.string "noget.$"
+
+
 
