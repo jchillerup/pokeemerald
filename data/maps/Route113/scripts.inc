@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route113_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, Route113_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, Route113_OnTransition
@@ -134,33 +136,35 @@ Route113_EventScript_Wyatt::
 	end
 
 Route113_Text_AshCanBeFashionedIntoGlass:
-	.string "Wahahaha! Today's technology is a\n"
-	.string "wondrous thing!\p"
-	.string "Take this volcanic ash here.\n"
-	.string "It can be fashioned into glass.$"
+	.string "Wahahaha! Dagens teknologi er en \n"
+	.string "vidunderlig ting!\p"
+	.string "Tag denne vulkanske aske her. \n"
+	.string "Den kan formes til glas.$"
 
 Route113_Text_FunWalkingThroughAsh:
-	.string "It's fun walking through the volcano's\n"
-	.string "ashes on the ground and grass.\p"
-	.string "You can see where you walked--it's\n"
-	.string "really neat!$"
+	.string "Det er sjovt at gå gennem vulkanens\n"
+	.string "aske på jorden og græsset.\p"
+	.string "Du kan se, hvor du gik - det er\n"
+	.string "virkelig fedt!$"
 
 Route113_Text_RouteSign111:
-	.string "ROUTE 113\n"
-	.string "{RIGHT_ARROW} ROUTE 111$"
+	.string "RUTE 113\n"
+	.string "{RIGHT_ARROW} RUTE 111$"
 
 Route113_Text_RouteSignFallarbor:
-	.string "ROUTE 113\n"
-	.string "{LEFT_ARROW} FALLARBOR TOWN$"
+	.string "RUTE 113\n"
+	.string "{LEFT_ARROW} FALLARBOR BY$"
 
 Route113_Text_TrainerTipsRegisterKeyItems:
-	.string "TRAINER TIPS\p"
-	.string "You may register one of the KEY ITEMS\n"
-	.string "in your BAG as SELECT.\p"
-	.string "Simply press SELECT to use\n"
-	.string "the registered item conveniently.$"
+	.string "TRÆNER TIPS\p"
+	.string "Du kan registrere en af de VIGTIGE GENSTANDE\n"
+	.string "i din TASKE som VÆLG.\p"
+	.string "Tryk blot på VÆLG for at bruge\n"
+	.string "den registrerede genstand praktisk.$"
 
 Route113_Text_GlassWorkshopSign:
-	.string "GLASS WORKSHOP\n"
-	.string "“Turning Volcanic Ash into Glass Items”$"
+	.string "GLASVÆRKSTED\n"
+	.string "“Omdannelse af vulkansk aske til glasgenstande”$"
+
+
 
