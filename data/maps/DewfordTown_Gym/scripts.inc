@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 DewfordTown_Gym_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, DewfordTown_Gym_OnTransition
 	.byte 0
@@ -283,121 +285,121 @@ DewfordTown_Gym_EventScript_GymStatue::
 	end
 
 DewfordTown_Gym_Text_GymGuideAdvice:
-	.string "Hey, how's it going, CHAMPION-\n"
-	.string "bound {PLAYER}?\p"
-	.string "DEWFORD's GYM LEADER BRAWLY commands\n"
-	.string "FIGHTING-type POKéMON.\p"
-	.string "Going against him with NORMAL-type\n"
-	.string "POKéMON is asking for trouble.\p"
-	.string "FIGHTING POKéMON will lay a serious\n"
-	.string "smack down on NORMAL POKéMON,\l"
-	.string "so be careful!\p"
-	.string "What's worse, the GYM is as dark as\n"
-	.string "the ocean floor.\p"
-	.string "But it will get brighter after defeating\n"
-	.string "the TRAINERS in your way.\p"
-	.string "Hey, okay, go for it!$"
+	.string "Hej, hvordan går det, CHAMPION-\n"
+	.string "bundet {PLAYER}?\p"
+	.string "DEWFORDs GYM-LEDer BRAWLY er kommandant\n"
+	.string "af KAMP-type POKéMON.\p"
+	.string "At stille op mod ham med NORMAL-\n"
+	.string "type POKéMON er at bede om problemer.\p"
+	.string "KAMP POKéMON vil give NORMAL POKéMON\n"
+	.string "en alvorlig omgang,\l"
+	.string "så vær forsigtig!\p"
+	.string "Hvad der er værre, er at GYMMET er\n"
+	.string "så mørkt som havets bund.\p"
+	.string "Men det vil blive lysere efter at have\n"
+	.string "besejret TRÆNERNE på din vej.\p"
+	.string "Okay, gå efter det!$" 
 
 DewfordTown_Gym_Text_GymGuidePostVictory:
-	.string "Whoah! It's turned too bright in here!\p"
-	.string "Your future is bright, too!$"
+	.string "Whoah! Det er blevet alt for lyst herinde!\p"
+	.string "Din fremtid er også lys!$"
 
 DewfordTown_Gym_Text_TakaoIntro:
-	.string "Might is right!\n"
-	.string "Come on!$"
+	.string "Styrke er ret!\n"
+	.string "Kom nu!$"
 
 DewfordTown_Gym_Text_TakaoDefeat:
-	.string "Not enough power…$"
+.string "Ikke nok energi..."$
 
 DewfordTown_Gym_Text_TakaoPostBattle:
-	.string "Your skill overcame my strength!\n"
-	.string "Your technique is commendable!$"
+	.string "Dit dygtighed overvandt min styrke!\n"
+	.string "Din teknik er beundringsværdig!$"
 
 DewfordTown_Gym_Text_JocelynIntro:
-	.string "There's no need for BRAWLY to be\n"
-	.string "involved!\p"
-	.string "I'll crush you!$"
+	.string "Der er ingen grund til, at BRAWLY\n"
+	.string "skal blande sig!\p"
+	.string "Jeg vil knuse dig!$"
 
 DewfordTown_Gym_Text_JocelynDefeat:
-	.string "But… How?\n"
-	.string "How could I lose so easily?$"
+	.string "Men... Hvordan?\n"
+	.string "Hvordan kunne jeg tabe så let?$"
 
 DewfordTown_Gym_Text_JocelynPostBattle:
-	.string "I'm not going to waste this loss.\n"
-	.string "I'll use it to motivate me to train!\p"
-	.string "One day I'll become a GYM LEADER…\p"
-	.string "No, I'll become the POKéMON LEAGUE\n"
-	.string "CHAMPION!$"
+	.string "Jeg vil ikke spilde dette nederlag.\n"
+	.string "Jeg vil bruge det til at motivere mig til at træne!\p"
+	.string "En dag vil jeg blive en GYM LEDER...\p"
+	.string "Nej, jeg vil blive POKéMON LIGA\n"
+	.string "MESTER!$"
 
 DewfordTown_Gym_Text_LauraIntro:
-	.string "Don't you dare brush me off!\n"
-	.string "It's not my fault if you cry!$"
+	.string "Du tør ikke at afvise mig!\n"
+	.string "Det er ikke min skyld, hvis du græder!$"
 
 DewfordTown_Gym_Text_LauraDefeat:
-	.string "Waaaaaaah!\n"
-	.string "I lost!$"
+	.string "Buuhuu!\n"
+	.string "Jeg tabte!$"
 
 DewfordTown_Gym_Text_LauraPostBattle:
-	.string "I battle in the dark to make my heart\n"
-	.string "stronger.\p"
-	.string "But because it's so dark, I can never\n"
-	.string "see BRAWLY's face…$"
+	.string "Jeg kæmper i mørket for at gøre mit\n"
+	.string "hjerte stærkere.\p"
+	.string "Men fordi det er så mørkt, kan jeg\n"
+	.string "aldrig se BRAWLY's ansigt…$"
 
 DewfordTown_Gym_Text_LilithIntro:
 	.string "Ufufu…\n"
-	.string "Are you stumbling around in the dark?$"
+	.string "Er du ved at snuble rundt i mørket?$"
 
 DewfordTown_Gym_Text_LilithDefeat:
-	.string "Oh, you…\n"
-	.string "I don't want to know you!$"
+	.string "Åh, dig…\n"
+	.string "Jeg vil ikke kende dig!$"
 
 DewfordTown_Gym_Text_LilithPostBattle:
-	.string "You deserve to stay lost and end up\n"
-	.string "back at the entrance again!$"
+	.string "Du fortjener at forblive tabt og ende\n"
+	.string "tilbage ved indgangen igen!$"
 
 DewfordTown_Gym_Text_BrendenIntro:
-	.string "I'll show you the gumption of\n"
-	.string "a sailing man!$"
+	.string "Jeg vil vise dig manden ombord\n"
+	.string "på et skib!$"
 
 DewfordTown_Gym_Text_BrendenDefeat:
-	.string "How'd this happen?\n"
-	.string "It's not like me to lose this way!$"
+	.string "Hvordan skete det her?\n"
+	.string "Det er ikke ligesom mig at tabe på denne måde!$"
 
 DewfordTown_Gym_Text_BrendenPostBattle:
-	.string "Oh, aye! You're worthy of seeing\n"
-	.string "our GYM LEADER.$"
+	.string "Åh, ja! Du er værdig til at se\n"
+	.string "vores GYM LEDER.$"
 
 DewfordTown_Gym_Text_CristianIntro:
-	.string "If you mean to pass, it has to be\n"
-	.string "through me!$"
+	.string "Hvis du vil passere, må det være\n"
+	.string "gennem mig!$"
 
 DewfordTown_Gym_Text_CristianDefeat:
 	.string "Grrrrr!\n"
-	.string "Vastly overpowered!$"
+	.string "Voldsomt overlegen!$"  
 
 DewfordTown_Gym_Text_CristianPostBattle:
-	.string "You win!\n"
-	.string "Go after that BADGE!$"
+	.string "Du vinder!\n"
+	.string "Jagten på DETT BADGE!$"
 
 DewfordTown_Gym_Text_BrawlyIntro:
-	.string "I'm BRAWLY!\n"
-	.string "DEWFORD's GYM LEADER!\p"
-	.string "I've been churned in the rough waves\n"
-	.string "of these parts, and I've grown tough\l"
-	.string "in the pitch-black cave!\p"
-	.string "So you wanted to challenge me?\n"
-	.string "Let me see what you're made of!$"
+	.string "Jeg er BRAWLY!\n"
+	.string "DEWFORDs GYM LEDER!\p"
+	.string "Jeg er blevet skyllet rundt i de\n"
+	.string "vilde bølger her omkring, og jeg er\n"
+	.string "blevet stærk i den knaldsorte hule!\p"
+	.string "Så du ville udfordre mig?\n"
+	.string "Lad mig se hvad du er lavet af!$"
 
 DewfordTown_Gym_Text_BrawlyDefeat:
-	.string "Whoah, wow! You made a much bigger\n"
-	.string "splash than I expected!\p"
-	.string "You swamped me!\p"
-	.string "Okay, you've got me.\n"
-	.string "Take this GYM BADGE!$"
+	.string "Whoah, wow! Du lavede en meget\n"
+	.string "Større plask end jeg forventede!\p"
+	.string "Du oversvømmede mig!\p"
+	.string "Okay, du fik mig.\n"
+	.string "Tag dette GYM BADGE!$"
 
 DewfordTown_Gym_Text_ReceivedKnuckleBadge:
-	.string "{PLAYER} received the KNUCKLE BADGE\n"
-	.string "from BRAWLY.$"
+	.string "{PLAYER} modtog KNUKLE-BADGEN\n"
+	.string "fra BRAWLY.$"
 
 DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "The KNUCKLE BADGE makes all POKéMON\n"
@@ -409,51 +411,52 @@ DewfordTown_Gym_Text_KnuckleBadgeInfoTakeThis:
 	.string "MACHINE, too.$"
 
 DewfordTown_Gym_Text_ExplainBulkUp:
-	.string "That TM08 contains BULK UP.\p"
-	.string "It's a move that raises both ATTACK\n"
-	.string "and DEFENSE stats.\p"
+	.string "Den TM08 indeholder BULK UP.\p"
+	.string "Det er et træk, der øger både\n"
+	.string "ANGREB og FORSVAR statistikker.\p"
 	.string "… … … … … …$"
 
 DewfordTown_Gym_Text_RegisteredBrawly:
-	.string "Registered GYM LEADER BRAWLY\n"
-	.string "in the POKéNAV.$"
+	.string "Registreret GYM LEDER BRAWLY\n"
+	.string "i POKéNAV'en.$"
 
 DewfordTown_Gym_Text_BrawlyPostBattle:
-	.string "I can see your talent becoming a giant\n"
-	.string "wave to cause a storm of astonishment\l"
-	.string "among TRAINERS one day!$"
+	.string "Jeg kan se dit talent blive til en kæmpe\n"
+	.string "bølge, der vil forårsage en storm af\n"
+	.string "forundring blandt TRÆNERE en dag!\p$"
 
 DewfordTown_Gym_Text_GymStatue:
-	.string "DEWFORD TOWN POKéMON GYM$"
+.string "DEWFORD BY POKéMON GYM$" 
 
 DewfordTown_Gym_Text_GymStatueCertified:
-	.string "DEWFORD TOWN POKéMON GYM\p"
-	.string "BRAWLY'S CERTIFIED TRAINERS:\n"
+	.string "DEWFORD BY POKéMON GYM\p"
+	.string "BRAWLY'S GODKENDTE TRÆNERE:\n"
 	.string "{PLAYER}$"
 
 DewfordTown_Gym_Text_BrawlyPreRematch:
-	.string "BRAWLY: A wave may draw back, but it\n"
-	.string "always returns to the shore.\p"
-	.string "A giant wave of a talent like you…\n"
-	.string "I knew you would return!\p"
-	.string "Show me how much higher\n"
-	.string "you've gone!$"
+	.string "BRAWLY: En bølge kan trække sig tilbage,\n"
+	.string "men den vender altid tilbage til kysten.\p"
+	.string "En kæmpemæssig bølge af et talent som dig…\n"
+	.string "Jeg vidste, at du ville vende tilbage!\p"
+	.string "Vis mig, hvor meget højere\n"
+	.string "du er nået!$"
 
 DewfordTown_Gym_Text_BrawlyRematchDefeat:
-	.string "Wow!\n"
-	.string "Swamped again!$"
+	.string "Øv!\n"
+	.string "Overvældet igen!$"
 
 DewfordTown_Gym_Text_BrawlyPostRematch:
-	.string "BRAWLY: Battling is vast and it's deep.\n"
-	.string "You can't see the bottom.\l"
-	.string "It's just like the sea of HOENN!$"
+	.string "BRAWLY: Kamp er vidt og bredt.\n"
+	.string "Du kan ikke se bunden.\p"
+	.string "Det er ligesom havet i HOENN!$"
 
 DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons:
-	.string "BRAWLY: A wave may draw back, but it\n"
-	.string "always returns to the shore.\p"
-	.string "A giant wave of a talent like you…\n"
-	.string "I knew you would return!\p"
-	.string "Oh? You only have one POKéMON\n"
-	.string "that can battle.\p"
-	.string "I'm sorry, but I'd like you to come back\n"
-	.string "with at least two POKéMON.$"
+    .string "BRAWLY: En bølge kan trække sig tilbage,\n"
+    .string "men den vender altid tilbage til stranden.\p"
+    .string "En kæmpebølge af et talent som dig…\n"
+    .string "Jeg vidste, du ville vende tilbage!\p"
+    .string "Åh? Du har kun én POKéMON,\n"
+    .string "der kan kæmpe.\p"
+    .string "Jeg beklager, men jeg vil gerne bede dig\n"
+    .string "om at komme tilbage med mindst to POKéMON.$"
+
