@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MtPyre_1F_MapScripts::
 	.byte 0
 
@@ -26,22 +28,25 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "All sorts of beings wander the slopes\n"
-	.string "of MT. PYRE…\p"
-	.string "There is no telling what may happen.\n"
-	.string "Take this. It's for your own good.$"
+	.string "Alle slags væsner vandrer op ad\n"
+	.string "MT. PYRE…\p"
+	.string "Det er umuligt at vide, hvad der kan\n"
+	.string "ske. Tag dette. Det er til dit eget\n"
+	.string "bedste.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Have a POKéMON hold that\n"
-	.string "CLEANSE TAG.\p"
-	.string "It will help ward off wild POKéMON.$"
+	.string "Få en POKéMON til at holde\n"
+	.string "en RENSE TAG.\p"
+	.string "Det vil hjælpe med at skræmme vilde POKéMON.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Did you come to pay your respect\n"
-	.string "to the spirits of departed POKéMON?\p"
-	.string "You must care for your POKéMON a lot.$"
+	.string "Kom du for at vise respekt\n"
+	.string "til ånderne af afdøde POKéMON?\p"
+	.string "Du må virkelig passe godt på dine POKéMON.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:
-	.string "This is the final resting place of my\n"
-	.string "ZIGZAGOON. I cherished it…$"
+	.string "Dette er det endelige hvilested for min\n"
+	.string "ZIGZAGOON. Jeg satte pris på det...$"
+
+
 
