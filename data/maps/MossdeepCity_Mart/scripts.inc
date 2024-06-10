@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MossdeepCity_Mart_MapScripts::
 	.byte 0
 
@@ -39,22 +41,24 @@ MossdeepCity_Mart_EventScript_Sailor::
 	end
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
-	.string "REVIVE is fantastic!\p"
-	.string "Give it to a fainted POKéMON,\n"
-	.string "and the POKéMON will arise.\p"
-	.string "But be careful, REVIVE doesn't restore\n"
-	.string "the used-up PP of moves.$"
+	.string "REVIVE er fantastisk!\p"
+	.string "Giv det til en besvimet POKéMON,\n"
+	.string "og POKéMON vil genopstå.\p"
+	.string "Men vær forsigtig, REVIVE genopretter ikke\n"
+	.string "de brugte PP af angrebene.$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "MAX REPEL keeps all weak POKéMON away.\p"
-	.string "Out of all the REPEL sprays, it lasts\n"
-	.string "the longest.$"
+	.string "MAX REPEL holder alle svage POKéMON væk.\p"
+	.string "Af alle REPEL-sprays varer den\n"
+	.string "længst.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
-	.string "The NET and DIVE BALLS are rare POKé\n"
-	.string "BALLS that are only made in MOSSDEEP.\p"
-	.string "A NET BALL is effective against\n"
-	.string "BUG-type and WATER-type POKéMON.\p"
-	.string "A DIVE BALL works best on POKéMON\n"
-	.string "at the bottom of the sea.$"
+	.string "NET- og DYKKERKUGLERNE er sjældne\n"
+	.string "POKéKUGLER, som kun laves i MOSSDEEP.\p"
+	.string "En NETKUGLE er effektiv mod\n"
+	.string "BUG-type og VAND-type POKéMON.\p"
+	.string "En DYKKERKUGLE fungerer bedst på\n"
+	.string "POKéMON på havets bund.$"
+
+
 
