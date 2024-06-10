@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_FOSSIL_MANIAC, 1
 
 Route114_FossilManiacsTunnel_MapScripts::
@@ -56,38 +58,40 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	end
 
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "I'm the FOSSIL MANIAC…\n"
-	.string "I'm a nice guy who loves FOSSILS…\p"
-	.string "Do you want a FOSSIL?\p"
-	.string "But the FOSSILS around these parts all\n"
-	.string "belong to me… None for you…\p"
-	.string "If you can't bear to go without\n"
-	.string "a FOSSIL, look in a desert where there\l"
-	.string "are boulders and sand that may hide\l"
-	.string "FOSSILS…$"
+	.string "Jeg er Fossilmennesket…\n"
+	.string "Jeg er en rar fyr, der elsker FOSILER…\p"
+	.string "Vil du have en FOSIL?\p"
+	.string "Men FOSILERNE i disse egne tilhører\n"
+	.string "mig… Ingen til dig…\p"
+	.string "Hvis du ikke kan klare dig uden en\n"
+	.string "FOSIL, så kig i en ørken, hvor der er\l"
+	.string "store sten og sand, der kan skjule\l"
+	.string "FOSILER…$"
 
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "You found a FOSSIL, didn't you?\n"
-	.string "That's so nice… It's so dreamy…\p"
-	.string "What are you going to do with that\n"
+	.string "Du fandt en FOSSIL, gjorde du ikke?\n"
+	.string "Det er så dejligt... Det er så drømmende...\p"
+	.string "Hvad vil du gøre med den\n"
 	.string "FOSSIL?\p"
-	.string "From what I've heard, DEVON is doing\n"
-	.string "research on reviving POKéMON from\l"
-	.string "FOSSILS…\p"
-	.string "I love my FOSSILS, so I would never\n"
-	.string "do anything like that…$"
+	.string "Fra hvad jeg har hørt, forsker DEVON i\n"
+	.string "at genoplive POKéMON fra\l"
+	.string "FOSSILER... \p"
+	.string "Jeg elsker mine FOSSILER, så jeg ville\n"
+	.string "aldrig gøre noget sådant...$"
 
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
-	.string "FOSSILS are so… Wonderful…\n"
-	.string "It's so dreamy…$"
+	.string "Fossiler er så... Vidunderlige...\n"
+	.string "Det er så drømmende...$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
-	.string "Oh…\n"
-	.string "It's not safe that way…\p"
-	.string "I was digging away, you see…\n"
-	.string "When the whole wall collapsed…\p"
-	.string "I think there's a giant cavern\n"
-	.string "underneath now…\p"
-	.string "But I've left it alone because I don't\n"
-	.string "think there are any FOSSILS there…$"
+	.string "Åh…\n"
+	.string "Det er ikke sikkert den vej…\p"
+	.string "Jeg gravede, ser du…\n"
+	.string "Da hele væggen kollapsede…\p"
+	.string "Jeg tror, der er en kæmpe hule\n"
+	.string "nedenunder nu…\p"
+	.string "Men jeg har ladet den være, fordi jeg\n"
+	.string "tror ikke, der er nogen FOSILER der…$"
+
+
 
