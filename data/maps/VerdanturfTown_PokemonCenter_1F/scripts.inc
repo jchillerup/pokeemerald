@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 VerdanturfTown_PokemonCenter_1F_MapScripts::
@@ -27,18 +29,19 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "You can't consider yourself a real\n"
-	.string "TRAINER if you don't have faith\l"
-	.string "in your POKéMON.\p"
-	.string "Only those people who can believe\n"
-	.string "in their battling POKéMON can win\l"
-	.string "through to the very end.$"
+	.string "Du kan ikke betragte dig selv som en\n"
+	.string "TRÆNER, hvis du ikke har tro på\n"
+	.string "dine POKéMON.\p"
+	.string "Kun de, der kan tro på deres\n"
+	.string "kæmpende POKéMON, kan vinde helt\n"
+	.string "til slutningen.$"
 
 VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent:
-	.string "The reason why anyone would visit\n"
+	.string "Grunden til at nogen ville besøge\n"
 	.string "VERDANTURF…\p"
-	.string "It's the BATTLE TENT. It goes without\n"
-	.string "saying.\p"
-	.string "Or is there somebody here that you\n"
-	.string "came to see?$"
+	.string "Det er KAMPTALTET. Det siger sig selv.\p"
+	.string "Eller er der nogen her, som du\n"
+	.string "kom for at besøge?$"
+
+
 
