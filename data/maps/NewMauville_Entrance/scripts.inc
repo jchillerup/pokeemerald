@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 NewMauville_Entrance_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, NewMauville_Entrance_OnLoad
 	map_script MAP_SCRIPT_ON_TRANSITION, NewMauville_Entrance_OnTransition
@@ -47,12 +49,14 @@ NewMauville_Entrance_EventScript_DontOpenDoor::
 	end
 
 NewMauville_Entrance_Text_DoorIsLocked:
-	.string "The door is locked.$"
+.string "Døren er låst.$"
 
 NewMauville_Entrance_Text_UseBasementKey:
-	.string "Use the BASEMENT KEY?$"
+.string "Brug KÆLDER NØGLEN?$"
 
 NewMauville_Entrance_Text_UsedBasementKey:
-	.string "{PLAYER} used the BASEMENT KEY.\p"
-	.string "The door opened!$"
+	.string "{PLAYER} brugte KÆLDERNØGLEN.\p"
+	.string "Døren åbnede!$"
+
+
 
