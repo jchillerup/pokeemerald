@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_SUDOWOODO, 14
 
 BattleFrontier_OutsideEast_MapScripts::
@@ -234,206 +236,209 @@ BattleFrontier_OutsideEast_EventScript_Camper::
 	end
 
 BattleFrontier_OutsideEast_Text_BattleTowerSign:
-	.string "This is the BATTLE TOWER!\n"
-	.string "Keep the win streak as the toughest\l"
-	.string "TRAINER!$"
+	.string "Dette er KAMP-TÅRNET!\n"
+	.string "Hold sejrsstimen som den sejeste \l"
+	.string "TRÆNER!$"
 
 BattleFrontier_OutsideEast_Text_BattlePalaceSign:
-	.string "This is the BATTLE PALACE!\n"
-	.string "Keep your eyes on POKéMON battles!$"
+	.string "Dette er KAMP PALADSET!\n"
+	.string "Hold øje med POKéMON kampe!$"
 
 BattleFrontier_OutsideEast_Text_BattleArenaSign:
-	.string "This is the BATTLE ARENA!\n"
-	.string "Let the toughest teams gather!$"
+	.string "Dette er KAMPARENEN!\n" 
+	.string "Lad de sejeste hold samles!$"
 
 BattleFrontier_OutsideEast_Text_BattlePyramidSign:
-	.string "This is the BATTLE PYRAMID!\n"
-	.string "Advance through the Battle Quest!$"
+	.string "Dette er KAMPPIRAMIDEN!\n"
+	.string "Fortsæt gennem Kampopgaven!$"
 
 BattleFrontier_OutsideEast_Text_RankingHallSign:
-	.string "BATTLE FRONTIER RANKING HALL\n"
-	.string "Set your sights on new records!$"
+	.string "KAMPFRONTIER-RANGERINGSHALLEN\n"
+	.string "Sæt kurs mod nye rekorder!$"
 
 BattleFrontier_OutsideEast_Text_ExchangeCornerSign:
-	.string "BATTLE POINT EXCHANGE SERVICE CORNER\n"
-	.string "Exchange your Battle Points!$"
+	.string "KAMPPOINT UDVEKSLINGSTJENESTE HJØRNE\n"
+	.string "Udveksl dine KampPoint!$"
 
 BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial:
 	.string "Wow!\n"
-	.string "It's huge!\p"
-	.string "The BATTLE TOWER feels special.\n"
-	.string "It's different from the others.$"
+	.string "Det er kæmpestort!\p"
+	.string "KAMP-TÅRNET føles specielt.\n"
+	.string "Det er anderledes end de andre.$"
 
 BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier:
-	.string "My grand ambition is to conquer both\n"
-	.string "the BATTLE FRONTIER and the POKéMON\l"
+	.string "Min store ambition er at erobre både\n"
+	.string "BATTLE FRONTIER og POKéMON\l"
 	.string "LEAGUE.\p"
-	.string "And if my dream comes true…\p"
-	.string "I… I'm going to ask MIMI next door\n"
-	.string "if she will be friends with me!$"
+	.string "Og hvis min drøm går i opfyldelse…\p"
+	.string "Så vil jeg… jeg spørger MIMI\n"
+	.string "næste dør, om hun vil være venner\n"
+	.string "med mig!$"
 
 BattleFrontier_OutsideEast_Text_PyramidTooHarsh:
-	.string "The BATTLE PYRAMID's too harsh!\n"
-	.string "I just can't make it to the top!\p"
-	.string "Since I'm out of options, maybe I can\n"
-	.string "climb the outside…$"
+	.string "BATTLE PYRAMIDEN er for barsk!\n"
+	.string "Jeg kan bare ikke nå toppen!\p"
+	.string "Nu hvor jeg er løbet tør for muligheder,\n"
+	.string "kan jeg måske prøve at klatre udenpå…$"
 
 BattleFrontier_OutsideEast_Text_ThriveInDarkness:
-	.string "I thrive in darkness…\n"
-	.string "Yes… What is worthy of me?\l"
-	.string "None other than the BATTLE PYRAMID…\p"
-	.string "What say you to wandering in darkness\n"
-	.string "and in utter and total desperation?$"
+	.string "Jeg trives i mørket…\n"
+	.string "Ja… Hvad er værdigt for mig?\l"
+	.string "Intet andet end KAMP PYRAMIDEN…\p"
+	.string "Hvad siger du til at vandre i mørket\n"
+	.string "og i fuldstændig og total desperation?$"
 
 BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam:
-	.string "I didn't sleep for a week, but then\n"
-	.string "I put together the ultimate team!\p"
-	.string "I can't see myself losing, no joke.\n"
-	.string "We're storming the BATTLE ARENA!$"
+	.string "Jeg har ikke sovet i en uge, men så\n"
+	.string "samlede jeg det ultimative hold!\p"
+	.string "Jeg kan ikke forestille mig at tabe, ingen joke.\n"
+	.string "Vi stormer KAMPARENEN!$"
 
 BattleFrontier_OutsideEast_Text_DidScottBringYouHere:
-	.string "Did SCOTT bring you here, too?\n"
-	.string "What is it with that guy?\p"
-	.string "It sounds like he really does know\n"
-	.string "how to spot talented TRAINERS, but…\p"
-	.string "I've never seen him battling in person\n"
-	.string "ever.$"
+	.string "Har SCOTT også bragt dig herhen?\n"
+	.string "Hvad er det med den fyr?\p"
+	.string "Det lyder som om, at han virkelig\n"
+	.string "ved, hvordan man spotter talentfulde\n"
+	.string "TRÆNERE, men...\p"
+	.string "Jeg har aldrig set ham kæmpe i\n"
+	.string "person nogensinde.$"
 
 BattleFrontier_OutsideEast_Text_BelieveInYouBuddy:
-	.string "ZIGG!\n"
-	.string "I believe in you, little buddy!\p"
-	.string "I'll make my little ZIGG any favorite\n"
-	.string "tasty treats you like if you win!$"
+	.string "Svip!\n"
+	.string "Jeg tror på dig, lille ven!\p"
+	.string "Jeg laver alle dine yndlings\n"
+	.string "lækre godbider, hvis du vinder!$"
 
 BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant:
-	.string "ZIGZAGOON looks vacant…$"
+.string "Zigzagoon ser tom ud…$"
 
 BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody:
-	.string "People call me a busybody,\n"
-	.string "but I can't help it.\p"
-	.string "Your hat's on crooked!\n"
-	.string "Oh, no, trash on the ground!\l"
-	.string "Oops, it's almost dinnertime!\p"
-	.string "I don't know if I can stand to just\n"
-	.string "watch at the BATTLE PALACE…$"
+	.string "Folk kalder mig en nysgerrigper,\n"
+	.string "men jeg kan ikke lade være.\p"
+	.string "Din hat er skæv!\n"
+	.string "Åh nej, affald på jorden!\l"
+	.string "Ups, det er næsten spisetid!\p"
+	.string "Jeg ved ikke, om jeg kan holde\n"
+	.string "mig bare til at se på KAMPALLET…$"
 
 BattleFrontier_OutsideEast_Text_OnceBeatGymLeader:
-	.string "I may not look that impressive now,\n"
-	.string "but I once beat a GYM LEADER.\p"
-	.string "Who knows, maybe I should give it\n"
-	.string "another shot at glory.$"
+	.string "Jeg ser måske ikke så imponerende ud nu,\n"
+	.string "men jeg har engang slået en GYM LEDER.\p"
+	.string "Hvem ved, måske skulle jeg prøve\n"
+	.string "igen for at få lidt ære.$"
 
 BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles:
-	.string "I'm fast on my BIKE, and that goes for\n"
-	.string "the way I battle, too.\p"
-	.string "I win matches in the blink of\n"
-	.string "an eye!$"
+	.string "Jeg er hurtig på min CYKEL, og det gælder\n"
+	.string "også for den måde, jeg kæmper på.\p"
+	.string "Jeg vinder kampe på et øjebliks\n"
+	.string "næsten!$"
 
 BattleFrontier_OutsideEast_Text_BetterThanDaddyAtPokemon:
-	.string "I'm better than my daddy\n"
-	.string "at POKéMON.$"
+	.string "Jeg er bedre end min far\n"
+	.string "til POKéMON.$"
 
 BattleFrontier_OutsideEast_Text_GoRackUpSomeWinsForDaddy:
-	.string "Go on, my baby sweetie!\n"
-	.string "Go rack up some wins for Daddy!\p"
-	.string "You're just like your mother,\n"
-	.string "so you'll be dominating!$"
+	.string "Kom så, min skattemus!\n"
+	.string "Luk nogle sejre ned for Far!\p"
+	.string "Du er ligesom din mor,\n"
+	.string "så du vil dominere!$"
 
 BattleFrontier_OutsideEast_Text_HeardPrettyGirlAtBattleArena:
-	.string "It wasn't easy getting here,\n"
-	.string "but I'd heard about this knockout\l"
-	.string "pretty girl at the BATTLE ARENA.\p"
-	.string "Instead of her, do you know what\n"
-	.string "I found?\p"
-	.string "A whole teeming mob of sweaty,\n"
-	.string "stinky, and primitive martial artists!$"
+	.string "Det var ikke nemt at komme herhen,\n"
+	.string "men jeg havde hørt om den smukke\l"
+	.string "pige på KAMPARENAEN.\p"
+	.string "I stedet for hende, ved du hvad\n"
+	.string "jeg fandt?\p"
+	.string "En hel myriade af svedige,\n"
+	.string "stinkende og primitive kampsportsudøvere!$"
 
 BattleFrontier_OutsideEast_Text_SometimesImportantOldManInThere:
-	.string "I sometimes see this really important-\n"
-	.string "looking old man going in there.\p"
-	.string "He has these really awesome POKéMON.\n"
-	.string "He seems really nice, though.$"
+	.string "Jeg ser nogle gange denne virkelig vigtige-\n"
+	.string "udseende gamle mand gå derind.\p"
+	.string "Han har disse virkelig fantastiske POKéMON.\n"
+	.string "Han virker dog virkelig rar.$"
 
 BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid:
-	.string "Do you know it?\n"
-	.string "The legend of the BATTLE PYRAMID?\p"
-	.string "When there comes a confident TRAINER\n"
-	.string "reaching for the golden pinnacle,\l"
-	.string "there shall appear a man among men.\p"
-	.string "Don't know that legend?\n"
-	.string "Well, of course not!\l"
-	.string "I just made it up!\p"
-	.string "What's it supposed to mean?\n"
-	.string "That, my friend, I can't say!$"
+	.string "Kender du den?\n"
+	.string "Legenden om KAMPPIRAMIDEN?\p"
+	.string "Når en selvsikker TRÆNER\n"
+	.string "stræber efter den gyldne tinde,\l"
+	.string "vil der vise sig en mand blandt mænd.\p"
+	.string "Kender du ikke den legende?\n"
+	.string "Nå, det er klart!\l"
+	.string "Jeg fandt bare på den!\p"
+	.string "Hvad betyder den?\n"
+	.string "Det kan jeg desværre ikke sige!$"
 
 BattleFrontier_OutsideEast_Text_GotWipedOut:
-	.string "Man! Oh man!\n"
-	.string "I've never lost once before!\p"
-	.string "But I got wiped out with no saving\n"
-	.string "grace at all!\p"
-	.string "And then I'm told I don't have any\n"
-	.string "talent?! Man!$"
+	.string "Mand! Åh mand!\n"
+	.string "Jeg har aldrig tabt før!\p"
+	.string "Men jeg blev helt udryddet uden\n"
+	.string "nogen nåde overhovedet!\p"
+	.string "Og så får jeg at vide, at jeg\n"
+	.string "ikke har nogen talent?! Mand!$"
 
 BattleFrontier_OutsideEast_Text_ToughTrainerInBattleTower:
-	.string "This guy ran into a horribly tough\n"
-	.string "TRAINER while he was on the BATTLE\l"
-	.string "TOWER challenge.\p"
-	.string "Now look at him…\p"
-	.string "You need to be cautious if you ever\n"
-	.string "decide to go to the BATTLE TOWER.$"
+	.string "Denne fyr løb ind i en forfærdeligt\n"
+	.string "sej TRÆNER, mens han var på BATTLE\l"
+	.string "TOWER-udfordringen.\p"
+	.string "Nu ser du ham... \p"
+	.string "Du skal være forsigtig, hvis du nogensinde\n"
+	.string "beslutter dig for at tage til BATTLE TOWER.$"  
 
 BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll:
-	.string "Yes!\n"
-	.string "I've finally got enough Battle Points!\p"
-	.string "I guess I'll trade for another giant\n"
-	.string "plush DOLL!$"
+	.string "Ja!\n"
+	.string "Jeg har endelig nok Kamp Point!\p"
+	.string "Jeg gætter på, at jeg vil bytte til en\n"
+	.string "anden kæmpe BAMSE!\p$"
 
 BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere:
-	.string "Oh, yeah, okay!\n"
-	.string "So this is the RANKING HALL!\p"
-	.string "I'd like to go down in history as\n"
-	.string "a super champ and have my name\l"
-	.string "recorded here for posterity.$"
+	.string "Åh, ja, okay!\n"
+	.string "Så dette er RANGERINGSSALEN!\p"
+	.string "Jeg vil gerne gå ned i historien\n"
+	.string "som en supermester og have mit\n"
+	.string "navn optaget her for eftertiden.$"
 
 BattleFrontier_OutsideEast_Text_CanDoAnythingWithYou:
-	.string "With you by my side, I can do anything.$"
+.string "Med dig ved min side, kan jeg gøre hvad som helst.$"
 
 BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome:
-	.string "Ooh, darling, you are so wonderful!\p"
-	.string "Ooh, I just can't wait anymore!\p"
-	.string "Let's go to a MULTI BATTLE ROOM\n"
-	.string "right this instant!\p"
-	.string "If we get together in the BATTLE SALON,\n"
-	.string "the power of our love will overcome\l"
-	.string "everyone we meet.\p"
-	.string "Why, before us, darling, everything\n"
-	.string "will topple like dominoes!$"
+	.string "Åh, skat, du er så fantastisk!\p"
+	.string "Åh, jeg kan simpelthen ikke vente mere!\p"
+	.string "Lad os gå til en MULTI BATTLE ROOM\n"
+	.string "lige her og nu!\p"
+	.string "Hvis vi samles i BATTLE SALONEN,\n"
+	.string "vil kraften af vores kærlighed overvinde\l"
+	.string "alle vi møder.\p"
+	.string "Ja, skat, foran os vil alt\n"
+	.string "vælte som dominobrikker!$"
 
 BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers:
-	.string "The BATTLE FRONTIER isn't exclusively\n"
-	.string "for tough TRAINERS.\p"
-	.string "Many people with special abilities\n"
-	.string "have been invited, it seems.\p"
-	.string "That man SCOTT…\p"
-	.string "He may have built this place to serve\n"
-	.string "a bigger objective…$"
+	.string "Kampfronten er ikke kun for seje TRÆNERE.\n"
+	.string "Det ser ud til, at mange personer med\n"
+	.string "særlige evner er blevet inviteret.\p"
+	.string "Den mand SCOTT…\p"
+	.string "Han har måske opført dette sted for at\n"
+	.string "tjene et større formål…$"
 
 BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle:
-	.string "Excuse me, young one.\n"
-	.string "Have you good eyesight?\p"
-	.string "There is an odd tree past here, and to\n"
-	.string "my tired eyes it seems to wiggle.$"
+	.string "Undskyld mig, lille ven.\n"
+	.string "Har du godt syn?\p"
+	.string "Der er et underligt træ længere\n"
+	.string "herfra, og for mine trætte øjne\n"
+	.string "ser det ud til at bevæge sig.$"
 
 BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere:
-	.string "Excuse me, young one.\n"
-	.string "Have you a good memory?\p"
-	.string "I have this feeling there once was\n"
-	.string "an odd tree past here.$"
+	.string "Undskyld, du unge.\n"
+	.string "Har du en god hukommelse?\p"
+	.string "Jeg har denne følelse, at der engang\n"
+	.string "var et mærkeligt træ her.$"
 
 BattleFrontier_OutsideEast_Text_StickyMonWithLongTail:
-	.string "I…\n"
-	.string "I saw it!\p"
-	.string "There was a sticky sort of a POKéMON\n"
-	.string "with a long tail up ahead!\p"
-	.string "It was hiding under a boulder, and\n"
-	.string "it kept staring at me!$"
+	.string "Jeg...\n"
+	.string "Jeg så det!\p"
+	.string "Der var en klæbrig slags POKéMON\n"
+	.string "med en lang hale længere fremme!\p"
+	.string "Den gemte sig under en sten, og\n"
+	.string "den stirrede på mig hele tiden!$"
+
