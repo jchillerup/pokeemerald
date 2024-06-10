@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MagmaHideout_3F_1R_MapScripts::
 	.byte 0
 
@@ -12,32 +14,34 @@ MagmaHideout_3F_1R_EventScript_Grunt16::
 	end
 
 MagmaHideout_3F_1R_Text_Grunt9Intro:
-	.string "What did I do to deserve this guard\n"
-	.string "posting?\p"
-	.string "My left ear is burning up!$"
+	.string "Hvad har jeg gjort for at fortjene denne vagt\n"
+	.string "tjeneste?\p"
+	.string "Mit venstre øre brænder op!$"
 
 MagmaHideout_3F_1R_Text_Grunt9Defeat:
-	.string "I'm getting heat exhaustion…$"
+	.string "Jeg får hedeslag...\p$"
 
 MagmaHideout_3F_1R_Text_Grunt9PostBattle:
-	.string "Do you think it's odd that we're wearing\n"
-	.string "hoods in this magma-filled volcano?$"
+	.string "Synes du ikke, det er underligt, at vi går\n"
+	.string "rundt med hætter i denne magmafyldte vulkan?$"
 
 MagmaHideout_3F_1R_Text_Grunt16Intro:
-	.string "We joined so we can help our leader\n"
-	.string "achieve his fantastic vision.\p"
-	.string "I don't care if you're with TEAM AQUA\n"
-	.string "or if you're just some kid passing by.\p"
-	.string "No one interferes with us and gets\n"
-	.string "away with it!$"
+	.string "Vi er med for at hjælpe vores leder\n"
+	.string "med at opnå hans fantastiske vision.\p"
+	.string "Jeg er ligeglad med om du er fra HOLD AQUA\n"
+	.string "eller bare et tilfældigt barn, der går forbi.\p"
+	.string "Ingen kommer og blander sig i vores\n"
+	.string "sager og slipper godt fra det!$"
 
 MagmaHideout_3F_1R_Text_Grunt16Defeat:
-	.string "Oh, no!\n"
-	.string "You're not to be trusted at all!$"
+	.string "Åh, nej! \n" 
+	.string "Du er slet ikke til at stole på!$"
 
 MagmaHideout_3F_1R_Text_Grunt16PostBattle:
-	.string "Listen to me.\n"
-	.string "TEAM MAGMA is right!\p"
-	.string "Don't listen to TEAM AQUA.\n"
-	.string "Don't believe their lies!$"
+	.string "Lyt til mig.\n"
+	.string "HOLD MAGMA har ret!\p"
+	.string "Lyt ikke til HOLD AQUA.\n"
+	.string "Tro ikke på deres løgne!$"
+
+
 
