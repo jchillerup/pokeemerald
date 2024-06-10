@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 EverGrandeCity_SidneysRoom_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, EverGrandeCity_SidneysRoom_OnLoad
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, EverGrandeCity_SidneysRoom_OnWarp
@@ -65,23 +67,26 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
-	.string "Welcome, challenger!\n"
-	.string "I'm SIDNEY of the ELITE FOUR.\p"
-	.string "I like that look you're giving me.\n"
-	.string "I guess you'll give me a good match.\l"
-	.string "That's good! Looking real good!\p"
-	.string "All right! You and me, let's enjoy\n"
-	.string "a battle that can only be staged\l"
-	.string "here in the POKéMON LEAGUE!$"
+	.string "Velkommen, udfordrer!\n"
+	.string "Jeg er SIDNEY fra DE FIRE STORSLÅEDE.\p"
+	.string "Jeg kan lide det udtryk, du giver mig.\n"
+	.string "Jeg tror, du vil give mig en god kamp.\l"
+	.string "Det er godt! Ser rigtig godt ud!\p"
+	.string "Okay! Du og jeg, lad os nyde\n"
+	.string "en kamp, der kun kan udkæmpes\l"
+	.string "her i POKéMON LIGAEN!$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
-	.string "Well, how do you like that? I lost!\n"
-	.string "Eh, it was fun, so it doesn't matter.$"
+	.string "Nå, hvad synes du om det? Jeg tabte!\n"
+	.string "Nå, det var sjovt, så det betyder ikke noget.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Well, listen to what this loser has\n"
-	.string "to say.\p"
-	.string "You've got what it takes to go far.\n"
-	.string "Now, go on to the next room and enjoy\l"
-	.string "your next battle!$"
+	.string "Nå, lyt til hvad denne taber har\n"
+	.string "at sige.\p"
+	.string "Du har, hvad der skal til for at gå\n"
+	.string "langt.\n"
+	.string "Gå nu videre til det næste rum og\n"
+	.string "nyd din næste kamp!$"
+
+
 
