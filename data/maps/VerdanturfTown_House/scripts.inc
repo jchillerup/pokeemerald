@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 VerdanturfTown_House_MapScripts::
 	.byte 0
 
@@ -10,16 +12,18 @@ VerdanturfTown_House_EventScript_Woman2::
 	end
 
 VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
-	.string "Far away, deep in EVER GRANDE CITY,\n"
-	.string "is the POKéMON LEAGUE.\p"
-	.string "The TRAINERS who gather there are\n"
-	.string "all frighteningly well skilled.$"
+	.string "Langt væk, dybt inde i EVER GRANDE CITY,\n"
+	.string "ligger POKéMON LIGAEN.\p"
+	.string "TRÆNERNE, der samles der, er alle\n"
+	.string "skræmmende veltrænede.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:
-	.string "In the POKéMON LEAGUE, I think the\n"
-	.string "rules say that you have to battle the\l"
-	.string "ELITE FOUR all in a row.\p"
-	.string "If you lose to any of them, you have\n"
-	.string "to begin your challenge again from the\l"
-	.string "first one.$"
+	.string "I POKéMON LIGAEN, tror jeg, at\n"
+	.string "reglerne siger, at du skal kæmpe mod\l"
+	.string "DE FIRE SUPER TRÆNERE i træk.\p"
+	.string "Hvis du taber til en af dem, skal du\n"
+	.string "starte din udfordring forfra fra\l"
+	.string "den første.$" 
+
+
 
