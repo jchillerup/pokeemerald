@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SootopolisCity_House6_MapScripts::
 	.byte 0
 
@@ -32,22 +34,25 @@ SootopolisCity_House6_EventScript_NoRoomForWailmerDoll::
 	end
 
 SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll:
-	.string "Hello! You're our first guest in\n"
-	.string "a good while.\p"
-	.string "You've brightened up my day, so I'll\n"
-	.string "give you a big WAILMER DOLL.$"
+	.string "Hej! Du er vores første gæst i\n"
+	.string "lang tid.\p"
+	.string "Du har gjort min dag meget bedre,\n"
+	.string "så jeg vil give dig en stor WAILMER-\n"
+	.string "DUKKE.$"
 
 SootopolisCity_House6_Text_TakeGoodCareOfIt:
-	.string "Take good care of it!$"
+	.string "Pas godt på det!$"
 
 SootopolisCity_House6_Text_IllHoldItForYou:
-	.string "Oh, you want it, but not right now?\n"
-	.string "Okay, then I'll hold it for you.$"
+	.string "Åh, vil du have det, men ikke lige nu?\n"
+	.string "Okay, så vil jeg holde det for dig.$"
 
 SootopolisCity_House6_Text_DontWantThisDoll:
-	.string "Are you sure?\n"
-	.string "You don't want this DOLL?$"
+	.string "Er du sikker?\n"
+	.string "Vil du ikke have denne DUKKE?$"
 
 SootopolisCity_House6_Text_LovePlushDolls:
-	.string "I love plush DOLLS!$"
+.string "Jeg elsker bamse DUKKER!$"
+
+
 
