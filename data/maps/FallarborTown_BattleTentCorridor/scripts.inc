@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 FallarborTown_BattleTentCorridor_MapScripts::
@@ -44,27 +46,29 @@ FallarborTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 @ Leftover text from when this was a Contest Hall in R/S
 @ Unused
 FallarborTown_ContestHall_Text_DoAllRightInPreliminary:
-	.string "We do all right in the preliminary round,\n"
-	.string "but we can never win the appeals…\p"
-	.string "Maybe it means I have to watch what\n"
-	.string "other contestants are doing…$"
+	.string "Vi klarer os fint i forrunden,\n"
+	.string "men vi kan aldrig vinde appellerne... \p"
+	.string "Måske betyder det, at jeg skal se på,\n"
+	.string "hvad de andre deltagere laver...$"
 
 @ Unused
 FallarborTown_ContestHall_Text_MonAllTheseRibbons:
-	.string "See!\n"
-	.string "My POKéMON won all these RIBBONS!\p"
-	.string "Have your POKéMON earned any RIBBONS?\n"
-	.string "You can check them on your POKéNAV.$"
+	.string "Se!\n"
+	.string "Min POKéMON har vundet alle disse BÅND!\p"
+	.string "Har dine POKéMON tjent nogen BÅND?\n"
+	.string "Du kan tjekke dem på din POKéNAV.$"
 
 @ Unused
 FallarborTown_ContestHall_Text_CantWinEverywhere:
-	.string "I can't beat GYM LEADERS…\p"
-	.string "I can't win any CONTESTS…\p"
-	.string "I've been here, there, and everywhere,\n"
-	.string "and it's all for naught…$"
+	.string "Jeg kan ikke slå GYMLEDERE…\p"
+	.string "Jeg kan ikke vinde nogen KONKURRENCER…\p"
+	.string "Jeg har været her, der og alle vegne,\n"
+	.string "og det er alt sammen forgæves…$"
 
 @ Unused
 FallarborTown_ContestHall_Text_SuperRankStage:
-	.string "POKéMON CONTESTS\n"
+	.string "POKéMON-KONKURRENCER\n"
 	.string "SUPER RANK STAGE!$"
+
+
 
