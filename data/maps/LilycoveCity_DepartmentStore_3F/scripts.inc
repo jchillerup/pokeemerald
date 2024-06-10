@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_DepartmentStore_3F_MapScripts::
 	.byte 0
 
@@ -59,18 +61,20 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 	end
 
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
-	.string "For quickly toughening up POKéMON,\n"
-	.string "items are the best.\p"
-	.string "PROTEIN boosts ATTACK,\n"
-	.string "and CALCIUM raises SP. ATK.$"
+	.string "For at gøre POKéMON hurtigt seje,\n"
+	.string "er genstande det bedste.\p"
+	.string "PROTEIN øger ANGREB,\n"
+	.string "og CALCIUM øger SP. ATK.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "I want my POKéMON to have more\n"
-	.string "endurance.\p"
-	.string "I'm trying to decide whether to raise\n"
-	.string "DEFENSE with IRON, or SP. DEF with ZINC.$"
+	.string "Jeg vil have min POKéMON til at have mere\n"
+	.string "udholdenhed.\p"
+	.string "Jeg prøver at beslutte, om jeg skal øge\n"
+	.string "FORSVAR med JERN, eller SP. DEF med ZINK.$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "I gave a CARBOS to my POKéMON,\n"
-	.string "and its SPEED went up.$"
+	.string "Jeg gav en CARBOS til min POKéMON,\n"
+	.string "og dens HASTIGHED gik op.$"
+
+
 
