@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 DewfordTown_House1_MapScripts::
 	.byte 0
 
@@ -20,17 +22,19 @@ DewfordTown_House1_EventScript_Zigzagoon::
 	end
 
 DewfordTown_House1_Text_LotToBeSaidForLivingOnIsland:
-	.string "There's a lot to be said for living on\n"
-	.string "a small island like this in harmony with\l"
-	.string "POKéMON and the family.$"
+	.string "Der er meget at sige om at bo på\n"
+	.string "en lille ø som denne i harmoni med\l"
+	.string "POKéMON og familien.$"
 
 DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
-	.string "I left the major port of SLATEPORT\n"
-	.string "CITY when I married my husband here.\p"
-	.string "Life goes by slowly on this little\n"
-	.string "island. But being surrounded by the\l"
-	.string "beautiful sea--that's happiness, too.$"
+	.string "Jeg forlod den store havn i SLATEPORT\n"
+	.string "CITY da jeg giftede mig med min mand her.\p"
+	.string "Livet går langsomt her på denne lille\n"
+	.string "ø. Men at være omgivet af det smukke\n"
+	.string "hav - det er også lykke.$"
 
 DewfordTown_House1_Text_Zigzagoon:
-	.string "ZIGZAGOON: Guguuh!$"
+.string "ZIGZAGOON: Guguuh!$"
+
+
 
