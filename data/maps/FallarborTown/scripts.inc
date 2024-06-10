@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 FallarborTown_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, FallarborTown_OnTransition
 	.byte 0
@@ -52,44 +54,47 @@ FallarborTown_EventScript_MoveTutorSign::
 	end
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
-	.string "Something's happening,\n"
-	.string "and I don't like it!\p"
-	.string "I've seen shady characters wandering\n"
-	.string "in and out of PROF. COZMO's home…$"
+	.string "Der sker noget,\n"
+	.string "og jeg kan ikke lide det!\p"
+	.string "Jeg har set skyggefulde personer vandre\n"
+	.string "ind og ud af PROF. COZMO's hjem...$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "This region's been known for meteors\n"
-	.string "since the olden days.\p"
-	.string "They say METEOR FALLS was gouged out\n"
-	.string "by a falling meteorite long ago.$"
+	.string "Denne region har været kendt for meteorer\n"
+	.string "siden oldtiden.\p"
+	.string "De siger, at METEOR FALLS blev udgravet\n"
+	.string "af en faldende meteorit for længe\n"
+	.string "siden.$"
 
 FallarborTown_Text_MyPreciousAzurill:
-	.string "See! Take a look!\n"
-	.string "This is my precious AZURILL!\p"
-	.string "It's slick and smooth and plushy, too!$"
+	.string "Se! Tag et kig!\n"
+	.string "Det her er min dyrebare AZURILL!\p"
+	.string "Den er glat og blød og plysset, også!$"
 
 FallarborTown_Text_Azurill:
-	.string "AZURILL: Rooreelooo.$"
+.string "AZURILL: Rooreelooo.$"
 
 FallarborTown_Text_HaveYouChallengedFlannery:
-	.string "Have you already challenged FLANNERY,\n"
-	.string "the LEADER of LAVARIDGE GYM?\p"
-	.string "The girl's grandfather was famous.\n"
-	.string "He was one of the ELITE FOUR in the\l"
-	.string "POKéMON LEAGUE at one point.\p"
-	.string "It wouldn't surprise me to see FLANNERY\n"
-	.string "become a great TRAINER in her own\l"
-	.string "right.$"
+	.string "Har du allerede udfordret FLANNERY,\n"
+	.string "LEDEREN af LAVARIDGE GYM?\p"
+	.string "Pigens bedstefar var berømt.\n"
+	.string "Han var en af de FIRSKE I\l"
+	.string "POKéMON LIGAEN på et tidspunkt.\p"
+	.string "Det ville ikke overraske mig at se FLANNERY\n"
+	.string "blive en stor TRÆNER i sin egen\l"
+	.string "ret.$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "BATTLE TENT FALLARBOR SITE\n"
-	.string "“May the Greatest Teams Gather!”$"
+	.string "KAMP TELT FALLARBOR PLADS\n"
+	.string "“Må de største hold samles!”$"
 
 FallarborTown_Text_TownSign:
 	.string "FALLARBOR TOWN\n"
-	.string "“A farm community with small gardens.”$"
+	.string "“Et bondegårdssamfund med små haver.”$"
 
 FallarborTown_Text_MoveTutorSign:
 	.string "MOVE TUTOR'S HOUSE\n"
-	.string "“New moves taught to POKéMON.”$"
+	.string "“Nye angreb lært til POKéMON.”$"
+
+
 
