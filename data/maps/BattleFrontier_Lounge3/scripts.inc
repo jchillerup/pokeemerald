@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 BattleFrontier_Lounge3_MapScripts::
 	.byte 0
 
@@ -198,271 +200,274 @@ BattleFrontier_Lounge3_EventScript_FaceOriginalDirection::
 	end
 
 BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere::
-	.string "…What's that you want?\p"
-	.string "Can't you see we're kind of busy here?\n"
-	.string "Can't your business wait till later?$"
+	.string "Hvad er det, du vil?\p"
+	.string "Kan du ikke se, at vi er lidt travlt lige nu?\n"
+	.string "Kan din forretning ikke vente til senere?$"
 
 BattleFrontier_Lounge3_Text_YouLookToughExplainGambling::
 	.string "…Huh?\n"
-	.string "You look to me like a tough TRAINER.\p"
+	.string "Du ser ud til at være en sej TRÆNER.\p"
 	.string "Heheh…\n"
-	.string "Listen, I have this proposition.\p"
-	.string "We have a little group going here,\n"
-	.string "and we play a little game with what\l"
-	.string "goes on in the BATTLE FRONTIER.\p"
-	.string "The rules are really simple.\p"
-	.string "First, we pick one of the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
-	.string "Then, we each pick a different TRAINER\n"
-	.string "who's taking that facility's challenge,\l"
-	.string "and bet with our Battle Points.\p"
-	.string "The guy who bet on the TRAINER with\n"
-	.string "the best record takes all the Battle\l"
-	.string "Points in the pool.\p"
-	.string "Sounds simple, huh?\n"
-	.string "So, anyway…$"
+	.string "Lyt, jeg har et forslag.\p"
+	.string "Vi har en lille gruppe her,\n"
+	.string "og vi spiller et lille spil med, hvad\l"
+	.string "der foregår i BATTLE FRONTIER.\p"
+	.string "Reglerne er virkelig simple.\p"
+	.string "Først vælger vi en af faciliteterne\n"
+	.string "i BATTLE FRONTIER.\p"
+	.string "Derefter vælger vi hver en anden TRÆNER,\n"
+	.string "som tager udfordringen i den facilitet,\l"
+	.string "og better med vores Battle Points.\p"
+	.string "Personen, der better på TRÆNEREN med\n"
+	.string "den bedste rekord, vinder alle Battle\l"
+	.string "Points i puljen.\p"
+	.string "Lytter det simpelt, ikk'? \n"
+	.string "Nå, uanset hvad…$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's SINGLE BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER, som\n"
+	.string "skal udfordre KAMP\l"
+	.string "TÅRNETS ENKELTKAMP RUM.\p"
+	.string "Men indtil videre har jeg ikke set en TRÆNER,\n"
+	.string "der besidder den sejrende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's DOUBLE BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det, jeg leder efter, er en TRÆNER, der\n"
+	.string "skal udfordre KAMP-TÅRN\ls DOUBLE\n"
+	.string "BATTLE ROOMS.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "TOWER's MULTI BATTLE ROOMS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER, der\n"
+	.string "skal udfordre KAMP\l"
+	.string "TÅRN's MULTI-KAMP-\n"
+	.string "LOKALER.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER med den sejrende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "DOME's SINGLE BATTLE Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER som\n"
+	.string "skal deltage i KAMPDOMENS\n"
+	.string "ENKELTBATLE-turnering.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "DOME's DOUBLE BATTLE Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det, jeg leder efter, er en TRÆNER,"\n
+	.string "som skal deltage i KAMPDOMENS\n"
+	.string "DOBBELTKAMPSTURNERING.\p"\n
+	.string "Men indtil videre har jeg ikke set\n"
+	.string "en TRÆNER, der besidder den\n"
+	.string "vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "FACTORY's Battle Swap Single Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Hvad jeg leder efter, er en TRÆNER, der\n"
+	.string "vil deltage i KAMPARENAENS Battle Swap Single Tourney.\p"
+	.string "Men indtil videre har jeg ikke set en TRÆNER\n"
+	.string "med den sejrende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "FACTORY's Battle Swap Double Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER, som\n"
+	.string "skal deltage i KAMPFABRIKENS\n"
+	.string "Battle Swap Double Turnering.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's SINGLE BATTLE HALLS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det, jeg leder efter, er en TRÆNER, som\n"
+	.string "kommer til at udfordre KAMPALASETs\n" 
+	.string "ENKELTBATLHALLE.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be challenging the BATTLE\l"
-	.string "PALACE's DOUBLE BATTLE HALLS.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER, der\n"
+	.string "vil udfordre KAMPALs DOBBELTBATLE-\n"
+	.string "HALLER.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER, der besidder den vindende\n"
+	.string "kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleArena::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "ARENA's Set KO Tourney.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER, som\n"
+	.string "skal deltage i KAMPARENAs Set KO Tourney.\p"
+	.string "Men indtil videre har jeg ikke set en\n"
+	.string "TRÆNER, der har den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePike::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE PIKE's\l"
-	.string "Battle Choice.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER der\n"
+	.string "skal deltage i KAMPPIKENs\l"
+	.string "Kamputvalg.\p"
+	.string "Indtil videre har jeg dog ikke set en TRÆNER\n"
+	.string "med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattlePyramid::
-	.string "What I'm looking for is a TRAINER who's\n"
-	.string "going to be entering the BATTLE\l"
-	.string "PYRAMID's Battle Quest.\p"
-	.string "But so far, I haven't seen a TRAINER\n"
-	.string "that has that winning quality.$"
+	.string "Det jeg leder efter, er en TRÆNER, som skal\n"
+	.string "deltage i KAMP\l"
+	.string "PYRAMIDENS Kamp-Quest.\p"
+	.string "Men indtil videre har jeg ikke set en TRÆNER\n"
+	.string "med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe::
-	.string "I'll see to it that you benefit, too.\n"
-	.string "So how about it?\l"
-	.string "How about entering that event for me?$"
+	.string "Jeg vil sørge for, at du også får gavn af det.\n"
+	.string "Så hvad siger du?\p"
+	.string "Hvad med at deltage i den begivenhed for mig?$"
 
 BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints::
-	.string "All right, that's perfect.\n"
-	.string "So, uh… How about spotting me some\l"
-	.string "of your Battle Points?\p"
-	.string "Trust me, I'll show you my gratitude\n"
-	.string "afterward.$"
+	.string "Okay, det er perfekt.\n"
+	.string "Så, øh... Hvad med at spotte mig\l"
+	.string "nogle af dine Kamp Point?\p"
+	.string "Tro mig, jeg vil vise dig min taknemmelighed\n"
+	.string "bagefter.$"
 
 BattleFrontier_Lounge3_Text_HowMuchCanYouSpot::
-	.string "Great, great!\n"
-	.string "So, how much can you spot me?$"
+	.string "Fantastisk, fantastisk!\n"
+	.string "Så, hvor meget kan du spotte mig?$"
 
 BattleFrontier_Lounge3_Text_YouDontHaveEnoughPoints::
-	.string "Oh, no, no, no!\n"
-	.string "You don't have enough Battle Points!\p"
-	.string "I wish you wouldn't monkey around and\n"
-	.string "waste everyone's time!$"
+	.string "Åh, nej, nej, nej!\n"
+	.string "Du har ikke nok Kamp Point!\p"
+	.string "Jeg ville ønske, du ikke pjattede rundt og\n"
+	.string "spildte alles tid!$"
 
 BattleFrontier_Lounge3_Text_ThanksOffYouGo::
-	.string "Heheh! Thanks much!\n"
-	.string "So, off you go!$"
+	.string "Hihi! Mange tak!\n"
+	.string "Så afsted med dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerSingle::
-	.string "Get to the BATTLE TOWER's\n"
-	.string "SINGLE BATTLE ROOMS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMPENS TÅRNs\n"
+	.string "ENKELTKAMPSSALEN hurtigst muligt!\p"
+	.string "Det er en skal-vinde-situation!\n"
+	.string "Blæs ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerDouble::
-	.string "Get to the BATTLE TOWER's\n"
-	.string "DOUBLE BATTLE ROOMS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom hen til KAMP-TÅRNETS\n"
+	.string "DOBBELTKAMMER hurtigst muligt!\p"
+	.string "Det er en nødvendig sejr!\n"
+	.string "Så ødelæg ikke din chance!\l"
+	.string "Vores fremtider afhænger begge af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleTowerMulti::
-	.string "Get to the BATTLE TOWER's\n"
-	.string "MULTI BATTLE ROOMS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMP TÅRNETS\n"
+	.string "MULTI-KAMP LOKALER hurtigst muligt!\p"
+	.string "Det er en must-win situation!\n"
+	.string "Misbrug ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeSingle::
-	.string "Get to the BATTLE DOME's\n"
-	.string "SINGLE BATTLE Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom ind i KAMPDOMENS\n"
+	.string "ENKELT KAMP Turnering hurtigt!\p"
+	.string "Det er en skal-vinde situation!\n"
+	.string "Blæs ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleDomeDouble::
-	.string "Get to the BATTLE DOME's\n"
-	.string "DOUBLE BATTLE Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom hen til KAMPDOMENs\n"
+	.string "DOBBELTKAMP Turnering øjeblikkeligt!\p"
+	.string "Det er en must-win situation!\n"
+	.string "Mist ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactorySingle::
-	.string "Get to the BATTLE FACTORY's\n"
-	.string "Battle Swap Single Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMPFABRIKKENS\n"
+	.string "Battle Swap Single Turnering hurtigst muligt!\p"
+	.string "Det er en skal-vinde situation!\n"
+	.string "Blæs ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble::
-	.string "Get to the BATTLE FACTORY's\n"
-	.string "Battle Swap Double Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMPFABRIKKENS\n"
+	.string "Battle Swap Double Turnering hurtigst muligt!\p"
+	.string "Det er en must-win-situation!\n"
+	.string "Blæs ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle::
-	.string "Get to the BATTLE PALACE's\n"
-	.string "SINGLE BATTLE HALLS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom nu hen til KAMPALLET's\n"
+	.string "ENKELTSLAGSHALLER hurtigst muligt!\p"
+	.string "Det er en must-win situation!\n"
+	.string "Snyd ikke dig selv for chancen!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble::
-	.string "Get to the BATTLE PALACE's\n"
-	.string "DOUBLE BATTLE HALLS pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom dig til KAMPALASET's\n"
+	.string "DUAL KAMP HALLER pronto!\p"
+	.string "Det er en must-win situation!\n"
+	.string "Blæs ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattleArena::
-	.string "Get to the BATTLE ARENA's\n"
-	.string "Set KO Tourney pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMPARENAEN's\n"
+	.string "Klar til KO-turneringen pronto!\p"
+	.string "Det er et must-win situation!\n"
+	.string "Sørg for ikke at ødelægge din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePike::
-	.string "Get to the BATTLE PIKE's\n"
-	.string "Battle Choice pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMP LANCEN\n"
+	.string "Vælg kampen pronto!\p"
+	.string "Det er en skal-vinde situation!\n"
+	.string "Snyd ikke dig selv for chancen!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_GetToBattlePyramid::
-	.string "Get to the BATTLE PYRAMID's\n"
-	.string "Battle Quest pronto!\p"
-	.string "It's a must-win situation!\n"
-	.string "Don't blow your chance!\l"
-	.string "Both of our futures depend on you!$"
+	.string "Kom til KAMP-PYRAMIDENs\n"
+	.string "Kampopgave hurtigt!\p"
+	.string "Det er en must-win situation!\n"
+	.string "Blæs ikke din chance!\l"
+	.string "Vores fremtid afhænger af dig!$"
 
 BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints::
-	.string "Oh, it's you…\n"
-	.string "Nice try…\p"
-	.string "I hate to break it to you, but I can't\n"
-	.string "return your Battle Points…\p"
-	.string "I guess we'll have to let it motivate\n"
-	.string "us to try harder next time!$"
+	.string "Åh, det er dig…\n"
+	.string "Godt forsøg…\p"
+	.string "Jeg hader at skulle sige det til dig, men\n"
+	.string "jeg kan ikke give dig dine Kamp Point\n"
+	.string "tilbage…\p"
+	.string "Jeg gætter på, at det må motivere os til\n"
+	.string "at forsøge hårdere næste gang!$"
 
 BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints::
-	.string "Oh, yes!\n"
-	.string "Hello there, champ!\p"
-	.string "I knew you could!\n"
-	.string "I knew you would!\l"
-	.string "We're both big winners!\p"
-	.string "I'll return your Battle Points and,\n"
-	.string "of course, a little extra from me!$"
+	.string "Åh, ja!\n"
+	.string "Hej, champ!\p"
+	.string "Jeg vidste, du kunne!\n"
+	.string "Jeg vidste, du ville!\l"
+	.string "Vi er begge store vindere!\p"
+	.string "Jeg vil returnere dine Kamp Point og,\n"
+	.string "selvfølgelig, lidt ekstra fra mig!$"
 
 BattleFrontier_Lounge3_Text_ObtainedBattlePoints::
-	.string "{PLAYER} obtained\n"
-	.string "{STR_VAR_1} Battle Points.$"
+	.string "{PLAYER} fik\n"
+	.string "{STR_VAR_1} Kamp Point.$"
 
 BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge::
-	.string "If you're up for another challenge,\n"
-	.string "please do think of me!$"
+	.string "Hvis du er klar til endnu en udfordring,\n"
+	.string "så tænk endelig på mig!$"
 
 BattleFrontier_Lounge3_Text_NotInterested::
-	.string "Not interested?! You shouldn't be\n"
-	.string "so afraid to take a chance!$"
+	.string "Ikke interesseret?! Du behøver ikke \n"
+	.string "være så bange for at tage en chance!$"
 
 BattleFrontier_Lounge3_Text_Oh::
-	.string "Oh…$"
+.string "Åh...$"
 
 BattleFrontier_Lounge3_Text_BackedWrongTrainer::
-	.string "I backed the wrong TRAINER again!\p"
-	.string "Maybe I should be battling normally\n"
-	.string "like everyone else…$"
+	.string "Jeg støttede den forkerte TRÆNER igen!\p"
+	.string "Måske burde jeg kæmpe normalt\n"
+	.string "ligesom alle andre…$"
 
 BattleFrontier_Lounge3_Text_TrainerGoodButRattled::
-	.string "That TRAINER…\p"
-	.string "He's good, but he gets rattled too\n"
-	.string "easily to survive the BATTLE DOME…$"
+	.string "Den TRÆNER…\p"
+	.string "Han er god, men han bliver alt for\n"
+	.string "let oprevet for at overleve KAMPDOME…$"
 
 BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne::
-	.string "Giggle!\n"
-	.string "I know a winner when I see one!$"
+	.string "Hihi!\n"
+	.string "Jeg kender en vinder, når jeg ser en!$"
 
 BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges::
-	.string "Those TRAINERS…\n"
-	.string "What are they doing?\l"
-	.string "They should be taking challenges.$"
+	.string "Disse TRÆNERE…\n"
+	.string "Hvad laver de?\l"
+	.string "De burde tage udfordringer.$"
+
