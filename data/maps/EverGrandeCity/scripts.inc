@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 EverGrandeCity_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, EverGrandeCity_OnTransition
 	.byte 0
@@ -24,14 +26,16 @@ EverGrandeCity_EventScript_SetVisitedEverGrande::
 	end
 
 EverGrandeCity_Text_EnteringVictoryRoad:
-	.string "ENTERING VICTORY ROAD$"
+.string "INDTRÆDER SEJRVEJEN$"
 
 EverGrandeCity_Text_EnteringPokemonLeague:
-	.string "ENTERING POKéMON LEAGUE\n"
-	.string "CENTER GATE$"
+	.string "INDTASTNING AF POKéMON-LIGAEN\n"
+	.string "CENTER-PORTEN$"
 
 EverGrandeCity_Text_CitySign:
 	.string "EVER GRANDE CITY\p"
-	.string "“The paradise of flowers, the sea,\n"
-	.string "and POKéMON.”$"
+	.string "“Blomsternes paradis, havet,\n"
+	.string "og POKéMON.”$"
+
+
 
