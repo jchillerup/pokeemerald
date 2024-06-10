@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NORMAN, 1
 .set LOCALID_WALLY, 10
 .set LOCALID_WALLYS_DAD, 11
@@ -1142,454 +1144,458 @@ PetalburgCity_Gym_EventScript_GymStatue::
 	end
 
 PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon:
-	.string "DAD: Hm?\p"
-	.string "Well, if it isn't {PLAYER}!\n"
-	.string "So you're all finished moving in?\p"
-	.string "I'm surprised that you managed to\n"
-	.string "get here by yourself.\p"
-	.string "Oh, I see.\n"
-	.string "You're with your POKéMON.\p"
-	.string "Hm… Then I guess you're going to\n"
-	.string "become a TRAINER like me, {PLAYER}.\p"
-	.string "That's great news!\n"
-	.string "I'll be looking forward to it!$"
+	.string "FAR: Øh?\p"
+	.string "Nå, hvis det ikke er {PLAYER}!\n"
+	.string "Så er du færdig med at flytte ind?\p"
+	.string "Jeg er overrasket over, at du\n"
+	.string "klarede det hele selv.\p"
+	.string "Nå, sådan.\n"
+	.string "Du er sammen med din POKéMON.\p"
+	.string "Øh... Så jeg gætter på, at du\n"
+	.string "skal blive en TRÆNER ligesom mig, {PLAYER}.\p"
+	.string "Det er fantastiske nyheder!\n"
+	.string "Jeg glæder mig til det!$"
 
 PetalburgCity_Gym_Text_WallyIdLikeAPokemon:
-	.string "Um… I…\n"
-	.string "I'd like to get a POKéMON, please…$"
+	.string "Øh... jeg...\n"
+	.string "Jeg vil gerne have en POKéMON, tak...$"
 
 PetalburgCity_Gym_Text_DadOhYoureWallyRight:
-	.string "DAD: Hm? You're… Uh… Oh, right.\n"
-	.string "You're WALLY, right?$"
+	.string "FAR: Øh? Du er... Øh... Åh, rigtigt.\n"
+	.string "Du er WALLY, ikke?$"
 
 PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
-	.string "WALLY: I'm going to go stay with my\n"
-	.string "relatives in VERDANTURF TOWN.\p"
-	.string "I thought I would be lonely by myself,\n"
-	.string "so I wanted to take a POKéMON along.\p"
-	.string "But I've never caught a POKéMON before.\n"
-	.string "I don't know how…$"
+	.string "WALLY: Jeg skal bo hos mine\n"
+	.string "slægtninge i VERDANTURF BY.\p"
+	.string "Jeg troede, jeg ville kede mig alene,\n"
+	.string "så jeg ville have en POKéMON med.\p"
+	.string "Men jeg har aldrig fanget en POKéMON\n"
+	.string "før. Jeg ved ikke hvordan…$"
 
 PetalburgCity_Gym_Text_DadHmISee:
-	.string "DAD: Hm. I see.$"
+	".string "Far: Hmm. Jeg ser.$"
 
 PetalburgCity_Gym_Text_DadPlayerGoWithWally:
-	.string "DAD: {PLAYER}, you heard that,\n"
-	.string "right?\p"
-	.string "Go with WALLY and make sure that he\n"
-	.string "safely catches a POKéMON.$"
+	.string "FAR: {PLAYER}, hørte du det,\n"
+	.string "ikke sandt?\p"
+	.string "Tag med WALLY og sørg for, at han\n"
+	.string "sikkert fanger en POKéMON.$"
 
 PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon:
-	.string "WALLY, here, I'll loan you my POKéMON.\p"
-	.string "WALLY received a ZIGZAGOON!$"
+	.string "WALLY, her, jeg låner dig min POKéMON.\p"
+	.string "WALLY modtog en ZIGZAGOON!$"
 
 PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall:
-	.string "WALLY: Oh, wow!\n"
-	.string "A POKéMON!\p"
-	.string "DAD: Hm. I'll give you a POKé BALL, too.\n"
-	.string "Go for it!\p"
-	.string "WALLY received a POKé BALL!$"
+	.string "WALLY: Åh, wow!\n"
+	.string "EN POKéMON!\p"
+	.string "FAR: Hm. Jeg giver dig også en POKé BALL.\n"
+	.string "Kom så!\p"
+	.string "WALLY modtog en POKé BALL!$"
 
 PetalburgCity_Gym_Text_WallyOhWowThankYou:
-	.string "WALLY: Oh, wow!\n"
-	.string "Thank you!$"
+	.string "WALLY: Åh, wow!\n"
+	.string "Tak!$"
 
 PetalburgCity_Gym_Text_WouldYouReallyComeWithMe:
-	.string "{PLAYER}… Would you really come\n"
-	.string "with me?$"
+	.string "{PLAYER}... Vil du virkelig\n" 
+	.string "komme med mig?$"
 
 PetalburgCity_Gym_Text_DadSoDidItWorkOut:
-	.string "DAD: So, did it work out?$"
+	.string "FAR: Så, fungerede det?$"
 
 PetalburgCity_Gym_Text_WallyThankYouBye:
-	.string "WALLY: Thank you, yes, it did.\n"
-	.string "Here's your POKéMON back.\p"
-	.string "{PLAYER}, thank you for coming along\n"
-	.string "with me.\p"
-	.string "You two are why I was able to catch\n"
-	.string "my POKéMON.\p"
-	.string "I promise I'll take really good\n"
-	.string "care of it.\p"
-	.string "Oh! My mom's waiting for me,\n"
-	.string "so I have to go!\p"
-	.string "Bye, {PLAYER}!$"
+	.string "WALLY: Tak, ja det gjorde det.\n"
+	.string "Her er din POKéMON tilbage.\p"
+	.string "{PLAYER}, tak fordi du var med\n"
+	.string "mig.\p"
+	.string "Det var på grund af jer to, at jeg\n"
+	.string "kunne fange min POKéMON.\p"
+	.string "Jeg lover, at jeg vil passe godt\n"
+	.string "på den.\p"
+	.string "Åh! Min mor venter på mig,\n"
+	.string "så jeg er nødt til at gå!\p"
+	.string "Farvel, {PLAYER}!$"
 
 PetalburgCity_Gym_Text_DadGoCollectBadges:
-	.string "DAD: Now…\p"
-	.string "{PLAYER}, if you want to become a\n"
-	.string "strong TRAINER, here's my advice.\p"
-	.string "Head for RUSTBORO CITY beyond this\n"
-	.string "town.\p"
-	.string "There, you should challenge\n"
-	.string "the GYM LEADER, ROXANNE.\p"
-	.string "After her, go on to other POKéMON\n"
-	.string "GYMS and defeat their LEADERS.\p"
-	.string "Collect BADGES from them,\n"
-	.string "understood?\p"
-	.string "Of course, I'm a GYM LEADER, too.\n"
-	.string "We'll battle one day, {PLAYER}.\p"
-	.string "But that's only after you become\n"
-	.string "stronger.$"
+	.string "FAR: Nu…\p"
+	.string "{PLAYER}, hvis du vil blive en\n"
+	.string "stærk TRÆNER, så her er mit råd.\p"
+	.string "Tag til RUSTBORO CITY forbi denne\n"
+	.string "by.\p"
+	.string "Der bør du udfordre\n"
+	.string "GYM LEDEREN, ROXANNE.\p"
+	.string "Efter hende, fortsæt til andre POKéMON\n"
+	.string "GYM'ER og besejr deres LEDERE.\p"
+	.string "Saml MÆRKER fra dem,\n"
+	.string "forstået?\p"
+	.string "Selvfølgelig er jeg også en GYM LEDER.\n"
+	.string "Vi skal kæmpe en dag, {PLAYER}.\p"
+	.string "Men det er kun efter du bliver\n"
+	.string "stærkere.$"
 
 PetalburgCity_Gym_Text_NormanGoToRustboro:
-	.string "DAD: Hm? Aren't you going to the\n"
-	.string "POKéMON GYM in RUSTBORO CITY?\p"
-	.string "There's no challenge for me to\n"
-	.string "battle a greenhorn TRAINER.\p"
-	.string "{PLAYER}, I want you to challenge me\n"
-	.string "when you become a lot stronger.\p"
-	.string "I'll battle you, {PLAYER}, when you\n"
-	.string "can show me four GYM BADGES, okay?$"
+	.string "FAR: Hov? Skal du ikke til\n"
+	.string "POKéMON GYM i RUSTBORO CITY?\p"
+	.string "Det er ingen udfordring for mig at\n"
+	.string "kæmpe mod en uerfaren TRÆNER.\p"
+	.string "{PLAYER}, jeg vil have dig til at\n"
+	.string "udfordre mig, når du bliver meget\n"
+	.string "stærkere.\p"
+	.string "Jeg vil kæmpe mod dig, {PLAYER}, når\n"
+	.string "du kan vise mig fire GYM BADGES, okay?$"
 
 PetalburgCity_Gym_Text_NormanGoToDewford:
-	.string "DAD: I see… So, you've beaten\n"
-	.string "the GYM LEADER in RUSTBORO CITY.\p"
-	.string "But there are many more TRAINERS\n"
-	.string "who are stronger than you, {PLAYER}.\p"
-	.string "Across the sea in DEWFORD TOWN is a\n"
-	.string "GYM LEADER named BRAWLY.\p"
-	.string "You should go challenge him.$"
+	.string "DAD: Jeg ser... Så, du har slået\n"
+	.string "GYM LEADEREN i RUSTBORO CITY.\p"
+	.string "Men der er mange flere TRÆNERE,\n"
+	.string "som er stærkere end dig, {PLAYER}.\p"
+	.string "På den anden side af havet i\n"
+	.string "DEWFORD TOWN er der en GYM LEADER\n"
+	.string "ved navn BRAWLY.\p"
+	.string "Du burde gå og udfordre ham.$"
 
 PetalburgCity_Gym_Text_YouHaveGottenStronger:
-	.string "DAD: Hm… {PLAYER}, you have gotten\n"
-	.string "stronger.\p"
-	.string "I can tell by the number of BADGES\n"
-	.string "that you've earned.$"
+	.string "FAR: Mmm… {PLAYER}, du er blevet\n"
+	.string "stærkere.\p"
+	.string "Det kan jeg se på antallet af\n"
+	.string "MÆRKER, du har tjent.$"
 
 PetalburgCity_Gym_Text_NormanIntro:
-	.string "DAD: Hm…\n"
-	.string "So, you did get four GYM BADGES.\p"
-	.string "Fine, as I promised, we will have\n"
-	.string "a POKéMON battle.\p"
+	.string "FAR: Hm…\n"
+	.string "Så, du fik fire GYM BADGES.\p"
+	.string "Godt, som jeg lovede, skal vi\n"
+	.string "have en POKéMON-kamp.\p"
 	.string "{PLAYER}…\p"
-	.string "I'm so happy that I can have\n"
-	.string "a real battle with my own child.\p"
-	.string "But, a battle is a battle!\p"
-	.string "I will do everything in my power as\n"
-	.string "a GYM LEADER to win.\p"
-	.string "{PLAYER}, you'd better give it your\n"
-	.string "best shot, too!$"
+	.string "Jeg er så glad for, at jeg kan kæmpe\n"
+	.string "en rigtig kamp med mit eget barn.\p"
+	.string "Men, en kamp er en kamp!\p"
+	.string "Jeg vil gøre alt i min magt som en\n"
+	.string "GYM LEADER for at vinde.\p"
+	.string "{PLAYER}, du må også gøre dit\n"
+	.string "bedste!$"
 
 PetalburgCity_Gym_Text_NormanDefeat:
-	.string "…\p"
-	.string "I… I can't…\p"
-	.string "I can't believe it. {PLAYER}…\p"
-	.string "I lost to {PLAYER}?\p"
-	.string "But, rules are rules!\n"
-	.string "Here, take this.$"
+	.string "Jeg… Jeg kan ikke…\p"
+	.string "Jeg kan ikke tro det. {PLAYER}…\p"
+	.string "Jeg tabte til {PLAYER}?\p"
+	.string "Men, regler er regler!\n"
+	.string "Her, tag dette.$"
 
 PetalburgCity_Gym_Text_ReceivedBalanceBadge:
-	.string "{PLAYER} received the BALANCE BADGE\n"
-	.string "from DAD!$"
+	.string "{PLAYER} modtager BALANCEMÆRKET\n"
+	.string "fra FAR!$"
 
 PetalburgCity_Gym_Text_ExplainBalanceBadgeTakeThis:
-	.string "DAD: With that BADGE, the DEFENSE\n"
-	.string "of all your POKéMON will increase.\p"
-	.string "POKéMON that know the HM move SURF\n"
-	.string "will be able to travel over water.\p"
-	.string "This is my gift to you. {PLAYER}, I'm\n"
-	.string "sure you can use it correctly.$"
+	.string "FAR: Med det HER BADGE, vil FORSVARET\n"
+	.string "af alle dine POKéMON stige.\p"
+	.string "POKéMON, der kan HM-træk som SURF,\n"
+	.string "vil kunne rejse over vand.\p"
+	.string "Dette er min gave til dig. {PLAYER}, jeg er\n"
+	.string "sikker på, at du kan bruge den korrekt.$"
 
 PetalburgCity_Gym_Text_ExplainFacade:
-	.string "DAD: TM42 contains FACADE.\p"
-	.string "It doubles the power of moves if\n"
-	.string "the POKéMON is poisoned, paralyzed,\l"
-	.string "or burned.\p"
-	.string "It might be able to turn a bad\n"
-	.string "situation into an advantage.$"
+	.string "FAR: TM42 indeholder FACADE.\p"
+	.string "Den fordobler kraften af angreb, hvis\n"
+	.string "POKéMON'en er forgiftet, lammet eller\n"
+	.string "brændt.\p"
+	.string "Den kan muligvis vende en dårlig\n"
+	.string "situation til din fordel.$"
 
 PetalburgCity_Gym_Text_DadHappyAndSad:
-	.string "DAD: As the GYM LEADER, I can't\n"
-	.string "express how upset I am…\p"
-	.string "But as a father, it makes me both\n"
-	.string "happy and a little sad. It's odd…$"
+	.string "FAR: Som GYM-LEDER kan jeg ikke\n"
+	.string "udtrykke, hvor skuffet jeg er…\p"
+	.string "Men som far gør det mig både\n"
+	.string "glad og lidt trist. Det er mærkeligt…$"
 
 PetalburgCity_Gym_Text_PleaseComeWithMe:
-	.string "Ah, there you are, {PLAYER}{KUN}!\p"
-	.string "Please come with me.\n"
-	.string "I have something I want you to have.$"
+	.string "Åh, der er du, {PLAYER}{KUN}! \p"
+	.string "Kom venligst med mig.\n"
+	.string "Jeg har noget, jeg gerne vil give dig.$"
 
 PetalburgCity_Gym_Text_LetMeBorrowPlayer:
-	.string "NORMAN, you don't mind, do you?\p"
-	.string "Let me borrow your {PLAYER}{KUN} for\n"
-	.string "a minute or two.$"
+	.string "NORMAN, har du noget imod det?\p"
+	.string "Må jeg låne din {PLAYER}{KUN}\n"
+	.string "i et minut eller to.$"
 
 PetalburgCity_Gym_Text_DadGoingToKeepTraining:
-	.string "DAD: {PLAYER}, you should go visit\n"
-	.string "your mother every so often.\p"
-	.string "I'm going to stay here and redouble\n"
-	.string "my training.\p"
-	.string "It would bother me as a TRAINER to\n"
-	.string "not avenge my loss to you, {PLAYER}!$"
+	.string "FAR: {PLAYER}, du bør besøge\n"
+	.string "din mor indimellem.\p"
+	.string "Jeg bliver her og fordoble\n"
+	.string "min træning.\p"
+	.string "Det ville genere mig som EN TRÆNER\n"
+	.string "ikke at hævne mit tab til dig, {PLAYER}!$"
 
 PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough:
-	.string "DAD: {PLAYER}, how are things going?\p"
-	.string "The world of POKéMON is deep.\p"
-	.string "I honestly think that no amount of\n"
-	.string "training would ever be enough.$"
+	.string "FAR: {PLAYER}, hvordan går det?\p"
+	.string "POKéMON-verdenen er dyb.\p"
+	.string "Jeg tror ærligt talt aldrig, at\n"
+	.string "træning ville være nok.$"
 
 PetalburgCity_Gym_Text_GymGuideAdvice:
 	.string "Hey, how's it going, CHAMPION-\n"
 	.string "bound {PLAYER}?\p"
-	.string "The doors in this GYM open when you\n"
-	.string "beat the awaiting TRAINERS.\p"
-	.string "Whoops! The doors in this room are\n"
-	.string "already open, so don't attack me!\p"
-	.string "The TRAINERS of PETALBURG GYM\n"
-	.string "use all kinds of items.\p"
-	.string "The door at the left leads to\n"
-	.string "the SPEED ROOM.\p"
-	.string "The door at the right leads to\n"
-	.string "the ACCURACY ROOM.\p"
-	.string "The room's name will be on\n"
-	.string "the door, so choose carefully.\p"
-	.string "Once you've chosen the door…\n"
-	.string "Well, hey, go for it!$"
+	.string "Dørene i denne GYM åbner, når du\n"
+	.string "besejrer de ventende TRÆNERE.\p"
+	.string "Ups! Dørene i dette rum er\n"
+	.string "allerede åbne, så angrib mig ikke!\p"
+	.string "TRÆNERNE i PETALBURG GYM\n"
+	.string "bruger alle mulige genstande.\p"
+	.string "Døren til venstre fører til\n"
+	.string "HASTIGHEDSRUMMET.\p"
+	.string "Døren til højre fører til\n"
+	.string "PRÆCISIONSRUMMET.\p"
+	.string "Rummets navn vil være på\n"
+	.string "døren, så vælg omhyggeligt.\p"
+	.string "Når du har valgt døren…\n"
+	.string "Nå, så go for it!$"
 
 PetalburgCity_Gym_Text_GymGuidePostVictory:
-	.string "{PLAYER}! Whoa! You've overcome even\n"
-	.string "your own father!\p"
-	.string "Like, whoa!\n"
-	.string "What a stunning turn of events!$"
+	.string "{PLAYER}! Wow! Du har overvundet endda\n"
+	.string "din egen far!\p"
+	.string "Like, wow!\n"
+	.string "Hvilken fantastisk udvikling!$"
 
 PetalburgCity_Gym_Text_RandallIntro:
-	.string "The ability to attack before the\n"
-	.string "opponent…\p"
-	.string "Just that alone puts me at a great\n"
-	.string "advantage, don't you agree?$"
+	.string "Evnen til at angribe før\n"
+	.string "modstanderen…\p"
+	.string "Bare det alene giver mig en stor\n"
+	.string "fordel, er du ikke enig?$"
 
 PetalburgCity_Gym_Text_RandallDefeat:
-	.string "That was a magnificent battle!$"
+	.string "Det var et pragtfuldt slag!$"
 
 PetalburgCity_Gym_Text_RandallPostBattle:
-	.string "Go on to the next room where a new\n"
-	.string "challenge awaits you.\p"
-	.string "At the left is the CONFUSION ROOM.\p"
-	.string "The right door leads to the DEFENSE\n"
-	.string "ROOM.$"
+	.string "Gå videre til det næste rum, hvor en ny\n"
+	.string "udfordring venter dig.\p"
+	.string "Til venstre er FORVIRRINGSRUMMET.\p"
+	.string "Døren til højre fører til FORSVARSRUMMET.$"
 
 PetalburgCity_Gym_Text_RandallPostBadge:
-	.string "Whomever you beat, and whomever you\n"
-	.string "may lose to, you never shirk from\l"
-	.string "training yourself and your POKéMON.\p"
-	.string "That's what I think being a\n"
-	.string "GYM LEADER is all about.$"
+	.string "Hvem end du slår, og hvem end du\n"
+	.string "måske taber til, undgår du aldrig\n"
+	.string "træningen af dig selv og dine\n"
+	.string "POKéMON.\p"
+	.string "Det er, hvad jeg mener, det vil\n"
+	.string "sige at være en GYM LEDER.$"
 
 PetalburgCity_Gym_Text_ParkerIntro:
-	.string "This is the CONFUSION ROOM.\p"
-	.string "Let me see how well bonded you are\n"
-	.string "with your POKéMON!$"
+	.string "Dette er FORVIRRINGSRUMMET.\p"
+	.string "Lad os se, hvor godt I er forbundet\n"
+	.string "med jeres POKéMON!$"
 
 PetalburgCity_Gym_Text_ParkerDefeat:
-	.string "I couldn't confuse your team enough…\n"
-	.string "You share a strong bond together.$"
+	.string "Jeg kunne ikke forvirre dit hold nok...\n"
+	.string "I har en stærk forbindelse sammen.$"
 
 PetalburgCity_Gym_Text_ParkerPostBattle:
-	.string "The next room is the STRENGTH ROOM.\n"
-	.string "Can you withstand brute force?$"
+	.string "Det næste rum er STYRKERUMMET.\n"
+	.string "Kan du modstå rå styrke?\p$"
 
 PetalburgCity_Gym_Text_ParkerPostBadge:
-	.string "After you beat our LEADER, the\n"
-	.string "training has become a lot tougher.$"
+	.string "Efter du har slået vores LEADER, er\n"
+	.string "træningen blevet meget sværere.$"
 
 PetalburgCity_Gym_Text_GeorgeIntro:
-	.string "Just when you think you're going to\n"
-	.string "win, your opponent restores HP…\p"
-	.string "Can you just imagine how awful that\n"
-	.string "must feel?\p"
-	.string "I'll show you exactly how awful it\n"
-	.string "feels!$"
+	.string "Bare når du tror, at du er ved at\n"
+	.string "vinde, gendanner din modstander\n"
+	.string "livspoengene…\p"
+	.string "Kan du bare forestille dig, hvor\n"
+	.string "forfærdeligt det må føles?\p"
+	.string "Jeg vil vise dig præcis, hvor\n"
+	.string "forfærdeligt det føles!$"
 
 PetalburgCity_Gym_Text_GeorgeDefeat:
-	.string "I couldn't restore HP enough…\n"
-	.string "What ATTACK power…$"
+	.string "Jeg kunne ikke gendanne nok HP...\n"
+	.string "Hvor er ANGREBSkræften...$"
 
 PetalburgCity_Gym_Text_GeorgePostBattle:
-	.string "I should have expected no less from\n"
-	.string "our LEADER's kid.\p"
-	.string "No, wait! A TRAINER's abilities are\n"
-	.string "earned only through effort.\p"
-	.string "I lost because my own efforts\n"
-	.string "weren't enough.\p"
-	.string "Go on! The ONE-HIT KO ROOM is next.$"
+	.string "Jeg skulle have forventet ikke mindre\n"
+	.string "fra vores LEDELSE's barn.\p"
+	.string "Nej, vent! En TRÆNERs evner er kun\n"
+	.string "fortjent gennem indsats.\p"
+	.string "Jeg tabte, fordi mine egne\n"
+	.string "anstrengelser ikke var nok.\p"
+	.string "Fortsæt! En-SLAGS KO RUMmet er næste.$"
 
 PetalburgCity_Gym_Text_GeorgePostBadge:
-	.string "I'm going to keep training at GYMS.\n"
-	.string "One day, I'll become a LEADER.$"
+	.string "Jeg vil blive ved med at træne i FITNESSCENTRE.\n"
+	.string "En dag vil jeg blive en LEDER.$"
 
 PetalburgCity_Gym_Text_BerkeIntro:
-	.string "I'm not going to take it easy just\n"
-	.string "because you're our LEADER's kid.\p"
-	.string "I'll show you how horrid it is for\n"
-	.string "a POKéMON to take a critical hit!$"
+	.string "Jeg vil ikke tage det let bare\n"
+	.string "fordi du er vores LEADERs barn.\p"
+	.string "Jeg vil vise dig, hvor forfærdeligt\n"
+	.string "det er for en POKéMON at få et\n"
+	.string "kritisk hit!$"
 
 PetalburgCity_Gym_Text_BerkeDefeat:
-	.string "Your power…\n"
-	.string "You're the real deal.$"
+	.string "Din magt…\n"
+	.string "Du er the real deal.$"
 
 PetalburgCity_Gym_Text_BerkePostBattle:
-	.string "Your father really is strong.\n"
-	.string "He's a TRAINER worth my respect.\p"
-	.string "And, I sense the same glow coming\n"
-	.string "from you as your father.\p"
-	.string "I hope that you'll stage a terrific\n"
-	.string "battle with your father!$"
+	.string "Din far er virkelig stærk.\n"
+	.string "Han er en TRÆNER, som fortjener min respekt.\p"
+	.string "Jeg kan mærke den samme glød\n"
+	.string "i dig som hos din far.\p"
+	.string "Jeg håber, at du vil arrangere en fantastisk\n"
+	.string "kamp med din far!$"
 
 PetalburgCity_Gym_Text_BerkePostBadge:
-	.string "Since your dad became the LEADER,\n"
-	.string "the TRAINERS of PETALBURG CITY have\l"
-	.string "become a lot tougher.$"
+	.string "Siden din far blev LEDEREN,\n"
+	.string "er TRÆNERNE i PETALBURG CITY blevet\l"
+	.string "meget sejere.$"
 
 PetalburgCity_Gym_Text_MaryIntro:
-	.string "Giggle…\n"
-	.string "This is the ACCURACY ROOM.\p"
-	.string "It's pretty nasty when every attack\n"
-	.string "lands without fail.$"
+	.string "Grin…\n"
+	.string "Dette er PRÆCISIONSRUMMET.\p"
+	.string "Det er ret slemt, når hvert angreb\n"
+	.string "rammer uden fejl.$"
 
 PetalburgCity_Gym_Text_MaryDefeat:
-	.string "You were a cut above me…$"
+	.string "Du var et skridt over mig...$"
 
 PetalburgCity_Gym_Text_MaryPostBattle:
-	.string "There are some even stronger\n"
-	.string "TRAINERS waiting for you.\p"
-	.string "The left is the DEFENSE ROOM, and\n"
-	.string "the right is the RECOVERY ROOM.\p"
-	.string "Your POKéMON's ATTACK power will be\n"
-	.string "on trial either way.$"
+	.string "Der er nogle endnu stærkere\n"
+	.string "TRÆNERE, der venter på dig.\p"
+	.string "Til venstre er FORSVARSRUMMET, og\n"
+	.string "til højre er GENOPRETNINGSRUMMET.\p"
+	.string "Din POKéMONs ANGREBSkraft vil blive\n"
+	.string "afprøvet uanset hvad.$"
 
 PetalburgCity_Gym_Text_MaryPostBadge:
-	.string "Do you know what we're trying to\n"
-	.string "achieve as TRAINERS?\p"
-	.string "We're striving to become soul mates\n"
-	.string "with our POKéMON.$"
+	.string "Ved du, hvad vi prøver at opnå\n"
+	.string "som TRÆNERE?\p"
+	.string "Vi stræber efter at blive sjælevenner\n"
+	.string "med vores POKéMON.$"
 
 PetalburgCity_Gym_Text_AlexiaIntro:
-	.string "The higher the DEFENSE, the more\n"
-	.string "reckless I can be in attack.$"
+	.string "Jo højere FORSVAR, jo mere\n"
+	.string "uskadelig kan jeg være i angreb.$"
 
 PetalburgCity_Gym_Text_AlexiaDefeat:
-	.string "Our defenses weren't enough…$"
+.string "Vores forsvar var ikke nok...$"
 
 PetalburgCity_Gym_Text_AlexiaPostBattle:
-	.string "I think you've taught me a valuable\n"
-	.string "lesson here.\p"
-	.string "Now, go on! The left door goes to\n"
-	.string "the STRENGTH ROOM.\p"
-	.string "The right door opens to\n"
-	.string "the ONE-HIT KO ROOM.\p"
-	.string "Both of them have TRAINERS who are\n"
-	.string "skilled at offense.$"
+	.string "Jeg tror, du har lært mig en værdifuld\n"
+	.string "lektie her.\p"
+	.string "Nu, videre! Den venstre dør fører til\n"
+	.string "STYRKERUMMET.\p"
+	.string "Den højre dør åbner til\n"
+	.string "ÉN-SLAGS-KO RUMMET.\p"
+	.string "Begge har TRÆNERE, der er dygtige\n"
+	.string "til angreb.$"
 
 PetalburgCity_Gym_Text_AlexiaPostBadge:
-	.string "Hi! Have you tried using SURF?$"
+.string "Hej! Har du prøvet at bruge SURF?$"
 
 PetalburgCity_Gym_Text_JodyIntro:
-	.string "Our GYM LEADER told us to go all out\n"
-	.string "and beat you.\p"
-	.string "Even if you happen to be the\n"
-	.string "LEADER's kid!$"
+	.string "Vores GYM LEDER sagde, at vi skulle gøre vores bedste\n"
+	.string "og slå dig.\p"
+	.string "Selv hvis du tilfældigvis er GYMLEDERENS barn!$"
 
 PetalburgCity_Gym_Text_JodyDefeat:
-	.string "But… I went all out!$"
+	.string "Men... jeg gjorde mit bedste!$"
 
 PetalburgCity_Gym_Text_JodyPostBattle:
-	.string "The way you use your POKéMON…\n"
-	.string "It's like your father's style.\p"
-	.string "Go on through! The GYM LEADER, your\n"
-	.string "father, is waiting!$"
+	.string "Måden du bruger dine POKéMON på...\n"
+	.string "Det er ligesom din fars stil.\p"
+	.string "Fortsæt! GYM LEDEREN, din\n"
+	.string "far, venter!$"
 
 PetalburgCity_Gym_Text_JodyPostBadge:
-	.string "Sure, it's fine to make your POKéMON\n"
-	.string "stronger.\p"
-	.string "But what decides the winner?\p"
-	.string "Why, it's the feelings TRAINERS have\n"
-	.string "for their POKéMON.$"
+	.string "Selvfølgelig er det fint at gøre dine POKéMON\n"
+	.string "stærkere.\p"
+	.string "Men hvad afgør vinderen?\p"
+	.string "Jo, det er følelserne, TRÆNERE har\n"
+	.string "for deres POKéMON.$"
 
 PetalburgCity_Gym_Text_DoorAppearsLocked:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+	.string "Denne dør ser ud til at være\n"
+	.string "låst lige nu…$"
 
 PetalburgCity_Gym_Text_EnterSpeedRoom:
-	.string "“SPEED ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“HASTIGHEDSRUM,” står der på skiltet.\p"
+	.string "Vil du gå igennem?$"
 
 @ Unused
 PetalburgCity_Gym_Text_DoorAppearsLocked2:
-	.string "This door appears to be locked\n"
-	.string "right now…$"
+    .string "Denne dør ser ud til at være låst\n"
+    .string "lige nu…$"
 
 PetalburgCity_Gym_Text_EnterAccuracyRoom:
-	.string "“ACCURACY ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“PRÆCISIONSRUM,” står der på skiltet.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_EnterConfusionRoom:
-	.string "“CONFUSION ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“FORVIRRINGSRUM,” står der på skiltet.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_EnterDefenseRoom:
-	.string "“DEFENSE ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“FORSVARSRUM,” står der på skiltet.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_EnterRecoveryRoom:
-	.string "“RECOVERY ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“GENOPRETNINGSRUM,” står der på skiltet.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_EnterStrengthRoom:
-	.string "“STRENGTH ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“STYRKESALEN,” står der på skiltet.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_EnterOHKORoom:
-	.string "“ONE-HIT KO ROOM,” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“ONE-HIT KO ROOM,” skiltet siger.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_EnterGymLeadersRoom:
-	.string "“GYM LEADER'S ROOM\p"
-	.string "“See for yourself what POKéMON await\n"
-	.string "you!” the sign says.\p"
-	.string "Do you want to go through?$"
+	.string "“Gymlederens rum\p"
+	.string "“Se selv, hvilke POKéMON der venter\n"
+	.string "dig!” skiltet siger.\p"
+	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_GymStatue:
-	.string "PETALBURG CITY POKéMON GYM$"
+.string "PETALBURG CITY Pokémon GYM$"
 
 PetalburgCity_Gym_Text_GymStatueCertified:
 	.string "PETALBURG CITY POKéMON GYM\p"
-	.string "NORMAN'S CERTIFIED TRAINERS:\n"
+	.string "NORMANS CERTIFICEREDE TRÆNERE:\n"
 	.string "{PLAYER}$"
 
 PetalburgCity_Gym_Text_NormanPreRematch:
-	.string "DAD: {PLAYER}…\n"
-	.string "I had a feeling that you would come.\p"
-	.string "I would never refuse to accept\n"
-	.string "a challenge from you.\p"
-	.string "You do understand, don't you?\p"
-	.string "Inside a GYM, it doesn't matter that\n"
-	.string "we are a parent and child.\p"
-	.string "…No, because we are parent and child,\n"
-	.string "we owe it to each other to do the best\l"
-	.string "we can. Isn't that right, {PLAYER}?$"
+	.string "FAR: {PLAYER}…\n"
+	.string "Jeg havde en fornemmelse af, at du ville komme.\p"
+	.string "Jeg ville aldrig nægte at acceptere\n"
+	.string "en udfordring fra dig.\p"
+	.string "Du forstår det vel, ikke sandt?\p"
+	.string "Inde i et FITNESSCENTER betyder det\n"
+	.string "ikke noget, at vi er forælder og barn.\p"
+	.string "…Nej, fordi vi er forælder og barn,\n"
+	.string "skylder vi det til hinanden at gøre det bedste,\l"
+	.string "vi kan. Er det ikke rigtigt, {PLAYER}?$"
 
 PetalburgCity_Gym_Text_NormanRematchDefeat:
-	.string "Uh… Haha…\n"
-	.string "Maybe that was going too hard…$"
+.string "Øh... Haha...\n"
+.string "Måske gik jeg lidt for hårdt frem...$"
 
 PetalburgCity_Gym_Text_NormanPostRematch:
-	.string "DAD: {PLAYER}…\n"
-	.string "What is your dream?\p"
-	.string "My dream…\n"
+	.string "FAR: {PLAYER}…\n"
+	.string "Hvad er din drøm?\p"
+	.string "Min drøm…\n"
 	.string "Hahaha…\l"
-	.string "It has already come true, actually.$"
+	.string "Den er faktisk allerede gået i opfyldelse.$"
 
 PetalburgCity_Gym_Text_NormanRematchNeedTwoMons:
-	.string "DAD: {PLAYER}…\n"
-	.string "I had a feeling that you would come.\p"
-	.string "I would never refuse to accept\n"
-	.string "a challenge from you.\p"
-	.string "You do understand, don't you?\p"
-	.string "Inside a GYM, it doesn't matter that\n"
-	.string "we are a parent and child.\p"
-	.string "Hm? Wait a second, {PLAYER}.\p"
-	.string "Do you only have one POKéMON that is\n"
-	.string "capable of battle?\p"
-	.string "Sorry, but you'll have to come back\n"
-	.string "with at least two POKéMON.$"
+	.string "FAR: {PLAYER}…\n"
+	.string "Jeg havde en følelse af, at du ville komme.\p"
+	.string "Jeg ville aldrig nægte at acceptere\n"
+	.string "en udfordring fra dig.\p"
+	.string "Du forstår det vel, ikke?\p"
+	.string "Inde i et GYM gør det ikke noget,\n"
+	.string "at vi er forælder og barn.\p"
+	.string "Hm? Vent lige et øjeblik, {PLAYER}.\p"
+	.string "Har du kun en POKéMON, der er\n"
+	.string "i stand til kamp?\p"
+	.string "Beklager, men du bliver nødt til\n"
+	.string "at komme tilbage med mindst to POKéMON.$"
+
+
 
