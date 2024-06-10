@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WOMAN, 7
 
 LilycoveCity_DepartmentStore_5F_MapScripts::
@@ -153,19 +155,20 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 	end
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
-	.string "This place is full of cute DOLLS.\p"
-	.string "I should buy some for me, instead of\n"
-	.string "just for my children.$"
+	.string "Dette sted er fuld af søde DUKKER.\p"
+	.string "Jeg burde købe nogle til mig selv,\n"
+	.string "i stedet for kun til mine børn.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
-	.string "I'm not big enough to raise POKéMON,\n"
-	.string "so I'm getting a cute DOLL instead.$"
+	.string "Jeg er ikke stor nok til at opdrætte POKéMON,\n"
+	.string "så jeg får i stedet en sød DUKKE.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
-	.string "They sell many cute MATS here.\p"
-	.string "I wonder which one I should get?\n"
-	.string "Maybe I'll buy them all…$"
+	.string "De sælger mange søde MÅTTER her.\p"
+	.string "Jeg spekulerer på, hvilken jeg skal vælge?\n"
+	.string "Måske køber jeg dem alle…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
-	.string "I think they closed the rooftop\n"
-	.string "because the weather is wild today.$"
+	.string "Jeg tror de lukkede tagterrassen\n"
+	.string "fordi vejret er vildt i dag.$"
+
