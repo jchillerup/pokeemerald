@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_STEVEN, 1
 
 MeteorFalls_StevensCave_MapScripts::
@@ -29,31 +31,34 @@ MeteorFalls_StevensCave_EventScript_Defeated::
 	end
 
 MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst:
-	.string "STEVEN: Oh, wow, {PLAYER}{KUN}.\n"
-	.string "I'm amazed you knew where to find me.\p"
-	.string "Do you, uh…maybe think of me as\n"
-	.string "just a rock maniac?\p"
-	.string "No, that can't be right.\p"
-	.string "We battled alongside each other at\n"
-	.string "the SOOTOPOLIS SPACE CENTER.\p"
-	.string "You should have a very good idea\n"
-	.string "about how good I am.\p"
-	.string "Okay, {PLAYER}{KUN}, if you're going to mount\n"
-	.string "a serious challenge, expect the worst!$"
+	.string "STEVEN: Åh, wauw, {PLAYER}{KUN}.\n"
+	.string "Jeg er forbløffet over, at du fandt mig.\p"
+	.string "Tror du, uh... måske på mig\n"
+	.string "som bare en stenmaniac?\p"
+	.string "Nej, det kan ikke være rigtigt.\p"
+	.string "Vi kæmpede side om side på\n"
+	.string "SOOTOPOLIS SPACE CENTER.\p"
+	.string "Du burde have en rigtig god idé\n"
+	.string "om, hvor god jeg er.\p"
+	.string "Okay, {PLAYER}{KUN}, hvis du vil\n"
+	.string "udfordre mig alvorligt, forvent det værste!$"
 
 MeteorFalls_StevensCave_Text_StevenDefeat:
-	.string "You…\n"
-	.string "I had no idea you'd become so strong…$"
+	.string "Du…\n"
+	.string "Jeg havde ingen anelse om, at du ville blive så stærk…$"
 
 MeteorFalls_StevensCave_Text_MyPredictionCameTrue:
-	.string "STEVEN: Come to think of it, ever since\n"
-	.string "our paths first crossed in GRANITE\l"
-	.string "CAVE in DEWFORD, I had this feeling.\p"
-	.string "I thought that you would eventually\n"
-	.string "become the CHAMPION.\p"
-	.string "My predictions usually come true.\p"
-	.string "And where will you go from here?\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "Fufufu, even I couldn't tell you that.$"
+	.string "STEVEN: Når jeg tænker over det, siden\n"
+	.string "vores veje først mødtes i GRANIT\l"
+	.string "HULEN i DEWFORD, har jeg halet\n"
+	.string "denne følelse efter. \p"
+	.string "Jeg tænkte, at du ville blive\n"
+    .string "MESTEREN.\p"
+    .string "Mine forudsigelser plejer at holde.\p"
+    .string "Hvor vil du gå hen herfra?\p"
+    .string "… … … … … …\n"
+    .string "… … … … … …\p"
+    .string "Fufufu, selv jeg kunne ikke fortælle dig det.$"
+
+
 
