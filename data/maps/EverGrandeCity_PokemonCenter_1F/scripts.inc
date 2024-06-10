@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 .set LOCALID_SCOTT, 4
 
@@ -77,26 +79,29 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	step_end
 
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "The POKéMON LEAGUE is only a short\n"
-	.string "distance after the VICTORY ROAD.\p"
-	.string "If you've come this far, what choice\n"
-	.string "do you have but to keep going?$"
+	.string "POKéMON-LIGAEN er kun en kort\n"
+	.string "afstand efter SEJRVEJEN.\p"
+	.string "Hvis du er kommet så langt, hvad\n"
+	.string "valg har du så andet end at fortsætte?$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
-	.string "The long and harrowing VICTORY ROAD…\p"
-	.string "It's like reliving the path one has\n"
-	.string "traveled in life…\p"
-	.string "Believe in your POKéMON and give it\n"
-	.string "your very best!$"
+	.string "Den lange og udfordrende SEJRVEJ…\p"
+	.string "Det er som at genopleve den vej, man\n"
+	.string "har gået i livet…\p"
+	.string "Tro på dine POKéMON og giv det\n"
+	.string "dit allerbedste!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, you've clawed your\n"
-	.string "way up to face the POKéMON LEAGUE!\p"
-	.string "I'm happy for you!\n"
-	.string "You made my cheering worthwhile!\p"
-	.string "{PLAYER}{KUN}, if you were to become\n"
-	.string "the POKéMON LEAGUE CHAMPION…\p"
-	.string "I'll get in touch with you then.\p"
+	.string "SCOTT: {PLAYER}{KUN}, du har kradset dig\n"
+	.string "op til at stå ansigt til ansigt med\n"
+	.string "POKéMON LIGAEN!\p"
+	.string "Jeg er glad på dine vegne!\n"
+	.string "Du gjorde min heppen værdifuld!\p"
+	.string "{PLAYER}{KUN}, hvis du bliver POKéMON\n"
+	.string "LIGA MESTER…\p"
+	.string "Så vil jeg kontakte dig.\p"
 	.string "Okay, {PLAYER}{KUN}.\n"
-	.string "Go for greatness!$"
+	.string "Gå efter storheden!$"
+
+
 
