@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 BattleFrontier_BattlePalaceCorridor_MapScripts::
@@ -122,30 +124,34 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 	step_end
 
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
-	.string "People and POKéMON, they are but\n"
-	.string "the same…\p"
-	.string "Their individual nature makes them\n"
-	.string "good at certain things, and not good\l"
-	.string "at others.$"
+	.string "Mennesker og POKéMON, de er ens,\n"
+	.string "men alligevel forskellige…\p"
+	.string "Deres individuelle natur gør dem\n"
+	.string "gode til visse ting og ikke så\l"
+	.string "gode til andre ting.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "Rather than trying to make a POKéMON\n"
-	.string "do what it dislikes, try to let it do\l"
-	.string "what it likes and is good at doing.\p"
-	.string "Put yourself in the POKéMON's position\n"
-	.string "and consider what moves it would like.$"
+	.string "I stedet for at prøve at få en POKéMON\n"
+	.string "til at gøre noget, den ikke kan lide, så\n"
+	.string "prøv at lade den gøre, hvad den godt\n"
+	.string "kan lide og er god til. \p"
+	.string "Sæt dig selv i POKéMONs sted og\n"
+	.string "overvej, hvilke træk den ville kunne\n"
+	.string "lide. $"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "A POKéMON's nature is a remarkable\n"
-	.string "thing…\p"
-	.string "Some POKéMON behave in a completely\n"
-	.string "different way when they are cornered.$"
+	.string "En POKéMONs natur er en bemærkelsesværdig\n"
+	.string "ting…\p"
+	.string "Nogle POKéMON opfører sig på en helt\n"
+	.string "anden måde, når de er pressede.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
-	.string "Are you beginning to understand how\n"
-	.string "a POKéMON's nature makes it behave?$"
+	.string "Er du begyndt at forstå\n"
+	.string "hvordan en POKéMONs natur påvirker dens adfærd?$"
 
 BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons:
-	.string "Ah… I see a strong, heartfelt bond\n"
-	.string "between you and your POKéMON…$"
+	.string "Åh... Jeg ser et stærkt, hjerteligt bånd\n"
+	.string "mellem dig og din POKéMON...$"
+
+
 
