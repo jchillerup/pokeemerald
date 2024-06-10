@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_STEVEN, 3
 .set LOCALID_ARCHIE, 4
 .set LOCALID_MAXIE, 5
@@ -246,61 +248,62 @@ Route128_EventScript_Carlee::
 	end
 
 Route128_Text_ArchieWhatHappened:
-	.string "ARCHIE: What happened…\n"
-	.string "What is this wretched scene…\p"
-	.string "Did I…make a horrible mistake?$"
+	.string "ARCHIE: Hvad skete der…\n"
+	.string "Hvad er dette klamme syn…\p"
+	.string "Har jeg lavet en frygtelig fejltagelse?$"
 
 Route128_Text_ArchieIOnlyWanted:
-	.string "I…\n"
-	.string "I only wanted…$"
+	.string "Jeg...\n"
+	.string "Jeg ville kun..."
 
 Route128_Text_MaxieDoYouUnderstandNow:
-	.string "MAXIE: Do you understand now,\n"
+	.string "MAXIE: Forstår du det nu,\n"
 	.string "ARCHIE?\p"
-	.string "Do you finally see how disastrous\n"
-	.string "your dream turned out to be?\p"
-	.string "We have to hurry! We have to do\n"
-	.string "something before the situation goes\l"
-	.string "completely out of control!$"
+	.string "Ser du endelig, hvor katastrofal\n"
+	.string "din drøm er blevet til?\p"
+	.string "Vi skal skynde os! Vi skal gøre noget,\n"
+	.string "før situationen løber helt af\n"
+	.string "sporet!\l$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
-	.string "MAXIE: {PLAYER}, don't say anything.\p"
-	.string "I know that I have no right to be\n"
-	.string "critical of ARCHIE…\p"
-	.string "But the way things are now, I doubt\n"
-	.string "that we humans will be capable of\l"
-	.string "doing anything about it.\p"
-	.string "But neither can we stand by and\n"
-	.string "just watch helplessly.\p"
-	.string "The responsibility for putting an end\n"
-	.string "to this falls to ARCHIE and me…$"
+	.string "MAXIE: {PLAYER}, sig ikke noget.\p"
+	.string "Jeg ved, at jeg ikke har ret til at være\n"
+	.string "kritisk overfor ARCHIE…\p"
+	.string "Men på den måde tingene er nu,\n"
+	.string "tvivler jeg på, at vi mennesker vil være i\n"
+	.string "stand til at gøre noget ved det.\p"
+	.string "Men vi kan heller ikke bare se hjælpeløst til.\p"
+	.string "Ansvaret for at sætte en stopper for dette\n"
+	.string "ligger hos ARCHIE og mig…$"
 
 Route128_Text_MaxieThisDefiesBelief:
-	.string "MAXIE: This defies belief…\p"
-	.string "Those super-ancient POKéMON…\p"
-	.string "Their power is unbelievable.\n"
-	.string "They've upset the balance of nature…$"
+	.string "MAXIE: Dette er ubegribeligt…\p"
+	.string "Disse superældgamle POKéMON…\p"
+	.string "Deres kræfter er utrolige.\n"
+	.string "De har forstyrret naturens balance…$"
 
 Route128_Text_StevenWhatIsHappening:
-	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "What is happening?$"
+	.string "STEVEN: {PLAYER}Hej!\n"
+	.string "Hvad sker der?$"
 
 Route128_Text_StevenWholeWorldWillDrown:
-	.string "This is terrible…\p"
-	.string "After the scorching heat wave ended,\n"
-	.string "this deluge began.\p"
-	.string "If this doesn't stop, all of HOENN…\n"
-	.string "No, the whole world will drown.\p"
-	.string "This huge rain cloud is spreading\n"
-	.string "from above SOOTOPOLIS…\p"
-	.string "What in the world is taking place there?\p"
-	.string "There's no point arguing here…\n"
-	.string "SOOTOPOLIS might provide answers…$"
+	.string "Det her er forfærdeligt…\p"
+	.string "Efter varmebølgen endte,\n"
+	.string "begyndte dette skybrud.\p"
+	.string "Hvis det her ikke stopper, vil hele HOENN…\n"
+	.string "Nej, hele verden drukne.\p"
+	.string "Denne store regnsky breder sig\n"
+	.string "fra oven over SOOTOPOLIS…\p"
+	.string "Hvad i alverden foregår der?\p"
+	.string "Der er ingen pointe i at diskutere her…\n"
+	.string "SOOTOPOLIS kan måske give svar…$"
 
 Route128_Text_StevenImGoingToSootopolis:
-	.string "{PLAYER}{KUN}…\n"
-	.string "I don't know what you intend to do,\l"
-	.string "but don't do anything reckless.\p"
+	.string "{PLAYER}{KUN}... \n"
+	.string "Jeg ved ikke, hvad du har i tankerne,\l"
+	.string "men gør ikke noget dumt.\p"
 	.string "Okay.\n"
-	.string "I'm going to SOOTOPOLIS.$"
+	.string "Jeg tager til SOOTOPOLIS.$"
+
+
 
