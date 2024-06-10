@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SootopolisCity_House2_MapScripts::
 	.byte 0
 
@@ -20,15 +22,17 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
 	.string "MT. PYRE…\p"
-	.string "At its peak are two orbs placed side\n"
-	.string "by side. Did you know?$"
+	.string "På toppen er der to kugler, der er\n"
+	.string "placeret side om side. Vidste du det?$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
-	.string "Yes, two orbs side by side…\p"
-	.string "The sight of them together…\n"
-	.string "It is somehow soothing…$"
+	.string "Ja, to kugler ved siden af hinanden…\p"
+	.string "Synet af dem sammen…\n"
+	.string "Det er på en eller anden måde beroligende…$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
-	.string "Is that so?\n"
-	.string "Perhaps you ought to visit and see…$"
+	.string "Er det sådan?\n"
+	.string "Måske skulle du besøge og se...$"
+
+
 
