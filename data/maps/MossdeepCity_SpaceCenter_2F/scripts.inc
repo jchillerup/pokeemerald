@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_RICH_BOY, 1
 .set LOCALID_GENTLEMAN, 2
 .set LOCALID_SCIENTIST, 3
@@ -365,151 +367,153 @@ MossdeepCity_SpaceCenter_2F_EventScript_BrendanRayquazaCall::
 	return
 
 MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets:
-	.string "MOSSDEEP has mainly sunny weather,\n"
-	.string "and its winds are stable.\p"
-	.string "It's an ideal location for launching\n"
-	.string "rockets.$"
+	.string "MOSSDEEP har primært solrigt vejr,\n"
+	.string "og dens vinde er stabile.\p"
+	.string "Det er et ideelt sted at sende\n"
+	.string "raketter af sted.$"
 
 MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel:
-	.string "Why would TEAM MAGMA want to steal\n"
-	.string "our rocket fuel in the first place?$"
+	.string "Hvorfor vil HOLD MAGMA stjæle\n"
+	.string "vores raketbrændstof i første omgang?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut:
-	.string "If only I was a little younger, I would\n"
-	.string "have liked being an astronaut…\p"
-	.string "No… It's not too late!\n"
-	.string "I can and will try!$"
+	.string "Hvis jeg bare var lidt yngre, ville jeg\n"
+	.string "have kunnet lide at være astronaut…\p"
+	.string "Nej… Det er ikke for sent!\n"
+	.string "Jeg kan og vil prøve!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis:
-	.string "If TEAM MAGMA takes the rocket fuel,\n"
-	.string "I won't be able to go to space!\p"
-	.string "They can't be allowed to get away\n"
-	.string "with such an outrage!$"
+	.string "Hvis TEAM MAGMA tager raketbrændstofet,\n"
+	.string "kan jeg ikke komme ud i rummet!\p"
+	.string "De kan ikke tillades at slippe\n"
+	.string "afsted med sådan en skandale!$"
 
 MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace:
-	.string "I wish ordinary people could go into\n"
-	.string "space one day…$"
+	.string "Jeg ønsker, at almindelige mennesker\n"
+	.string "en dag kunne tage til rummet…$"
 
 MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace:
 	.string "TEAM MAGMA…\n"
-	.string "Do they want to go to space, too?$"
+	.string "Vil de også til rummet?$"
 
 MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn:
-	.string "What's wrong with you?\p"
-	.string "You're outnumbered three to one,\n"
-	.string "but you still want to take us on?$"
+	.string "Hvad er der galt med dig?\p"
+	.string "Du er i undertal tre til én,\n"
+	.string "men du vil stadig kæmpe imod os?$"
 
 MossdeepCity_SpaceCenter_2F_Text_GoodAnswer:
-	.string "Good answer!\n"
-	.string "That's what a smart person'll do!$"
+	.string "Godt svar!\n"
+	.string "Det er hvad en klog person vil gøre!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro:
-	.string "A reckless go-getter, are you?\n"
-	.string "Okay, I'll go first!$"
+	.string "En vovet eventyrlystne, er du?\n"
+	.string "Okay, jeg starter først!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat:
-	.string "I lost!\n"
-	.string "But!$"
+	.string "Jeg tabte!\n"
+	.string "Men!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro:
-	.string "It's too soon to be relieved!\n"
-	.string "I'm up next!$"
+	.string "Det er for tidligt at være lettet!\n"
+	.string "Jeg er næste mand!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat:
-	.string "I lost, too!\n"
-	.string "But!$"
+	.string "Jeg tabte også!\n"
+	.string "Men!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro:
-	.string "I bet you want to take a break.\n"
-	.string "But I'm not about to let you do that!$"
+	.string "Jeg satser på, at du gerne vil holde en pause.\n"
+	.string "Men det tillader jeg ikke!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat:
-	.string "We should've taken a break…\n"
-	.string "That's what we should've done…$"
+	.string "Vi burde have taget en pause…\n"
+	.string "Det skulle vi have gjort…$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle:
-	.string "Three of us here, and look at the sorry\n"
-	.string "mess we got ourselves into.$"
+	.string "Tre af os her, og se lige hvilken\n"
+	.string "rod vi har bragt os selv ind i.$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle:
-	.string "We three losing like this…\n"
-	.string "We look worse than usual by triple!$"
+	.string "Vi tre taber sådan her...\n"
+	.string "Vi ser værre ud end normalt tre gange!$"
 
 MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle:
-	.string "Are we being useful to our leader\n"
-	.string "at all?$"
+	.string "Er vi til nogen nytte for vores leder\n"
+	.string "overhovedet?$"
 
 MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou:
-	.string "Hehehe!\p"
-	.string "We come all the way here to get some\n"
-	.string "fuel, and we're interfered with again!\p"
-	.string "If you're going to mess with us too,\n"
-	.string "we'll take care of you at the same time!$"
+	.string "Hihihi!\p"
+	.string "Vi er kommet hele vejen herhen for at få lidt\n"
+	.string "brændstof, og så bliver vi forstyrret igen!\p"
+	.string "Hvis du også vil lave ballade,\n"
+	.string "så tager vi os af dig på samme tid!$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieDontInterfere:
-	.string "MAXIE: Clear out of the way!\n"
-	.string "Don't you dare interfere!$"
+	.string "MAXIE: Ryd vejen!\n"
+	.string "Vov ikke at blande dig!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenWhyStealRocketFuel:
-	.string "STEVEN: TEAM MAGMA…\p"
-	.string "What's the point of stealing rocket\n"
-	.string "fuel?$"
+	.string "STEVEN: TEAM MAGMA...\p"
+	.string "Hvad er meningen med at stjæle raket\n"
+	.string "brændstof?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieUseFuelToEruptVolcano:
-	.string "MAXIE: Fufufu… Since you're so\n"
-	.string "curious, you deserve an explanation.\p"
-	.string "We're going to jettison the entire\n"
-	.string "load into MT. CHIMNEY!\p"
-	.string "With GROUDON gone, we have no need\n"
-	.string "for that slag heap of a mountain!\p"
-	.string "So we'll use the fuel's power to make\n"
-	.string "the volcano erupt!\p"
-	.string "It will be savage!$"
+	.string "MAXIE: Hæhæhæ... Fordi du er så\n"
+	.string "nysgerrig, fortjener du en forklaring.\p"
+	.string "Vi skal skrotte hele læsset ned i\n"
+	.string "MT. CHIMNEY!\p"
+	.string "Nu hvor GROUDON er væk, har vi ikke\n"
+	.string "brug for den bunke skrot af et bjerg!\p"
+	.string "Så vi vil bruge brændstoffets kraft til\n"
+	.string "at få vulkanen til at bryde ud!\p"
+	.string "Det bliver voldsomt!$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle:
 	.string "STEVEN: {PLAYER}{KUN}!\n"
-	.string "You're going to help me?\p"
-	.string "Let's go into battle together!\n"
-	.string "Are you ready?$"
+	.string "Vil du hjælpe mig?\p"
+	.string "Lad os gå i kamp sammen!\n"
+	.string "Er du klar?$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly:
-	.string "STEVEN: Then, hurry!\n"
-	.string "Get ready quickly!$"
+	.string "STEVEN: Så skynd dig!\n"
+	.string "Gør dig klar hurtigt!$"
 
 MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand:
-	.string "All I want…\n"
-	.string "I just want to expand the land mass…$"
+	.string "Alt jeg vil…\n"
+	.string "Jeg vil bare udvide landmassen…$"
 
 MossdeepCity_SpaceCenter_Text_TabithaDefeat:
-	.string "I'm with our leader…$"
+.string "Jeg er sammen med vores leder…$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeFailedIsAquaAlsoMisguided:
-	.string "MAXIE: We failed to make the volcano\n"
-	.string "erupt…\p"
-	.string "We failed to control GROUDON after\n"
-	.string "we had awoken it…\p"
-	.string "Is our goal to expand the land\n"
-	.string "misguided?\p"
+	.string "MAXIE: Vi fejlede i at få vulkanen\n"
+	.string "til at bryde ud…\p"
+	.string "Vi fejlede i at kontrollere GROUDON\n"
+	.string "efter at vi havde vækket det…\p"
+	.string "Er vores mål om at udvide landet\n"
+	.string "misforstået?\p"
 	.string "… … … … … …\n"
 	.string "… … … … … …\p"
-	.string "If…\n"
-	.string "If we, TEAM MAGMA, are wrong…\l"
+	.string "Hvis…\n"
+	.string "Hvis vi, TEAM MAGMA, tager fejl…\l"
 	.string "… … … … … …\p"
-	.string "Then might TEAM AQUA's goal to expand\n"
-	.string "the sea also be equally misguided?$"
+	.string "Ville TEAM AQUAs mål om at udvide\n"
+	.string "havet så også være lige så\n"
+	.string "misforstået?$"
 
 MossdeepCity_SpaceCenter_2F_Text_MaxieWeWillGiveUp:
-	.string "MAXIE: All right…\n"
-	.string "We will give up on the fuel…\p"
-	.string "There appear to be more important\n"
-	.string "matters that I must examine…$"
+	.string "MAXIE: Okay…\n"
+	.string "Vi giver op på brændstoffet…\p"
+	.string "Der synes at være vigtigere\n"
+	.string "ting, som jeg skal undersøge…$"
 
 MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome:
-	.string "STEVEN: Whew, that was too tense.\n"
-	.string "{PLAYER}{KUN}, thank you.\p"
-	.string "I have something to give you as\n"
-	.string "thanks for your support.\p"
-	.string "Please come see me at home\n"
-	.string "after this.\p"
-	.string "Oh, yes, I don't live in RUSTBORO CITY.\n"
-	.string "I live right here on this island.$"
+	.string "STEVEN: Puha, det var alt for spændende.\n"
+	.string "{PLAYER}, tak.\p"
+	.string "Jeg har noget til dig som tak for din\n"
+	.string "støtte.\p"
+	.string "Kom venligst og besøg mig derhjemme\n"
+	.string "efter dette.\p"
+	.string "Åh, ja, jeg bor ikke i RUSTBO BY.\n"
+	.string "Jeg bor lige her på denne ø.$"
+
