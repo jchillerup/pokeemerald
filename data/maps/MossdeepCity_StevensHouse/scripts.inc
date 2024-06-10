@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_STEVEN, 1
 .set LOCALID_BELDUM_BALL, 2
 
@@ -151,67 +153,69 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 	end
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
-	.string "STEVEN: {PLAYER}{KUN}…\p"
-	.string "As you can see, there's not much here,\n"
-	.string "but this is my home.\p"
-	.string "Thank you for all that you've done.\p"
-	.string "This is my token of appreciation.\n"
-	.string "It's the HIDDEN MACHINE DIVE.\p"
-	.string "No need to be shy--you've earned\n"
-	.string "this HM.$"
+	.string "STEVEN: {PLAYER}{KUN}... \p"
+	.string "Som du kan se, der er ikke meget\n"
+	.string "her, men dette er mit hjem.\p"
+	.string "Tak for alt hvad du har gjort.\p"
+	.string "Dette er min tak for værdsættelse.\n"
+	.string "Det er den SKJULTE MASKINE DIVE.\p"
+	.string "Du behøver ikke være genert--du har\n"
+	.string "fortjent denne HM.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
-	.string "STEVEN: While you're using SURF, you\n"
-	.string "should notice dark patches of water.\p"
-	.string "Use DIVE if you come to deep water\n"
-	.string "like it. You'll drop to the seafloor.\p"
-	.string "When you want to come back up, use\n"
-	.string "DIVE again.\p"
-	.string "In some places, it won't be possible\n"
-	.string "for you to surface, though.$"
+	.string "STEVEN: Mens du bruger SURF, skal du\n"
+	.string "bemærke mørke vandpletter.\p"
+	.string "Brug DYK, hvis du når dybt vand\n"
+	.string "som dette. Du vil falde til havbunden.\p"
+	.string "Når du vil komme tilbage op, brug\n"
+	.string "DYK igen.\p"
+	.string "På nogle steder vil det dog ikke være\n"
+	.string "muligt for dig at komme op til overfladen.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
-	.string "STEVEN: Apparently, there's an\n"
-	.string "underwater cavern between\l"
-	.string "MOSSDEEP and SOOTOPOLIS.\p"
-	.string "You know, the one that CAPT. STERN\n"
-	.string "found in his submarine.$"
+	.string "STEVEN: Åbenbart er der en\n"
+	.string "undervandsgrotte mellem\n"
+	.string "MOSSAGTIG og SODAVANDSPOLIS.\p"
+	.string "Du ved, den som KAPT. STERN\n"
+	.string "fandt i sin ubåd.$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
 	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "It contained the POKéMON\n"
+	.string "Den indeholdt POKéMONet\n"
 	.string "BELDUM.\p"
-	.string "Take the POKé BALL?$"
+	.string "Vil du tage POKé BALLen?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
-	.string "{PLAYER} obtained a BELDUM.$"
+	.string "{PLAYER} fik en BELDUM.$"
 
 @ Unused
 MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
-	.string "There is no space for another POKéMON.$"
+	.string "Der er ikke plads til flere POKéMON.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} left the POKé BALL where\n"
-	.string "it was.$"
+	.string "{PLAYER} lod POKé BALL-en ligge,\n"
+	.string "hvor den var.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
-	.string "It's a letter.\p"
+	.string "Det er et brev.\p"
 	.string "… … … … … …\p"
-	.string "To {PLAYER}{KUN}…\p"
-	.string "I've decided to do a little soul-\n"
-	.string "searching and train on the road.\p"
-	.string "I don't plan to return home for some\n"
-	.string "time.\p"
-	.string "I have a favor to ask of you.\p"
-	.string "I want you to take the POKé BALL on\n"
-	.string "the desk.\p"
-	.string "Inside it is a BELDUM, my favorite\n"
-	.string "POKéMON.\p"
-	.string "I'm counting on you.\p"
-	.string "May our paths cross someday.\p"
+	.string "Til {PLAYER}{KUN}…\p"
+	.string "Jeg har besluttet at foretage lidt\n"
+	.string "soul-searching og træne på vejen.\p"
+	.string "Jeg planlægger ikke at vende hjem\n"
+	.string "foreløbig.\p"
+	.string "Jeg har en tjeneste at bede om.\p"
+	.string "Jeg vil have dig til at tage POKé\n"
+	.string "BOLDEN på skrivebordet.\p"
+	.string "Indeni er der en BELDUM, min\n"
+	.string "yndlings-POKéMON.\p"
+	.string "Jeg regner med dig.\p"
+	.string "Må vores veje krydse en dag.\p"
 	.string "STEVEN STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by STEVEN.$"
+	.string "Det er en samling af sjældne sten og\n"
+	.string "klipper samlet af STEVEN.$"
+
+
 
