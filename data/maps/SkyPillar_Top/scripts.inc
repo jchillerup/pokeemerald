@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_RAYQUAZA_SLEEPING, 1
 
 SkyPillar_Top_MapScripts::
@@ -181,5 +183,7 @@ SkyPillar_Top_Movement_CameraPanDown:
 	step_end
 
 SkyPillar_Top_Text_RayquazaFlewOff:
-	.string "The awakened RAYQUAZA flew off…$"
+.string "Den vågnede RAYQUAZA fløj væk...$"
+
+
 
