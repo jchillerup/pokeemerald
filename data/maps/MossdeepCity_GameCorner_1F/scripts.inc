@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MossdeepCity_GameCorner_1F_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, MossdeepCity_GameCorner_1F_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, MossdeepCity_GameCorner_1F_OnWarp
@@ -39,49 +41,50 @@ RS_MysteryEventsHouse_EventScript_Door::
 	end
 
 RS_MysteryEventsHouse_Text_OldManGreeting:
-	.string "When I was young, I traveled the world\n"
-	.string "as a POKéMON TRAINER.\p"
-	.string "Now that I've become an old buzzard,\n"
-	.string "my only amusement is watching young\l"
-	.string "TRAINERS battle.$"
+	.string "Da jeg var ung, rejste jeg verden\n"
+	.string "rundt som en POKéMON TRÆNER.\p"
+	.string "Nu hvor jeg er blevet en gammel\n"
+	.string "gøgler, er min eneste underholdning\n"
+	.string "at se unge TRÆNERE kæmpe.$"
 
 RS_MysteryEventsHouse_Text_DoorIsLocked:
-	.string "The door appears to be locked.$"
+.string "Døren ser ud til at være låst.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "A TRAINER named {STR_VAR_1} is\n"
-	.string "visiting my home.\p"
-	.string "Would you like to challenge\n"
+	.string "EN TRÆNER ved navn {STR_VAR_1} er\n"
+	.string "på besøg i mit hjem.\p"
+	.string "Vil du udfordre\n"
 	.string "{STR_VAR_1}?$"
 
 RS_MysteryEventsHouse_Text_YouWontBattle:
-	.string "You won't battle? I'm disappointed\n"
-	.string "that I can't see you battle…$"
+	.string "Vil du ikke kæmpe? Jeg er skuffet\n"
+	.string "at jeg ikke kan se dig kæmpe...$"
 
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
-	.string "Oh, good, good!\p"
-	.string "But my house isn't all that sturdy.\p"
-	.string "Could I ask you to keep it down to\n"
-	.string "a 3-on-3 match?$"
+	.string "Åh, godt, godt!\p"
+	.string "Men mit hus er ikke særlig solid.\p"
+	.string "Kunne jeg bede dig om at holde det nede til\n"
+	.string "en 3-mod-3 kamp?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
-	.string "Before you two battle, you should\n"
-	.string "save your progress.$"
+	.string "Inden I to kæmper, bør I\n"
+	.string "gemme jeres fremskridt.$"
 
 RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
-	.string "I hope to see a good match!$"
+	.string "Jeg håber at se en god kamp!$"
 
 RS_MysteryEventsHouse_Text_BattleTie:
-	.string "So, it became a standoff.\p"
-	.string "It was a brilliant match in which\n"
-	.string "neither side conceded a step!$"
+	.string "Så stod vi pludselig der.\p"
+	.string "Det var en fantastisk kamp, hvor\n"
+	.string "ingen af parterne gav en tomme!$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
-	.string "That was superlative!\p"
-	.string "Why, it was like seeing myself in\n"
-	.string "my youth again!$"
+	.string "Det var suverænt!\p"
+	.string "Det var ligesom at se mig selv\n"
+	.string "i min ungdom igen!$"
 
 RS_MysteryEventsHouse_Text_BattleLost:
-	.string "Ah, too bad for you!\p"
-	.string "But it was a good match.\n"
-	.string "I hope you can win next time.$"
+    .string "Åh, ØV for dig!\p"
+	.string "Men det var en god kamp.\n"
+	.string "Jeg håber, du vinder næste gang.$"
+
