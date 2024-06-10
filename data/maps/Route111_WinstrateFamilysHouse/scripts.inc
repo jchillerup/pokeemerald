@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_VIVI, 1
 .set LOCALID_VICTOR, 2
 .set LOCALID_VICTORIA, 3
@@ -62,46 +64,47 @@ Route111_WinstrateFamilysHouse_EventScript_FaceOriginalDirection::
 	end
 
 Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou:
-	.string "You're the first TRAINER I've seen who\n"
-	.string "deploys POKéMON so masterfully.\p"
-	.string "But, I should tell you--my son is\n"
-	.string "stronger than you.\p"
-	.string "He even took the POKéMON LEAGUE\n"
-	.string "challenge, I'll have you know.$"
+	.string "Du er den første TRÆNER, jeg har set,\n"
+	.string "der udsender POKéMON så mesterligt.\p"
+	.string "Men jeg bliver nødt til at fortælle\ndig -- min søn er stærkere end dig.\p"
+	.string "Han har endda taget udfordringen\nPOKéMON LIGAEN, skal du vide.$"
 
 Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace:
-	.string "We use this MACHO BRACE to more\n"
-	.string "effectively strengthen our POKéMON\l"
-	.string "in training.\p"
-	.string "Since you've beaten all of us here,\n"
-	.string "I don't know if you need it, but we\l"
-	.string "would like you to have our MACHO BRACE.$"
+	.string "Vi bruger dette MACHO-BRAS til at\n"
+	.string "styrke vores POKéMON mere\n"
+	.string "effektivt under træning.\p"
+	.string "Da du har besejret os alle her,\n"
+	.string "ved jeg ikke, om du har brug for det,\n"
+	.string "men vi vil gerne give dig vores MACHO-BRAS.$"
 
 Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles:
-	.string "When it comes to POKéMON battles,\n"
-	.string "we tend to be pretty passionate.$"
+	.string "Når det kommer til POKéMON-kampe,\n"
+	.string "plejer vi at være ret passionerede.$"
 
 Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers:
-	.string "Mommy is stronger than Daddy.\p"
-	.string "I'm stronger than Mommy.\p"
-	.string "And Grandma's stronger than me!\p"
-	.string "But my big brother is even stronger\n"
-	.string "than Grandma.$"
+	.string "Mor er stærkere end Far.\p"
+	.string "Jeg er stærkere end Mor.\p"
+	.string "Og Bedstemor er stærkere end mig!\p"
+	.string "Men min storebror er endnu stærkere\n"
+	.string "end Bedstemor.$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrong:
-	.string "There's no question that you're strong.\p"
-	.string "But if you were to battle my grandson,\n"
-	.string "you'd end up crying in frustration.\p"
-	.string "He's much stronger than any TRAINER\n"
-	.string "our family knows.\p"
-	.string "He must be challenging the POKéMON\n"
-	.string "LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "Der er ingen tvivl om, at du er stærk.\p"
+	.string "Men hvis du skulle kæmpe mod min\n"
+	.string "barnebarn, ville du ende med at græde\n"
+	.string "af frustration.\p"
+	.string "Han er meget stærkere end nogen\n"
+	.string "TRÆNER, vores familie kender.\p"
+	.string "Han må være i gang med at udfordre\n"
+	.string "POKéMON LIGAMESTEREN lige nu.\p"
+	.string "Kender jeg mit barnebarn ret, så er han\n"
+	.string "måske allerede MESTEREN!$"
 
 Route111_WinstrateFamilysHouse_Text_GrandsonStrongShort:
-	.string "My grandson must be challenging the\n"
-	.string "POKéMON LEAGUE CHAMPION by now.\p"
-	.string "Knowing my grandson, he could be the\n"
-	.string "CHAMPION already!$"
+	.string "Min barnebarn må udfordre\n"
+	.string "POKéMON LIGAMESTEREN nu.\p"
+	.string "Kender jeg mit barnebarn ret, så kunne han\n"
+	.string "allerede være MESTER!$"
+
+
 
