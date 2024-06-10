@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 RustboroCity_Flat1_1F_MapScripts::
 	.byte 0
 
@@ -10,9 +12,11 @@ RustboroCity_Flat1_1F_EventScript_Woman::
 	end
 
 RustboroCity_Flat1_1F_Text_EveryPokemonHasAbility:
-	.string "Every POKéMON has a special ability\n"
-	.string "that it can use.$"
+	.string "Hver POKéMON har en speciel evne\n"
+	.string "som den kan bruge.$"
 
 RustboroCity_Flat1_1F_Text_PokemonStrange:
-	.string "POKéMON are such strange creatures.$"
+.string "POKéMON er så underlige skabninger.$"
+
+
 
