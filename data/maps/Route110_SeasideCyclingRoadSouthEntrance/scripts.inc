@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route110_SeasideCyclingRoadSouthEntrance_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route110_SeasideCyclingRoadSouthEntrance_OnTransition
 	.byte 0
@@ -53,13 +55,15 @@ Route110_SeasideCyclingRoadSouthEntrance_EventScript_ClearCyclingRoad::
 	end
 
 Route110_SeasideCyclingRoadSouthEntrance_Text_GoAllOutOnCyclingRoad:
-	.string "On CYCLING ROAD, you can go all out\n"
-	.string "and cycle as fast as you'd like.\p"
-	.string "It feels great to go that fast, but try\n"
-	.string "not to crash into anyone!$"
+	.string "På CYKLING VEJ kan du give den gas\n"
+	.string "og cykle så hurtigt, du vil.\p"
+	.string "Det føles fantastisk at køre så hurtigt,\n"
+	.string "men prøv at undgå at køre ind i nogen!$"
 
 Route110_SeasideCyclingRoadSouthEntrance_Text_TooDangerousToWalk:
-	.string "Sorry, you can't walk on CYCLING\n"
-	.string "ROAD. It's too dangerous.\p"
-	.string "Please come back with a BIKE.$"
+	.string "Beklager, du kan ikke gå på CYKLING\n"
+	.string "VEJ. Det er for farligt.\p"
+	.string "Kom venligst tilbage med en CYKEL.$"
+
+
 
