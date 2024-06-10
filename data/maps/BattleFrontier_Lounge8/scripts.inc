@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 BattleFrontier_Lounge8_MapScripts::
 	.byte 0
 
@@ -14,32 +16,34 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 	end
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
-	.string "What a TRAINER needs…\p"
-	.string "Knowledge…\n"
-	.string "Strategy…\l"
-	.string "Luck…\l"
-	.string "Guts…\l"
-	.string "Spirit…\l"
-	.string "Bravery…\l"
-	.string "And ability…\p"
-	.string "Well, I'm all set in every way!\n"
-	.string "I'll be unstoppable at every building!\p"
-	.string "Huh? POKéMON?\n"
-	.string "What's that?$"
+	.string "Hvad en TRÆNER har brug for…\p"
+	.string "Viden…\n"
+	.string "Strategi…\l"
+	.string "Lyd…\l"
+	.string "Tarmene…\l"
+	.string "Ånd…\l"
+	.string "Mod…\l"
+	.string "Og evne…\p"
+	.string "Nå, jeg er klar på alle måder!\n"
+	.string "Jeg vil være ustoppelig på ethvert bygning!\p"
+	.string "Hva'? POKéMON?\n"
+	.string "Hvad er det?$"
 
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains:
-	.string "Do you know about the FRONTIER\n"
+	.string "Kender du til FRONTIER\n"
 	.string "BRAINS?\p"
-	.string "That's what SCOTT calls the seven\n"
-	.string "special TRAINERS that run the seven\l"
-	.string "facilities in the BATTLE FRONTIER.$"
+	.string "Det er hvad SCOTT kalder de syv\n"
+	.string "særlige TRÆNERE, der styrer de syv\n"
+	.string "faciliteter i BATTLE FRONTIER.$"
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling:
-	.string "At the BATTLE TOWER, an older girl\n"
-	.string "told me that I have a lot of talent\l"
-	.string "for battling!\p"
-	.string "I like POKéMON CONTESTS more!\p"
-	.string "But I'm no good at CONTESTS!\p"
-	.string "I guess having talent and liking\n"
-	.string "something aren't the same.$"
+	.string "Ved KAMPENS TÅRN fortalte en ældre pige\n"
+	.string "mig, at jeg har masser af talent\l"
+	.string "til at kæmpe!\p"
+	.string "Jeg foretrækker POKéMON-KONKURRENCER!\p"
+	.string "Men jeg er ikke god til KONKURRENCER!\p"
+	.string "Jeg antager, at talent og at kunne\n"
+	.string "lide noget ikke er det samme.$"
+
+
 
