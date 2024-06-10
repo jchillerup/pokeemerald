@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_EXPERT_M, 4
 .set LOCALID_TWIN, 5
 .set LOCALID_SCHOOL_KID_M, 7
@@ -260,167 +262,166 @@ DewfordTown_Hall_EventScript_ReceivedSludgeBomb::
 	end
 
 DewfordTown_Hall_Text_CantImagineLifeWithoutTrend:
-	.string "What's in vogue? Why, it has to be\n"
+	.string "Hvad er på mode? Pjat, det må være\n"
 	.string "“{STR_VAR_1}”!\p"
-	.string "I can't imagine what life would be like\n"
-	.string "without “{STR_VAR_1}”!$"
+	.string "Jeg kan slet ikke forestille mig, hvordan\n"
+	.string "livet ville være uden “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_GettingBoredOfTrend:
-	.string "What's in vogue? Why, it has to be\n"
-	.string "“{STR_VAR_1}”!\p"
-	.string "But I'm getting kind of bored with it.\p"
-	.string "I should look for the next big thing.$"
+	.string "Hvad er det helt store? Ja, det må\n"
+	.string "være “{STR_VAR_1}”!\p"
+	.string "Men jeg begynder at kede mig med det.\p"
+	.string "Jeg bør lede efter det næste store.$"
 
 DewfordTown_Hall_Text_TeachingMonAboutTrend:
-	.string "I'm teaching my POKéMON about\n"
+	.string "Jeg underviser mine POKéMON i\n"
 	.string "“{STR_VAR_1},”\l"
-	.string "but it's not going well.\p"
-	.string "It's a bit too much, I think.$"
+	.string "men det går ikke så godt.\p"
+	.string "Det er lidt for meget, tror jeg.$"
 
 DewfordTown_Hall_Text_DeepLinkBetweenXAndY:
-	.string "I'm studying up on the hip and trendy\n"
-	.string "“{STR_VAR_1}” now.\p"
-	.string "Is it true that there's a deep link\n"
-	.string "between “{STR_VAR_1}”\l"
-	.string "and “{STR_VAR_2}”?$"
+	.string "Jeg undersøger det hippe og trendy\n"
+	.string "“{STR_VAR_1}” lige nu.\p"
+	.string "Er det sandt, at der er en dyb forbindelse\n"
+	.string "mellem “{STR_VAR_1}”\l"
+	.string "og “{STR_VAR_2}”?$"
 
 DewfordTown_Hall_Text_MyHunchWasRight:
-	.string "Oh!\n"
-	.string "So, my hunch was right!\p"
-	.string "I'm one step closer to being hip and\n"
-	.string "happening, yowza!$"
+	.string "Åh!\n"
+	.string "Så min fornemmelse var rigtig!\p"
+	.string "Jeg er et skridt tættere på at være cool og\n"
+	.string "sej, wauw!$"
 
 DewfordTown_Hall_Text_NotEasyToKeepUp:
-	.string "What?!\n"
-	.string "Is that so?!\p"
-	.string "It's not easy for an older fellow like\n"
-	.string "me to keep up with trends!$"
+	.string "Hvad?!\n"
+	.string "Er det sandt?!\p"
+	.string "Det er ikke nemt for en ældre herre som\n"
+	.string "mig at følge med i trends!$"
 
 DewfordTown_Hall_Text_TVShowAboutTrend:
-	.string "This whole business about\n"
-	.string "“{STR_VAR_1}”…\l"
-	.string "Isn't there a TV show on it?$"
+	.string "Hele denne sag om\n"
+	.string "“{STR_VAR_1}”... \l"
+	.string "Er der ikke et tv-program om det?$"
 
 DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea:
-	.string "Across the sea…\p"
-	.string "Is “{STR_VAR_1}”\n"
-	.string "even more popular?$"
+	.string "Over havet…\p"
+	.string "Er “{STR_VAR_1}”\n"
+	.string "endnu mere populær?$"
 
 DewfordTown_Hall_Text_CollectTrendMerchandise:
-	.string "I collect official\n"
+	.string "Jeg samler på officielt\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "licensed merchandise.\p"
-	.string "I have official\n"
-	.string "“{STR_VAR_1}” DOLLS…\p"
-	.string "Official “{STR_VAR_1}”\n"
-	.string "brand clothing…\p"
-	.string "And officially licensed\n"
+	.string "licenseret merchandise.\p"
+	.string "Jeg har officielle\n"
+	.string "“{STR_VAR_1}” DUKKER…\p"
+	.string "Officielt “{STR_VAR_1}”\n"
+	.string "brandtøj…\p"
+	.string "Og officielt licenseret\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "picture books.\p"
-	.string "Heheh, I own!\n"
-	.string "I'm not sharing anything with you!$"
+	.string "billedbøger.\p"
+	.string "Heheh, jeg ejer!\n"
+	.string "Jeg deler ikke noget med dig!$"
 
 DewfordTown_Hall_Text_BooksAboutTrend:
-	.string "IDENTIFYING GOOD\n"
+	.string "IDENTIFICERE DET GODE\n"
 	.string "“{STR_VAR_1}” &\l"
-	.string "BAD “{STR_VAR_1}”…\p"
-	.string "THE LINK BETWEEN\n"
-	.string "“{STR_VAR_1}” AND\l"
+	.string "DÅRLIG “{STR_VAR_1}”…\p"
+	.string "FORBINDELSEN MELLEM\n"
+	.string "“{STR_VAR_1}” OG\l"
 	.string "POKéMON…\p"
-	.string "USEFUL\n"
+	.string "BRUGBART\n"
 	.string "“{STR_VAR_1}”…\p"
-	.string "It's neatly jammed with books about\n"
+	.string "Den er pænt proppet med bøger om\n"
 	.string "“{STR_VAR_1}.”$"
 
 DewfordTown_Hall_Text_TrendsScream:
 	.string "“{STR_VAR_1}'S\n"
-	.string "SCREAM” is the title.$"
+	.string "SKRIG” er titlen.$"
 
 DewfordTown_Hall_Text_TrendsSmile:
 	.string "“{STR_VAR_1}'S\n"
-	.string "SMILE” is the title.$"
+	.string "SMIL” er titlen.$"
 
 DewfordTown_Hall_Text_LastTrend:
-	.string "It's titled “THE LAST\n"
+	.string "Den hedder “DEN SIDSTE\n"
 	.string "{STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_BirthOfTrend:
-	.string "It's titled “THE BIRTH OF\n"
-	.string "{STR_VAR_1}”.$"
+	.string "Det hedder “FØDSEL\n"
+	.string "AF {STR_VAR_1}".$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:
-	.string "I saw “{STR_VAR_1}”!\n"
-	.string "Cool, huh?\p"
-	.string "It's, like, the coolest thing going!\p"
-	.string "It was awesome!\n"
-	.string "It was the real thing, oh yeah!$"
+	.string "Jeg så “{STR_VAR_1}”!\n"
+	.string "Fedt, hva’?\p"
+	.string "Det er li’som det fedeste nogensinde!\p"
+	.string "Det var fantastisk!\n"
+	.string "Det var ægte vare, oh yeah!$"
 
 DewfordTown_Hall_Text_AllegedTrendNotAuthentic:
-	.string "Oh, no, no, no.\p"
-	.string "That alleged\n"
+	.string "Åh nej, nej, nej.\p"
+	.string "Den påståede\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "you claim to have seen--it's not.\p"
-	.string "The authentic article is much…\n"
-	.string "How should I say it?\l"
-	.string "Sharper, yet more mellow!\p"
-	.string "Ah, no matter. It's astonishing!$"
+	.string "du siger, at du har set -- det er det ikke.\p"
+	.string "Det autentiske produkt er meget…\n"
+	.string "Hvordan skal jeg sige det?\l"
+	.string "Skarpere, men mere blidt!\p"
+	.string "Åh, det betyder ikke noget. Det er fantastisk!$"
 
 DewfordTown_Hall_Text_ComposedTrendThemeSong:
-	.string "Hey, listen, I composed a theme song\n"
-	.string "for “{STR_VAR_1}.”\p"
+	.string "Hej, lyt lige, jeg har komponeret en\n"
+	.string "temasang til “{STR_VAR_1}.”\p"
 	.string "“{STR_VAR_1}”\n"
-	.string "is really popular right now.\p"
-	.string "Okay, listen!\n"
+	.string "er virkelig populær lige nu.\p"
+	.string "Okay, lyt!\n"
 	.string "… …\p"
-	.string "Oh!\n"
+	.string "Åh!\n"
 	.string "{STR_VAR_1}!\p"
-	.string "Wonderful\n"
+	.string "Fantastisk\n"
 	.string "{STR_VAR_1}!$"
 
 DewfordTown_Hall_Text_WorkOnYourSinging:
-	.string "… …\p"
-	.string "I dare say, chap, it would pay for you\n"
-	.string "to work on your singing before you\l"
-	.string "trifle yourself with\l"
-	.string "“{STR_VAR_1}.”$"
+	.string "Jeg tør nok sige, makker, at det\n"
+	.string "ville betale sig for dig at arbejde\n"
+	.string "på din sang, inden du fornøjer dig\n"
+	.string "med “{STR_VAR_1}.”\p"
 
 DewfordTown_Hall_Text_OrganizeTrendParty:
-	.string "Anyway, as I was saying earlier, we\n"
-	.string "should get together and organize a\l"
-	.string "“{STR_VAR_1}” party\l"
-	.string "on the island.$"
+	.string "Nå, som jeg sagde tidligere, burde\n"
+	.string "vi samles og arrangere en\l"
+	.string "“{STR_VAR_1}” fest\l"
+	.string "på øen.$"
 
 DewfordTown_Hall_Text_BrilliantIndeed:
-	.string "Oh, a smashing good idea!\p"
-	.string "It will settle once and for all\n"
-	.string "who is the best at\l"
+	.string "Åh, en fantastisk god idé!\p"
+	.string "Det vil afgøre en gang for alle\n"
+	.string "hvem der er bedst til\l"
 	.string "“{STR_VAR_1}.”\l"
-	.string "Brilliant, indeed!\p"
-	.string "Starting today, our lives will revolve\n"
-	.string "around “{STR_VAR_1}”!$"
+	.string "Brilliant, uden tvivl!\p"
+	.string "Fra i dag vil vores liv dreje sig\n"
+	.string "om “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_TrendHasBecomePartOfLife:
-	.string "I was thinking, though…\p"
-	.string "Wouldn't you agree that\n"
-	.string "“{STR_VAR_1}” has\l"
-	.string "grown from being something trendy to\l"
-	.string "being a part of our daily lives?$"
+	.string "Jeg tænkte dog...\p"
+	.string "Ville du ikke være enig i, at\n"
+	.string "“{STR_VAR_1}” er blevet\l"
+	.string "mere end bare en trend og er\n"
+	.string "blevet en del af vores hverdag?$"
 
 DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind:
-	.string "Beg pardon?\n"
-	.string "That much, what?\p"
-	.string "However, it's true that\n"
+	.string "Undskyld?\n"
+	.string "Så meget, hvad?\p"
+	.string "Dog er det sandt, at\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "weighs heavily on your mind, whether\l"
-	.string "you're awake or asleep.\p"
-	.string "Absolutely, you're the\n"
+	.string "vejer tungt på dit sind, uanset\n"
+	.string "om du er vågen eller sover.\p"
+	.string "Helt sikkert, du er den\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "PROFESSOR, old sport!$"
+	.string "PROFESSOR, gamle ven!$"
 
 DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible:
-	.string "If you and me team up as a combo,\n"
-	.string "we'll be invincible when it comes to all\l"
-	.string "things “{STR_VAR_1}”!$"
+	.string "Hvis du og jeg danner et team som en duo,\n"
+	.string "vil vi være uovervindelige, når det kommer til alle\l"
+	.string "ting “{STR_VAR_1}”!$"
 
 DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Spot on, my friend!\p"
@@ -430,16 +431,18 @@ DewfordTown_Hall_Text_WellBeTrendDuo:
 	.string "Hahahah!$"
 
 DewfordTown_Hall_Text_GiveYouSludgeBomb:
-	.string "For me, SLUDGE BOMB is at the peak\n"
-	.string "of popularity. It's the one.\p"
-	.string "Hunh? You're telling me that you don't\n"
-	.string "know about SLUDGE BOMB?\p"
-	.string "That's outright pitiful.\n"
-	.string "I'll give you one.$"
+	.string "For mig er SLUDGE BOMB på toppen\n"
+	.string "af popularitet. Det er den.\p"
+	.string "Hvad? Du fortæller mig, at du ikke\n"
+	.string "kender til SLUDGE BOMB?\p"
+	.string "Det er altså ynkeligt.\n"
+	.string "Jeg giver dig én.$"
 
 DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
-	.string "I love SLUDGE BOMB.\p"
-	.string "But POKéMON with the move\n"
+	.string "Jeg elsker SLAMMEREGBOMBE.\p"
+	.string "Men POKéMON med angrebet\n"
 	.string "“{STR_VAR_1}”\l"
-	.string "are in, too.$"
+	.string "er også med.$"
+
+
 
