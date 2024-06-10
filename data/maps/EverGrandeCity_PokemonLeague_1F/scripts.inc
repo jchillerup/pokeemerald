@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 .set LOCALID_GUARD_1, 3
 .set LOCALID_GUARD_2, 4
@@ -126,18 +128,21 @@ EverGrandeCity_PokemonLeague_1F_Movement_RightGuardOutOfWay:
 	step_end
 
 EverGrandeCity_PokemonLeague_1F_Text_MustHaveAllGymBadges:
-	.string "Beyond this point, only those TRAINERS\n"
-	.string "who have collected all the GYM BADGES\l"
-	.string "are permitted to enter.\p"
-	.string "TRAINER, let us confirm that you have\n"
-	.string "all the GYM BADGES.$"
+	.string "På den anden side er det kun de \n"
+	.string "TRENERE, der har samlet alle GYM-\n"
+	.string "BADGES, der har lov til at komme \n"
+	.string "ind.\p"
+	.string "TRÆNER, lad os bekræfte, at du har \n"
+	.string "alle GYM-BADGES.$"
 
 EverGrandeCity_PokemonLeague_1F_Text_HaventObtainedAllBadges:
-	.string "You haven't obtained all the BADGES.\p"
-	.string "If you're bound for the POKéMON\n"
-	.string "LEAGUE, you must return with them.$"
+	.string "Du har ikke opnået alle BADGES.\p"
+	.string "Hvis du sigter efter POKéMON-\n"
+	.string "LIGAEN, skal du vende tilbage med dem.$"
 
 EverGrandeCity_PokemonLeague_1F_Text_GoForth:
-	.string "TRAINER! Believe in yourself and your\n"
-	.string "POKéMON, and go forth!$"
+	.string "TRÆNER! Tro på dig selv og dine\n"
+	.string "POKéMON, og fortsæt fremad!$"
+
+
 
