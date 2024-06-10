@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MtPyre_4F_MapScripts::
 	.byte 0
 
@@ -9,14 +11,16 @@ MtPyre_5F_EventScript_Atsushi::
 	end
 
 MtPyre_5F_Text_AtsushiIntro:
-	.string "Teacher…\n"
-	.string "Please watch over my progress!$"
+	.string "Lærer…\n"
+	.string "Vær venlig at følge med i min fremgang!$"
 
 MtPyre_5F_Text_AtsushiDefeat:
-	.string "Teacher…\n"
-	.string "Please forgive me!$"
+	.string "Lærer…\n"
+	.string "Vil du tilgive mig?$"
 
 MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Until I improve, my teacher, who rests\n"
-	.string "here, will never find true peace…$"
+	.string "Indtil jeg bliver bedre, vil min lærer, som hviler\n"
+	.string "her, aldrig finde sand fred…$"
+
+
 
