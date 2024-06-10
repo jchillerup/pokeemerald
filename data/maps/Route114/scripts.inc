@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route114_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route114_OnTransition
 	map_script MAP_SCRIPT_ON_LOAD, Route114_OnLoad
@@ -177,26 +179,28 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "All my POKéMON does is ROAR…\n"
-	.string "No one dares to come near me…\p"
-	.string "Sigh… If you would, please take\n"
-	.string "this TM away…$"
+	.string "Alt hvad min POKéMON gør, er at BRØLE…\n"
+	.string "Ingen tør komme nær mig…\p"
+	.string "Suk… Hvis du ville, så tag gerne\n"
+	.string "denne TM med dig…$"
 
 Route114_Text_ExplainRoar:
-	.string "TM05 contains ROAR.\n"
-	.string "A ROAR sends POKéMON scurrying.$"
+	.string "TM05 indeholder BRØL.\n"
+	.string "Et BRØL får POKéMON til at løbe væk.$"
 
 Route114_Text_Poochyena:
-	.string "Bow! Bowwow!$"
+.string "Vov! Vovvov!$"
 
 Route114_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "RUSTBORO CITY THROUGH HERE$"
+	.string "METEOR FALDER\n"
+	.string "RUSTBORO BY GÅR HER$"
 
 Route114_Text_FossilManiacsHouseSign:
-	.string "FOSSIL MANIAC'S HOUSE\n"
-	.string "“Fossils gratefully accepted!”$"
+	.string "Fossil Maniac's hus\n"
+	.string "“Fossiler modtages med tak!”$"
 
 Route114_Text_LanettesHouse:
-	.string "LANETTE'S HOUSE$"
+.string "LANETTES HUS$"
+
+
 
