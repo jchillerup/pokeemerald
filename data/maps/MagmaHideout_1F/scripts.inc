@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MagmaHideout_1F_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, MagmaHideout_1F_OnTransition
 	.byte 0
@@ -17,37 +19,39 @@ MagmaHideout_1F_EventScript_Grunt2::
 	end
 
 MagmaHideout_1F_Text_Grunt1Intro:
-	.string "When TEAM MAGMA has roll call, we get\n"
-	.string "important guarding assignments in\l"
-	.string "the order that we line up.\p"
-	.string "That's why I'm stuck off in this corner.\n"
-	.string "I'm always late to roll call!$"
+	.string "Når TEAM MAGMA har opstilling, får vi\n"
+	.string "vigtige vagtopgaver i\l"
+	.string "rækkefølgen, vi står i.\p"
+	.string "Derfor er jeg fanget her i hjørnet.\n"
+	.string "Jeg kommer altid for sent til opstilling!$"
 
 MagmaHideout_1F_Text_Grunt1Defeat:
-	.string "I'm always late for training sessions,\n"
-	.string "too!\p"
-	.string "I hate to say it, but I'm wimpy…$"
+	.string "Jeg er altid sent til træningssamlinger,\n"
+	.string "også!\p"
+	.string "Jeg hader at sige det, men jeg er en tøsedreng…$" 
 
 MagmaHideout_1F_Text_Grunt1PostBattle:
-	.string "Okay, I'll try to put a little more\n"
-	.string "effort into things from now on…$"
+	.string "Okay, jeg vil prøve at gøre lidt mere\n"
+	.string "indsats fra nu af…$"
 
 MagmaHideout_1F_Text_Grunt2Intro:
-	.string "Our leader told us to dig into\n"
-	.string "MT. CHIMNEY, so we dug and dug.\p"
-	.string "And in the course of digging, we came\n"
-	.string "across something that blew our minds!\p"
-	.string "What did we find?\p"
+	.string "Vores leder bad os om at grave ind i\n"
+	.string "MT. CHIMNEY, så vi gravede og gravede.\p"
+	.string "Og i løbet af at grave, fandt vi\n"
+	.string "noget, der sprængte vores sind!\p"
+	.string "Hvad fandt vi?\p"
 	.string "Fuhahaha!\n"
-	.string "I'll tell you if you beat me!$"
+	.string "Det vil jeg fortælle, hvis du slår mig!$"
 
 MagmaHideout_1F_Text_Grunt2Defeat:
-	.string "Arrgh!\n"
-	.string "Taken down!$"
+	.string "Av for fanden!\n"
+	.string "Taget ned!$"
 
 MagmaHideout_1F_Text_Grunt2PostBattle:
-	.string "I won't tell you after all.\n"
-	.string "You'll find out when you get there!\p"
-	.string "It'd be better if you saved surprises\n"
-	.string "to the end, don't you think?$"
+	.string "Jeg vil ikke fortælle dig alligevel.\n"
+	.string "Du vil finde ud af det, når du kommer derhen!\p"
+	.string "Det ville være bedre, hvis du gemte overraskelser\n"
+	.string "til slutningen, synes du ikke?$"
+
+
 
