@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route123_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route123_OnTransition
 	.byte 0
@@ -171,28 +173,30 @@ Route123_EventScript_RematchFernando::
 	end
 
 Route123_Text_LoveGrassMonsHaveAny:
-	.string "I love GRASS-type POKéMON!\p"
-	.string "Do you have any GRASS-type POKéMON?$"
+	.string "Jeg elsker GRÆS-type POKéMON!\p"
+	.string "Har du nogen GRÆS-type POKéMON?$"
 
 Route123_Text_YouLikeGrassMonsTooHaveThis:
-	.string "Oh?\p"
-	.string "You like GRASS-type POKéMON, too,\n"
-	.string "don't you?\p"
-	.string "I'm so happy, you can have this!\n"
-	.string "It's a token of our friendship.$"
+	.string "Åh?\p"
+	.string "Du kan også lide GRÆS-type POKéMON,\n"
+	.string "ikke sandt?\p"
+	.string "Jeg er så glad, du kan få denne!\n"
+	.string "Det er et tegn på vores venskab.$"
 
 Route123_Text_CheckTreesWithMyGrassMon:
-	.string "I check trees with my GRASS-type\n"
-	.string "POKéMON. I'm like a tree doctor.$"
+	.string "Jeg undersøger træer med min GRÆS-type\n"
+	.string "POKéMON. Jeg er ligesom en trælæge.$"
 
 Route123_Text_RouteSign:
-	.string "{RIGHT_ARROW} ROUTE 123\n"
-	.string "{LEFT_ARROW} ROUTE 118$"
+.string "{RIGHT_ARROW} RUTE 123\n"
+.string "{LEFT_ARROW} RUTE 118$"
 
 Route123_Text_RouteSignMtPyre:
 	.string "{UP_ARROW} MT. PYRE\n"
-	.string "“Forbidden to the faint of heart.”$"
+	.string "“Forbudt for sarte sjæle.”$"
 
 Route123_Text_BerryMastersHouse:
-	.string "BERRY MASTER'S HOUSE$"
+.string "BÆRMASTERENS HUS$"
+
+
 
