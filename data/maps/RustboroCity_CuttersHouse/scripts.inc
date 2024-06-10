@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 RustboroCity_CuttersHouse_MapScripts::
 	.byte 0
 
@@ -22,31 +24,33 @@ RustboroCity_CuttersHouse_EventScript_Lass::
 	end
 
 RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse:
-	.string "That determined expression…\n"
-	.string "That limber way you move…\l"
-	.string "And your well-trained POKéMON…\p"
-	.string "You're obviously a skilled TRAINER!\p"
-	.string "No, wait, don't say a word.\n"
-	.string "I can tell just by looking at you.\p"
-	.string "I'm sure that you can put this\n"
-	.string "HIDDEN MACHINE to good use.\p"
-	.string "No need to be modest or shy.\n"
-	.string "Go on, take it!$"
+	.string "Det der bestemte udtryk…\n"
+	.string "Den smidige måde, du bevæger dig på…\l"
+	.string "Og dine veltrænede POKéMON…\p"
+	.string "Du er tydeligvis en dygtig TRÆNER!\p"
+	.string "Nej, vent, sig ikke et ord.\n"
+	.string "Jeg kan se det bare ved at kigge på dig.\p"
+	.string "Jeg er sikker på, at du kan bruge denne\n"
+	.string "SKJULTE MASKINE godt.\p"
+	.string "Ingen grund til at være beskeden eller genert.\n"
+	.string "Kom nu, tag den!$"
 
 RustboroCity_CuttersHouse_Text_ExplainCut:
-	.string "That HIDDEN MACHINE, or HM for\n"
-	.string "short, is CUT.\p"
-	.string "An HM move is one that can be used\n"
-	.string "by POKéMON outside of battle.\p"
-	.string "Any POKéMON that's learned CUT can\n"
-	.string "chop down thin trees if the TRAINER\l"
-	.string "has earned the STONE BADGE.\p"
-	.string "And, unlike a TM, an HM can be used\n"
-	.string "more than once.$"
+	.string "Den SKJULTE MASKINE, eller HM for\n"
+	.string "kort, er KLIP.\p"
+	.string "Et HM-træk er et, der kan bruges\n"
+	.string "af en POKéMON uden for kamp.\p"
+	.string "Enhver POKéMON, som har lært KLIP,\n"
+	.string "kan hugge tynde træer ned, hvis\n"
+	.string "TRÆNEREN har optjent STENBADGEN.\p"
+	.string "Og, i modsætning til en TM, kan en\n"
+	.string "HM bruges flere gange.$"
 
 RustboroCity_CuttersHouse_Text_DadHelpedClearLandOfTrees:
-	.string "When they were expanding the city of\n"
-	.string "RUSTBORO, my dad helped out.\p"
-	.string "He made his POKéMON use CUT to clear\n"
-	.string "the land of trees.$"
+	.string "Da de udvidede byen RUSTBORO,\n"
+	.string "hjalp min far til.\p"
+	.string "Han lod sit POKéMON bruge SAKS\n"
+	.string "til at rydde landet for træer.$"
+
+
 
