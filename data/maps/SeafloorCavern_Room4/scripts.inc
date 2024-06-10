@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SeafloorCavern_Room4_MapScripts::
 	.byte 0
 
@@ -12,25 +14,28 @@ SeafloorCavern_Room4_EventScript_Grunt4::
 	end
 
 SeafloorCavern_Room4_Text_Grunt3Intro:
-	.string "Who are you?\n"
-	.string "Where did you come in from?$"
+	.string "Hvem er du?\n"
+	.string "Hvor kom du ind fra?$"
 
 SeafloorCavern_Room4_Text_Grunt3Defeat:
-	.string "Lost it…$"
+.string "Mistet det..."$
 
 SeafloorCavern_Room4_Text_Grunt3PostBattle:
-	.string "I can't find the way out!\p"
-	.string "I'm not afraid. Don't get me wrong!$"
+	.string "Jeg kan ikke finde vejen ud!\p"
+	.string "Jeg er ikke bange. Misforstå mig ikke!$"
 
 SeafloorCavern_Room4_Text_Grunt4Intro:
-	.string "Who are you?\n"
-	.string "Where do you think you're going?$"
+	.string "Hvem er du?\n"
+	.string "Hvor tror du, du skal hen?$"
 
 SeafloorCavern_Room4_Text_Grunt4Defeat:
-	.string "I failed to win!$"
+.string "Jeg formåede ikke at vinde!$"
 
 SeafloorCavern_Room4_Text_Grunt4PostBattle:
-	.string "My partner forgot the map in that\n"
-	.string "submarine!\p"
-	.string "How's that for being useless?$"
+	.string "Min partner glemte kortet i den\n"
+	.string "ubåd!\p"
+	.string "Hvad siger du til det, sådan er\n"
+	.string "tjenestevillighed?$"
+
+
 
