@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WALDAS_DAD, 6
 
 RustboroCity_Flat1_2F_MapScripts::
@@ -79,100 +81,102 @@ RustboroCity_Flat1_2F_EventScript_PokeDoll::
 	end
 
 RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard:
-	.string "Oh, it's so hard every day…\p"
-	.string "What's hard?\n"
-	.string "You need to ask?\p"
-	.string "It's trying to figure out what to\n"
-	.string "make for meals every day.\p"
-	.string "It really isn't easy coming up with\n"
-	.string "meals every day.$"
+	.string "Åh, det er så svært hver dag…\p"
+	.string "Hvad er svært?\n"
+	.string "Du er nødt til at spørge?\p"
+	.string "Det er svært at finde ud af, hvad\n"
+	.string "man skal lave til måltider hver dag.\p"
+	.string "Det er virkelig ikke nemt at finde på\n"
+	.string "måltider hver dag.$"
 
 RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase:
-	.string "Oh, hello!\n"
-	.string "Welcome to the PEPPER household.\p"
-	.string "I have a question for you.\n"
-	.string "Have you ever baby-sat?\p"
-	.string "You see, I'm a new father, so raising\n"
-	.string "a child is all new to me.\p"
-	.string "And I have a problem. My daughter\n"
-	.string "WALDA doesn't laugh enough.\p"
-	.string "I think she'd laugh for me if I told\n"
-	.string "her something funny.\p"
-	.string "Do you know of a funny word or\n"
-	.string "phrase you can tell me?$"
+	.string "Hej, hej!\n"
+	.string "Velkommen til PEPPER-hjemmet.\p"
+	.string "Jeg har et spørgsmål til dig.\n"
+	.string "Har du nogensinde passet børn før?\p"
+	.string "Ser du, jeg er en ny far, så at opdrage\n"
+	.string "et barn er helt nyt for mig.\p"
+	.string "Og jeg har et problem. Min datter\n"
+	.string "WALDA ler ikke nok.\p"
+	.string "Jeg tror, hun ville le for mig, hvis jeg\n"
+	.string "fortalte hende noget sjovt.\p"
+	.string "Kender du et sjovt ord eller en\n"
+	.string "sætning, du kan fortælle mig?$"
 
 RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase:
-	.string "I've been saying “{STR_VAR_1}”\n"
-	.string "to amuse her lately.\p"
-	.string "Do you know of a better word or\n"
-	.string "a phrase that might work?$"
+	.string "Jeg har fået “{STR_VAR_1}”\n"
+	.string "at more hende på det sidste.\p"
+	.string "Kender du et bedre ord eller en\n"
+	.string "sætning, der kunne virke?$"
 
 RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion:
-	.string "Oh, that's wonderful.\n"
-	.string "So, let's hear it, your suggestion.$"
+	.string "Åh, det er vidunderligt.\n"
+	.string "Så lad os høre det, dit forslag.$"
 
 RustboroCity_Flat1_2F_Text_OhIsThatRight:
-	.string "Oh, is that right?\p"
-	.string "Well, if you come up with a good\n"
-	.string "suggestion, I'm all ears.$"
+	.string "Åh, er det rigtigt?\p"
+	.string "Nå, hvis du kommer med et godt\n"
+	.string "forslag, så er jeg helt ører.$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry2:
-	.string "Ah, I see.\n"
-	.string "Well, let's give it a try, shall we?$"
+	.string "Åh, jeg forstår.\n"
+	.string "Nå, lad os prøve det, hvad siger du?$"
 
 RustboroCity_Flat1_2F_Text_OhShesLaughing:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Oh, yes! She's laughing!\n"
-	.string "Oh, I am as delighted as she!$"
+	.string "Åh, ja! Hun griner!\n"
+	.string "Åh, jeg er lige så begejstret som hende!$"
 
 RustboroCity_Flat1_2F_Text_LetsGiveItATry:
-	.string "Ah, I see.\n"
-	.string "Well, let's give it a try, shall we?$"
+	.string "Åh, jeg forstår.\n"
+	.string "Nå, lad os prøve det, skal vi?$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+	.string "Hmm... Hun smiler slet ikke.\n"
+	.string "Måske er WALDA bare en alvorlig pige...$"
 
 RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase:
-	.string "Oh, so you don't know any good words.\n"
-	.string "I'd better think for myself, then.\p"
+	.string "Åh, så du kender ikke nogle gode ord.\n"
+	.string "Jeg må hellere tænke selv, så.\p"
 	.string "Hmm…\n"
-	.string "How about “{STR_VAR_1}”?\l"
-	.string "Let's see if that will work.$"
+	.string "Hvad med “{STR_VAR_1}”?\l"
+	.string "Lad os se, om det vil virke.$"
 
 RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2:
 	.string "{STR_VAR_1}.\n"
 	.string "{STR_VAR_1}.\p"
-	.string "Hmmm… She's not smiling at all.\n"
-	.string "Maybe WALDA is one serious child…$"
+	.string "Hmm... Hun smiler overhovedet ikke.\n"
+	.string "Måske er WALDA et meget alvorligt barn...$"
 
 RustboroCity_Flat1_2F_Text_OhYouDontKnowAny:
-	.string "Oh, so you don't know any good words.\n"
-	.string "I guess I'll try to amuse her with\l"
-	.string "the saying I used before.\p"
-	.string "Anyways, if you have a good suggestion,\n"
-	.string "don't hesitate in telling me, okay?$"
+	.string "Åh, så kender du ikke nogen gode ord.\n"
+	.string "Jeg gætter på, at jeg vil forsøge at underholde hende med\l"
+	.string "den sætning, jeg brugte før.\p"
+	.string "Hvis du har et godt forslag,\n"
+	.string "så tøv ikke med at fortælle mig, okay?$"
 
 RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper:
-	.string "Thank you!\p"
-	.string "Thanks to you, my darling WALDA\n"
-	.string "laughed for me!\p"
-	.string "Actually, I may not look all that\n"
-	.string "special, but I'm one of DEVON\l"
-	.string "CORPORATION's top researchers.\p"
-	.string "So, how about I do something in return\n"
-	.string "for you?\p"
-	.string "I know, I'll add some new wallpaper\n"
-	.string "patterns for the BOXES in the PC\l"
-	.string "POKéMON Storage System.\p"
-	.string "In the wallpaper pattern menu,\n"
-	.string "select “FRIENDS.”\p"
-	.string "That will give you access to the new\n"
-	.string "wallpaper patterns.$"
+	.string "Tak!\p"
+	.string "Takket være dig, min skat WALDA\n"
+	.string "grinede for mig!\p"
+	.string "Faktisk ser jeg måske ikke så\n"
+	.string "speciel ud, men jeg er en af DEVON\l"
+	.string "CORPORATION's top forskere.\p"
+	.string "Så, hvad siger du til, at jeg gør\n"
+	.string "noget til gengæld for dig?\p"
+	.string "Jeg ved det, jeg vil tilføje nogle nye\n"
+	.string "tapetmønstre til KASSERNE i PC\l"
+	.string "POKéMON Opbevaringssystem.\p"
+	.string "I tapetmønstermenuen,\n"
+	.string "vælg “VENNER.”\p"
+	.string "Det vil give dig adgang til de nye\n"
+	.string "tapetmønstre.$"
 
 RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll:
-	.string "It's a POKéMON plush DOLL!$"
+.string "Det er en POKéMON bamse DUKKE!$"
+
+
 
