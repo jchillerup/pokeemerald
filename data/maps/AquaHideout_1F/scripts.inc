@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 AquaHideout_1F_MapScripts::
 	.byte 0
 
@@ -51,69 +53,70 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 	end
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
-	.string "What? What? What do you want with \n"
+	.string "Hvad? Hvad? Hvad vil du med \n"
 	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's gone off to\n"
-	.string "snatch something important!\p"
+	.string "Vores chef er ikke her! Han er taget\n"
+	.string "afsted for at snuppe noget vigtigt!\p"
 	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Hvor er han taget hen?\p"
+	.string "Hahaha! Tror du virkelig, jeg ville\n"
+	.string "fortælle dig noget så afgørende?$"
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is trying to\n"
-	.string "awaken an awesome POKéMON at their\l"
-	.string "HIDEOUT.\p"
-	.string "But where might their HIDEOUT be?$"
+	.string "Hvad? Hvad?\n"
+	.string "Er du en del af TEAM MAGMA holdet?\p"
+	.string "Jeg hører, at TEAM MAGMA prøver at\n"
+	.string "vække en fantastisk POKéMON i deres\l"
+	.string "SKJULESTED.\p"
+	.string "Men hvor mon deres SKJULESTED er?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
-	.string "What? What? What do you want with \n"
+	.string "Hvad? Hvad? Hvad vil du med \n"
 	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's gone off to jack a submarine!\p"
+	.string "Vores BOSS er ikke her!\n"
+	.string "Han er taget af sted for at kapre en \nubåd!\p"
 	.string "… …\n"
-	.string "Where did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Hvor er han taget hen?\p"
+	.string "Haha! Tror du virkelig, jeg ville \nforkrænke dig med så vigtig en \noplysning?$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
-	.string "What? What? What do you want with \n"
+	.string "Hvad? Hvad? Hvad vil du med \n"
 	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here! He's on his way to\n"
-	.string "MT. PYRE on ROUTE 122!\p"
+	.string "Vores BOSS er ikke her! Han er på vej til\n"
+	.string "MT. PYRE på ROUTE 122!\p"
 	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Hvorfor tog han af sted?\p"
+	.string "Hahaha! Tror du virkelig, jeg ville\n"
+	.string "fortælle dig noget så afgørende?$"
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
-	.string "What? What?\n"
-	.string "Are you a TEAM MAGMA grunt?\p"
-	.string "I hear that TEAM MAGMA is after\n"
-	.string "an awesome POKéMON at MT. CHIMNEY.\p"
-	.string "But what is that POKéMON like?$"
+	.string "Hvad? Hvad?\n"
+	.string "Er du en del af TEAM MAGMA?\p"
+	.string "Jeg hører, at TEAM MAGMA jagter\n"
+	.string "en fantastisk POKéMON på MT. CHIMNEY.\p"
+	.string "Men hvordan er den POKéMON?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:
-	.string "What? What? What do you want with\n"
+	.string "Hvad? Hvad? Hvad vil du med\n"
 	.string "TEAM AQUA?\p"
-	.string "Our BOSS isn't here!\n"
-	.string "He's on his way to SLATEPORT CITY!\p"
+	.string "Vores BOSS er ikke her!\n"
+	.string "Han er på vej til SLATEPORT CITY!\p"
 	.string "… …\n"
-	.string "Why did he go?\p"
-	.string "Wahaha! Do you really think I'd tell\n"
-	.string "you something that crucial?$"
+	.string "Hvorfor tog han afsted?\p"
+	.string "Haha! Tror du virkelig, jeg ville\n"
+	.string "fortælle dig noget så afgørende?$"
 
 AquaHideout_1F_Text_Grunt1Intro:
-	.string "Ayiyiyi!\n"
-	.string "Suspicious character spotted!$"
+	.string "Aj-aj-aj!\n"
+	.string "Mistænkelig karakter spottet!$"
 
 AquaHideout_1F_Text_Grunt1Defeat:
-	.string "Grrrrr…\n"
-	.string "I lost it!$"
+	.string "Av av…\n"
+	.string "Jeg tabte den!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "I took the loss for the TEAM,\n"
-	.string "but I did my job…$"
+	.string "Jeg tog tabet for HOLDEN,\n"
+	.string "men jeg gjorde mit job...\p$"
+
+
 
