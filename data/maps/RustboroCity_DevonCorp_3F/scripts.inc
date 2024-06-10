@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_DEVON_EMPLOYEE, 2
 
 RustboroCity_DevonCorp_3F_MapScripts::
@@ -198,111 +200,117 @@ RustboroCity_DevonCorp_3F_EventScript_RareRocksDisplay::
 	end
 
 RustboroCity_DevonCorp_3F_Text_MrStoneIHaveFavor:
-	.string "I'm MR. STONE, the PRESIDENT of\n"
-	.string "the DEVON CORPORATION.\p"
-	.string "I'd just got word about you!\p"
-	.string "You saved our staff not just once,\n"
-	.string "but twice!\p"
-	.string "I have a favor to ask of an amazing\n"
-	.string "person like you.\p"
-	.string "I understand that you're delivering\n"
-	.string "a package to SLATEPORT's SHIPYARD.\p"
-	.string "Well, on the way, could you stop off in\n"
-	.string "DEWFORD TOWN?\p"
-	.string "I was hoping that you'd deliver a\n"
-	.string "LETTER to STEVEN in DEWFORD.$"
+	.string "Jeg er HR. STONE, direktøren for\n"
+	.string "DEVON CORPORATION.\p"
+	.string "Jeg har netop hørt om dig!\p"
+	.string "Du har reddet vores personale ikke\n"
+	.string "bare én gang, men to gange!\p"
+	.string "Jeg har en tjeneste at bede om fra\n"
+	.string "en fantastisk person som dig.\p"
+	.string "Jeg forstår, at du er på vej til at\n"
+	.string "levere en pakke til SLATEPORTs\n"
+	.string "SKIBSVÆRFT.\p"
+	.string "Kunne du på vejen gøre et stop i\n"
+	.string "DEWFORD BY?\p"
+	.string "Jeg håbede, at du ville overbringe et\n"
+	.string "BREV til STEVEN i DEWFORD.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis:
-	.string "MR. STONE: Now, you should know that\n"
-	.string "I am a great PRESIDENT.\p"
-	.string "So, I'd never be so cheap as to ask\n"
-	.string "a favor for nothing in return.\p"
-	.string "That's why I want you to have this!$"
+	.string "MR. STONE: Nu skal du vide, at jeg er en\n"
+	.string "fantastisk PRÆSIDENT.\p"
+	.string "Så jeg ville aldrig være så nærig\n"
+	.string "som at bede om en tjeneste uden\n"
+	.string "at give noget til gengæld.\p"
+	.string "Derfor vil jeg have, at du tager dette!$"
 
 RustboroCity_DevonCorp_3F_Text_ReceivedPokenav:
-	.string "{PLAYER} received a POKéNAV.$"
+	.string "{PLAYER} modtog en POKéNAV.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp:
-	.string "MR. STONE: That device…\p"
-	.string "It's a POKéMON NAVIGATOR, or POKéNAV\n"
-	.string "for short.\p"
-	.string "It's an indispensable tool for any\n"
-	.string "TRAINER on an adventure.\p"
-	.string "It has a map of the HOENN region.\p"
-	.string "You can check the locations of\n"
-	.string "DEWFORD and SLATEPORT easily!\p"
-	.string "By the way, I've heard that sinister\n"
-	.string "criminals--MAGMA and AQUA, I believe--\l"
-	.string "have been making trouble far and wide.\p"
-	.string "I think it would be best if you rested\n"
-	.string "up before you go on your way.$"
+	.string "HR. STEN: Den enhed…\p"
+	.string "Det er en POKéMON NAVIGATOR, eller\n"
+	.string "POKéNAV for kort.\p"
+	.string "Det er et uundværligt værktøj for enhver\n"
+	.string "TRÆNER på et eventyr.\p"
+	.string "Den har et kort over HOENN-regionen.\p"
+	.string "Du kan nemt checke lokationerne af\n"
+	.string "DEWFORD og SLATEPORT!\p"
+	.string "Forresten, jeg har hørt at skumle\n"
+	.string "kriminelle--MAGMA og AQUA, tror jeg--\l"
+	.string "har skabt problemer overalt.\p"
+	.string "Jeg tror det ville være bedst, hvis du\n"
+	.string "fik hvilet, inden du fortsætter på\n"
+	.string "din vej.$"
 
 RustboroCity_DevonCorp_3F_Text_MrStoneGoWithCautionAndCare:
-	.string "MR. STONE: Well, then, {PLAYER}{KUN},\n"
-	.string "go with caution and care!$"
+	.string "HR. STONE: Nå, så, {PLAYER}{KUN},\n"
+	.string "gå forsigtigt og omhyggeligt!$"
 
 RustboroCity_DevonCorp_3F_Text_CountingOnYou:
-	.string "MR. STONE: I'm counting on you!$"
+	.string "Hr. Sten: Jeg regner med dig!$"
 
 RustboroCity_DevonCorp_3F_Text_ThankYouForDeliveringLetter:
-	.string "MR. STONE: You delivered my LETTER?\n"
-	.string "Thank you kindly!\p"
-	.string "This is my way of thanking you.\n"
-	.string "It should help you, a TRAINER.$"
+	.string "HR. STEN: Du leverede min BREV?\n"
+	.string "Tak skal du have!\p"
+	.string "Dette er min måde at takke dig på.\n"
+	.string "Det burde hjælpe dig, en TRÆNER.$"
 
 RustboroCity_DevonCorp_3F_Text_ExplainExpShare:
-	.string "MR. STONE: A POKéMON holding that\n"
-	.string "EXP. SHARE will be given some of the\l"
-	.string "EXP Points from battle.\p"
-	.string "It will get EXP Points even if it didn't\n"
-	.string "actually battle.\p"
-	.string "I would say EXP. SHARE is quite useful\n"
-	.string "for raising weak POKéMON.$"
+	.string "HR. STEN: En POKéMON, der holder den\n"
+	.string "EXP. DELING, vil få nogle af de\l"
+	.string "EXP Point fra kampen.\p"
+	.string "Den vil få EXP Point, selvom den ikke\n"
+	.string "har kæmpet.\p"
+	.string "Jeg vil sige, at EXP. DELING er ret\n"
+	.string "nyttig til at træne svage POKéMON.$"
 
 RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends:
-	.string "MR. STONE: Since my youth, I've immersed\n"
-	.string "myself in work.\p"
-	.string "Consequently, I'm not familiar with\n"
-	.string "trends and that sort of thing.\p"
-	.string "But do young people all want to be\n"
-	.string "TRAINERS in the POKéMON LEAGUE?$"
+	.string "HR. STEN: Siden min ungdom har jeg\n"
+	.string "dykket ned i arbejdet.\p"
+	.string "Derfor er jeg ikke bekendt med trends\n"
+	.string "og den slags ting.\p"
+	.string "Men ønsker alle unge at være\n"
+	.string "TRÆNERE i POKéMON LIGAEN?$"
 
 RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere:
-	.string "This is the DEVON CORPORATION's\n"
-	.string "third floor.\p"
-	.string "Our PRESIDENT's OFFICE is on\n"
-	.string "this floor.\p"
-	.string "Anyway, I can't tell you how much I'm\n"
-	.string "grateful for what you've done.\p"
-	.string "Um… By the way, that parcel\n"
-	.string "you got back for us…\p"
-	.string "Could I get you to deliver that to\n"
-	.string "the SHIPYARD in SLATEPORT?\p"
-	.string "It would be awful if those robbers\n"
-	.string "tried to take it again.\p"
-	.string "Uh… Hehehe, so, uh, could I count\n"
-	.string "on you to do that for me?\p"
-	.string "Oh, that's right.\n"
-	.string "Could you wait here a second?$"
+	.string "Dette er DEVON CORPORATION's\n"
+	.string "tredje sal.\p"
+	.string "Vores DIREKTØRs KONTOR er på\n"
+	.string "denne etage.\p"
+	.string "Nå, jeg kan ikke fortælle dig,\n"
+	.string "hvor taknemmelig jeg er for det, du\n"
+	.string "har gjort.\p"
+	.string "Øh… Forresten, den pakke, du\n"
+	.string "fik tilbage for os…\p"
+	.string "Kunne jeg få dig til at aflevere den på\n"
+	.string "VÆRFTET i SLATEPORT?\p"
+	.string "Det ville være forfærdeligt, hvis de\n"
+	.string "røvere prøvede at tage den igen.\p"
+	.string "Øh… Hehehe, så, øh, kan jeg regne\n"
+	.string "med, at du gør det for mig?\p"
+	.string "Åh, det er rigtigt.\n"
+	.string "Kan du vente her et øjeblik?$"
 
 RustboroCity_DevonCorp_3F_Text_WordWithPresidentComeWithMe:
-	.string "Our PRESIDENT would like to have\n"
-	.string "a word with you.\p"
-	.string "Please come with me.$"
+	.string "Vores PRÆSIDENT vil gerne tale\n"
+	.string "med dig.\p"
+	.string "Følg venligst med mig.$"
 
 RustboroCity_DevonCorp_3F_Text_PleaseGoAhead:
-	.string "Please, go ahead.$"
+.string "Værsgo,\npå med dig.$"
 
 RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard:
-	.string "If you visit the SHIPYARD in SLATEPORT,\n"
-	.string "you should go see CAPT. STERN.$"
+	.string "Hvis du besøger VÆRFTET i SLATEPORT,\n"
+	.string "skal du gå hen og besøge KAPT. STERN.$"
 
 RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular:
-	.string "DEVON's new products, the REPEAT BALL\n"
-	.string "and TIMER BALL, have become hugely\l"
-	.string "popular among TRAINERS.$"
+	.string "DEVON's nye produkter, REPEAT BALL\n"
+	.string "og TIMER BALL, er blevet utroligt\n"
+	.string "populære blandt TRÆNERE.$"
 
 RustboroCity_DevonCorp_3F_Text_RareRocksDisplay:
-	.string "It's a collection of rare rocks and\n"
-	.string "stones assembled by the PRESIDENT.$"
+	.string "Det er en samling af sjældne sten og\n"
+	.string "klipper samlet af PRÆSIDENTEN.$"
+
+
 
