@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 AbandonedShip_Corridors_B1F_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, AbandonedShip_Corridors_B1F_OnResume
 	map_script MAP_SCRIPT_ON_LOAD, AbandonedShip_Corridors_B1F_OnLoad
@@ -54,33 +56,36 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "When we go out to sea, we SAILORS\n"
-	.string "always bring our POKéMON.\l"
-	.string "How about a quick battle?$"
+	.string "Når vi sejler ud på havet, tager vi SØMÆND\n"
+	.string "altid vores POKéMON med.\p"
+	.string "Hvad med en hurtig kamp?$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
-	.string "Whoops, I'm sunk!$"
+.string "Ups, jeg er sunket!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "The ship's bottom has sunk into the\n"
-	.string "depths.\p"
-	.string "If a POKéMON knew how to go underwater,\n"
-	.string "we might make some progress…$"
+	.string "Skibets bund er sunket ned i\n"
+	.string "dybet.\p"
+	.string "Hvis en POKéMON vidste, hvordan man\n"
+	.string "gik under vand, kunne vi komme\n"
+	.string "videre…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Yay!\n"
-	.string "It's a ship!$"
+	.string "Jubii!\n"
+	.string "Det er et skib!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-	.string "The door is locked.\p"
-	.string "“STORAGE” is painted on the door.$"
+.string "Døren er låst.\p"
+.string "“OPBEVARING” er malet på døren.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} inserted and turned the\n"
-	.string "STORAGE KEY.\p"
-	.string "The inserted KEY stuck fast,\n"
-	.string "but the door opened.$"
+	.string "{PLAYER} satte nøglen i og drejede om.\n"
+	.string "OPBEVARINGSNØGLEN.\p"
+	.string "Den indsatte nøgle sad fast,\n"
+	.string "men døren åbnede.$"
 
 AbandonedShip_Text_TheDoorIsOpen:
-	.string "The door is open.$"
+.string "Døren er åben.$"
+
+
 
