@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_BIRCH, 2
 .set LOCALID_ZIGZAGOON, 4
 
@@ -261,42 +263,44 @@ Route101_Movement_BirchApproachPlayer:
 	step_end
 
 Route101_Text_HelpMe:
-	.string "H-help me!$"
+	.string "H-hjælp mig!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hello! You over there!\n"
-	.string "Please! Help!\p"
-	.string "In my BAG!\n"
-	.string "There's a POKé BALL!$"
+	.string "Hej! Dig derovre!\n"
+	.string "Vær så venlig at hjælpe!\p"
+	.string "I min TASKE!\n"
+	.string "Der er en POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "Wh-Where are you going?!\n"
-	.string "Don't leave me like this!$"
+	.string "H-Hvor skal du hen?!\n"
+	.string "Forlad mig ikke sådan!$"
 
 Route101_Text_YouSavedMe:
-	.string "PROF. BIRCH: Whew…\p"
-	.string "I was in the tall grass studying wild\n"
-	.string "POKéMON when I was jumped.\p"
-	.string "You saved me.\n"
-	.string "Thanks a lot!\p"
-	.string "Oh?\p"
-	.string "Hi, you're {PLAYER}{KUN}!\p"
-	.string "This is not the place to chat, so come\n"
-	.string "by my POKéMON LAB later, okay?$"
+	.string "PROF. BIRCH: Puha... \p"
+	.string "Jeg var i det høje græs og studerede\n"
+	.string "vilde POKéMON, da jeg blev overfaldet.\p"
+	.string "Du reddede mig.\n"
+	.string "Mange tak!\p"
+	.string "Åh?\p"
+	.string "Hej, du er {PLAYER}{KUN}!\p"
+	.string "Dette er ikke stedet at snakke, så kom\n"
+	.string "forbi mit POKéMON LAB senere, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "If POKéMON get tired, take them to\n"
-	.string "a POKéMON CENTER.\p"
-	.string "There's a POKéMON CENTER in OLDALE\n"
-	.string "TOWN right close by.$"
+	.string "Hvis POKéMON bliver trætte, så tag dem til\n"
+	.string "en POKéMON CENTER.\p"
+	.string "Der er en POKéMON CENTER i OLDALE\n"
+	.string "BY lige i nærheden.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Wild POKéMON will jump out at you in\n"
-	.string "tall grass.\p"
-	.string "If you want to catch POKéMON, you have\n"
-	.string "to go into the tall grass and search.$"
+	.string "Vilde POKéMON vil springe frem mod dig\n"
+	.string "i det høje græs.\p"
+	.string "Hvis du vil fange POKéMON, skal du gå\n"
+	.string "ind i det høje græs og lede.$"
 
 Route101_Text_RouteSign:
-	.string "ROUTE 101\n"
-	.string "{UP_ARROW} OLDALE TOWN$"
+	.string "RUTE 101\n"
+	.string "{UP_ARROW} OLDALE BY$"
+
+
 
