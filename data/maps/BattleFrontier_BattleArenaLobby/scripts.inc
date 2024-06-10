@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 BattleFrontier_BattleArenaLobby_MapScripts::
@@ -353,224 +355,231 @@ BattleFrontier_BattleArenaLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena:
-	.string "Where the battling spirit of TRAINERS\n"
-	.string "is put to the test!\p"
-	.string "I welcome you to the BATTLE ARENA!\p"
-	.string "I am your guide to the Set KO Tourney!$"
+	.string "Hvor TRÆNERNES kampånd\n"
+	.string "sættes på prøve!\p"
+	.string "Jeg byder dig velkommen til KAMPARENEN!\p"
+	.string "Jeg er din guide til Set KO Turneringen!$"
 
 BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
-	.string "Now, do you wish to take\n"
-	.string "the BATTLE ARENA challenge?$"
+.string "Vil du tage\n"
+.string "udfordringen i KAMPARENAEN?$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "Vi venter på dit udfordring på\n"\n
+	.string "en anden lejlighed!$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
-	.string "In the BATTLE ARENA, we undertake\n"
-	.string "the Set KO Tourney.\p"
-	.string "All participants enter with a team of\n"
-	.string "three POKéMON.\p"
-	.string "The three POKéMON must be lined up in\n"
-	.string "the order in which they are to appear.\p"
-	.string "During battle, the POKéMON will appear\n"
-	.string "one at a time in the preset order.\p"
-	.string "Once a POKéMON enters battle, it must\n"
-	.string "remain out until the match is decided.\p"
-	.string "If a match remains undecided in\n"
-	.string "three turns, it goes to judging.\p"
-	.string "If you wish to interrupt your challenge,\n"
-	.string "please save the game.\p"
-	.string "If you don't save, you will not be able\n"
-	.string "to continue with your challenge.\p"
-	.string "If you pull off the feat of beating\n"
-	.string "seven TRAINERS in succession,\l"
-	.string "we will present you with Battle Points.$"
+	.string "I KAMPARENAEN deltager vi i\n"
+	.string "Set KO Turneringen.\p"
+	.string "Alle deltagere kommer med et hold af\n"
+	.string "tre POKéMON.\p"
+	.string "De tre POKéMON skal stå i rækkefølgen,\n"
+	.string "de skal dukke op.\p"
+	.string "Under kampen vil POKéMON'erne dukke\n"
+	.string "op én ad gangen i den forudbestemte\n"
+	.string "rækkefølge.\p"
+	.string "Når en POKéMON går ind i kampen, skal\n"
+	.string "den forblive ude, indtil kampen er\n"
+	.string "afgjort.\p"
+	.string "Hvis en kamp forbliver uafgjort efter\n"
+	.string "tre ture, går den til bedømmelse.\p"
+	.string "Hvis du ønsker at afbryde din udfordring,\n"
+	.string "venligst gem spillet.\p"
+	.string "Hvis du ikke gemmer, vil du ikke\n"
+	.string "kunne fortsætte din udfordring.\p"
+	.string "Hvis du formår at slå\n"
+	.string "syv TRÆNERE i træk,\l"
+	.string "vil vi give dig Kamp Point.$"
 
 BattleFrontier_BattleArenaLobby_Text_OkayToSave:
-	.string "Before showing you to the BATTLE\n"
-	.string "ARENA, you must save. Is that okay?$"
+	.string "Inden vi viser dig til KAMP\n"
+	.string "ARENEN, skal du gemme. Er det okay?$"
 
 BattleFrontier_BattleArenaLobby_Text_WhichLevelMode:
-	.string "The BATTLE ARENA offers two levels\n"
-	.string "of challenge, Level 50 and Open Level.\l"
-	.string "Which is your choice?$"
+	.string "KAMPARENAEN tilbyder to niveauer\n"
+	.string "af udfordring, Niveau 50 og Åbent Niveau.\p"
+	.string "Hvad er dit valg?$"
 
 BattleFrontier_BattleArenaLobby_Text_SelectThreeMons:
-	.string "Very well, now select your\n"
-	.string "three POKéMON, please.$"
+	.string "Rigtig godt, vælg nu dine\n"
+	.string "tre POKéMON, tak.$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "Kære udfordrer!\p"
+	.string "Du har ikke de tre POKéMON\n"
+	.string "nødvendige for adgang.\p"
+	.string "For at kvalificere dig, skal du medbringe\n"
+	.string "tre forskellige slags POKéMON.\p"
+	.string "De må heller ikke holde de samme\n"
+	.string "slags ting.\p"
+	.string "ÆG{STR_VAR_1} er diskvalificerede.\p"
+	.string "Når du har gjort dine forberedelser,\n"
+	.string "vend venligst tilbage.$"
 
 BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50:
-	.string "My dear challenger!\p"
-	.string "You do not have the three POKéMON\n"
-	.string "required for entry.\p"
-	.string "To qualify, you must bring three\n"
-	.string "different kinds of POKéMON.\p"
-	.string "The three different POKéMON\n"
-	.string "must all be Level 50 or lower.\p"
-	.string "They also must not hold the same\n"
-	.string "kinds of items.\p"
-	.string "EGGS{STR_VAR_1} ineligible.\p"
-	.string "When you have made your preparations,\n"
-	.string "please do return.$"
+	.string "Kære udfordrer!\p"
+	.string "Du har ikke de tre POKéMON\n"
+	.string "der kræves for adgang.\p"
+	.string "For at kvalificere dig,\n"
+	.string "skal du medbringe tre forskellige\n"
+	.string "typer af POKéMON.\p"
+	.string "De tre forskellige POKéMON\n"
+	.string "skal alle være på niveau 50\n"
+	.string "eller lavere.\p"
+	.string "De må heller ikke have de samme\n"
+	.string "typer af genstande.\p"
+	.string "ÆG{STR_VAR_1} er ikke berettiget.\p"
+	.string "Når du har gjort dine forberedelser,\n"
+	.string "vend venligst tilbage.$"
 
 BattleFrontier_BattleArenaLobby_Text_GuideYouToArena:
-	.string "I shall now guide you to\n"
-	.string "the BATTLE ARENA.$"
+	.string "Jeg vil nu guide dig til\n"
+	.string "KAMPARENEN.$"
 
 BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown:
-	.string "My dear challenger!\p"
-	.string "You did not save the game before\n"
-	.string "shutting down, did you?\p"
-	.string "It is unfortunate, but that has\n"
-	.string "resulted in your disqualification\l"
-	.string "from your challenge.\p"
-	.string "You may, of course, start with a fresh\n"
-	.string "challenge.$"
+	.string "Kære udfordrer!\p"
+	.string "Du gemte ikke spillet før du\n"
+	.string "slukkede, gjorde du det ikke?\p"
+	.string "Det er uheldigt, men det har\n"
+	.string "resulteret i diskvalifikation\l"
+	.string "fra din udfordring.\p"
+	.string "Du kan selvfølgelig starte med en\n"
+	.string "ny udfordring.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins:
-	.string "We congratulate you for your splendid\n"
-	.string "string of wins over seven TRAINERS!$"
+	.string "Vi lykønsker dig med dine strålende\n"
+	.string "sejre over syv TRÆNERE!$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordAchievement:
-	.string "Your achievement will be recorded.\n"
-	.string "Please wait while I save the game.$"
+	.string "Dit bedrift vil blive registreret.\n"
+	.string "Vent venligst mens jeg gemmer spillet.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_PresentYouWithPrize:
-	.string "In commemoration of your 7-win streak,\n"
-	.string "we present you with this prize.$"
+    .string "I anledning af din 7-sejrsstreak,\n"
+    .string "præsenterer vi dig for denne præmie.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
-	.string "{PLAYER} received the prize\n"
+	.string "{PLAYER} modtog præmien\n"
 	.string "{STR_VAR_1}.$"
 
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
-	.string "Oh?\n"
-	.string "Your BAG seems to be full.\p"
-	.string "I urge you to clear space and\n"
-	.string "return for your prize.$"
+	.string "Nå?\n"
+	.string "Din TASKE ser ud til at være fuld.\p"
+	.string "Jeg opfordrer dig til at frigøre plads og\n"
+	.string "komme tilbage efter din præmie.$"
 
 BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
-	.string "Thank you so much for participating!\p"
-	.string "Please wait while I save the game.$"
+	.string "Mange tak for din deltagelse!\p"
+	.string "Vent venligst, mens jeg gemmer spillet.$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2:
-	.string "We await your challenge on\n"
-	.string "another occasion!$"
+	.string "Vi venter på dit udfordring en\n"\n
+	.string "anden gang!$"
 
 BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:
-	.string "We have been looking forward to\n"
-	.string "your arrival.\p"
-	.string "Before I show you to the BATTLE\n"
-	.string "ARENA, I must save the game.\l"
-	.string "Please wait.$"
+	.string "Vi har set frem til\n"
+	.string "din ankomst.\p"
+	.string "Inden jeg viser dig til KAMP\n"
+	.string "ARENAEN, skal jeg gemme spillet.\l"
+	.string "Vent venligst.$"
 
 BattleFrontier_BattleArenaLobby_Text_RecordLastMatch:
-	.string "Shall I record your last BATTLE ARENA\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Skal jeg gemme din seneste KAMP ARENA\n"
+	.string "kamp på dit FRONTIER PAS?$"
 
 BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack:
-	.string "I lost on the REFEREE's decision…\p"
-	.string "I don't think it was a good idea to only\n"
-	.string "use defensive moves and not attack…$"
+	.string "Jeg tabte på DOMMERENS afgørelse…\p"
+	.string "Jeg tror ikke, det var en god idé kun at\n"
+	.string "bruge defensive moves og ikke angribe…$"
 
 BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked:
-	.string "I won in judging!\p"
-	.string "Landing hits consistently on\n"
-	.string "the opponent's POKéMON worked!$"
+	.string "Jeg vandt i bedømmelse!\p"
+	.string "At lande slag konsekvent\n"
+	.string "på modstanderens POKéMON virkede!$"
 
 BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw:
-	.string "Our match was declared a draw.\p"
-	.string "When we ran out of time, both my\n"
-	.string "POKéMON and the opponent's had about\l"
-	.string "the same amount of HP left.$"
+	.string "Vores kamp blev erklæret uafgjort.\p"
+	.string "Da tiden løb ud, havde både min\n"
+	.string "POKéMON og modstanderens cirka\n"
+	.string "det samme antal HP tilbage.$"
 
 BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant:
-	.string "In the BATTLE ARENA, the order of\n"
-	.string "POKéMON is totally important.\p"
-	.string "For example, if your first POKéMON\n"
-	.string "has certain type disadvantages,\l"
-	.string "try making your second POKéMON one\l"
-	.string "with moves that are super effective\l"
-	.string "against the first one.\p"
-	.string "I think that will be a good way of\n"
-	.string "making an effective team.$"
+	.string "I KAMPARENAEN er rækkefølgen af\n"
+	.string "POKéMON helt vigtig.\p"
+	.string "For eksempel, hvis din første POKéMON\n"
+	.string "har visse type ulemper,\l"
+	.string "så prøv at gøre din anden POKéMON til\l"
+	.string "en med angreb, der er super effektive\l"
+	.string "mod den første.\p"
+	.string "Jeg tror, at det vil være en god måde at\n"
+	.string "sammensætte et effektivt hold.$"
 
 BattleFrontier_BattleArenaLobby_Text_RulesAreListed:
-	.string "The Set KO Tourney's rules are listed.$"
+.string "Reglerne for The Set KO Tourney er opført.$"
 
 BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading:
-	.string "Which heading do you want to read?$"
+	.string "Hvilken overskrift vil du læse?$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules:
-	.string "The Set KO Tourney has special rules,\n"
-	.string "unlike standard battles.\p"
-	.string "First, one battle lasts only\n"
-	.string "three turns.\p"
-	.string "If the outcome is not decided after\n"
-	.string "three turns, it goes to judging.\p"
-	.string "The REFEREE will choose the winner\n"
-	.string "based on how the POKéMON battled.\p"
-	.string "Also, a POKéMON cannot be switched out\n"
-	.string "until its battle's outcome is decided.$"
+	.string "Set KO-turneringen har specielle regler,\n"
+	.string "i modsætning til almindelige kampe.\p"
+	.string "Først varer en kamp kun\n"
+	.string "tre ture.\p"
+	.string "Hvis udfaldet ikke er afgjort efter\n"
+	.string "tre ture, går det til bedømmelse.\p"
+	.string "DOMMEREN vil vælge vinderen\n"
+	.string "baseret på hvordan POKéMON kæmpede.\p"
+	.string "Desuden kan en POKéMON ikke skiftes ud\n"
+	.string "før kampens resultat er afgjort.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainMindRules:
-	.string "The first judging factor is “Mind.”\n"
-	.string "This factor evaluates how aggressive\l"
-	.string "the battlers were.\p"
-	.string "The judging is based on how often\n"
-	.string "the TRAINERS ordered the use of\l"
-	.string "offensive moves.$"
+	.string "Den første vurderingsfaktor er “Sind.”\n"
+	.string "Denne faktor vurderer, hvor aggressive\l"
+	.string "kæmperne var.\p"
+	.string "Vurderingen er baseret på, hvor ofte\n"
+	.string "TRÆNERNE befalede brugen af\l"
+	.string "offensivt træk.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules:
-	.string "The second judging factor is “Skill.”\n"
-	.string "This factor evaluates how effectively\l"
-	.string "POKéMON moves were used.\p"
-	.string "If a move worked successfully,\n"
-	.string "the Skill rating goes up.\p"
-	.string "If a move failed, the Skill rating\n"
-	.string "is lowered.\p"
-	.string "If it was an offensive move, the Skill\n"
-	.string "rating goes up if the move was “super\l"
-	.string "effective” and goes down if it was\l"
-	.string "“not very effective.”\p"
-	.string "The Skill rating will not go up for\n"
-	.string "moves such as PROTECT and DETECT.\p"
-	.string "If the opponent used PROTECT or\n"
-	.string "DETECT, and your POKéMON failed to\l"
-	.string "hit with a move, its Skill rating will not\l"
-	.string "go down.$"
+	.string "Den anden vurderingsfaktor er 'Færdighed'.\n"
+	.string "Denne faktor vurderer, hvor effektivt\l"
+	.string "POKéMON-bevægelser blev brugt.\p"
+	.string "Hvis en bevægelse lykkedes,\n"
+	.string "øges Færdighedsbedømmelsen.\p"
+	.string "Hvis en bevægelse mislykkedes,\n"
+	.string "sænkes Færdighedsbedømmelsen.\p"
+	.string "Hvis det var en angrebsbevægelse,\n"
+	.string "øges Færdighedsbedømmelsen, hvis\n"
+	.string "bevægelsen var 'super effektiv', og\l"
+	.string "sænkes den, hvis den var 'ikke særlig\l"
+	.string "effektiv'.\p"
+	.string "Færdighedsbedømmelsen vil ikke stige\n"
+	.string "for bevægelser som PROTECT og DETECT.\p"
+	.string "Hvis modstanderen brugte PROTECT\n"
+	.string "eller DETECT, og din POKéMON ikke\l"
+	.string "ramte med en bevægelse, vil dens\l"
+	.string "Færdighedsbedømmelse ikke falde.$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules:
-	.string "The third judging factor is “Body.”\n"
-	.string "This factor is based on how much HP\l"
-	.string "remained at the end of a battle.\p"
-	.string "The rating takes into account how much\n"
-	.string "HP a POKéMON had at the start of\l"
-	.string "battle, and what remained at the end.$"
+	.string "Den tredje bedømmelsesfaktor er “Krop”.\n"
+	.string "Denne faktor er baseret på hvor meget\n"
+	.string "HP der var tilbage ved slutningen\n"
+	.string "af en kamp.\p"
+	.string "Vurderingen tager højde for hvor meget\n"
+	.string "HP en POKéMON havde i starten af\n"
+	.string "kampen, og hvad der var tilbage i slutningen.$"
 
 BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon:
-	.string "A victory snatched from the ARENA\n"
-	.string "TYCOON, and a seven-TRAINER sweep!\p"
-	.string "We congratulate you on your most\n"
-	.string "splendid challenge!$"
+	.string "En sejr snuppet fra ARENAEN\n"
+	.string "TYCOON, og en syv-TRÆNER fejring!\p"
+	.string "Vi lykønsker dig med din mest\n"
+	.string "strålende udfordring!$"
 
 BattleFrontier_BattleArenaLobby_Text_PleaseAcceptBattlePoints:
-	.string "My dear challenger, in recognition of\n"
-	.string "your indefatigable spirit, please\l"
-	.string "accept these Battle Point(s).$"
+	.string "Kære udfordrer, i anerkendelse af\n"
+	.string "din uudslukkelige ånd, så tag\n"
+	.string "disse Kamp Point(er) med dig.$"
+
