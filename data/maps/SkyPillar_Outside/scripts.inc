@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WALLACE, 1
 
 SkyPillar_Outside_MapScripts::
@@ -140,33 +142,34 @@ SkyPillar_Outside_EventScript_ClosedDoor::
 	end
 
 SkyPillar_Outside_Text_DoorIsClosed:
-	.string "The door is closed.$"
+.string "Døren er lukket.$"
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
-	.string "WALLACE: Oh, my, I'm terribly sorry!\p"
-	.string "In my haste, I didn't notice that\n"
-	.string "I'd left you behind!\p"
-	.string "I've opened the locked door of\n"
-	.string "the SKY PILLAR.\p"
-	.string "{PLAYER}{KUN}, let's be on our way!$"
+	.string "WALLACE: Åh, min, jeg er meget ked af det!\p"
+	.string "I min hast lagde jeg ikke mærke til,\n"
+	.string "at jeg havde efterladt dig bagved!\p"
+	.string "Jeg har åbnet den låste dør til\n"
+	.string "HIMMELPILEN.\p"
+	.string "{PLAYER}{KUN}, lad os komme afsted!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
-	.string "WALLACE: It's an earthquake!\p"
-	.string "There's not a moment to waste!\n"
-	.string "We've got to hurry!$"
+	.string "WALLACE: Det er et jordskælv!\p"
+	.string "Der er ikke et øjeblik at spilde.\n"
+	.string "Vi bliver nødt til at skynde os!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
 	.string "WALLACE: Hmm…\n"
-	.string "The situation is getting worse…$"
+	.string "Situationen bliver værre…$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
-	.string "WALLACE: This isn't good…\p"
-	.string "The weather distortion is spreading\n"
-	.string "even here…\p"
+	.string "WALLACE: Det her er ikke godt…\p"
+	.string "Vejrforstyrrelsen breder sig selv\n"
+	.string "her…\p"
 	.string "{PLAYER}{KUN}.\p"
-	.string "RAYQUAZA should be farther up\n"
-	.string "from here.\p"
-	.string "I'm worried about SOOTOPOLIS.\n"
-	.string "I've got to go back.\p"
-	.string "Everything is in your hands now.\n"
-	.string "Don't fail us!$"
+	.string "RAYQUAZA burde være længere oppe\n"
+	.string "herfra.\p"
+	.string "Jeg er bekymret for SOOTOPOLIS.\n"
+	.string "Jeg er nødt til at vende tilbage.\p"
+	.string "Nu ligger alt i dine hænder.\n"
+	.string "Svigt os ikke!$"
+
