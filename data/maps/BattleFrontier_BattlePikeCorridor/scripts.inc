@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 BattleFrontier_BattlePikeCorridor_MapScripts::
@@ -57,6 +59,8 @@ BattleFrontier_BattlePikeCorridor_Movement_AttendantEnterCorridor:
 	step_end
 
 BattleFrontier_BattlePikeCorridor_Text_YourChallengeHasBegun:
-	.string "Your Battle Choice challenge\n"
-	.string "has now begun…$"
+	.string "Dit Kampvalgsudfordring\n"
+	.string "er nu begyndt…$"
+
+
 
