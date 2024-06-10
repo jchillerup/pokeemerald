@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route110_TrickHousePuzzle1_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, Route110_TrickHousePuzzle1_OnLoad
 	.byte 0
@@ -37,41 +39,44 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 	end
 
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is fabulous.”\n"
+	.string "{PLAYER} skrev den hemmelige kode\n"
+	.string "på døren.\p"
+	.string "“TRICK MASTER er fantastisk.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
-	.string "I'll hack and slash my way to victory\n"
-	.string "with the CUT we just learned!$"
+	.string "Jeg vil hakke og skære mig vej til sejr\n"
+	.string "med KLIPPET vi lige har lært!$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
-	.string "Why are you so serious?$"
+	.string "Hvorfor er du så seriøs?$"
 
 Route110_TrickHousePuzzle1_Text_SallyPostBattle:
-	.string "I never get tired of hacking\n"
-	.string "and slashing!$"
+	.string "Jeg bliver aldrig træt af at hacke\n"
+	.string "og skære!$"
 
 Route110_TrickHousePuzzle1_Text_EddieIntro:
-	.string "I wandered into this weird house\n"
-	.string "by accident…$"
+	.string "Jeg vandrede ind i dette mærkelige hus\n"
+	.string "ved et uheld…$"
 
 Route110_TrickHousePuzzle1_Text_EddieDefeat:
-	.string "And now I've lost…$"
+	.string "Og nu har jeg tabt...$"
 
 Route110_TrickHousePuzzle1_Text_EddiePostBattle:
-	.string "I lost my way, I lost a battle, and I'm\n"
-	.string "now even more lost… I can't get out…$"
+	.string "Jeg har mistet min vej, jeg har tabt et\n"
+	.string "slag, og nu er jeg endnu mere forvirret…\n"
+	.string "Jeg kan ikke komme ud…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
-	.string "Just who is the TRICK MASTER?$"
+.string "Hvem er bare SJOVE MESTER?$"
 
 Route110_TrickHousePuzzle1_Text_RobinDefeat:
-	.string "I lost while I was lost in thought!$"
+.string "Jeg tabte, mens jeg var fordybet i tankerne!$"
 
 Route110_TrickHousePuzzle1_Text_RobinPostBattle:
-	.string "You're strong!\n"
-	.string "Just who are you?$"
+	.string "Du er stærk!\n"
+	.string "Hvem er du?$"
+
+
 
