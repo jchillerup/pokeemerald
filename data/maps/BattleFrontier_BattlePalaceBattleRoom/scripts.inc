@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_PLAYER, 1
 .set LOCALID_OPPONENT, 2
 .set LOCALID_ATTENDANT, 3
@@ -448,134 +450,138 @@ BattleFrontier_BattlePalaceBattleRoom_Movement_SpenserEnter:
 	step_end
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons:
-	.string "Excellent…\n"
-	.string "Let me restore your POKéMON.$"
+	.string "Fremragende…\n"
+	.string "Jeg vil genskabe dine POKéMON.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent:
-	.string "The 2nd opponent is next.\n"
-	.string "Are you prepared?$"
+.string "Den 2. modstander er næste.\n"
+.string "Er du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent:
-	.string "The 3rd opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Den 3. modstander er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent:
-	.string "The 4th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Den 4. modstander er klar til kamp.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent:
-	.string "The 5th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Den 5. modstander er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent:
-	.string "The 6th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Den 6. modstander er næste.\n"
+	.string "Er du klar?\p$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent:
-	.string "The 7th opponent is next.\n"
-	.string "Are you prepared?$"
+	.string "Den 7. modstander er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame:
-	.string "Would you like to save and quit\n"
-	.string "the game?$"
+	.string "Vil du gemme og afslutte\n"
+	.string "spillet?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge:
-	.string "Do you wish to quit your challenge?$"
+.string "Ønsker du at afslutte din udfordring?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SavingData:
-	.string "Saving the data.\n"
-	.string "Have patience…$"
+	.string "Gemmer dataene.\n"
+	.string "Vær tålmodig…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch:
-	.string "Do you wish to record your latest\n"
-	.string "match on your FRONTIER PASS?$"
+	.string "Vil du gemme din seneste\n"
+	.string "kamp på din FRONTIER PASS?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
-	.string "And now…\p"
-	.string "By winning consistently, you have\n"
-	.string "earned the privilege of challenging\l"
-	.string "our master, the PALACE MAVEN…$"
+	.string "Og nu…\p"
+	.string "Ved konstant at vinde har du\n"
+	.string "fortjent privilegiet af at udfordre\l"
+	.string "vores mester, PALADSGURUEN…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "I shall send for the PALACE MAVEN.\n"
-	.string "Are you ready?$"
+	.string "Jeg skal sende efter PALACE MAVEN.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Let great fanfare announce the arrival\n"
-	.string "of the PALACE MAVEN, SPENSER!$"
+	.string "Lad stor fanfare annoncere ankomsten\n"
+	.string "af PALADS MAVEN, SPENSER!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: My physical being is with\n"
-	.string "POKéMON always!\p"
-	.string "My heart beats as one with\n"
-	.string "POKéMON always!\p"
-	.string "Young one of a TRAINER!\n"
-	.string "Do you believe in your POKéMON?\p"
-	.string "Can you believe them through\n"
-	.string "and through?\p"
-	.string "If your bonds of trust are frail,\n"
-	.string "you will never beat my brethren!$"
+	.string "SPENSER: Mit fysiske væsen er altid\n"
+	.string "sammen med POKéMON!\p"
+	.string "Mit hjerte slår i takt med\n"
+	.string "POKéMON altid!\p"
+	.string "Unge TRÆNER!\n"
+	.string "Tror du på dine POKéMON?\p"
+	.string "Kan du stole på dem\n"
+	.string "fuldt og helt?\p"
+	.string "Er dine bånd af tillid svage,\n"
+	.string "vil du aldrig besejre mine brødre!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "The bond you share with your POKéMON!\n"
-	.string "Prove it to me here!$"
+	.string "Den bånd du deler med din POKéMON!\n"\n
+	.string "Bevis det for mig her!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
 	.string "SPENSER: Gwahahah!\p"
-	.string "Hah, you never fell for my bluster!\n"
-	.string "Sorry for trying that stunt!\p"
-	.string "Here!\n"
-	.string "Bring me the thing!$"
+	.string "Hah, du faldt aldrig for min pral!\n"
+	.string "Undskyld for det stunt!\p"
+	.string "Her!\n"
+	.string "Bring mig tinget!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-	.string "My, my, if only you could maintain that\n"
-	.string "facade of distinguished authority…\p"
-	.string "Here!\n"
-	.string "Let's see your FRONTIER PASS!$"
+	.string "Åh, så, hvis du bare kunne opretholde\n"
+	.string "den facade af distingeret autoritet…\p"
+	.string "Her!\n"
+	.string "Lad os se dit FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
-	.string "The Spirits Symbol was embossed on\n"
-	.string "the FRONTIER PASS!$"
+	.string "Åndernes symbol var præget på\n"
+	.string "FRONTIER PASS'EN!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
-	.string "SPENSER: Your POKéMON's eyes are \n"
-	.string "truly clear and unclouded.\p"
-	.string "I will eagerly await the next\n"
-	.string "opportunity to see you.$"
+	.string "SPENSER: Din POKéMONs øjne er\n"
+	.string "virkelig klare og uklare.\p"
+	.string "Jeg vil ivrigt se frem til næste\n"
+	.string "mulighed for at se dig.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
 	.string "SPENSER: Gwahahah!\n"
-	.string "You've battled your way up again?\p"
-	.string "You must have developed a truly\n"
-	.string "formidable bond with your POKéMON.\p"
-	.string "So be it!\p"
-	.string "This time, I won't bluster or hold back.\n"
-	.string "This time, there's no fooling around.\p"
-	.string "Ready now?\n"
-	.string "Prepare to lose!$"
+	.string "Du har kæmpet dig vej op igen?\p"
+	.string "Du må have udviklet et virkelig\n"
+	.string "formidabelt bånd med dine POKéMON.\p"
+	.string "Så lad det ske!\p"
+	.string "Denne gang vil jeg ikke pruste eller\n"
+	.string "holde mig tilbage.\p"
+	.string "Denne gang er der ingen narren rundt.\p"
+	.string "Klar nu?\n"
+	.string "Gør dig klar til at tabe!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
-	.string "… … …Kaaah!$"
+.string "… … …Kaaah!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Well, that was some display!\n"
-	.string "Even fully unleashed, my brethren\l"
-	.string "could not overpower you.\p"
-	.string "Your team spirit is truly admirable!\p"
-	.string "Here!\n"
-	.string "Bring me that thing, will you?$"
+	.string "SPENSER: Nå, det var da en opvisning!\n"
+	.string "Selv fuldt udløst, kunne mine\n"
+	.string "brødre ikke overmande dig.\p"
+	.string "Dit holds ånd er virkelig beundringsværdig!\p"
+	.string "Her!\n"
+	.string "Vil du ikke lige række mig den ting?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-	.string "My, my, if only you could maintain\n"
-	.string "a certain level of decorum…\p"
-	.string "Gaaah, here!\n"
-	.string "Hurry with that FRONTIER PASS, you!$"
+	.string "Åh, hvis du dog bare kunne\n"
+	.string "opretholde en vis form for\n"
+	.string "anstand…\p"
+	.string "Aarh, her!\n"
+	.string "Skynd dig med det FRONTIER PASS,\n"
+	.string "du!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
-	.string "The Spirits Symbol took on\n"
-	.string "a golden shine!$"
+	.string "Åndens Symbol tog på\n"
+	.string "en gylden glans!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
 	.string "SPENSER: Gwahahah!\p"
-	.string "Come see me time and again!\n"
-	.string "My brethren and I will be waiting!$"
+	.string "Kom og besøg mig igen og igen!\n"
+	.string "Mine brødre og jeg venter på dig!$"
+
