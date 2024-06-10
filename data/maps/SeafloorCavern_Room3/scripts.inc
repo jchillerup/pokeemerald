@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SeafloorCavern_Room3_MapScripts::
 	.byte 0
 
@@ -13,46 +15,48 @@ SeafloorCavern_Room3_EventScript_Grunt5::
 
 SeafloorCavern_Room3_Text_ShellyIntro:
 	.string "Ahahahaha!\p"
-	.string "How did you manage to get here without\n"
-	.string "a submarine?\l"
-	.string "What an impressive child!\p"
-	.string "But… It won't do to have you\n"
-	.string "meddling about here.\p"
-	.string "And, I do want payback for what\n"
-	.string "happened at the WEATHER INSTITUTE…\p"
-	.string "I'm going to give you a little taste\n"
-	.string "of pain! Resign yourself to it!$"
+	.string "Hvordan formåede du at komme her uden\n"
+	.string "en ubåd?\l"
+	.string "Hvor imponerende, lille ven!\p"
+	.string "Men... Det er ikke acceptabelt, at du\n"
+	.string "roder rundt her.\p"
+	.string "Og jeg ønsker betaling for det, der\n"
+	.string "skete på VEJRINSTITUTTET...\p"
+	.string "Jeg vil give dig en smagsprøve på smerte!\p"
+	.string "Gør dig klar til det!$"
 
 SeafloorCavern_Room3_Text_ShellyDefeat:
-	.string "Ahahahaha!\p"
-	.string "Ouch!$"
+	.string "Hahaha!\p"
+	.string "Av!$"
 
 SeafloorCavern_Room3_Text_ShellyPostBattle:
-	.string "Ahahahaha!\n"
-	.string "You're so darn strong.\p"
-	.string "It's terribly disappointing that you're\n"
-	.string "not a TEAM AQUA member.\p"
-	.string "You could have enjoyed the fabulous\n"
-	.string "world our BOSS has promised as\l"
-	.string "one of us…$"
+	.string "Hahaha!\n"
+	.string "Du er så forbandet stærk.\p"
+	.string "Det er forfærdeligt skuffende, at du\n"
+	.string "ikke er medlem af TEAM AQUA.\p"
+	.string "Du kunne have nydt den fantastiske\n"
+	.string "verden, vores BOSS har lovet\l"
+	.string "os som en af os…$"
 
 SeafloorCavern_Room3_Text_Grunt5Intro:
-	.string "For our dream to become real, we need\n"
-	.string "the power of POKéMON.\p"
-	.string "But meddlers like you use the power of\n"
-	.string "POKéMON to mess with us even at\l"
-	.string "a place like this!\p"
-	.string "Life just doesn't work the way we\n"
-	.string "need it to!$"
+	.string "For at vores drøm kan blive virkelig,\n"
+	.string "har vi brug for POKéMONs kraft.\p"
+	.string "Men blanderøve som dig bruger kraften\n"
+	.string "af POKéMON til at rode med os selv her\l"
+	.string "på et sted som dette!\p"
+	.string "Livet fungerer bare ikke på den måde,\n"
+	.string "vi har brug for!$"
 
 SeafloorCavern_Room3_Text_Grunt5Defeat:
-	.string "Gwah!$"
+	.string "Av av av!$" 
 
 SeafloorCavern_Room3_Text_Grunt5PostBattle:
-	.string "You know, we don't dare question\n"
-	.string "the motives of our leader.\p"
-	.string "But here you are, just some punk,\n"
-	.string "going up against our BOSS.\p"
-	.string "Maybe…\n"
-	.string "You must be something…$"
+	.string "Du ved, vi tør ikke at\n"
+	.string "udfordre vores lederes motiver.\p"
+	.string "Men her står du, bare en eller\n"
+	.string "anden fjollehoved, der går imod vores BOSS.\p"
+	.string "Måske... \n"
+	.string "Du må være noget...$"
+
+
 
