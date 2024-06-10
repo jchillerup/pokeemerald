@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 FallarborTown_BattleTentLobby_MapScripts::
@@ -304,45 +306,48 @@ FallarborTown_BattleTentLobby_EventScript_ExitRules::
 
 FallarborTown_BattleTentLobby_Text_MakeThinkImJustKid:
 	.string "Fufufufufu.\p"
-	.string "I'm going to make everyone think\n"
-	.string "I'm just a kid and let them play down.\p"
-	.string "Then, I'll shock them and grab\n"
-	.string "the title!$"
+	.string "Jeg vil få alle til at tro,\n"
+	.string "at jeg bare er en lille én,\p"
+	.string "og så vil jeg chokere dem og tage\n"
+	.string "titlen!$"
 
 FallarborTown_BattleTentLobby_Text_FallarborTentMyFavorite:
-	.string "You know how BATTLE TENTS offer\n"
-	.string "different events in different towns?\p"
-	.string "My favorite is definitely the BATTLE\n"
-	.string "TENT in FALLARBOR TOWN.\p"
-	.string "I think it's fantastic how TRAINERS\n"
-	.string "try to win with all their faith in\l"
-	.string "their POKéMON.$"
+	.string "Du ved hvordan KAMPTELTE\n"
+	.string "tilbyder forskellige begivenheder i\n"
+	.string "forskellige byer?\p"
+	.string "Min favorit er helt klart KAMPTELTET\n"
+	.string "i FALLARBOR BY.\p"
+	.string "Jeg synes det er fantastisk, hvordan\n"
+	.string "TRÆNERE prøver at vinde med al deres\n"
+	.string "tro på deres POKéMON.$"
 
 FallarborTown_BattleTentLobby_Text_CameToCampOut:
-	.string "I heard something about some tent,\n"
-	.string "so I came to camp out.\p"
-	.string "I didn't know that tents these days\n"
-	.string "are so luxurious!\p"
-	.string "Since I'm here, I may as well try\n"
-	.string "my hand at battling!$"
+	.string "Jeg hørte noget om et telt,\n"
+	.string "så jeg kom for at campe.\p"
+	.string "Jeg vidste ikke, at telte disse dage\n"
+	.string "er så luksuriøse!\p"
+	.string "Siden jeg er her, kan jeg lige så godt\n"
+	.string "prøve kræfter med at kæmpe!$"
 
 FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone:
-	.string "SCOTT: Hi, {PLAYER}{KUN}!\n"
-	.string "So you came out to this BATTLE TENT!\p"
-	.string "The people in these parts tend to be\n"
-	.string "easygoing and laid-back.\p"
-	.string "But, you see, what I'm looking for are\n"
-	.string "people with…\p"
-	.string "How should I say this?\p"
-	.string "Someone bursting with the desire\n"
-	.string "and the drive to win.\p"
-	.string "If there were a TRAINER like that,\n"
-	.string "I'd immediately…\p"
-	.string "Whoops! Never mind!\n"
-	.string "Keep working at it!$"
+	.string "SCOTT: Hej, {PLAYER}{KUN}!\n"
+	.string "Så kom du ud til dette KAMP TELT!\p"
+	.string "Folkene i disse egne plejer at være\n"
+	.string "afslappede og cool.\p"
+	.string "Men, ser du, hvad jeg leder efter\n"
+	.string "er folk med…\p"
+	.string "Hvordan skal jeg sige det?\p"
+	.string "Nogen der sprudler af lyst\n"
+	.string "og viljen til at vinde.\p"
+	.string "Hvis der var en TRÆNER som det,\n"
+	.string "ville jeg straks…\p"
+	.string "Ups! Glem det!\n"
+	.string "Bliv ved med at øve dig!$"
 
 FallarborTown_BattleTentLobby_Text_ScottMakeChallenge:
-	.string "SCOTT: Instead of wasting your\n"
-	.string "time with the likes of me, why not\l"
-	.string "make a challenge?$"
+	.string "SCOTT: I stedet for at spilde din\n"
+	.string "tid med en som mig, hvorfor ikke\n"
+	.string "tage en udfordring op?$"
+
+
 
