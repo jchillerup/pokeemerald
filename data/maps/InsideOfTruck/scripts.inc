@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 InsideOfTruck_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, InsideOfTruck_OnLoad
 	map_script MAP_SCRIPT_ON_RESUME, InsideOfTruck_OnResume
@@ -53,6 +55,8 @@ InsideOfTruck_EventScript_MovingBox::
 
 InsideOfTruck_Text_BoxPrintedWithMonLogo:
     .string "Kassen er trykt med et POKéMON-logo.\p"
-    .string "Det er en POKéMON-mærket flytte- og\n"
-    .string "leveringsservice.$"
+    .string "Det er en POKéMON-mærket flytte-\n"
+    .string "og leveringsservice.$"
+
+
 
