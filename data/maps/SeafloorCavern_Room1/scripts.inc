@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SeafloorCavern_Room1_MapScripts::
 	.byte 0
 
@@ -12,25 +14,27 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "We don't need a kid around!\n"
-	.string "Go on home already!$"
+	.string "Vi har ikke brug for et barn her!\n"
+	.string "Gå hjem allerede!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
-	.string "I want to go home…$"
+	.string "Jeg vil hjem…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "I want to get a promotion so I can\n"
-	.string "boss around the GRUNTS…$"
+	.string "Jeg vil gerne have en forfremmelse, så jeg kan\n"
+	.string "befale rundt med GRUNTE…$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "That submarine… It's tiny inside.\n"
-	.string "I'm sore all over!$"
+	.string "Den ubåd... Den er lille indeni.\n"
+	.string "Jeg er øm over det hele!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "Losing makes me sore!$"
+	.string "At tabe gør ondt!\p$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "That submarine we jacked, man,\n"
-	.string "it's brutal as a ride.\l"
-	.string "It's way too tight in there!$"
+	.string "Den undervandsbåd, vi kaprede, mand,\n"
+	.string "det er vildt som en tur.\p"
+	.string "Det er alt for stramt derinde!$"
+
+
 
