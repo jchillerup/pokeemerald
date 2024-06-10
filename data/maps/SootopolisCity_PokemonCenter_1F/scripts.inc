@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 SootopolisCity_PokemonCenter_1F_MapScripts::
@@ -46,27 +48,30 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE is rumored to be the toughest\n"
-	.string "TRAINER in the whole HOENN region.\p"
-	.string "This town's GYM is led by the TRAINER\n"
-	.string "who taught WALLACE.\p"
-	.string "But the ELITE FOUR… They're said to be\n"
-	.string "even stronger than WALLACE's mentor.\p"
-	.string "How strong could they be?$"
+	.string "WALLACE siges at være den sejeste\n"
+	.string "TRÆNER i hele HOENN-regionen.\p"
+	.string "Denne bys GYM ledes af TRÆNEREN,\n"
+	.string "der underviste WALLACE.\p"
+	.string "Men ELITE FOUR... Siges at være\n"
+	.string "endnu stærkere end WALLACEs mentor.\p"
+	.string "Hvor stærke mon de er?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
-	.string "Everyone in town has taken refuge\n"
-	.string "and won't come out of their homes.\p"
-	.string "Even I would rather not venture\n"
-	.string "outside.$"
+	.string "Alle i byen har søgt tilflugt\n"
+	.string "og vil ikke komme ud af deres hjem.\p"
+	.string "Selv jeg vil hellere ikke\n"
+	.string "tage udenfor.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Whenever, wherever, and whatever\n"
-	.string "happens, I will always be friends with\l"
-	.string "POKéMON.\p"
-	.string "Because it's fun to be with POKéMON!$"
+	.string "Når som helst, hvor som helst, og\n"
+	.string "hvad som helst der sker, vil jeg\n"
+	.string "altid være venner med POKéMON.\p"
+	.string "Fordi det er sjovt at være med\n"
+	.string "POKéMON!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
-	.string "Aren't POKéMON our friends?\p"
-	.string "Why are they going wild this way?$"
+	.string "Er POKéMON ikke vores venner?\p"
+	.string "Hvorfor opfører de sig så vildt?$"
+
+
 
