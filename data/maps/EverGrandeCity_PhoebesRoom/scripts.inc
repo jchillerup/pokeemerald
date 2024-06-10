@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 EverGrandeCity_PhoebesRoom_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, EverGrandeCity_PhoebesRoom_OnLoad
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, EverGrandeCity_PhoebesRoom_OnWarp
@@ -60,25 +62,27 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Ahahaha!\p"
-	.string "I'm PHOEBE of the ELITE FOUR.\n"
-	.string "I did my training on MT. PYRE.\p"
-	.string "While I trained, I gained the ability\n"
-	.string "to commune with GHOST-type POKéMON.\p"
-	.string "Yes, the bond I developed with POKéMON\n"
-	.string "is extremely tight.\p"
-	.string "So, come on, just try and see if you can\n"
-	.string "even inflict damage on my POKéMON!$"
+	.string "Jeg er PHOEBE fra DE FIRE MÆGTIGE.\n"
+	.string "Jeg har trænet på MT. PYRE.\p"
+	.string "Mens jeg trænede, har jeg opnået evnen\n"
+	.string "til at kommunikere med GHOST-typens POKéMON.\p"
+	.string "Ja, båndet jeg har udviklet med POKéMON\n"
+	.string "er ekstremt tæt.\p"
+	.string "Så kom nu, prøv bare og se om du overhovedet\n"
+	.string "kan påføre mine POKéMON skade!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
-	.string "Oh, darn.\n"
-	.string "I've gone and lost.$"
+	.string "Åh, pokkers.\n"
+	.string "Jeg har været og mistet.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "There's a definite bond between you\n"
-	.string "and your POKéMON, too.\p"
-	.string "I didn't recognize it, so it's only\n"
-	.string "natural that I lost.\p"
-	.string "Yup, I'd like to see how far your bond\n"
-	.string "will carry you.\p"
-	.string "Go ahead, move on to the next room.$"
+	.string "Der er helt sikkert et bånd mellem dig\n"
+	.string "og din POKéMON også.\p"
+	.string "Jeg erkendte det ikke, så det er\n"
+	.string "naturligt, at jeg tabte.\p"
+	.string "Ja, jeg vil gerne se, hvor langt dit bånd\n"
+	.string "vil føre dig.\p"
+	.string "Fortsæt endelig til det næste rum.$"
+
+
 
