@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SootopolisCity_House3_MapScripts::
 	.byte 0
 
@@ -20,23 +22,25 @@ SootopolisCity_House3_EventScript_Girl::
 	end
 
 SootopolisCity_House3_Text_JuanHasManyFansDoYou:
-	.string "You're a POKéMON TRAINER, aren't you?\p"
-	.string "SOOTOPOLIS's JUAN has many fans.\n"
-	.string "Even more than his student WALLACE!\p"
-	.string "Do you have any?$"
+	.string "Du er en POKéMON TRÆNER, ikke sandt?\p"
+	.string "JUAN fra SOOTOPOLIS har mange fans.\n"
+	.string "Endnu flere end hans elev WALLACE!\p"
+	.string "Har du nogen?"$
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:
-	.string "Oh, then you must be pretty strong.$"
+.string "Nå, så må du være ret stærk.$"
 
 SootopolisCity_House3_Text_LonesomeTryWorkingHarder:
-	.string "Oh, dear…\n"
-	.string "That's a little lonesome.\p"
-	.string "Try working a little harder to get\n"
-	.string "a fan following.$"
+	.string "Åh, kære…\n"
+	.string "Det er lidt ensomt.\p"
+	.string "Prøv at arbejde lidt hårdere for at\n"
+	.string "få en fanskare.$"
 
 SootopolisCity_House3_Text_TrainerFanClubWasWild:
-	.string "Dedicated fans come over from even\n"
-	.string "outside of HOENN.\p"
-	.string "It was really wild when I went to the\n"
-	.string "TRAINER FAN CLUB in LILYCOVE.$"
+	.string "Dedikerede fans kommer endda\n"
+	.string "fra uden for HOENN.\p"
+	.string "Det var virkelig vildt, da jeg besøgte\n"
+	.string "TRÆNER FANKLUBBEN i LILYCOVE.$"
+
+
 
