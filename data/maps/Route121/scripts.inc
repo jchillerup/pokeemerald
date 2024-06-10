@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_GRUNT_1, 12
 .set LOCALID_GRUNT_2, 13
 .set LOCALID_GRUNT_3, 14
@@ -174,19 +176,21 @@ Route121_EventScript_RematchCristin::
 
 Route121_Text_OkayMoveOutToMtPyre:
 	.string "Okay!\n"
-	.string "We're to move out to MT. PYRE!$"
+	.string "Vi skal bevæge os mod Bjergtinden!$"
 
 Route121_Text_AheadLoomsMtPyre:
-	.string "Ahead looms MT. PYRE…\p"
-	.string "It is a natural monument to the spirits \n"
-	.string "of departed POKéMON…$"
+	.string "Forude troner MT. PYRE…\p"
+	.string "Det er et naturligt monument for ånderne \n"
+	.string "af afdøde POKéMON…$"
 
 Route121_Text_MtPyrePierSign:
-	.string "MT. PYRE PIER\p"
-	.string "…The sign is old and worn out.\n"
-	.string "The words are barely legible…$"
+	.string "BJERGET PYRE BRO\p"
+	.string "...Skiltet er gammelt og slidt.\n"
+	.string "Ordene er næsten ulæselige...$"
 
 Route121_Text_SafariZoneSign:
-	.string "“Filled with rare POKéMON!”\n"
+	.string "Fyldt med sjældne POKéMON!\n"
 	.string "SAFARI ZONE$"
+
+
 
