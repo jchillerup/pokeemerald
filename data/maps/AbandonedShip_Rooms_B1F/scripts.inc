@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 AbandonedShip_Rooms_B1F_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, AbandonedShip_Rooms_B1F_OnResume
 	.byte 0
@@ -11,8 +13,12 @@ AbandonedShip_Rooms_B1F_EventScript_FatMan::
 	end
 
 AbandonedShip_Rooms_B1F_Text_GettingQueasy:
-	.string "Urrrrppp…\p"
-	.string "I'm getting queasy just being aboard\n"
-	.string "this ship…\p"
-	.string "It's not even moving, but…$"
+	.string "Buuuuurp…\p"
+	.string "Jeg føler mig lidt dårlig,\n"
+	.string "bare ved at være ombord på dette\n"
+	.string "skib…\p"
+	.string "Det bevæger sig ikke engang,\n"
+	.string "men…$"
+
+
 
