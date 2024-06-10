@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 LavaridgeTown_PokemonCenter_1F_MapScripts::
@@ -31,20 +33,22 @@ LavaridgeTown_PokemonCenter_1F_EventScript_Gentleman::
 	end
 
 LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether:
-	.string "I think POKéMON get closer to their\n"
-	.string "TRAINERS if they spend time together.\p"
-	.string "The longer the better.\n"
-	.string "That's what I think.$"
+	.string "Jeg tror, at POKéMON kommer tættere\n"
+	.string "på deres TRÆNERE, når de tilbringer tid\n"
+	.string "sammen. Jo længere, jo bedre.\p"
+	.string "Det er hvad jeg tænker.$"
 
 LavaridgeTown_PokemonCenter_1F_Text_HotSpringCanInvigorate:
-	.string "It's sort of magical how just sitting\n"
-	.string "in a hot-spring pool can invigorate.\p"
-	.string "I wish I could let my POKéMON\n"
-	.string "soak, too.$"
+	.string "Det er lidt magisk, hvordan man bare\n"
+	.string "kan få energi af at sidde i et varmt\n"
+	.string "kildbad. \p Jeg ville ønske, at mine\n"
+	.string "POKéMON også kunne blive forkælet.$"
 
 LavaridgeTown_PokemonCenter_1F_Text_TrainersShouldRestToo:
-	.string "Hohoho! Hey, kid, you can reach\n"
-	.string "the hot springs from here.\p"
-	.string "If POKéMON are getting rest, so too\n"
-	.string "should their TRAINERS.$"
+	.string "Høhøhø! Hej, knægt, du kan nå\n"
+	.string "de varme kilder herfra.\p"
+	.string "Hvis POKéMON får hvile, så\n"
+	.string "skulle deres TRÆNERE også.$"
+
+
 
