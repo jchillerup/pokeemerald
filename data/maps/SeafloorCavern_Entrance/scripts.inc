@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_GRUNT, 1
 
 SeafloorCavern_Entrance_MapScripts::
@@ -60,29 +62,31 @@ SeafloorCavern_Entrance_EventScript_GruntFacePlayerNorth::
 
 SeafloorCavern_Entrance_Text_HearMagmaNearMossdeep:
 	.string "Hey!\n"
-	.string "I remember your face!\p"
-	.string "If you're here, it must mean that\n"
-	.string "you're about to mess with us again!\p"
-	.string "A punk like you, do you really think\n"
-	.string "you can take on TEAM AQUA?\p"
-	.string "I'd say you're too early by about\n"
-	.string "a trillion years!\p"
-	.string "You're a perfect fit for the likes of\n"
-	.string "TEAM MAGMA!\p"
-	.string "Speaking of TEAM MAGMA, I hear they\n"
-	.string "were spotted near MOSSDEEP.\p"
-	.string "That bunch of goons, they sure don't\n"
-	.string "look good near the sea!$"
+	.string "Jeg husker dit ansigt!\p"
+	.string "Hvis du er her, må det betyde, at du\n"
+	.string "igen er ude på ballade!\p"
+	.string "En bølle som dig, tror du virkelig,\n"
+	.string "du kan klare TEAM AQUA?\p"
+	.string "Jeg vil sige, du er omkring\n"
+	.string "en billion år for tidlig!\p"
+	.string "Du passer perfekt til TEAM MAGMA!\p"
+	.string "Nu vi er ved TEAM MAGMA, hørte jeg,\n"
+	.string "at de var set i nærheden af MOSSDEEP.\p"
+	.string "Den flok skurke, de ser virkelig\n"
+	.string "ikke gode ud ved havet!$"
 
 SeafloorCavern_Entrance_Text_HearMagmaNearMossdeepShort:
-	.string "A punk like you, do you really think\n"
-	.string "you can take on TEAM AQUA?\p"
-	.string "I'd say you're too early by about\n"
-	.string "a trillion years!\p"
-	.string "You're a perfect fit for the likes of\n"
-	.string "TEAM MAGMA!\p"
-	.string "Speaking of TEAM MAGMA, I hear they\n"
-	.string "were spotted near MOSSDEEP.\p"
-	.string "That bunch of goons, they sure don't\n"
-	.string "look good near the sea!$"
+	.string "En lille ballademager som dig, tror\n"
+	.string "du virkelig, at du kan tage kampen op\n"
+	.string "med HOLD AQUA?\p"
+	.string "Jeg vil sige, du er et par billioner\n"
+	.string "år for tidlig!\p"
+	.string "Du passer perfekt til HOLD MAGMA!\p"
+	.string "Når vi taler om HOLD MAGMA, så\n"
+	.string "hørte jeg, at de blev set i nærheden\n"
+	.string "af MOSSDEEP.\p"
+	.string "Den flok tossehoveder, de ser godt nok\n"
+	.string "underlige ud ved havet!$"
+
+
 
