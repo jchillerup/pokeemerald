@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MossdeepCity_House4_MapScripts::
 	.byte 0
 
@@ -40,22 +42,24 @@ MossdeepCity_House4_EventScript_Skitty::
 	end
 
 MossdeepCity_House4_Text_BrotherLikesToFindBases:
-	.string "My little brother says he likes to go\n"
-	.string "find people's SECRET BASES.$"
+	.string "Min lillebror siger, at han kan lide at\n"
+	.string "finde FOLKES HEMMELIGE BASE.$"
 
 MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle:
-	.string "My little brother says he likes to\n"
-	.string "visit people's SECRET BASES and have\l"
-	.string "POKéMON battles.$"
+	.string "Min lillebror siger, at han kan lide at\n"
+	.string "besøge folks HEMMELIGE BASE og have\l"
+	.string "POKéMON kampe.$"
 
 MossdeepCity_House4_Text_YouMadeSecretBaseNearX:
-	.string "Was it you who made a SECRET BASE\n"
-	.string "near {STR_VAR_1}?$"
+	.string "Var det dig, der lavede en HEMMELIG BASE\n"
+	.string "nær {STR_VAR_1}?$"
 
 MossdeepCity_House4_Text_MakeSecretBase:
-	.string "You should make a SECRET BASE\n"
-	.string "somewhere. I'll go find it!$"
+	.string "Du burde lave en HEMMELIG BASE\n"
+	.string "et sted. Jeg går ud og finder den!$"
 
 MossdeepCity_House4_Text_Skitty:
-	.string "SKITTY: Miyaan?$"
+	.string "SKITTY: Miav?$"
+
+
 
