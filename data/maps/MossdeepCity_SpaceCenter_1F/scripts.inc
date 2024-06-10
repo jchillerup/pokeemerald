@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_SCIENTIST_1, 1
 .set LOCALID_SCIENTIST_2, 2
 .set LOCALID_SAILOR, 3
@@ -283,149 +285,152 @@ MossdeepCity_SpaceCenter_1F_Movement_MoveGruntFromStairs:
 	step_end
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
-	.string "The rocket's launch is imminent!$"
+.string "Raketten skal snart sendes afsted!$"
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Raketten blev skudt af sted sikkert!\n"
+	.string "Det er vellykket opsendelse nr. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket's launch is imminent!$"
+	.string "Jeg ved, at tingene er lidt\n"
+	.string "kaos lige nu, men…\p"
+	.string "Raketten skydes snart afsted!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
-	.string "I know that things are a little\n"
-	.string "haywire right now, but…\p"
-	.string "The rocket launched safely!\n"
-	.string "That's successful launch no. {STR_VAR_1}!$"
+	.string "Jeg ved, at tingene er lidt\n"
+	.string "ude af kontrol lige nu, men…\p"
+	.string "Raketten blev sendt afsted sikkert!\n"
+	.string "Det er succesfuld affyring nr. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "A rocket launch demands perfection.\n"
-	.string "Not even a 1% margin of error is allowed.\p"
-	.string "Even if it's 99% okay, the whole thing\n"
-	.string "is useless if 1% happens to be no good.\p"
-	.string "Despite that, we never stop trying.\n"
-	.string "Why? It's a dream that never ends.$"
+	.string "En rumraketopsendelse kræver perfektion.\n"
+	.string "Ikke engang en 1% fejlmargen er tilladt.\p"
+	.string "Selvom det er 99% okay, er det hele\n"
+	.string "ubrugeligt, hvis 1% viser sig ikke at være godt.\p"
+	.string "Alligevel stopper vi aldrig med at prøve.\n"
+	.string "Hvorfor? Det er en drøm, der aldrig ender.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Those MAGMA thugs have their sights\n"
-	.string "set on our SPACE CENTER.\p"
-	.string "But we can't allow anything that minor\n"
-	.string "to interfere with our rocket launch!$"
+	.string "Disse MAGMA-skurke har sat deres\n"
+	.string "sigt på vores RUMCENTER.\p"
+	.string "Men vi kan ikke tillade noget så\n"
+	.string "lille at forstyrre vores raketopsendelse!$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
-	.string "I was taking a stroll down the beach\n"
-	.string "when I found this.\p"
-	.string "It's not anything I need, so you can\n"
-	.string "have it.$"
+	.string "Jeg var ude og gå en tur langs\n"
+	.string "stranden, da jeg fandt dette.\p"
+	.string "Det er ikke noget, jeg har brug for,\n"
+	.string "så du kan få det.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "The HOENN region has been famous for \n"
-	.string "its meteor showers for a long time.$"
+	.string "HOENN-regionen har længe været kendt \n"
+	.string "for sine stjerneskurer.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "TEAM MAGMA can't be allowed to steal\n"
-	.string "the rocket fuel.\p"
-	.string "Oh, by the way, you can have this stone\n"
-	.string "I found on the beach.$"
+	.string "Hold da op, TEAM MAGMA må ikke få lov\n"
+	.string "til at stjæle raketafbrændingen.\p"
+	.string "Åh, forresten, du kan få denne sten,\n"
+	.string "jeg fandt på stranden.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
-	.string "With TEAM MAGMA around, I guess\n"
-	.string "strolls on the beach aren't safe.$"
+	.string "Med TEAM MAGMA omkring, gætter jeg\n"
+	.string "spadsereture på stranden ikke er sikre.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
-	.string "Some people claim that POKéMON came\n"
-	.string "from space. Could it be true?$"
+	.string "Nogle mennesker hævder, at POKéMON\n"
+	.string "kom fra rummet. Kan det være sandt?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA should take care of\n"
+	.string "TEAM AQUA bør tage sig af\n"
 	.string "TEAM MAGMA!\p"
-	.string "But if they did that, TEAM AQUA will\n"
-	.string "become bold and brazen, won't they?$"
+	.string "Men hvis de gjorde det, vil TEAM AQUA\n"
+	.string "blive modige og frimodige, gør de ikke?$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "It boggles my mind!$"
+	.string "Et kæmpestort stykke metal braser\n"
+	.string "gennem himlen og flyver ud\n"
+	.string "i rummet…\p"
+	.string "Det sætter min hjerne på overarbejde!$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
-	.string "A giant chunk of metal bursts through\n"
-	.string "the skies and flies into space…\p"
-	.string "But TEAM MAGMA wants to spoil\n"
-	.string "that dream of mine!\p"
-	.string "I'm not having any of that!$"
+	.string "Et kæmpestort metalstykke bryder\n"
+	.string "igennem himlen og flyver ud i rummet…\p"
+	.string "Men HOLD MAGMA vil ødelægge\n"
+	.string "den drøm om min!\p"
+	.string "Det er jeg ikke med på!$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
-	.string "STEVEN: {PLAYER}{KUN}, have you read that\n"
-	.string "proclamation already?\p"
-	.string "TEAM MAGMA is coming after the rocket\n"
-	.string "fuel on this island.\p"
-	.string "I don't know what they'd need it for,\n"
-	.string "but they can't be allowed to take it.\p"
-	.string "I'll keep an eye on things for\n"
-	.string "a while longer.\p"
-	.string "In the meantime, why don't you go\n"
-	.string "check out the town?$"
+	.string "STEVEN: {PLAYER}{KUN}, har du læst den\n"
+	.string "proklamation allerede?\p"
+	.string "Hold nu op! TEAM MAGMA er på vej\n"
+	.string "efter raketbrændstoffet på denne ø.\p"
+	.string "Jeg ved ikke, hvad de skal bruge det til,\n"
+	.string "men de kan ikke tillades at tage det.\p"
+	.string "Jeg vil holde øje lidt længere.\p"
+	.string "I mellemtiden, hvorfor går du ikke\n"
+	.string "ind og tjekker byen?$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro:
-	.string "As promised, we've come for\n"
-	.string "the rocket fuel!$"
+	.string "Som lovet, er vi kommet efter\n"
+	.string "raketbrændstof!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat:
-	.string "Ran out of fuel…$"
+	.string "Kørte tør for brændstof…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle:
-	.string "Don't think you're on a roll just\n"
-	.string "because you've beaten me!$"
+	.string "Tro ikke, at du er på en rulle\n"
+	.string "bare fordi du har slået mig!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro:
-	.string "We gave you fair warning!\n"
-	.string "There's nothing sneaky about us!$"
+	.string "Vi gav dig en fair advarsel!\n"
+	.string "Der er ikke noget snedigt ved os!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat:
 	.string "Grrr…\n"
-	.string "We should've used sneaky treachery…$"
+	.string "Vi burde have brugt snigmord…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
-	.string "Okay, I get it already! The next time,\n"
-	.string "we'll come unannounced.$"
+	.string "Okay, jeg forstår det allerede! Næste gang,\n"
+	.string "kommer vi uanmeldt.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "The rocket fuel the SPACE CENTER has\n"
-	.string "in storage--that's what we're after.\p"
-	.string "We mean to take every last bit of it!$"
+	.string "Raketbrændstoffet, som SPACE CENTER\n"
+	.string "har på lager - det er det, vi er ude\n"
+	.string "efter.\p"
+	.string "Vi har til hensigt at tage hver eneste\n"
+	.string "smule af det!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
-	.string "Please, can you spare some fuel?\n"
-	.string "Even a chintzy cup will do!$"
+	.string "Kan du være sød at skaffe lidt brændstof?\n"
+	.string "Selv en simpel kop vil gøre!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "What are we going to do with\n"
-	.string "the rocket fuel?\p"
-	.string "How would I know?\n"
-	.string "Ask our leader upstairs!$"
+	.string "Hvad skal vi gøre med\n"
+	.string "raketbrændstoffet?\p"
+	.string "Hvordan skulle jeg vide det?\n"
+	.string "Spørg vores leder ovenpå!$"  
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "Our leader said no one, but no one,\n"
-	.string "gets past me!$"
+	.string "Vores leder sagde ingen, men ingen,\n"
+	.string "kommer forbi mig!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
-	.string "Ack! Ack! Aaack!$"
+.string "Av! Av! Øv!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
-	.string "Please, tell our leader that\n"
-	.string "I never abandoned my post.\l"
-	.string "That I stayed to the bitter end…$"
+	.string "Fortæl vores leder, at\n"
+	.string "jeg aldrig forlod min post.\l"
+	.string "At jeg blev til det bitre end…$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
-	.string "This is…\n"
-	.string "An intent-to-steal notice?\p"
-	.string "“To the staff of the SPACE CENTER:\n"
-	.string "How are you? We are doing fine.\p"
-	.string "“We will soon visit you to take your\n"
-	.string "rocket fuel.\p"
-	.string "“Please don't try to stop us.\n"
-	.string "We will take the fuel no matter what.\p"
-	.string "“Let there be more land!\n"
-	.string "                                          TEAM MAGMA”$"
+	.string "Dette er... \n"
+	.string "En hensigt om at stjæle bemærkning?\p"
+	.string "\“Til personalet på RUMCENTRET:\n"
+	.string "Hvordan har I det? Vi har det fint.\p"
+	.string "\“Vi vil snart besøge jer for at tage jeres\n"
+	.string "raketbrændstof.\p"
+	.string "\“Vær venlig ikke at forsøge at stoppe os.\n"
+	.string "Vi vil tage brændstoffet uanset hvad.\p"
+	.string "\“Må der blive mere land!\n"
+	.string "                                           TEAM MAGMA”$"
+
