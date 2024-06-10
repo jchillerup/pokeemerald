@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 BattleFrontier_BattlePikeRoomFinal_MapScripts::
@@ -37,6 +39,8 @@ BattleFrontier_BattlePikeRoomFinal_EventScript_TurnPlayerNorth::
 	end
 
 BattleFrontier_BattlePikeRoomFinal_Text_CongratsThisWayPlease:
-	.string "Congratulations…\n"
-	.string "Now, this way, please…$"
+	.string "Tillykke…\n"
+	.string "Nu, på denne måde, vær så venlig…$"
+
+
 
