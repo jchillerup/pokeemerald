@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 RustboroCity_PokemonCenter_1F_MapScripts::
@@ -31,19 +33,21 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
-	.string "My POKéMON has a NAIVE nature, and my\n"
-	.string "friend's has a JOLLY nature.\p"
-	.string "It's fascinating how POKéMON have\n"
-	.string "personalities!$"
+	.string "Min POKéMON har en NAIV natur, og min\n"
+	.string "ven har en MUNTER natur.\p"
+	.string "Det er fascinerende, hvordan POKéMON har\n"
+	.string "personligheder!$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
-	.string "Just like people, there are male and\n"
-	.string "female POKéMON.\p"
-	.string "But no one seems to have any idea how\n"
-	.string "they're different.$"
+	.string "Præcis som mennesker, er der hanner og\n"
+	.string "hunner POKéMON.\p"
+	.string "Men ingen synes at have nogen idé om,\n"
+	.string "hvordan de er forskellige.$"
 
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
-	.string "The man next door gave me an HM!\p"
-	.string "I used it to teach my POKéMON how to\n"
-	.string "CUT down skinny trees.$"
+	.string "Manden ved siden af gav mig en HM!\p"
+	.string "Jeg brugte den til at lære mine POKéMON\n"
+	.string "at SKÆRE ned tynde træer.$"
+
+
 
