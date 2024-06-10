@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SlateportCity_Mart_MapScripts::
 	.byte 0
 
@@ -35,14 +37,16 @@ SlateportCity_Mart_EventScript_Man::
 	end
 
 SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
-	.string "The MARKET does have some interesting\n"
-	.string "merchandise.\p"
-	.string "But there are some items you can only\n"
-	.string "get at a POKéMON MART.$"
+	.string "MARKED" har nogle spændende\n"
+	.string "varer.\p"
+	.string "Men der er nogle ting, du kun kan\n"
+	.string "få i en POKéMONFORRETNING.$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
-	.string "A GREAT BALL is better than a POKé BALL\n"
-	.string "at catching POKéMON.\p"
-	.string "With this, I should be able to get that\n"
-	.string "elusive POKéMON…$"
+	.string "EN STOR BOLD er bedre end en POKé BOLD\n"
+	.string "til at fange POKéMON.\p"
+	.string "Med denne burde jeg kunne fange den\n"
+	.string "flygtige POKéMON…$"
+
+
 
