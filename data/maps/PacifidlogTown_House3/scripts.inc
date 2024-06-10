@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 PacifidlogTown_House3_MapScripts::
 	.byte 0
 
@@ -51,39 +53,41 @@ PacifidlogTown_House3_EventScript_Girl::
 	end
 
 PacifidlogTown_House3_Text_WillingToTradeIt:
-	.string "Check out this {STR_VAR_2}!\p"
-	.string "It's the {STR_VAR_2} that I caught\n"
-	.string "yesterday to celebrate my birthday!\p"
-	.string "Oh, I can see that you want it!\n"
-	.string "After all, it's priceless!\p"
-	.string "I'll tell you what. I might be willing\n"
-	.string "to trade it for a {STR_VAR_1}.$"
+	.string "Tjek denne {STR_VAR_2} ud!\p"
+	.string "Det er {STR_VAR_2}'en, jeg fangede\n"
+	.string "i går for at fejre min fødselsdag!\p"
+	.string "Åh, jeg kan se, at du gerne vil have den!\n"
+	.string "Den er trods alt uvurderlig!\p"
+	.string "Jeg skal fortælle dig noget. Jeg er muligvis\n"
+	.string "villig til at bytte den for en {STR_VAR_1}.$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
-	.string "Oh, so this is a {STR_VAR_1}?\p"
-	.string "It's sort of like a {STR_VAR_2},\n"
-	.string "and yet it's subtly different.\p"
-	.string "Thank you!$"
+	.string "Åh, så det her er en {STR_VAR_1}?\p"
+	.string "Det er lidt ligesom en {STR_VAR_2},\n"
+	.string "og alligevel er den subtilt forskellig.\p"
+	.string "Tak!$"
 
 PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon:
-	.string "No, no, no! I won't accept any\n"
-	.string "less than a real {STR_VAR_1}!$"
+	.string "Nej, nej, nej! Jeg accepterer ikke"
+	.string "mindre end en rigtig {STR_VAR_1}!$"
 
 PacifidlogTown_House3_Text_NotDesperateOrAnything:
-	.string "Oh, so you're not going to go through\n"
-	.string "with this?\p"
-	.string "That's cool. I'm not desperate to make\n"
-	.string "a trade or anything.$"
+	.string "Åh, så du vil ikke gå igennem\n"
+	.string "med dette?\p"
+	.string "Det er helt i orden. Jeg er ikke desperat\n"
+	.string "efter at lave en handel eller noget.$"
 
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
-	.string "I know I could go looking for one\n"
-	.string "on my own, but…\p"
-	.string "But I really wanted to get a BAGON\n"
-	.string "that another TRAINER caught…$"
+	.string "Jeg ved, at jeg kunne lede efter en\n"
+	.string "selv, men…\p"
+	.string "Men jeg vil virkelig gerne have en BAGON\n"
+	.string "som en anden TRÆNER har fanget…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
-	.string "Is that a POKéDEX?\p"
-	.string "Did you get to meet a lot of different\n"
+	.string "Er det en POKéDEX?\p"
+	.string "Har du mødt mange forskellige\n"
 	.string "POKéMON?\p"
-	.string "I wish I was like you.$"
+	.string "Jeg ville ønske, jeg var ligesom dig.$"
+
+
 
