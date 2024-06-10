@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MauvilleCity_House1_MapScripts::
 	.byte 0
 
@@ -19,28 +21,31 @@ MauvilleCity_House1_EventScript_ReceivedRockSmash::
 	end
 
 MauvilleCity_House1_Text_ImRockSmashDudeTakeThis:
-	.string "Woohoo!\p"
-	.string "I hear people call me the ROCK SMASH\n"
-	.string "GUY, but I find that sort of degrading.\p"
-	.string "I think I deserve a bit more respect,\n"
-	.string "like maybe the ROCK SMASH DUDE.\p"
-	.string "Woohoo!\p"
-	.string "Anyways, your POKéMON look pretty\n"
-	.string "strong.\p"
-	.string "I like that!\n"
-	.string "Here, take this HIDDEN MACHINE!$"
+	.string "Jubiii!\p"
+	.string "Jeg hører folk kalder mig STENKNUSER-\n"
+	.string "FYREN, men jeg synes det er lidt nedværdi-\n"
+	.string "gende.\p"
+	.string "Jeg synes, jeg fortjener lidt mere respekt,\n"
+	.string "måske STENKNUSEREN.\p"
+	.string "Jubiii!\p"
+	.string "Nå, dine POKéMON ser ret\n"
+	.string "stærke ud.\p"
+	.string "Det kan jeg lide!\n"
+	.string "Her, tag denne SKJULTE MASKINE!$"
 
 MauvilleCity_House1_Text_ExplainRockSmash:
-	.string "That HM contains ROCK SMASH.\p"
-	.string "If you come across large boulders\n"
-	.string "that block your path…\p"
-	.string "Well, use that HM move and smash\n"
-	.string "them right out of your way!\p"
-	.string "Yes, sir! Smash rocks aside, I say!\n"
-	.string "Woohoo!$"
+	.string "Den HM indeholder ROCK SMASH.\p"
+	.string "Hvis du støder på store stenblokke\n"
+	.string "som blokerer din vej…\p"
+	.string "Ja, brug den HM-færdighed og knus\n"
+	.string "dem lige væk fra din vej!\p"
+	.string "Ja, sir! Knus stenene til siden, siger jeg!\n"
+	.string "Jubiii!$"
 
 MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock:
-	.string "Oh, yes, if you smash a rock, a POKéMON\n"
-	.string "could come flying out of hiding.\p"
-	.string "Woohoo!$"
+	.string "Åh, ja, hvis du smadrer en sten, kan en POKéMON\n"
+	.string "komme flyvende ud af sit skjul.\p"
+	.string "Jubii!$"
+
+
 
