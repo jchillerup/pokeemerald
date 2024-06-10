@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route110_TrickHousePuzzle8_MapScripts::
 	.byte 0
 
@@ -28,44 +30,46 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER I love.”\n"
+	.string "{PLAYER} skrev den hemmelige kode\n"
+	.string "på døren.\p"
+	.string "“TRICK MASTER, jeg elsker.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Not many TRAINERS have made it\n"
-	.string "this far.$"
+	.string "Ikke mange TRÆNERE er nået\n" 
+	.string "så langt.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
-	.string "That must mean you're tough, too…$"
+.string "Det må betyde, at du også er sej…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "You've beaten the POKéMON LEAGUE\n"
-	.string "CHAMPION? That's too much!$"
+	.string "Du har slået POKéMON-LIGAEN\n"
+	.string "MESTEREN? Det er for vildt!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Consider yourself lucky to be\n"
-	.string "battling me!$"
+	.string "Betragt dig selv som heldig for at\n"
+	.string "kæmpe mod mig!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "This isn't right!\n"
-	.string "I can't lose!$"
+	.string "Det her er ikke rigtigt!\n"
+	.string "Jeg kan ikke tabe!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "It's a miracle that you beat me.\n"
-	.string "You can brag about it.$"
+	.string "Det er et mirakel, at du slog mig.\n"
+	.string "Du kan prale af det.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "You've been slugging through the TRICK\n"
-	.string "HOUSE challenge, too.$"
+	.string "Du har kæmpet dig gennem TRICK\n"
+	.string "HOUSE udfordringen også.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "I see…\n"
-	.string "You possess an extraordinary style.$"
+	.string "Jeg ser...\n"
+	.string "Du besidder en ekstraordinær stil.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "Seeing someone like you should please\n"
-	.string "the TRICK MASTER.$"
+	.string "At se nogen som dig bør glæde\n"
+	.string "TRICK MASTEREN.$"
+
+
 
