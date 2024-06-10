@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_GREETER, 1
 .set LOCALID_GUIDE, 2
 .set LOCALID_SCOTT, 4
@@ -299,212 +301,219 @@ BattleFrontier_ReceptionGate_EventScript_ExitFrontierPassGuide::
 	end
 
 BattleFrontier_ReceptionGate_Text_FirstTimeHereThisWay:
-	.string "Is it your first time here?\n"
-	.string "Please step this way!$"
+	.string "Er det din første gang her?\n"
+	.string "Træd venligst denne vej!$" 
 
 BattleFrontier_ReceptionGate_Text_WelcomeToBattleFrontier:
-	.string "The front lines of POKéMON battling!\n"
-	.string "Welcome to the BATTLE FRONTIER!$"
+	.string "Frontlinjerne af POKéMON-kampe!\n"
+	.string "Velkommen til KAMPENS FRONTIER!$"
 
 BattleFrontier_ReceptionGate_Text_IssueFrontierPass:
-	.string "For a first-time visitor, we issue\n"
-	.string "the FRONTIER PASS.\p"
-	.string "It's for use at all the facilities\n"
-	.string "in the BATTLE FRONTIER.\p"
-	.string "Here you are!$"
+	.string "For en førstegangsgæst, udsteder vi\n"
+	.string "FRONTIER-PASSET.\p"
+	.string "Det kan bruges på alle faciliteterne\n"
+	.string "i BATTLE FRONTIER.\p"
+	.string "Her er det!$"
 
 BattleFrontier_ReceptionGate_Text_ObtainedFrontierPass:
-	.string "{PLAYER} obtained\n"
-	.string "the FRONTIER PASS.$"
+	.string "{PLAYER} har fået\n"
+	.string "FRONTIER PASS.$"
 
 BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass:
-	.string "{PLAYER} placed the TRAINER CARD\n"
-	.string "in the FRONTIER PASS.$"
+	.string "{PLAYER} lagde TRÆNERKORTET\n"
+	.string "i FRONTIER PASSPORT.$"
 
 BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier:
-	.string "We hope you enjoy all that the BATTLE\n"
-	.string "FRONTIER has to offer!$"
+	.string "Vi håber, du nyder alt, som BATTLE\n"
+	.string "FRONTIER har at byde på!$"
 
 BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame:
-	.string "???: Well, if it isn't {PLAYER}{KUN}!\n"
-	.string "You came out here!$"
+	.string "???: Nå, hvis det ikke er {PLAYER}{KUN}!\n"
+	.string "Du kom ud her!$"
 
 BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay:
-	.string "GUIDE: Oh! MR. SCOTT, sir!\n"
-	.string "Good day to you, sir!$"
+	.string "GUIDE: Åh! HR. SCOTT, sir!\n"
+	.string "God dag til dig, sir!$" 
 
 BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere:
-	.string "SCOTT: It's great to see you here,\n"
-	.string "it really is!\p"
-	.string "I hope you'll take your time and\n"
-	.string "explore everywhere.\p"
-	.string "Naturally, I hope you'll also experience\n"
-	.string "the pure essence of battling.\p"
-	.string "I also have my quarters here, so feel\n"
-	.string "free to visit if you have time.$"
+	.string "SCOTT: Det er skønt at se dig her,\n"
+	.string "det er virkelig!\p"
+	.string "Jeg håber, at du vil tage dig god tid\n"
+	.string "og udforske overalt.\p"
+	.string "Selvfølgelig håber jeg også, at du\n"
+	.string "vil opleve kernen i kampe.\p"
+	.string "Jeg har også min bolig her, så føl dig\n"
+	.string "velkommen til at besøge mig, hvis du\n"
+	.string "har tid.$"
 
 BattleFrontier_ReceptionGate_Text_YourGuideToFacilities:
-	.string "I'm your guide to the various facilities\n"
-	.string "here in the BATTLE FRONTIER.$"
+	.string "Jeg er din guide til de forskellige faciliteter\n"
+	.string "her i KAMPFRONTEN.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhich2:
-	.string "Which would you like to learn about?$"
+	.string "Hvad vil du gerne lære om?$"
 
 BattleFrontier_ReceptionGate_Text_BattleTowerInfo:
-	.string "It is the gigantic tower considered\n"
-	.string "to be the BATTLE FRONTIER's symbol.\p"
-	.string "There are four kinds of BATTLE ROOMS\n"
-	.string "in the tower for SINGLE, DOUBLE, MULTI,\l"
-	.string "and LINK MULTI BATTLES.$"
+	.string "Det er det gigantiske tårn, der betragtes\n"
+	.string "som SYMBOL for KAMPFRONTEN.\p"
+	.string "Der er fire slags KAMPRUM\n"
+	.string "i tårnet til ENE, DOBBELT, FLERE,\n"
+	.string "og FORBINDEDE FLERE KAMPE.$"
 
 BattleFrontier_ReceptionGate_Text_BattleDomeInfo:
-	.string "The BATTLE DOME is the large building\n"
-	.string "shaped like a huge egg.\p"
-	.string "Events named Battle Tourneys are held\n"
-	.string "in this facility.\p"
-	.string "The Battle Tourneys are offered in\n"
-	.string "two courses--for SINGLE and DOUBLE\l"
-	.string "BATTLES.$"
+	.string "KAMPDOMEN er den store bygning,\n"
+	.string "formet som et kæmpe æg.\p"
+	.string "Begivenheder kaldet Kampturneringer\n"
+	.string "afholdes i denne facilitet.\p"
+	.string "Kampturneringerne tilbydes i to\n"
+	.string "kurser--for ENKELT og Dobbelt\l"
+	.string "KAMPE.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePalaceInfo:
-	.string "The BATTLE PALACE is the red building\n"
-	.string "on the right of the BATTLE FRONTIER.\p"
-	.string "There are two kinds of BATTLE HALLS\n"
-	.string "for SINGLE and DOUBLE BATTLES.$"
+	.string "KAMPBYGNINGEN er den røde bygning\n"
+	.string "til højre for KAMPMONUMENTET.\p"
+	.string "Der er to slags KAMP HALLER\n"
+	.string "til ENKELT- og DOBBELT KAMPE.$"
 
 BattleFrontier_ReceptionGate_Text_BattleArenaInfo:
-	.string "The BATTLE ARENA is the dojo-like\n"
-	.string "building at the center-right of\l"
-	.string "the BATTLE FRONTIER.\p"
-	.string "An event called the Set KO Tourney\n"
-	.string "takes place at the BATTLE ARENA.$"
+	.string "KAMPARENAEN er bygningen i dojo-stil,\n"
+	.string "der ligger i midten til højre på\l"
+	.string "KAMPFRONTEN.\p"
+	.string "Et arrangement kaldet Set KO Turneringen\n"
+	.string "finder sted i KAMPARENAEN.$"
 
 BattleFrontier_ReceptionGate_Text_BattleFactoryInfo:
-	.string "The BATTLE FACTORY is the large\n"
-	.string "building that is the closest to us.\p"
-	.string "An event called the Battle Swap\n"
-	.string "is conducted there.\p"
-	.string "The Battle Swap event is offered in\n"
-	.string "two courses for SINGLE and DOUBLE\l"
-	.string "BATTLES.$"
+	.string "KAMPFABRIKKEN er den store\n"
+	.string "bygning, der er tættest på os.\p"
+	.string "En begivenhed kaldet Battle Swap\n"
+	.string "afholdes der.\p"
+	.string "Battle Swap-begivenheden tilbydes i\n"
+	.string "to baner for ENKELT og DOPPELT\l"
+	.string "KAMPE.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePikeInfo:
-	.string "The BATTLE PIKE is the building shaped\n"
-	.string "like a POKéMON at the center-left of\l"
-	.string "the BATTLE FRONTIER.\p"
-	.string "An event called the Battle Choice\n"
-	.string "is conducted there.$"
+	.string "Slagtpikken ligner et byggeri formet\n"
+	.string "som en POKéMON i midten-venstre på\n"
+	.string "FELTET FOR KAMPE.\p"
+	.string "Et arrangement kaldet Kampvalget\n"
+	.string "afholdes der.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePyramidInfo:
-	.string "The BATTLE PYRAMID is the enormous\n"
-	.string "pyramid.\p"
-	.string "An event called the Battle Quest\n"
-	.string "is conducted there.$"
+	.string "DEN KÆMPESTORE KAMPPIRAMIDE er den\n"
+	.string "enorme pyramide.\p"
+	.string "Et arrangement kaldet Kampquesten\n"
+	.string "afholdes der.$"
 
 BattleFrontier_ReceptionGate_Text_RankingHallInfo:
-	.string "The RANKING HALL is located near\n"
-	.string "the BATTLE TOWER.\p"
-	.string "There, you may see the most fantastic\n"
-	.string "records left by the TRAINERS that\l"
-	.string "took on the many challenges of\l"
-	.string "the BATTLE FRONTIER.$"
+	.string "RANGHALLEN befinder sig nær\n"
+	.string "KAMPENS TÅRN.\p"
+	.string "Her kan du se de mest fantastiske\n"
+	.string "rekorder sat af TRÆNERE, der har\l"
+	.string "taget udfordringerne i\n"
+	.string "KAMPENS FRONTIER.$"
 
 BattleFrontier_ReceptionGate_Text_ExchangeCornerInfo:
-	.string "The EXCHANGE SERVICE CORNER is near\n"
-	.string "the BATTLE TOWER.\p"
-	.string "The Battle Points you have earned in\n"
-	.string "the BATTLE FRONTIER may be exchanged\l"
-	.string "for fabulous prizes there.$"
+	.string "DEN BYTTE SERVICE HJØRNE er tæt på\n"
+	.string "KAMPTÅRNET.\p"
+	.string "Kamp Point du har tjent i\n"
+	.string "KAMPFRONTEN kan udveksles\l"
+	.string "til fantastiske præmier der.$"
 
 BattleFrontier_ReceptionGate_Text_YourGuideToRules:
-	.string "I'm your guide to the basic rules that\n"
-	.string "are common to all the challenges\l"
-	.string "offered by the facilities in the BATTLE\l"
-	.string "FRONTIER.$"
+	.string "Jeg er din guide til de grundlæggende\n"
+	.string "regler, som er fælles for alle\n"
+	.string "udfordringer, der tilbydes af\n"
+	.string "faciliteterne i BATTLE FRONTIER.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhat:
-	.string "What would you like to learn about?$"
+	.string "Hvad vil du gerne lære om?$"
 
 BattleFrontier_ReceptionGate_Text_LevelModeInfo:
-	.string "All the challenges at the BATTLE\n"
-	.string "FRONTIER's facilities come in\l"
-	.string "two courses--Level 50 and Open Level.$"
+	.string "Alle udfordringerne på BATTLE\n"
+	.string "FRONTIERs faciliteter kommer i\n"
+	.string "to kurser--Level 50 og Åben Level.$"
 
 BattleFrontier_ReceptionGate_Text_Level50Info:
-	.string "The Level 50 course is open to POKéMON\n"
-	.string "up to and including Level 50.\p"
-	.string "Please keep in mind, however, that\n"
-	.string "no TRAINER you face will have any\l"
-	.string "POKéMON below Level 50.\p"
-	.string "This course is the entry level for\n"
-	.string "battles at the BATTLE FRONTIER.\p"
-	.string "To begin, we hope you will challenge\n"
-	.string "this course.$"
+	.string "Niveau 50-banen er åben for POKéMON\n"
+	.string "op til og med niveau 50.\p"
+	.string "Husk dog, at ingen TRÆNER, du møder,\n"
+	.string "vil have nogen POKéMON under niveau\n"
+	.string "50.\p"
+	.string "Denne bane er begynderniveauet for\n"
+	.string "kampe ved KAMPFRONTEN.\p"
+	.string "For at begynde håber vi, du vil\n"
+	.string "udfordre denne bane.$"
 
 BattleFrontier_ReceptionGate_Text_OpenLevelInfo:
-	.string "The Open Level course places no limit\n"
-	.string "on the levels of POKéMON entering\l"
-	.string "challenges.\p"
-	.string "The levels of your opponents will\n"
-	.string "be adjusted to match the levels of\l"
-	.string "your POKéMON.\p"
-	.string "However, no TRAINER you face will\n"
-	.string "have any POKéMON below Level 60.$"
+	.string "Den Åbne Niveau bane sætter ingen\n"
+	.string "begrænsninger på niveauer af\n"
+	.string "POKéMON, der deltager i\l"
+	.string "udfordringer.\p"
+	.string "Dine modstanderes niveauer vil\n"
+	.string "blive justeret til at matche\l"
+	.string "dine POKéMONs niveauer.\p"
+	.string "Dog vil ingen TRÆNER, du står\n"
+	.string "overfor, have nogen POKéMON under\n"
+	.string "Niveau 60.$"
 
 BattleFrontier_ReceptionGate_Text_MonEntryInfo:
-	.string "Virtually any kind of POKéMON may take\n"
-	.string "on the challenges at all facilities.\p"
-	.string "EGGS and certain kinds of POKéMON,\n"
-	.string "however, are not permitted.\p"
-	.string "The numbers of POKéMON required for\n"
-	.string "challenges will depend on the facility.\p"
-	.string "At all facilities, however, two or more\n"
-	.string "of the same kind of POKéMON are not\l"
-	.string "permitted.$"
+	.string "Praktisk talt enhver type POKéMON kan tage\n"
+	.string "udfordringerne på alle faciliteter.\p"
+	.string "ÆG og visse typer POKéMON er dog\n"
+	.string "ikke tilladt.\p"
+	.string "Antallet af POKéMON, der kræves for\n"
+	.string "udfordringer, vil afhænge af faciliteten.\p"
+	.string "På alle faciliteter er det dog ikke\l"
+	.string "tilladt med to eller flere\n"
+	.string "af samme type POKéMON.$"
 
 BattleFrontier_ReceptionGate_Text_HoldItemsInfo:
-	.string "When entering a challenge at a BATTLE\n"
-	.string "FRONTIER facility, POKéMON may not\l"
-	.string "be holding the same kind of item.\p"
-	.string "Please make sure that all POKéMON\n"
-	.string "entering a challenge are holding\l"
-	.string "different items.$"
+	.string "Når du deltager i en udfordring på en\n"
+	.string "KAMPFRONT facilitet, må POKéMON ikke\n"
+	.string "holde den samme type genstand.\p\n"
+	.string "Sørg venligst for, at alle POKéMON,\n"
+	.string "der deltager i en udfordring, holder\n"
+	.string "forskellige genstande.$"
 
 BattleFrontier_ReceptionGate_Text_YourGuideToFrontierPass:
-	.string "I'm your guide to the FRONTIER PASS.$"
+	.string "Jeg er din guide til DEN VILDE VEST.$"
 
 BattleFrontier_ReceptionGate_Text_LearnAboutWhich1:
-	.string "Which would you like to learn about?$"
+	.string "Hvad vil du gerne lære om?$"
 
 BattleFrontier_ReceptionGate_Text_SymbolsInfo:
-	.string "There are seven facilities at\n"
-	.string "the BATTLE FRONTIER.\p"
-	.string "TRAINERS who gain recognition for\n"
-	.string "their abilities may be rewarded with\l"
-	.string "symbols from each of the facilities.\p"
-	.string "To earn a symbol, TRAINERS may need\n"
-	.string "to defeat other TRAINERS in a row,\l"
-	.string "and may need to win events repeatedly.\p"
-	.string "It's certainly not easy to win symbols.\n"
-	.string "I wish you the best of luck!$"
+	.string "Der er syv faciliteter på\n"
+	.string "BATTLE FRONTIER.\p"
+	.string "TRÆNERE, der opnår anerkendelse for\n"
+	.string "deres evner, kan belønnes med\l"
+	.string "symboler fra hver af faciliteterne.\p"
+	.string "For at tjene et symbol kan TRÆNERE\n"
+	.string "blive nødt til at besejre andre\n"
+	.string "TRÆNERE i træk,\l"
+	.string "og måske endda vinde begivenheder\n"
+	.string "gentagne gange.\p"
+	.string "Det er bestemt ikke let at vinde symboler.\n"
+	.string "Jeg ønsker dig al held og lykke!$" 
 
 BattleFrontier_ReceptionGate_Text_RecordedBattleInfo:
-	.string "It is possible to record one battle\n"
-	.string "on your FRONTIER PASS.\p"
-	.string "You may record a battle you had with\n"
-	.string "a friend or friends.\p"
-	.string "Or you may record a battle conducted\n"
-	.string "at the BATTLE FRONTIER excluding\l"
-	.string "matches at the BATTLE PIKE or\l"
-	.string "the BATTLE PYRAMID.\p"
-	.string "You may choose to record your match\n"
-	.string "at the end of a battle.$"
+	.string "Det er muligt at optage én kamp\n"
+	.string "på din FRONTIER-PASS.\p"
+	.string "Du kan optage en kamp, du har haft\n"
+	.string "med en ven eller venner.\p"
+	.string "Eller du kan optage en kamp udført\n"
+	.string "ved BATTLE FRONTIER undtagen\l"
+	.string "kampe ved BATTLE PIKE eller\l"
+	.string "BATTLE PYRAMID.\p"
+	.string "Du kan vælge at optage din kamp\n"
+	.string "ved afslutningen af en kamp.$"
 
 BattleFrontier_ReceptionGate_Text_BattlePointsInfo:
-	.string "Battle Points are rewards given to\n"
-	.string "TRAINERS who battled outstandingly\l"
-	.string "at the BATTLE FRONTIER.\p"
-	.string "You may trade in your Battle Points\n"
-	.string "for prizes at the EXCHANGE SERVICE\l"
-	.string "CORNER.$"
+	.string "Kamp Point er belønninger givet til\n"
+	.string "TRENERS, der kæmpede enestående\l"
+	.string "på KAMPFRONTEN.\p"
+	.string "Du kan ombytte dine Kamp Point\n"
+	.string "til præmier i OMBYTNINGS\n"
+	.string "SERVICEHJØRNET.$"
+
+
 
