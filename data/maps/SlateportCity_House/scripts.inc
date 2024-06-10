@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SlateportCity_House_MapScripts::
 	.byte 0
 
@@ -10,14 +12,16 @@ SlateportCity_House_EventScript_Girl::
 	end
 
 SlateportCity_House_Text_NatureToDoWithStatGains:
-	.string "My POKéMON has a HASTY nature.\p"
-	.string "It has higher SPEED compared to\n"
-	.string "my other POKéMON.\p"
-	.string "Maybe their nature has something to\n"
-	.string "do with the stat gains of POKéMON.$"
+	.string "Min POKéMON har en HURTIG natur.\p"
+	.string "Den har højere HASTIGHED i forhold til\n"
+	.string "mine andre POKéMON.\p"
+	.string "Måske har deres natur noget at gøre\n"
+	.string "med POKéMONs statistikstigninger.$"
 
 SlateportCity_House_Text_MustBeGoingToBattleTent:
-	.string "You're a TRAINER, aren't you?\p"
-	.string "Since you came to SLATEPORT CITY,\n"
-	.string "you must be going to the BATTLE TENT.$"
+	.string "Du er en TRÆNER, ikke sandt?\p"
+	.string "Siden du er kommet til SLATEPORT CITY,\n"
+	.string "må du være på vej til KAMPSTED.$"
+
+
 
