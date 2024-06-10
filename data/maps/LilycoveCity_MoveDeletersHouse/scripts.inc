@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_MOVE_DELETER, 1
 
 LilycoveCity_MoveDeletersHouse_MapScripts::
@@ -69,40 +71,42 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "Uh…\n"
-	.string "Oh, yes, I'm the MOVE DELETER.\p"
-	.string "I can make POKéMON forget their moves.\p"
-	.string "Would you like me to do that?$"
+	.string "Øh...\n"
+	.string "Åh, ja, jeg er FLYTTEFORGLEMMEREN.\p"
+	.string "Jeg kan få POKéMON til at glemme deres træk.\p"
+	.string "Skal jeg gøre det?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget:
-	.string "Which POKéMON should forget a move?$"
+	.string "Hvilken POKéMON skal glemme et træk?$"
 
 LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
-	.string "Which move should be forgotten?$"
+	.string "Hvilket træk skal glemmes?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} knows only one move\n"
-	.string "so it can't be forgotten…$"
+	.string "{STR_VAR_1} kender kun et træk\n"
+	.string "så det kan ikke glemmes…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
 	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
-	.string "That move should be forgotten?$"
+	.string "Den bevægelse burde glemmes?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
-	.string "It worked to perfection!\p"
-	.string "{STR_VAR_1} has forgotten\n"
-	.string "{STR_VAR_2} completely.$"
+	.string "Det fungerede perfekt!\p"
+	.string "{STR_VAR_1} har glemt\n"
+	.string "{STR_VAR_2} helt.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Come again if there are moves that\n"
-	.string "need to be forgotten.$"
+	.string "Kom tilbage, hvis der er træk, der\n"
+	.string "skal glemmes.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "What?\n"
-	.string "No EGG should know any moves.$"
+	.string "Hvad?\n"
+	.string "Ingen ÆG skal kende nogen bevægelser.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Your {STR_VAR_1} doesn't seem willing\n"
-	.string "to forget SURF.$"
+	.string "Din {STR_VAR_1} virker ikke villig \n"
+	.string "til at glemme SURF.$"
+
+
 
