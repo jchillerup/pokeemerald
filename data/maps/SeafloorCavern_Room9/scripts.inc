@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_KYOGRE, 1
 .set LOCALID_ARCHIE, 2
 .set LOCALID_MAXIE, 3
@@ -226,101 +228,102 @@ SeafloorCavern_Room9_Movement_Delay32:
 	step_end
 
 SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
-	.string "ARCHIE: Hold it right there.$"
+.string "ARCHIE: Hold lige der.$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
-	.string "ARCHIE: Fufufu…\n"
-	.string "So it was you, after all.$"
+	.string "ARCHIE: Hi hi hi…\n"
+	.string "Det var altså dig til sidst.$"
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
-	.string "ARCHIE: Behold!\p"
-	.string "See how beautiful it is, the sleeping\n"
-	.string "form of the ancient POKéMON KYOGRE!\p"
-	.string "I have waited so long for this day to\n"
-	.string "come…$"
+	.string "ARCHIE: Se her!\p"
+	.string "Se hvor smukt det er, den sovende\n"
+	.string "form af den ældgamle POKéMON KYOGRE!\p"
+	.string "Jeg har ventet så længe på denne dag\n"
+	.string "skulle komme…$"  
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
-	.string "ARCHIE: It surprises me, how you've\n"
-	.string "managed to chase me here.\p"
-	.string "But that's all over now.\p"
-	.string "For the realization of my dream,\n"
-	.string "you must disappear now!$"
+	.string "ARCHIE: Det overrasker mig, hvordan du\n"
+	.string "formåede at jage mig herhen.\p"
+	.string "Men det er slut nu.\p"
+	.string "For realiseringen af min drøm,\n"
+	.string "skal du nu forsvinde!$"
 
 SeafloorCavern_Room9_Text_ArchieDefeat:
-	.string "What?!\n"
-	.string "I lost to a mere child like you?!$"
+	.string "Hvad?!\n"
+	.string "Jeg tabte til et simpelt barn som dig?!$"  
 
 SeafloorCavern_Room9_Text_ArchieWithThisRedOrb:
-	.string "ARCHIE: Fufufu…\p"
-	.string "I commend you. I must recognize that\n"
-	.string "you are truly gifted.\p"
-	.string "But!\n"
-	.string "I have this in my possession!\p"
-	.string "With this RED ORB, I can make KYOGRE…$"
+	.string "ARCHIE: Hihihi…\p"
+	.string "Jeg roser dig. Jeg må erkende, at du\n"
+	.string "er virkelig talentfuld.\p"
+	.string "Men!\n"
+	.string "Jeg har dette i min besiddelse!\p"
+	.string "Med denne RØDE ORB kan jeg fremkalde KYOGRE…$"
 
 SeafloorCavern_Room9_Text_RedOrbShinesByItself:
-	.string "The RED ORB suddenly began shining\n"
-	.string "by itself!$"
+	.string "DEN RØDE KUGLE begyndte pludselig at skinne\n"
+	.string "af sig selv!$"
 
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
-	.string "ARCHIE: What?!\p"
-	.string "I didn't do anything.\n"
-	.string "Why did the RED ORB…\p"
-	.string "Where did KYOGRE go?$"
+	.string "ARCHIE: Hvad?!\p"
+	.string "Jeg gjorde ikke noget.\n"
+	.string "Hvorfor gjorde den RØDE ORB... \p"
+	.string "Hvor er KYOGRE blevet af?$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
-	.string "ARCHIE: Hm? It's a message from our\n"
-	.string "members outside…$"
+	.string "ARCHIE: Hm? Det er en besked fra vores\n"
+	.string "medlemmer udenfor...\p$"
 
 SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
-	.string "ARCHIE: Yes, what is it?\p"
+	.string "ARCHIE: Ja, hvad er det?\p"
 	.string "Hm…\n"
-	.string "It's raining heavily?\p"
-	.string "Good… That should have happened.\n"
-	.string "That is why we awakened KYOGRE,\l"
-	.string "to realize TEAM AQUA's vision of\l"
-	.string "expanding the sea.\p"
-	.string "What?!\p"
-	.string "It's raining far harder than we\n"
-	.string "envisioned? You're in danger?\p"
-	.string "That can't be…\n"
-	.string "That's just not possible…\p"
-	.string "Hold your position and monitor\n"
-	.string "the situation!$"
+	.string "Det regner kraftigt?\p"
+	.string "Godt… Det burde ske.\n"
+	.string "Det er derfor, vi vækkede KYOGRE,\l"
+	.string "for at realisere TEAM AQUA's vision om\l"
+	.string "at udvide havet.\p"
+	.string "Hvad?!\p"
+	.string "Det regner langt kraftigere end vi\n"
+	.string "forestillede os? Du er i fare?\p"
+	.string "Det kan ikke være rigtigt…\n"
+	.string "Det er bare ikke muligt…\p"
+	.string "Hold din position og monitorér\n"
+	.string "situationen!$"
 
 SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
-	.string "ARCHIE: There's something wrong…\p"
-	.string "The RED ORB is supposed to awaken\n"
-	.string "and control KYOGRE…\p"
-	.string "But… Why?\n"
-	.string "Why did KYOGRE disappear?\p"
-	.string "Why?!$"
+	.string "ARCHIE: Der er noget galt…\p"
+	.string "Den RØDE KUGLE skulle vække\n"
+	.string "og kontrollere KYOGRE…\p"
+	.string "Men… Hvorfor?\n"
+	.string "Hvorfor forsvandt KYOGRE?\p"
+	.string "Hvorfor? $"
 
 SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
-	.string "MAXIE: What have you wrought?\p"
-	.string "ARCHIE… You've finally awoken KYOGRE,\n"
-	.string "haven't you?\p"
-	.string "What will happen to the world if this\n"
-	.string "downpour continues for all eternity?\p"
-	.string "The world's landmass will drown in\n"
-	.string "the deepening sea…$"
+	.string "MAXIE: Hvad har du forvoldt?\p"
+	.string "ARCHIE... Du har endelig vækket KYOGRE,\n"
+	.string "ikke sandt?\p"
+	.string "Hvad vil der ske med verden, hvis denne\n"
+	.string "regnskylle fortsætter for evigt?\p"
+	.string "Verdens landmasser vil drukne i\n"
+	.string "den stigende hav...\p$"
 
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
-	.string "ARCHIE: W-what?!\n"
-	.string "Don't get all high and mighty with me!\p"
-	.string "Wasn't it you, TEAM MAGMA, that\n"
-	.string "infuriated GROUDON?\p"
-	.string "So long as I have this RED ORB,\n"
-	.string "I should be able to control KYOGRE…\p"
-	.string "I should be able to control it…$"
+	.string "ARCHIE: Hvad?!\n"
+	.string "Du skal ikke opføre dig hovmodigt overfor mig!\p"
+	.string "Var det ikke jer, TEAM MAGMA, der\n"
+	.string "fik GROUDON til at blive rasende?\p"
+	.string "Så længe jeg har denne RØDE ORB,\n"
+	.string "bør jeg kunne kontrollere KYOGRE…\p"
+	.string "Jeg bør kunne kontrollere det…$"
 
 SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
-	.string "MAXIE: We don't have the time to\n"
-	.string "argue about it here!\p"
-	.string "Get outside and see for yourself!\p"
-	.string "See if what you've wrought is the\n"
-	.string "world that we desired!$"
+	.string "MAXIE: Vi har ikke tid til\n"
+	.string "at diskutere det her!\p"
+	.string "Gå udenfor og se selv!\p"
+	.string "Se om det, du har skabt, er den\n"
+	.string "verden, vi ønskede!$"
 
 SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
-	.string "MAXIE: {PLAYER}, come on, you have\n"
-	.string "to get out of here, too!$"
+	.string "MAXIE: {PLAYER}, kom nu, du skal\n"
+	.string "også komme ud herfra!$"
+
