@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MossdeepCity_House1_MapScripts::
 	.byte 0
 
@@ -23,19 +25,21 @@ MossdeepCity_House1_EventScript_Woman::
 
 MossdeepCity_House1_Text_HmmYourPokemon:
 	.string "Hmm!\n"
-	.string "Your {STR_VAR_1}…$"
+	.string "Din {STR_VAR_1}…$"
 
 MossdeepCity_House1_Text_ItLikesXPokeblocks:
-	.string "It likes {STR_VAR_1}S,\n"
-	.string "doesn't it?\p"
-	.string "No, I'm positive of it! It definitely\n"
-	.string "likes {STR_VAR_1}S!$"
+	.string "Den kan lide {STR_VAR_1}ER,\n"
+	.string "ikke sandt?\p"
+	.string "Nej, jeg er helt sikker på det! Den kan\n"
+	.string "absolut lide {STR_VAR_1}ER!$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "It doesn't appear to like or dislike\n"
-	.string "any {POKEBLOCK}S.$"
+	.string "Det ser ikke ud til at kunne lide eller\n"
+	.string "lide af nogen {POKEBLOCK}S.$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
-	.string "My husband can tell what kind of\n"
-	.string "{POKEBLOCK}S a POKéMON likes at a glance.$"
+	.string "Min mand kan straks se, hvilken slags\n"
+	.string "{POKEBLOCK}S en POKéMON kan lide.$"
+
+
 
