@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 BattleFrontier_RankingHall_MapScripts::
 	.byte 0
 
@@ -101,34 +103,36 @@ BattleFrontier_RankingHall_EventScript_Boy::
 	end
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
-	.string "This is the RANKING HALL.\p"
-	.string "This is where we recognize the immortal\n"
-	.string "TRAINERS who left great records in\l"
-	.string "BATTLE FRONTIER events.$"
+	.string "Dette er RANGHALLLEN.\p"
+	.string "Her hylder vi de udødelige\n"
+	.string "TRENERE, der satte fantastiske rekorder\n"
+	.string "i SLÅSKAMPFRONTEN-begivenheder.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "BATTLE DOME, BATTLE PIKE,\n"
-	.string "and BATTLE FACTORY Records$"
+	.string "KAMPDOM, KAMPPIK,\n"
+	.string "og KAMPFABRIKENS optegnelser$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "BATTLE PALACE, BATTLE ARENA,\n"
-	.string "and BATTLE PYRAMID Records$"
+	.string "KAMP PALADS, KAMP ARENA,\n"
+	.string "og KAMP PYRAMIDE Optegnelser$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
-	.string "Hi, is your name on this list?$"
+.string "Hej, står dit navn på denne liste?$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
-	.string "Wow, that's super!\n"
-	.string "I'll have to try harder, too!$"
+	.string "Wow, det er super!\n"
+	.string "Jeg bliver nødt til at prøve hårdere, også!$"
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
-	.string "Oh, is that right?\p"
-	.string "If you saw your friend's name up here,\n"
-	.string "I bet it would make you work harder!$"
+	.string "Åh, er det sandt?\p"
+	.string "Hvis du så din vens navn heroppe,\n"
+	.string "Vil jeg vædde på, at det ville\nfå dig til at arbejde hårdere!$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
 	.string "Hmm…\n"
-	.string "My name's not up there…\p"
-	.string "Well, it's only natural since I haven't\n"
-	.string "taken any challenges yet.$"
+	.string "Mit navn er ikke deroppe…\p"
+	.string "Det er helt naturligt, da jeg endnu ikke\n"
+	.string "har taget udfordringer endnu.$"
+
+
 
