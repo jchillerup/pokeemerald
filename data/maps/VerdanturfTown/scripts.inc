@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_TWIN, 2
 
 VerdanturfTown_MapScripts::
@@ -64,64 +66,67 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 	end
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
-	.string "My papa told me.\p"
-	.string "He says this tunnel is full of\n"
-	.string "timid POKéMON.\p"
-	.string "They get all scared of loud noise and\n"
-	.string "make a big uproar.\p"
-	.string "So they had to stop the big tunnel\n"
-	.string "project.\p"
-	.string "But there's one man. He's trying to dig\n"
-	.string "the tunnel by himself!$"
+	.string "Min far fortalte mig.\p"
+	.string "Han siger, at denne tunnel er fuld af\n"
+	.string "bange POKéMON.\p"
+	.string "De bliver skræmte af høje lyde og\n"
+	.string "laver en stor ballade.\p"
+	.string "Så de måtte stoppe det store tunnel-\n"
+	.string "projekt.\p"
+	.string "Men der er en mand. Han prøver at\n"
+	.string "grave tunnelen selv!$"
 
 VerdanturfTown_Text_ManDugTunnelForLove:
-	.string "There was a man who dug a tunnel for\n"
-	.string "a lady he loved.\p"
-	.string "I don't really get it, but hey!$"
+	.string "Der var engang en mand, som gravede en\n"
+	.string "tunnel til en dame, han elskede.\p"
+	.string "Jeg fatter det ikke rigtigt, men hey!$"
 
 VerdanturfTown_Text_AirCleanHere:
-	.string "The way the winds blow, volcanic ash\n"
-	.string "is never blown in this direction.\p"
-	.string "The air is clean and delicious here.\n"
-	.string "Living here should do wonders for even\l"
-	.string "frail and sickly people.$"
+	.string "Vejret blæser, og vulkansk aske\n"
+	.string "blæses aldrig i denne retning.\p"
+	.string "Luften er ren og lækker her.\n"
+	.string "At bo her burde gavne selv\n"
+	.string "skrøbelige og sygelige personer.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "My POKéMON and I, we've been riding\n"
-	.string "a hot winning streak.\p"
-	.string "So I decided to make my BATTLE TENT\n"
-	.string "debut in this town.$"
+	.string "Min POKéMON og jeg har været på en\n"
+	.string "vindende stime.\p"
+	.string "Så jeg besluttede mig for at gøre min\n"
+	.string "debut i BATTLE TENTEN i denne by.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Did you see the cave next to the\n"
+	.string "Har du set hulen ved siden af\n"
 	.string "POKéMON MART?\p"
-	.string "There's a guy in there who's trying to\n"
-	.string "bust up boulders so he can bust out\l"
-	.string "through to the other side.\p"
-	.string "It'd be great if we could go through…\n"
-	.string "It'll make it easy to visit RUSTBORO.$"
+	.string "Der er en fyr derinde, der prøver at\n"
+	.string "knuse sten for at komme ud\l"
+	.string "på den anden side.\p"
+	.string "Det ville være dejligt, hvis vi kunne\n"
+	.string "gå igennem... Det gør det nemt at besøge RUSTBORO.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "That cave next to the POKéMON MART\n"
-	.string "is now a tunnel to the other side.\p"
-	.string "It's great--it's easy to go shop for\n"
-	.string "new DEVON products in RUSTBORO now.$"
+	.string "Den grotte ved siden af POKéMON-MARTE\n"
+	.string "er nu en tunnel til den anden side.\p"
+	.string "Det er fantastisk--det er nemt at\n"
+	.string "gå shoppe efter nye DEVON-produkter\n"
+	.string "i RUSTBORO nu.$"
 
 VerdanturfTown_Text_TownSign:
-	.string "VERDANTURF TOWN\p"
-	.string "“The windswept highlands with the\n"
-	.string "sweet fragrance of grass.”$"
+	.string "VERDANTURF BY\p"
+    .string "“De vindblæste højdedrag med den\n"
+    .string "søde duft af græs.”$"
 
 VerdanturfTown_Text_WandasHouse:
-	.string "WANDA'S HOUSE$"
+.string "WANDAS HUS$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "BATTLE TENT VERDANTURF SITE\n"
-	.string "“Feast Your Eyes on Battles!”$"
+	.string "KAMP TELT GRØNSKÆRM PLADS\n"
+	.string "“Mæsk dine øjne i kampe!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
 	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "“Forbinder RUSTBORO og VERDANTURF.\p"
+	.string "“Tunnelprojektet er blevet\n"
+	.string "aflyst.”$"
+
+
 
