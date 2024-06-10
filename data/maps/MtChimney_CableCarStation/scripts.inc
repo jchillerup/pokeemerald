@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 MtChimney_CableCarStation_MapScripts::
@@ -90,8 +92,10 @@ MtChimney_CableCarStation_Text_CableCarReadyGetOn:
 	.string "Would you like to be on it?$"
 
 MtChimney_CableCarStation_Text_StepThisWay:
-	.string "Please step this way.$"
+	.string "Kom venligst denne vej.$"
 
 MtChimney_CableCarStation_Text_RideAnotherTime:
-	.string "Please ride with us another time.$"
+	.string "Vil du ride med os en anden gang?$"
+
+
 
