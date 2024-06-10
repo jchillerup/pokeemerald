@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_BRINEY, 11
 .set LOCALID_WANDAS_BF_OUTSIDE, 21
 
@@ -352,122 +354,127 @@ Route116_EventScript_Johnson::
 	end
 
 Route116_Text_ScoundrelMadeOffWithPeeko:
-	.string "Ohhh, what am I to do?\p"
-	.string "We were on our walk, PEEKO and I, when\n"
-	.string "we were jumped by an odd thug…\p"
-	.string "The scoundrel made off with my\n"
-	.string "darling PEEKO!\p"
+	.string "Åhh, hvad skal jeg gøre?\p"
+	.string "Vi var ude at gå tur, PEEKO og jeg,\n"
+	.string "da vi blev overfaldet af en mærkelig bølle…\p"
+	.string "Den skurk stak af med min\n"
+	.string "elskede PEEKO!\p"
 	.string "Wrrrooooooaaaar! PEEKO!$"
 
 Route116_Text_WantToDigTunnel:
-	.string "Nnn… Roar!\p"
-	.string "I want to dig that tunnel!$"
+	.string "Nnn… Brøl!\p"
+	.string "Jeg vil grave den tunnel!$"
 
 Route116_Text_DiggingTunnelWhenGoonOrderedMeOut:
-	.string "Nnn… Roar!\n"
-	.string "What's going on?\p"
-	.string "I was digging the tunnel without any\n"
-	.string "tools when some goon ordered me out!\p"
-	.string "That tunnel's filled with POKéMON\n"
-	.string "that react badly to loud noises.\l"
-	.string "They could cause an uproar.\p"
-	.string "That's why we stopped using heavy\n"
-	.string "equipment for tunneling…\p"
-	.string "I'm worried that the goon will do\n"
-	.string "something stupid and startle the\l"
-	.string "POKéMON into an uproar.$"
+	.string "Nnn... Brøl!\n"
+	.string "Hvad foregår der?\p"
+	.string "Jeg gravede tunnelen uden nogen\n"
+	.string "redskaber, da nogle banditter beordrede\n"
+	.string "mig ud!\p"
+	.string "Den tunnel er fyldt med POKéMON,\n"
+	.string "der reagerer dårligt på høje\n"
+	.string "lyde.\l"
+	.string "De kunne skabe en oprør.\p"
+	.string "Derfor stoppede vi med at bruge tunge\n"
+	.string "maskiner til at grave...\p"
+	.string "Jeg er bekymret for, at banditten vil\n"
+	.string "gøre noget dumt og skræmme\n"
+	.string "POKéMON'erne ind i oprør.$"
 
 Route116_Text_GoonHightailedItOutOfTunnel:
 	.string "Nnn… Roar!\p"
-	.string "That goofy goon hightailed it out of\n"
-	.string "the tunnel! I can go back to digging!$"
+	.string "Den fjollede skurk stak af fra\n"
+	.string "tunnelen! Jeg kan gå tilbage til at grave!$"
 
 Route116_Text_ThankYouTokenOfAppreciation:
-	.string "Oh! It's you!\p"
-	.string "You're that person who not only helped\n"
-	.string "me in PETALBURG WOODS, but also got\l"
-	.string "back my stolen package and then even\l"
-	.string "graciously delivered it to SLATEPORT!\p"
-	.string "CAPT. STERN informed us that the\n"
-	.string "package arrived, too!\p"
-	.string "I thank you very, very much!\p"
-	.string "Why, if I were a rain cloud, I would\n"
-	.string "shower you with gratitude and hail\l"
-	.string "you as a hero!\p"
-	.string "For you, the most wonderful TRAINER,\n"
-	.string "I bear good news!\p"
-	.string "Recently, our company developed\n"
-	.string "a new kind of POKé BALL.\p"
-	.string "As a token of our appreciation, this\n"
-	.string "is our gift to our wonderful TRAINER!$"
+	.string "Åh! Det er dig!\p"
+	.string "Du er den person, der ikke kun hjalp\n"
+	.string "mig i PETALURSKOVEN, men også fik\l"
+	.string "min stjålne pakke tilbage og endda\n"
+	.string "venligt leverede den til SLATEPORT!\p"
+	.string "KAPT. STERN informerede os om, at\n"
+	.string "pakken også er ankommet!\p"
+	.string "Jeg takker dig meget, meget!\p"
+	.string "Hvis jeg var en regnsky, ville jeg\n"
+	.string "overøse dig med taknemmelighed og\l"
+	.string "udpege dig som en helt!\p"
+	.string "Til dig, den mest fantastiske TRÆNER,\n"
+	.string "har jeg gode nyheder!\p"
+	.string "For nylig udviklede vores virksomhed\n"
+	.string "en ny slags POKéBOLD.\p"
+	.string "Som en gestus af vores taknemmelighed,\n"
+	.string "er dette vores gave til vores\n"
+	.string "fantastiske TRÆNER!$"
 
 Route116_Text_NewBallAvailableAtMart:
-	.string "Our new POKé BALL will be available\n"
-	.string "at the POKéMON MART in RUSTBORO.\p"
-	.string "Please do try it out!\n"
-	.string "Thank you and bye-bye!$"
+	.string "Vores nye POKé BALL vil være tilgængelig\n"
+	.string "i POKéMON-MARKED i RUSTBORO.\p"
+	.string "Vær sød at prøve den!\n"
+	.string "Tak og farvel!$"
 
 Route116_Text_BagIsJamPacked:
-	.string "Your BAG is jam-packed.\n"
-	.string "I can't give you this REPEAT BALL.$"
+	.string "Din TASKE er propfyldt.\n"
+	.string "Jeg kan ikke give dig denne GENTAGELSESBOLD.$"
 
 Route116_Text_TokenOfAppreciation:
-	.string "As a token of our appreciation for\n"
-	.string "your delivering our package, I have\l"
-	.string "a gift of a new kind of POKé BALL\l"
-	.string "for our most wonderful TRAINER!$"
+	.string "Som en gestus af vores værdsættelse\n"
+	.string "for at levere vores pakke, har jeg\n"
+	.string "en gave i form af en ny type POKé\n"
+	.string "BALL til vores mest fantastiske TRÆNER!$"
 
 Route116_Text_CanYouHelpMeFindGlasses:
-	.string "I dropped my glasses…\n"
-	.string "Can you help me find them?$"
+	.string "Jeg tabte mine briller…\n"
+	.string "Kan du hjælpe mig med at finde dem?$"
 
 Route116_Text_MayISeeThoseGlasses:
-	.string "Those glasses!\n"
-	.string "May I see them for a second?$"
+	.string "De briller!\n"
+	.string "Må jeg se dem i et sekund?$"
 
 Route116_Text_NotWhatImLookingForMaybeTheyArentHere:
 	.string "Hmm…\n"
-	.string "These are BLACKGLASSES.\l"
-	.string "They're not what I'm looking for…\p"
-	.string "Maybe my glasses aren't around\n"
-	.string "here…$"
+	.string "Disse er SOLBRILLER.\l"
+	.string "Det er ikke det, jeg leder efter…\p"
+	.string "Måske er mine briller ikke her\n"
+	.string "et sted…$"
 
 Route116_Text_CantFindGlassesNotHere:
 	.string "Hmm…\n"
-	.string "I can't find my glasses anywhere…\l"
-	.string "Maybe they're not around here…$"
+	.string "Jeg kan ikke finde mine briller nogen steder…\l"
+	.string "Måske er de ikke her omkring…$"
 
 Route116_Text_NotWhatImLookingFor:
 	.string "Hmm…\n"
-	.string "These are BLACKGLASSES.\l"
-	.string "They're not what I'm looking for…$"
+	.string "Disse er SOLBRILLER.\p"
+	.string "De er ikke det, jeg leder efter…$" 
 
 Route116_Text_RouteSignRustboro:
-	.string "ROUTE 116\n"
-	.string "{LEFT_ARROW} RUSTBORO CITY$"
+	.string "RUTE 116\n"
+	.string "{LEFT_ARROW} RUSTBORO BY$"
 
 Route116_Text_RusturfTunnelSign:
-	.string "RUSTURF TUNNEL\n"
-	.string "“Linking RUSTBORO and VERDANTURF\p"
-	.string "“The tunnel project has been\n"
-	.string "canceled.”$"
+	.string "Rusturf-tunnelen\n"
+	.string "“Forbinder RUSTBORO og VERDANTURF.\p"
+	.string "“Tunnelprojektet er blevet\n"
+	.string "aflyst.”$"
 
 Route116_Text_TunnelersRestHouse:
-	.string "TUNNELER'S REST HOUSE$"
+.string "TUNNELGRAVERS HVILEHUS$"
 
 Route116_Text_TrainerTipsBToStopEvolution:
-	.string "TRAINER TIPS\p"
-	.string "If you want to stop a POKéMON from\n"
-	.string "evolving, press the B Button while it\l"
-	.string "is trying to evolve.\l"
-	.string "The startled POKéMON will stop.\p"
-	.string "This is called an evolution cancel.$"
+	.string "TRÆNER TIPS\p"
+	.string "Hvis du vil stoppe en POKéMON fra\n"
+	.string "at udvikle sig, så tryk på B-knappen\n"
+	.string "mens den forsøger at udvikle sig.\l"
+	.string "Den forskrækkede POKéMON vil stoppe.\p"
+	.string "Dette kaldes en evolutionsannullering.$"
 
 Route116_Text_TrainerTipsBagHasPockets:
-	.string "TRAINER TIPS\p"
-	.string "Your BAG has several POCKETS.\p"
-	.string "Items you obtain are automatically\n"
-	.string "placed in the appropriate POCKETS.\p"
-	.string "No TRAINER can afford to be without\n"
-	.string "a BAG of their own.$"
+	.string "TRÆNER TIPS\p"
+	.string "Din TASKE har flere LOMMER.\p"
+	.string "Genstande, du får fat i, bliver\n"
+	.string "automatisk placeret i de rette LOMMER.\p"
+	.string "Ingen TRÆNER kan undvære deres egen\n"
+	.string "TASKE.$"
+
+
 
