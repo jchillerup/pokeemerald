@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_OPPONENT_1, 1
 .set LOCALID_ATTENDANT_1, 2
 .set LOCALID_ATTENDANT_2, 3
@@ -445,63 +447,64 @@ BattleFrontier_BattleTowerMultiBattleRoom_Movement_WalkInPlaceLeft:
 	step_end
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet:
-	.string "The 2nd set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "Det 2. sæt af modstandere er næste.\n"
+	.string "Er du klar?\p$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet:
-	.string "The 3rd set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "Det 3. hold af modstandere er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet:
-	.string "The 4th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "Den 4. sæt modstandere er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet:
-	.string "The 5th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "Den 5. hold modstandere er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet:
-	.string "The 6th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "Den 6. hold af modstandere er næste.\n"
+	.string "Er du klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet:
-	.string "The 7th set of opponents is next.\n"
-	.string "Are you ready?$"
+	.string "Den 7. sæt modstandere er næste.\n"
+	.string "Er du klar?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext:
-	.string "The 2nd set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Den næste runde modstandere er klar nu.\n"
+	.string "Gør dit bedste!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext:
-	.string "The 3rd set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Den 3. sæt modstandere er næste.\n"
+	.string "Gør dit bedste!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext:
-	.string "The 4th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Den 4. gruppe af modstandere er næste.\n"
+	.string "Gør dit bedste!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext:
-	.string "The 5th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Den 5. sæt modstandere er næste.\n"
+	.string "Gør dit bedste!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext:
-	.string "The 6th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Den 6. sæt af modstandere er næste.\n"
+	.string "Gør dit bedste!$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext:
-	.string "The 7th set of opponents is next.\n"
-	.string "Do your best!$"
+	.string "Den 7. gruppe modstandere er næste.\n"
+	.string "Gør dit bedste!$"
 
 gText_LinkStandby3::
-	.string "Link standby…$"
+.string "Link klar…$"
 
 gText_YourPartnerHasRetired::
-	.string "Your partner has retired.\p"
-	.string "Your BATTLE ROOM challenge\n"
-	.string "will be canceled.$"
+	.string "Din partner er gået på pension.\p"\n
+	.string "Din KAMPLOKALE udfordring\n"
+	.string "vil blive aflyst.$"
+
