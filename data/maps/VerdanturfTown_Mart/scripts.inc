@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 VerdanturfTown_Mart_MapScripts::
 	.byte 0
 
@@ -41,20 +43,23 @@ VerdanturfTown_Mart_EventScript_Lass::
 	end
 
 VerdanturfTown_Mart_Text_XSpecialIsCrucial:
-	.string "For any POKéMON match, X SPECIAL\n"
-	.string "is crucial.\p"
-	.string "It jacks up the power of some moves\n"
-	.string "even though it's only for one battle.$"
+	.string "For enhver POKéMON kamp er X SPECIAL\n"
+	.string "afgørende.\p"
+	.string "Det øger styrken af visse angreb\n"
+	.string "selvom det kun gælder for én kamp.$"
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent:
-	.string "They don't seem to sell any winning\n"
-	.string "strategy guides for the BATTLE TENT…\p"
-	.string "It seems one must rely on one's\n"
-	.string "own wits after all…$"
+	.string "Det ser ud til, at de ikke sælger\n"
+	.string "nogen vinderstrategiguider til KAMP-\n"
+	.string "TALTET…\p"
+	.string "Det ser ud til, at man må stole på\n"
+	.string "sin egen kløgt alligevel…$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon:
-	.string "The NEST BALL works better on\n"
-	.string "weakened POKéMON.\p"
-	.string "VERDANTURF is the only place you can\n"
-	.string "buy it.$"
+	.string "NESTE BOLD virker bedre på\n"
+	.string "svækkede POKéMON.\p"
+	.string "VERDANTURF er det eneste sted, du kan\n"
+	.string "købe den.$"
+
+
 
