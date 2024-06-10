@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route111_OldLadysRestStop_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route111_OldLadysRestStop_OnTransition
 	.byte 0
@@ -29,22 +31,24 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 	end
 
 Route111_OldLadysRestStop_Text_RestUpHere:
-	.string "Oh, dear, dear.\n"
-	.string "Aren't your POKéMON exhausted?\p"
-	.string "If you'd like, rest up here.\n"
-	.string "That's a fine idea! You should do that.$"
+	.string "Åh, kære, kære.\n"
+	.string "Er dine POKéMON udmattede?\p"
+	.string "Hvis du vil, kan du hvile dig her.\n"
+	.string "Det er en god idé! Det burde du gøre.$"
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
-	.string "That's right.\n"
-	.string "Take your time and rest up!$"
+	.string "Det er korrekt.\n"
+	.string "Tag dig god tid og hvil dig!$"
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
-	.string "Oh, dear, dear.\n"
-	.string "Are your POKéMON still tired?\p"
-	.string "You should take another rest here.\n"
-	.string "That's a fine idea. You should do that.$"
+	.string "Åh, kære, kære.\n"
+	.string "Er dine POKéMON stadig trætte?\p"
+	.string "Du burde tage en anden pause her.\n"
+	.string "Det er en god idé. Du burde gøre det.$"
 
 Route111_OldLadysRestStop_Text_DontNeedToBeShy:
-	.string "Is that so?\n"
-	.string "You don't need to be shy about it.$"
+	.string "Er det sandt?\n"
+	.string "Du behøver ikke at være genert om det.$"
+
+
 
