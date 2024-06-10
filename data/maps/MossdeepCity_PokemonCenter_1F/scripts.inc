@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 MossdeepCity_PokemonCenter_1F_MapScripts::
@@ -26,13 +28,15 @@ MossdeepCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable:
-	.string "The GYM LEADERS in this town are\n"
-	.string "a formidable duo.\p"
-	.string "Their combination attacks are, like,\n"
-	.string "excellent and wow!$"
+	.string "GYM LEDERNE i denne by er\n"
+	.string "en formidabel duo.\p"
+	.string "Deres kombinationsangreb er sådan\n"
+	.string "lige til stor WOW!$"
 
 MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves:
-	.string "Depending on the special abilities of\n"
-	.string "POKéMON, some moves might change\l"
-	.string "or not work at all.$"
+	.string "Afhængigt af de specielle evner\n"
+	.string "hos POKéMON, kan nogle angreb\n"
+	.string "ændre sig eller slet ikke virke.$"
+
+
 
