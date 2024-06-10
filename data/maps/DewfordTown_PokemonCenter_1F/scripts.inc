@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 DewfordTown_PokemonCenter_1F_MapScripts::
@@ -27,13 +29,15 @@ DewfordTown_PokemonCenter_1F_EventScript_Man::
 	end
 
 DewfordTown_PokemonCenter_1F_Text_StoneCavern:
-	.string "There's a stone cavern at the edge\n"
-	.string "of town.\p"
-	.string "I've heard you can find rare stones\n"
-	.string "there.$"
+	.string "Der er en stenhule ved kanten\n"
+	.string "af byen.\p"
+	.string "Jeg har hørt, at man kan finde\n"
+	.string "sjældne sten der.$" 
 
 DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
-	.string "Even if a POKéMON faints and can't\n"
-	.string "battle, it can still use a move learned\l"
-	.string "from a HIDDEN MACHINE (HM).$"
+	.string "Selv hvis en POKéMON besvimer og ikke\n"
+	.string "kan kæmpe, kan den stadig bruge et\n"
+	.string "træk, den har lært fra en SKJULT MASKINE (HM).$"
+
+
 
