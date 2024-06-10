@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 AbandonedShip_Rooms_1F_MapScripts::
 	.byte 0
 
@@ -32,46 +34,48 @@ AbandonedShip_Rooms_1F_EventScript_ThaliaRematch::
 	end
 
 AbandonedShip_Rooms_1F_Text_TakingALookAround:
-	.string "Ships of this sort are rare, so I'm\n"
-	.string "taking a look around.\p"
+	.string "Den slags skibe er sjældne, så jeg\n"
+	.string "tager et kig rundt.\p"
 	.string "Hmhm…\n"
-	.string "There appear to be other cabins…$"
+	.string "Der ser ud til at være andre hytter…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaIntro:
-	.string "What on earth would compel you to\n"
-	.string "come here? You must be curious!$"
+	.string "Hvad i alverden skulle få dig til at\n"
+	.string "komme herhen? Du må være nysgerrig!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaDefeat:
-	.string "Not just curious, but also strong…$"
+	.string "Ikke bare nysgerrig, men også stærk…$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostBattle:
-	.string "The man next door…\p"
-	.string "He says he's just sightseeing,\n"
-	.string "but I don't know about that.$"
+	.string "Manden ved siden af…\p"
+	.string "Han siger, han bare kigger sig om,\n"
+	.string "men det ved jeg ikke helt om.$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRegister:
-	.string "You're such a tough TRAINER!\n"
-	.string "Let me register you as a memento!$"
+	.string "Du er en sej TRÆNER!\n"
+	.string "Lad mig registrere dig som et minde!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro:
-	.string "What on earth would compel you to\n"
-	.string "come back? You must really be curious!$"
+	.string "Hvad i al verden fik dig til at\n"
+	.string "komme tilbage? Du må virkelig være nysgerrig!$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat:
-	.string "Aren't you too strong?$"
+	.string "Er du ikke for stærk?$"
 
 AbandonedShip_Rooms_1F_Text_ThaliaPostRematch:
-	.string "I'm sure that man's up to something!\n"
-	.string "He just acts so suspiciously!$"
+	.string "Jeg er sikker på, at den mand er oppe på noget!\n"
+	.string "Han opfører sig bare så mistænkeligt!$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusIntro:
-	.string "Waaah!\n"
-	.string "I've been found! …Huh?$"
+	.string "Åh nej!\n"
+	.string "Jeg er blevet fundet! ...Hva'?$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusDefeat:
-	.string "Oh, you're not my mom.$"
+	.string "Åh, du er ikke min mor.$"
 
 AbandonedShip_Rooms_1F_Text_DemetriusPostBattle:
-	.string "I'm in trouble with my mom, so I ran.\n"
-	.string "Keep it a secret where I am!$"
+	.string "Jeg er i problemer med min mor, så jeg løb.\n"
+	.string "Hold det hemmeligt, hvor jeg er!$"
+
+
 
