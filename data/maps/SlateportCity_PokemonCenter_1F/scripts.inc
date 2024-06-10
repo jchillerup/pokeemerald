@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 SlateportCity_PokemonCenter_1F_MapScripts::
@@ -27,16 +29,18 @@ SlateportCity_PokemonCenter_1F_EventScript_Woman::
 	end
 
 SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
-	.string "Want a tip for battling?\p"
-	.string "I'd say it's raising different kinds\n"
-	.string "of POKéMON in a balanced manner.\p"
-	.string "It's no good to make just one\n"
-	.string "POKéMON strong.\p"
-	.string "If it has a type disadvantage,\n"
-	.string "it might not stand a chance.$"
+	.string "Vil du have et tip til kampene?\p"
+	.string "Jeg vil sige, at det er at træne forskellige\n"
+	.string "typer af POKéMON på en balanceret måde.\p"
+	.string "Det er ikke godt kun at gøre én\n"
+	.string "POKéMON stærk.\p"
+	.string "Hvis den har en typemæssig ulempe,\n"
+	.string "har den måske ikke en chance.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
-	.string "I trade POKéMON with my friends.\p"
-	.string "If a traded POKéMON is holding an\n"
-	.string "item, it makes me twice as happy!$"
+	.string "Jeg bytter POKéMON med mine venner.\p"
+	.string "Hvis en byttet POKéMON holder et\n"
+	.string "item, gør det mig dobbelt så glad!$"  
+
+
 
