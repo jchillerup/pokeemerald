@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_STEVEN, 1
 
 GraniteCave_StevensRoom_MapScripts::
@@ -82,40 +84,42 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 	step_end
 
 GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
-	.string "My name is STEVEN.\p"
-	.string "I'm interested in rare stones,\n"
-	.string "so I travel here and there.\p"
-	.string "Oh?\n"
-	.string "A LETTER for me?$"
+	.string "Mit navn er STEVEN.\p"
+	.string "Jeg er interesseret i sjældne sten,\n"
+	.string "så jeg rejser rundt.\p"
+	.string "Åh?\n"
+	.string "ET BREV til mig?$"
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
-	.string "STEVEN: Okay, thank you.\p"
-	.string "You went through all this trouble to\n"
-	.string "deliver that. I need to thank you.\p"
-	.string "Let me see…\n"
-	.string "I'll give you this TM.\p"
-	.string "It contains my favorite move,\n"
+	.string "STEVEN: Okay, tak.\p"
+	.string "Du gik igennem alt dette besvær for at\n"
+	.string "levere det. Jeg er nødt til at takke dig.\p"
+	.string "Lad mig se...\n"
+	.string "Jeg vil give dig denne TM.\p"
+	.string "Den indeholder mit yndlingsangreb,\n"
 	.string "STEEL WING.$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: Your POKéMON appear quite\n"
-	.string "capable.\p"
-	.string "If you keep training, you could even\n"
-	.string "become the CHAMPION of the POKéMON\l"
-	.string "LEAGUE one day. That's what I think.\p"
-	.string "I know, since we've gotten to know each\n"
-	.string "other, let's register one another in\l"
-	.string "our POKéNAVS.\p"
+	.string "STEVEN: Dine POKéMON virker ret\n"
+	.string "dygtige.\p"
+	.string "Hvis du bliver ved med at træne, kan du\n"
+	.string "endda blive MESTEREN af POKéMON-\n"
+	.string "LIGAEN en dag. Det er hvad jeg tror.\p"
+	.string "Jeg ved det, siden vi har lært hinanden\n"
+	.string "at kende, lad os registrere hinanden i\n"
+	.string "vores POKéNAVS.\p"
 	.string "… … … … … …$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
-	.string "Registered STEVEN\n"
-	.string "in the POKéNAV.$"
+	.string "Registreret STEVEN\n"
+	.string "i POKéNAV'en.$"
 
 GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
-	.string "Now, I've got to hurry along.$"
+	.string "Nu er jeg nødt til at skynde mig videre.$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Oh, your BAG is full…\n"
-	.string "That's too bad, then.$"
+	.string "Åh, din TASKE er fuld...\n"
+	.string "Det er ærgerligt. Så.$"
+
+
 
