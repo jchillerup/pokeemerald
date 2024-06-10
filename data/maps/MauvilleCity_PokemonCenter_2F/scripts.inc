@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MauvilleCity_PokemonCenter_2F_MapScripts::
 	map_script MAP_SCRIPT_ON_FRAME_TABLE, CableClub_OnFrame
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, CableClub_OnWarp
@@ -23,10 +25,12 @@ MauvilleCity_PokemonCenter_2F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_2F_Text_Youngster:
-	.string "Did you know that you can link battle\n"
-	.string "at the COLOSSEUM here?\p"
-	.string "They put up your record on the wall\n"
-	.string "for everyone to see.\p"
-	.string "It's embarrassing if you lose more\n"
-	.string "often than you win…$"
+	.string "Vidste du, at du kan kæmpe\n"
+	.string "i COLOSSEUM her?\p"
+	.string "De hænger din rekord op på væggen\n"
+	.string "så alle kan se den.\p"
+	.string "Det er pinligt, hvis du taber\n"
+	.string "mere end du vinder…$"
+
+
 
