@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_ATTENDANT, 1
 
 VerdanturfTown_BattleTentCorridor_MapScripts::
@@ -42,35 +44,35 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 	step_end
 
 
-@ Leftover text from when this was a Contest Hall in R/S
-@ Unused
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-	.string "Which CONTEST are you entering?\n"
-	.string "Want a piece of advice?\p"
-	.string "In any CONTEST, for example, a CUTE\n"
-	.string "CONTEST, I don't think they judge you\l"
-	.string "only on cuteness in the first round.\p"
-	.string "You need to work out ways for raising\n"
-	.string "POKéMON better.$"
+    .string "Hvilken KONKURRENCE vil du deltage i?\n"
+    .string "Vil du have et tip?\p"
+    .string "I enhver KONKURRENCE, f.eks. en SØD\n"
+    .string "KONKURRENCE, tror jeg ikke, de kun\l"
+    .string "bedømmer dig ud fra sødme i første runde.\p"
+    .string "Du skal finde måder at opdrage\n"
+    .string "POKéMON på bedre.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:
-	.string "I raised my POKéMON to be cute.\p"
-	.string "I found out you can put POKéMON in\n"
-	.string "a CONTEST for cuteness!\p"
-	.string "I'm so glad I raised my POKéMON with\n"
-	.string "loving care…$"
+	.string "Jeg har opdrættet mine POKéMON til at være søde.\p"
+	.string "Jeg fandt ud af, at man kan deltage\n"
+	.string "i en KONKURRENCE om sødme med POKéMON!\p"
+	.string "Jeg er så glad for, at jeg har opdrættet mine\n"
+	.string "POKéMON med kærlig omsorg...$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_MyMonRules:
-	.string "My POKéMON rules!\p"
-	.string "It's cool, tough yet beautiful, cute,\n"
-	.string "and smart. It's complete!\p"
-	.string "I may as well go for wins in every\n"
-	.string "single CONTEST.$"
+	.string "Mine POKéMON regler!\p"
+	.string "Det er sejt, stærkt men smukt, sødt,\n"
+	.string "og klogt. Det er komplet!\p"
+	.string "Jeg vil gå efter sejre i hver eneste\n"
+	.string "konkurrence.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_NormalRankStage:
-	.string "POKéMON CONTESTS\n"
-	.string "NORMAL RANK STAGE!$"
+	.string "POKéMON KONKURRENCER\n"
+	.string "NORMAL RANG TRIN!$" 
+
+
 
