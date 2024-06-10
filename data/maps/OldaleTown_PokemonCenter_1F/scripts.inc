@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 OldaleTown_PokemonCenter_1F_MapScripts::
@@ -40,25 +42,27 @@ OldaleTown_PokemonCenter_1F_EventScript_WirelessClubAvailable::
 	end
 
 OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC:
-	.string "That PC in the corner there is\n"
-	.string "for any POKéMON TRAINER to use.\p"
-	.string "Naturally, that means you're welcome\n"
-	.string "to use it, too.$"
+	.string "Den PC i hjørnet der er\n"
+	.string "til brug for enhver POKéMON TRAINER.\p"
+	.string "Selvfølgelig betyder det, at du også\n"
+	.string "er velkommen til at bruge den.$" 
 
 OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat:
-	.string "POKéMON CENTERS are great!\p"
-	.string "You can use their services as much\n"
-	.string "as you like, and it's all for free.\l"
-	.string "You never have to worry!$"
+	.string "POKéMON CENTRE er fantastisk!\p"
+	.string "Du kan bruge deres services så meget\n"
+	.string "du vil, og det er alt sammen gratis.\l"
+	.string "Du behøver aldrig bekymre dig!$"
 
 OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable:
-	.string "The POKéMON WIRELESS CLUB on\n"
-	.string "the second floor was built recently.\p"
-	.string "But they say they're still making\n"
-	.string "adjustments.$"
+	.string "POKéMON TRÅDLØSE KLUB på\n"
+	.string "anden sal blev bygget for nylig.\p"
+	.string "Men de siger, at de stadig laver\n"
+	.string "justeringer.$" 
 
 OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub:
-	.string "The POKéMON WIRELESS CLUB on\n"
-	.string "the second floor was built recently.\p"
-	.string "I traded POKéMON right away.$"
+	.string "POKéMON WIRELESS CLUB på\n"
+	.string "anden sal blev bygget for nylig.\p"
+	.string "Jeg byttede POKéMON med det samme.$"
+
+
 
