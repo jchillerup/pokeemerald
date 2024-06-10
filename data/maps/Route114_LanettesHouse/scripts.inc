@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route114_LanettesHouse_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route114_LanettesHouse_OnTransition
 	.byte 0
@@ -46,59 +48,62 @@ Route114_LanettesHouse_EventScript_PC::
 	end
 
 Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
-	.string "LANETTE: Oh! {PLAYER}{KUN}!\p"
-	.string "I'm sorry everything is so cluttered…\n"
-	.string "When I get engrossed in research,\l"
-	.string "things end up this way…\p"
-	.string "This is embarrassing… Please keep\n"
-	.string "this a secret in exchange for this.$"
+	.string "LANETTE: Åh! {PLAYER}{KUN}!\p"
+	.string "Undskyld, at alt er så rodet...\n"
+	.string "Når jeg fordyber mig i forskning,\l"
+	.string "ender tingene sådan her... \p"
+	.string "Det er pinligt... Lov mig at\n"
+	.string "holde det hemmeligt mod denne.$"
 
 Route114_LanettesHouse_Text_OrganizeYourBoxes:
-	.string "May I offer advice about my POKéMON\n"
-	.string "Storage System?\p"
-	.string "You should organize your BOXES so you\n"
-	.string "can tell which POKéMON are in them.$"
+	.string "Må jeg tilbyde råd om mit POKéMONs\n"
+	.string "Opbevaringssystem?\p"
+	.string "Du bør organisere dine KASSER, så du\n"
+	.string "kan se, hvilke POKéMON der er i dem.$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
-	.string "It's LANETTE's research notes.\n"
-	.string "There's information about BOXES.\p"
-	.string "Design BOXES to hold 30 POKéMON each.\p"
-	.string "Each TRAINER should be able to store\n"
-	.string "420 POKéMON on the PC system.\p"
-	.string "Keep reading?$"
+	.string "Det er LANETTE's forskningsnotater.\n"
+	.string "Der er information om KASSER.\p"
+	.string "Design KASSER til at holde 30 POKéMON hver.\p"
+	.string "Hver TRÆNER bør kunne opbevare\n"
+	.string "420 POKéMON i PC-systemet.\p"
+	.string "Vil du fortsætte med at læse?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage2:
-	.string "A marking system should be added to\n"
-	.string "make POKéMON easier to organize.\p"
-	.string "The name and wallpaper design of each\n"
-	.string "BOX will be made changeable to please\l"
-	.string "the stored POKéMON.\p"
-	.string "Keep reading?$"
+	.string "Et mærkningssystem bør tilføjes for\n"
+	.string "at gøre POKéMON lettere at organisere.\p"
+	.string "Navnet og tapetdesignet af hver\n"
+	.string "BOKS vil blive ændret for at glæde\l"
+	.string "de opbevarede POKéMON.\p"
+	.string "Vil du fortsætte med at læse?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage3:
-	.string "When storing a POKéMON, it should be\n"
-	.string "sent to the BOX inspected last.\p"
-	.string "If that BOX is full, the received\n"
-	.string "POKéMON is stored in the next BOX.\p"
-	.string "In other words, when a BOX is examined,\n"
-	.string "it is automatically selected as the BOX\l"
-	.string "to which POKéMON are sent.$"
+	.string "Når du gemmer en POKéMON, skal den\n"
+	.string "sendes til den sidst inspicerede BOKS.\p"
+	.string "Hvis den BOKS er fuld, bliver den\n"
+	.string "modtagne POKéMON gemt i den næste BOKS.\p"
+	.string "Med andre ord, når en BOKS undersøges,\n"
+	.string "bliver den automatisk valgt som den BOKS,\l"
+	.string "hvortil POKéMON sendes.$"
 
 Route114_LanettesHouse_Text_ClosedTheNotebook:
-	.string "{PLAYER} closed the notebook.$"
+.string "{PLAYER} lukkede notesbogen.$"
 
 Route114_LanettesHouse_Text_EmailFromBill:
-	.string "There's an e-mail from someone on\n"
-	.string "the PC.\p"
-	.string "“… … … … … … …\p"
-	.string "“Your Storage System offers more\n"
-	.string "convenience than mine.\p"
-	.string "“It has a lot of user-friendly features\n"
-	.string "that make it fun and useful, too.\p"
-	.string "“It makes me proud that I played\n"
-	.string "a part in its development.\p"
-	.string "“Here's hoping that you'll continue\n"
-	.string "research in Storage Systems.\p"
-	.string "“From BILL\n"
-	.string "… … … … … … … …”$"
+	.string "Der er en e-mail fra nogen på\n"
+	.string "computeren.\p"
+	.string "“... ... ... ... ... ...\p"
+	.string "“Dit Opbevaringssystem tilbyder\n"
+	.string "mere bekvemmelighed end mit.\p"
+	.string "“Det har en masse brugervenlige\n"
+	.string "funktioner, som gør det sjovt og\n"
+	.string "nyttigt, også.\p"
+	.string "“Det gør mig stolt, at jeg spillede\n"
+	.string "en rolle i dets udvikling.\p"
+	.string "“Håber, at du vil fortsætte\n"
+	.string "forskningen i Opbevaringssystemer.\p"
+	.string "“Fra BILL\n"
+	.string "... ... ... ... ... ... ... ...$"
+
+
 
