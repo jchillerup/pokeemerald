@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route106_MapScripts::
 	.byte 0
 
@@ -42,7 +44,9 @@ Route106_EventScript_Ned::
 	end
 
 Route106_Text_TrainerTips:
-	.string "TRAINER TIPS\p"
-	.string "Advice on catching POKéMON with a ROD:\n"
-	.string "Press the A Button if you get a bite.$"
+	.string "TRÆNER-TIPS\p"
+	.string "Råd til at fange POKéMON med et STANG:\n"
+	.string "Tryk på A-knappen, når du får en hug.\p$"
+
+
 
