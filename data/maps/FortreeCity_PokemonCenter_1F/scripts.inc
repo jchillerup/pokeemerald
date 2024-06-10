@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_NURSE, 1
 
 FortreeCity_PokemonCenter_1F_MapScripts::
@@ -30,28 +32,30 @@ FortreeCity_PokemonCenter_1F_EventScript_Boy::
 	end
 
 FortreeCity_PokemonCenter_1F_Text_GoToSafariZone:
-	.string "Listen, kid, are you working\n"
-	.string "on a POKéDEX?\p"
-	.string "Hmm… Go to the SAFARI ZONE.\n"
-	.string "That's my suggestion.$"
+	.string "Hør her, ven, arbejder du\n"
+	.string "på en POKéDEX?\p"
+	.string "Hmm… Gå til SAFARI ZONE.\n"
+	.string "Det er mit forslag.$"
 
 FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat:
-	.string "Have you done anything at\n"
-	.string "the RECORD CORNER?\p"
-	.string "It's pretty neat. It mixes and matches\n"
-	.string "the records of TRAINERS.\p"
-	.string "I don't know quite how it works,\n"
-	.string "but it's cool. It's exciting, even!$"
+	.string "Har du gjort noget ved\n"
+	.string "PLADEHJØRNET?\p"
+	.string "Det er ret sjovt. Det blander og matcher\n"
+	.string "TRÆNERES plader.\p"
+	.string "Jeg ved ikke helt, hvordan det virker,\n"
+	.string "men det er sejt. Det er spændende, endda!$"
 
 FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav:
-	.string "Oh, wow, you have a POKéNAV!\n"
-	.string "And it's just like mine!\p"
-	.string "Do you know about POKéNAV's\n"
+	.string "Åh, wow, du har en POKéNAV!\n"
+	.string "Og den ligner bare min!\p"
+	.string "Ved du noget om POKéNAV's\n"
 	.string "MATCH CALL system?\p"
-	.string "Access it, and you can chat with\n"
-	.string "registered TRAINERS anytime.\p"
-	.string "It also shows you which TRAINERS\n"
-	.string "want a rematch with you.\p"
-	.string "It's really nifty! Those DEVON guys\n"
-	.string "sure know what they're doing!$"
+	.string "Åbn det, og du kan chatte med\n"
+	.string "registrerede TRÆNERE når som helst.\p"
+	.string "Det viser også hvilke TRÆNERE\n"
+	.string "der gerne vil udfordre dig igen.\p"
+	.string "Det er virkelig smart! De DEVON-folk\n"
+	.string "ved virkelig, hvad de laver!$"
+
+
 
