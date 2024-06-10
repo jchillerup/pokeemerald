@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 RustboroCity_Mart_MapScripts::
 	.byte 0
 
@@ -69,20 +71,24 @@ RustboroCity_Mart_EventScript_BugCatcher::
 	end
 
 RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish:
-	.string "I'm buying some PARLYZ HEALS and\n"
+	.string "Jeg køber nogle PARLYZ HEALS og\n"
 	.string "ANTIDOTES.\p"
-	.string "Just in case I run into SHROOMISH\n"
-	.string "in PETALBURG WOODS.$"
+	.string "Bare for en sikkerheds skyld, hvis jeg\n"
+	.string "løber ind i SHROOMISH i PETALBURG\n"
+	.string "WOODS.$"
 
 RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
-	.string "My POKéMON evolved.\n"
-	.string "It has a lot of HP now.\p"
-	.string "I should buy SUPER POTIONS for it\n"
-	.string "instead of ordinary POTIONS.$"
+	.string "Min POKéMON udviklede sig.\n"
+	.string "Den har nu masser af HP.\p"
+	.string "Jeg burde købe SUPER POTIONS til den\n"
+	.string "i stedet for almindelige POTIONS.$"
 
 RustboroCity_Mart_Text_GettingEscapeRopeJustInCase:
-	.string "I'm getting an ESCAPE ROPE just in\n"
-	.string "case I get lost in a cave.\p"
-	.string "I just need to use it to get back to\n"
-	.string "the entrance.$"
+	.string "Jeg får en FLUGTREB bare til\n"
+	.string "sikkerheds skyld, hvis jeg går tabt i en\n"
+	.string "grotte.\p"
+	.string "Jeg skal bare bruge den for at komme tilbage\n"
+	.string "til indgangen.$"
+
+
 
