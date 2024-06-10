@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_DepartmentStore_2F_MapScripts::
 	.byte 0
 
@@ -67,14 +69,16 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	end
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-	.string "Learn to use items properly.\n"
-	.string "That's basic, really.$"
+	.string "Lær at bruge genstande ordentligt.\n"
+	.string "Det er grundlæggende, virkelig.$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
-	.string "My husband is waiting at home.\n"
-	.string "What would make a good gift for him?$"
+	.string "Min mand venter derhjemme.\n"
+	.string "Hvad ville være en god gave til ham?$"
 
 LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems:
-	.string "I'm leaving on a long journey soon.\n"
-	.string "I need to stock up on items.$"
+	.string "Jeg tager snart på en lang rejse.\n"
+	.string "Jeg skal have fyldt lageret op med ting.$"
+
+
 
