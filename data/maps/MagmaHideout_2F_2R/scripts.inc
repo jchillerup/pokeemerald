@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MagmaHideout_2F_2R_MapScripts::
 	.byte 0
 
@@ -22,57 +24,59 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "I don't have a bone to pick with you.\n"
-	.string "I'm just following orders!$"
+	.string "Jeg har ikke noget at udsætte på dig.\n"
+	.string "Jeg følger bare ordrer!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
-	.string "I may have lost, but…$"
+.string "Jeg har måske tabt, men…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "We dug up something beyond belief!\n"
-	.string "And, we got the BLUE ORB!\p"
-	.string "All that's left is for our leader to…\n"
+	.string "Vi har gravet noget op ud over tro!\n"
+	.string "Og vi fik DEN BLÅ ORB!\p"
+	.string "Alt hvad der nu mangler er for vores leder at…\n"
 	.string "Fufufu… Fwahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "I can't stand heat. Maybe I should've\n"
-	.string "joined TEAM AQUA instead…$"
+	.string "Jeg kan ikke klare varmen. Måske\n"
+	.string "skulle jeg have valgt TEAM AQUA i stedet...$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
-	.string "Yeah, I really may not be right for\n"
-	.string "TEAM MAGMA…$"
+	.string "Ja, jeg er måske virkelig ikke den rette for\n"
+	.string "TEAM MAGMA...$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-	.string "Don't you get lonely for the sea\n"
-	.string "being in a place like this?$"
+	.string "Bliver du ikke ensom efter havet\n"
+	.string "når du er et sted som dette?$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
-	.string "You can hear tremors here sometimes.\p"
-	.string "Could it be the volcano rattling?\n"
-	.string "Or is it GROU…\p"
-	.string "Whoops!\n"
-	.string "No, no, never mind!$"
+	.string "Nogle gange kan du høre rystelser her.\p"
+	.string "Kunne det være vulkanen, der skælver?\n"
+	.string "Eller er det GRUPPE…\p"
+	.string "Ups!\n"
+	.string "Nå, glem det!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-	.string "You're a fiery battler.\n"
-	.string "Just like a volcano!$"
+	.string "Du er en ildfuld kæmper.\n"
+	.string "Præcis som en vulkan!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-	.string "You just happened to win this time,\n"
-	.string "but that doesn't matter.\p"
-	.string "TEAM MAGMA's goal is about to be\n"
-	.string "reached!$"
+	.string "Du vandt tilfældigvis denne gang,\n"
+	.string "men det gør ikke noget.\p"
+	.string "Hold MAGMA er ved at nå deres\n"
+	.string "mål!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-	.string "One of our guys was freaking out that\n"
-	.string "he lost his MAGMA EMBLEM…\p"
-	.string "Wait a minute!\n"
-	.string "Was it you who found it?$"
+	.string "En af vores fyre var helt ude af den,\n"
+	.string "fordi han havde tabt sit MAGMA-EMBLEM…\p"
+	.string "Vent lige et øjeblik!\n"
+	.string "Var det dig, der fandt det?$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
-	.string "I'm having trouble believing this…$"
+	.string "Jeg har svært ved at tro på dette...$"
 
 MagmaHideout_2F_2R_Text_Grunt8PostBattle:
-	.string "I'm getting this feeling that our plan\n"
-	.string "is going to end in failure…$"
+	.string "Jeg får en fornemmelse af, at vores plan\n"
+	.string "endte i fiasko…$"
+
+
 
