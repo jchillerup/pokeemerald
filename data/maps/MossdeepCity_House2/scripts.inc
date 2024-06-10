@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WINGULL, 3
 
 MossdeepCity_House2_MapScripts::
@@ -54,17 +56,19 @@ MossdeepCity_House2_Movement_WingullExitEast:
 	step_end
 
 MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree:
-	.string "My little sister exchanges MAIL with\n"
-	.string "her boyfriend in FORTREE.\p"
-	.string "I don't envy her one bit at all.$"
+	.string "Min lille søster udveksler BREV med\n"
+	.string "sin kæreste i FORTREE.\p"
+	.string "Jeg misunder hende slet ikke.$"
 
 MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth:
-	.string "Even though I can't see my friend in\n"
-	.string "FORTREE, my POKéMON carries MAIL\l"
-	.string "back and forth for us.\p"
-	.string "I'm not lonesome, even though we're\n"
-	.string "apart.$"
+	.string "Selvom jeg ikke kan se min ven i\n"
+	.string "FORTREE, bærer min POKéMON POST\l"
+	.string "frem og tilbage for os.\p"
+	.string "Jeg er ikke ensom, selvom vi er\n"
+	.string "adskilt.$"
 
 MossdeepCity_House2_Text_Wingull:
-	.string "WINGULL: Pihyoh!$"
+.string "WINGULL: Pihyoh!$"
+
+
 
