@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WALLYS_DAD, 1
 
 PetalburgCity_WallysHouse_MapScripts::
@@ -68,70 +70,73 @@ PetalburgCity_WallysHouse_EventScript_ReceivedHMSurf::
 	end
 
 PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally:
-	.string "You're…\n"
-	.string "Ah, you must be {PLAYER}{KUN}, right?\p"
-	.string "Thank you for playing with WALLY a\n"
-	.string "little while ago.\p"
-	.string "He's been frail and sickly ever\n"
-	.string "since he was a baby.\p"
-	.string "We've sent him to stay with my relatives\n"
-	.string "in VERDANTURF TOWN for a while.\p"
-	.string "The air is a lot cleaner there\n"
-	.string "than it is here.\p"
-	.string "What's that? Where's WALLY?\n"
-	.string "He's already left, our WALLY.\p"
-	.string "I wonder where he could have\n"
-	.string "gotten by now?$"
+	.string "Du er…\n"
+	.string "Åh, du må være {PLAYER}{KUN}, ikke sandt?\p"
+	.string "Tak for at lege med WALLY for et\n"
+	.string "øjeblik siden.\p"
+	.string "Han har været skrøbelig og syg\n"
+	.string "lige siden han var en baby.\p"
+	.string "Vi har sendt ham til at bo hos mine\n"
+	.string "slægtninge i VERDANTURF BY et stykke tid.\p"
+	.string "Luften er meget renere der\n"
+	.string "end den er her.\p"
+	.string "Hvad siger du? Hvor er WALLY?\n"
+	.string "Han er allerede taget afsted, vores WALLY.\p"
+	.string "Jeg undrer mig over, hvor han mon\n"
+	.string "er taget hen nu?$"
 
 PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing:
-	.string "I wonder how our WALLY is doing?$"
+	.string "Jeg spekulerer på, hvordan vores WALLY har det?$"
 
 PetalburgCity_WallysHouse_Text_PleaseExcuseUs:
-	.string "{PLAYER}{KUN}! Please excuse us for\n"
-	.string "dragging you here this way.\p"
-	.string "But our WALLY's become very healthy\n"
-	.string "since he went to VERDANTURF TOWN.\p"
-	.string "We owe it all to you!\p"
-	.string "When WALLY left town, you helped\n"
-	.string "him catch a POKéMON, right?\p"
-	.string "I think that made WALLY really\n"
-	.string "happy.\p"
-	.string "Actually, not just WALLY.\n"
-	.string "It made me, his father, happy too.\p"
-	.string "Happy that he's gained such a great\n"
-	.string "friend as you.\p"
-	.string "This isn't a bribe or anything, but\n"
-	.string "I'd really like you to have this.$"
+	.string "{PLAYER}{KUN}! Undskyld os venligst for\n"
+	.string "at trække dig hertil på denne måde.\p"
+	.string "Men vores WALLY er blevet meget\n"
+	.string "sund siden han tog til VERDANTURF BY.\p"
+	.string "Vi skylder det hele til dig!\p"
+	.string "Da WALLY forlod byen, hjalp du\n"
+	.string "ham med at fange en POKéMON, ikke sandt?\p"
+	.string "Jeg tror det gjorde WALLY virkelig\n"
+	.string "lykkelig.\p"
+	.string "Faktisk ikke kun WALLY.\n"
+	.string "Det gjorde mig, hans far, også glad.\p"
+	.string "Glad for at han har fået sådan en\n"
+	.string "fantastisk ven som dig.\p"
+	.string "Dette er ikke en bestikkelse eller noget,\n"
+	.string "men jeg vil virkelig gerne give dig dette.$"
 
 PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces:
-	.string "If your POKéMON can SURF, you'll be\n"
-	.string "able to go to all sorts of places.$"
+	.string "Hvis din POKéMON kan SURFE, kan du\n"
+	.string "komme til alle mulige steder.$"
 
 PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon:
-	.string "WALLY's coming home soon.\n"
-	.string "I'm looking forward to that.$"
+	.string "WALLY kommer hjem snart.\n"
+	.string "Jeg glæder mig til det.$"
 
 PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity:
-	.string "Oh? You met WALLY in\n"
+	.string "Nå? Mødte du WALLY i\n"
 	.string "EVER GRANDE CITY?\p"
-	.string "Oh, {PLAYER}{KUN}, don't be silly.\p"
-	.string "He may have gotten healthy, but he\n"
-	.string "can't go somewhere far away like\l"
-	.string "that all by himself.$"
+	.string "Åh, {PLAYER}{KUN}, vær nu ikke fjollet.\p"
+	.string "Han er måske blevet rask, men han\n"
+	.string "kan ikke tage sådan en lang tur\l"
+	.string "helt alene.$"
 
 PetalburgCity_WallysHouse_Text_WallyWasReallyHappy:
-	.string "WALLY was really happy when he told\n"
-	.string "us that he caught a POKéMON.\p"
-	.string "It's been ages since I've seen him\n"
-	.string "smile like that.$"
+	.string "WALLY var virkelig glad, da han\n"
+	.string "fortalte os, at han havde fanget en\n"
+	.string "POKéMON.\p"
+	.string "Det er evigheder siden, jeg har set\n"
+	.string "ham smile sådan.$"
 
 PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling:
-	.string "I want you to keep this a secret\n"
-	.string "from my husband…\p"
-	.string "But our WALLY left VERDANTURF TOWN\n"
-	.string "without telling anyone.\p"
-	.string "You know, WALLY is frail, but\n"
-	.string "he's surprisingly strong-willed.\p"
-	.string "I'm sure that he'll come back safe\n"
-	.string "and sound one day!$"
+	.string "Jeg vil have dig til at holde dette\n"
+	.string "hemmeligt for min mand…\p"
+	.string "Men vores WALLY forlod VERDANTURF\n   TOWN\n"
+	.string "uden at fortælle nogen.\p"
+	.string "Du ved, WALLY er skrøbelig, men\n"
+	.string "han er overraskende viljestærk.\p"
+	.string "Jeg er sikker på, at han en dag\n"
+	.string "vil vende tilbage i god behold!$"
+
+
 
