@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route110_TrickHousePuzzle6_MapScripts::
 	map_script MAP_SCRIPT_ON_TRANSITION, Route110_TrickHousePuzzle6_OnTransition
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, Route110_TrickHousePuzzle6_OnWarp
@@ -43,45 +45,47 @@ Route110_TrickHousePuzzle6_EventScript_Sebastian::
 	end
 
 Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} wrote down the secret code\n"
-	.string "on the door.\p"
-	.string "“TRICK MASTER is my life.”\n"
+	.string "{PLAYER} skrev den hemmelige kode\n"
+	.string "på døren.\p"
+	.string "“TRICK MASTER er mit liv.”\n"
 	.string "… … … … … … … …\p"
-	.string "The lock clicked open!$"
+	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "When I heard there was a strange\n"
-	.string "house, I had to check it out.$"
+	.string "Da jeg hørte, at der var et mærkeligt\n"
+	.string "hus, var jeg nødt til at undersøge det.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
-	.string "I've discovered a tough TRAINER!$"
+.string "Jeg har opdaget en sej TRÆNER!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "I'm sure having a good time checking\n"
-	.string "this place out.\p"
-	.string "It's a challenge I've found worth\n"
-	.string "repeating!$"
+	.string "Jeg er sikker på, at jeg har det sjovt\n"
+	.string "med at udforske dette sted.\p"
+	.string "Det er en udfordring, som jeg har fundet\n"
+	.string "værd at gentage!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Maybe I could get my BIRD POKéMON\n"
-	.string "to fly over the wall…$"
+	.string "Måske kan jeg få min FUGL\n"
+	.string "POKéMON til at flyve over muren…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
-	.string "Gwaaah! I blew it!$"
+.string "Gwaaah! Jeg floppede!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Ehehehe… I guess I lost because\n"
-	.string "I was trying to cheat.$"
+	.string "Hihihi... Jeg gætter på, at jeg tabte,\n"
+	.string "fordi jeg prøvede at snyde.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "I'm getting dizzy from these rotating\n"
-	.string "doors…$"
+	.string "Jeg bliver svimmel af disse roterende\n"
+	.string "døre…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Everything's spinning around and\n"
-	.string "around. I can't take this anymore…$"
+	.string "Alting snurrer rundt og\n"
+	.string "rundt. Jeg kan ikke klare det her mere...$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "You don't seem to be affected at all.\n"
-	.string "Or do you have your poker face on?$"
+	.string "Du virker overhovedet ikke påvirket.\n"
+	.string "Eller har du bare din poker face på?$"
+
+
 
