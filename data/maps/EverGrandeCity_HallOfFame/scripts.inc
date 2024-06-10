@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_WALLACE, 1
 
 EverGrandeCity_HallOfFame_MapScripts::
@@ -84,16 +86,18 @@ EverGrandeCity_HallOfFame_Movement_WalkIntoHallOfFame2:
 	step_end
 
 EverGrandeCity_HallOfFame_Text_HereWeHonorLeagueChampions:
-	.string "WALLACE: This room…\p"
-	.string "This is where we keep records of\n"
-	.string "POKéMON that prevailed through\l"
-	.string "harsh battles.\p"
-	.string "It is here that the LEAGUE CHAMPIONS\n"
-	.string "are honored.$"
+	.string "WALLACE: Dette rum...\p"
+	.string "Det her er, hvor vi opbevarer\n"
+	.string "optegnelser om POKéMON, der har\n"
+	.string "gennemgået barske kampe.\p"
+	.string "Det er her, at LIGAMESTRENE\n"
+	.string "bliver hyldet.$"
 
 EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames:
-	.string "WALLACE: Come on, let's record your\n"
-	.string "name as a TRAINER who triumphed over\l"
-	.string "the POKéMON LEAGUE, and the names of\l"
-	.string "the partners who battled with you.$"
+	.string "WALLACE: Kom nu, lad os indspille din\n"
+	.string "titel som EN TRÆNER, der sejrede over\l"
+	.string "POKéMON-LIGAEN, og navnene på de\l"
+	.string "medspillere, der kæmpede med dig.$"
+
+
 
