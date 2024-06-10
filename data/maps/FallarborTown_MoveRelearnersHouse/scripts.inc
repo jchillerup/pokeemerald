@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_MOVE_RELEARNER, 1
 
 FallarborTown_MoveRelearnersHouse_MapScripts::
@@ -59,41 +61,43 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale::
 	end
 
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
-	.string "I'm the MOVE TUTOR.\p"
-	.string "I know all the moves that POKéMON\n"
-	.string "learn--every one of them--and I can\l"
-	.string "teach POKéMON those moves.\p"
-	.string "I can teach a move to a POKéMON\n"
-	.string "of yours if you'd like.\p"
-	.string "I'll do it for a HEART SCALE.\n"
-	.string "I'm collecting those now.$"
+	.string "Jeg er BEVÆGELSESLÆREREN.\p"
+	.string "Jeg kender alle de bevægelser, som\n"
+	.string "POKéMON lærer--hver enkelt af dem--og\n"
+	.string "jeg kan lære dine POKéMON de bevægelser.\p"
+	.string "Jeg kan lære en bevægelse til et af\n"
+	.string "dine POKéMON, hvis du ønsker det.\p"
+	.string "Jeg vil gøre det for en HJERTESTEN.\n"
+	.string "Jeg samler på dem nu.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
-	.string "Oh! That's it! That's an honest to\n"
-	.string "goodness HEART SCALE!\p"
-	.string "Let me guess, you want me to teach\n"
-	.string "a move?$"
+	.string "Åh! Det er det! Det er en ærlig og\p"
+	.string "godhjertet HJERTESKALA!\p"
+	.string " Lad mig gætte, du vil have mig til\n"
+	.string "at lære en bevægelse?$"
 
 FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon:
-	.string "Which POKéMON needs tutoring?$"
+.string "Hvilken POKéMON har brug for hjælp?\p$"
 
 FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
-	.string "Which move should I teach?$"
+	.string "Hvilket træk skal jeg lære?$"
 
 FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
-	.string "Sorry…\p"
-	.string "It doesn't appear as if I have any move\n"
-	.string "I can teach that POKéMON.$"
+	.string "Undskyld…\p"
+	.string "Det ser ikke ud til, at jeg har nogen træk\n"
+	.string "Jeg kan lære den POKéMON.$"
 
 FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
-	.string "{PLAYER} handed over one HEART SCALE\n"
-	.string "in exchange.$"
+	.string "{PLAYER} gav en HJERTESKALA\n"
+	.string "i bytte.$"
 
 FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
-	.string "If your POKéMON need to learn a move,\n"
-	.string "come back with a HEART SCALE.$"
+	.string "Hvis dine POKéMON skal lære en move,\n"
+	.string "kom tilbage med en HJERTESKALA.$"
 
 FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg:
-	.string "Hunh? There isn't a single move that\n"
-	.string "I can teach an EGG.$"
+	.string "Hvad? Der er ikke en eneste bevægelse,\n"
+	.string "jeg kan lære et ÆG.$"
+
+
 
