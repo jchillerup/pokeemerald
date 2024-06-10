@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 PetalburgCity_Mart_MapScripts::
 	.byte 0
 
@@ -67,20 +69,21 @@ PetalburgCity_Mart_EventScript_Man::
 	end
 
 PetalburgCity_Mart_Text_WeakWillGrowStronger:
-	.string "Even if a POKéMON is weak now,\n"
-	.string "it will grow stronger.\p"
-	.string "The most important thing is love!\n"
-	.string "Love for your POKéMON!$"
+	.string "Selvom en POKéMON er svag nu,\n"
+	.string "vil den blive stærkere.\p"
+	.string "Det vigtigste er kærlighed!\n"
+	.string "Kærlighed til din POKéMON!$"
 
 PetalburgCity_Mart_Text_RepelIsUseful:
-	.string "Do you use REPEL?\n"
-	.string "It keeps POKéMON away, so it's\l"
-	.string "useful when you're in a hurry.$"
+	.string "Bruger du REPEL?\n"
+	.string "Det holder POKéMON væk, så det er\n"
+	.string "nyttigt, når du har travlt.$"
 
 PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou:
-	.string "Do you have any ANTIDOTES with\n"
-	.string "you?\p"
-	.string "If you walk around with a poisoned\n"
-	.string "POKéMON, it will lose HP until it faints.\l"
-	.string "Take some ANTIDOTES with you.$"
+	.string "Har du nogen ANTIDOTER med dig?\p"
+	.string "Hvis du går rundt med en forgiftet\n"
+	.string "POKéMON, vil den miste HP indtil den besvimer.\l"
+	.string "Tag nogle ANTIDOTER med dig.$"
+
+
 
