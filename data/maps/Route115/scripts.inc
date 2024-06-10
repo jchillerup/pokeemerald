@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route115_MapScripts::
 	map_script MAP_SCRIPT_ON_LOAD, Route115_OnLoad
 	map_script MAP_SCRIPT_ON_TRANSITION, Route115_OnTransition
@@ -130,16 +132,18 @@ Route115_EventScript_Marlene::
 	end
 
 Route115_Text_NeverKnowWhenCavePokemonWillAppear:
-	.string "Exploring a cave isn't like walking\n"
-	.string "on a road.\p"
-	.string "You never know when wild POKéMON will\n"
-	.string "appear. It's full of suspense.$"
+	.string "At udforske en hule er ikke som at gå\n"
+	.string "på en vej.\p"
+	.string "Du ved aldrig, hvornår vilde POKéMON vil\n"
+	.string "vise sig. Det er fyldt med spænding.$"
 
 Route115_Text_RouteSignRustboro:
-	.string "ROUTE 115\n"
+	.string "RUTE 115\n"
 	.string "{DOWN_ARROW} RUSTBORO CITY$"
 
 Route115_Text_MeteorFallsSign:
 	.string "METEOR FALLS\n"
-	.string "FALLARBOR TOWN THROUGH HERE$"
+	.string "FALLARBOR TOWN GENNEM HER$"
+
+
 
