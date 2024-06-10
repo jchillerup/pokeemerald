@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_House1_MapScripts::
 	.byte 0
 
@@ -16,11 +18,13 @@ LilycoveCity_House1_EventScript_Kecleon::
 	end
 
 LilycoveCity_House1_Text_PokemonPartnersNotTools:
-	.string "POKéMON are partners to people.\n"
-	.string "They aren't our tools.\p"
-	.string "Unfortunately, there are some people\n"
-	.string "who fail to understand that…$"
+	.string "POKéMON er partnere til folk.\n"
+	.string "De er ikke vores redskaber.\p"
+	.string "Desværre er der nogle mennesker\n"
+	.string "der ikke forstår det…$"
 
 LilycoveCity_House1_Text_Kecleon:
-	.string "KECLEON: Ruroro?$"
+.string "KECLEON: Ruroro?$"
+
+
 
