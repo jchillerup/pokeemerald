@@ -204,7 +204,7 @@ BerryBlender_Text_AllPlayersArrived:
 	.string "{STR_VAR_3} ankom.$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "Du har ingen BÆR.\n"\n
+	.string "Du har ingen BÆR.\n"
 	.string "BÆRBLÆNDEREN kan ikke bruges.$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:

@@ -83,7 +83,7 @@ SafariZone_Text_TimesUp:
 	.string "Dit SAFARI-spil er slut.$"
 
 SafariZone_Text_OutOfBalls:
-	.string "Du er løbet tør for SAFARI-BOLDE.\n"\n
+	.string "Du er løbet tør for SAFARI-BOLDE.\n"
 	.string "Dit SAFARI-spil er slut.$"
 
 SafariZone_Text_PlacePokeblockOnFeeder:

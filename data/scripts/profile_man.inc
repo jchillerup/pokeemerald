@@ -96,7 +96,7 @@ ProfileMan_EventScript_Ret::
 ProfileMan_Text_CollectTrainerProfiles:
 	.string "Hej der, TRÆNER!\n"
 	.string "Du har et fantastisk smil der.\p"
-	.string "Jeg har en hobby – at samle profilerne\n"
+	.string "Jeg har en hobby--at samle profilerne\n"
 	.string "af POKéMON TRÆNERE.$"
 
 ProfileMan_Text_MayISeeYourProfile:

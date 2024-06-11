@@ -1501,7 +1501,7 @@ LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize:
 	.string "Vær så god, følg med!\n$"
 
 LilycoveCity_ContestLobby_Text_ComeBackForPrizeLater:
-	.string "Kom tilbage for din præmie\n" \n
+	.string "Kom tilbage for din præmie\n"
 	.string "senere.$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollows:
@@ -1608,9 +1608,6 @@ LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime:
 	.string "Vi håber, at du vil deltage en anden\n"
 	.string "gang.$"
-
-@ Unused
-"Lyst til at deltage i en KONKURRENCE?$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_Explain4PlayerContest:

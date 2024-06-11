@@ -359,8 +359,7 @@ Route117_PokemonDayCare_Text_NotEnoughMoney:
 
 Route117_PokemonDayCare_Text_TakeOtherOneBackToo:
 	.string "Vil du også tage den anden med,\n"
-    "\n"
-    "så?$"
+    .string "så?$"
 
 Route117_PokemonDayCare_Text_ComeAgain:
 	.string "Fint.\n"

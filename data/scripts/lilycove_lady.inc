@@ -642,7 +642,8 @@ LilycoveCity_PokemonCenter_1F_Text_YoureGoingToQuit:
 	.string "Vil du stoppe?$"
 
 LilycoveCity_PokemonCenter_1F_Text_TakeTheQuizAnotherTime:
-	.string "Tag quizzen en anden\n\t\t\t\tgang!\n$""
+	.string "Tag quizzen en anden\n"
+	.string "gang!\n$"
 
 LilycoveCity_PokemonCenter_1F_Text_YouGotItRight:
 	.string "Du er fantastisk! Du har fået det rigtigt!\n"
@@ -790,4 +791,3 @@ LilycoveCity_PokemonCenter_1F_Text_Pikachu:
 
 LilycoveCity_PokemonCenter_1F_Text_Skitty:
 	.string "{STR_VAR_1}: Umyaaaan!$"
-
