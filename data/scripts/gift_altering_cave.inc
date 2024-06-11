@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_AlteringCave::
 	setvaddress MysteryGiftScript_AlteringCave
 	addvar VAR_ALTERING_CAVE_WILD_SET, 1
@@ -13,11 +15,12 @@ MysteryGiftScript_AlteringCave_:
 	end
 
 sText_MysteryGiftAlteringCave:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "There appears to be a rumor about\n"
-	.string "rare POKéMON sightings.\p"
-	.string "The sightings reportedly came from\n"
-	.string "the ALTERING CAVE on ROUTE 103.\p"
-	.string "Perhaps it would be worthwhile for\n"
-	.string "you to investigate this rumor.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GIFT Systemet.\p"
+	.string "Der ser ud til at være et rygte om\n"
+	.string "sjældne POKéMON-syn.\p"
+	.string "Rygtet siger, at de blev set ved\n"
+	.string "the ALTERING CAVE på ROUTE 103.\p"
+	.string "Måske ville det være værd at\n"
+	.string "undersøge dette rygte.$"
+

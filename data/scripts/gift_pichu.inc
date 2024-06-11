@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_SurfPichu::
 	setvaddress MysteryGiftScript_SurfPichu
 	vgoto_if_unset FLAG_MYSTERY_GIFT_DONE, SurfPichu_GiveIfPossible
@@ -59,14 +61,15 @@ SurfPichu_Slot5:
 	return
 
 sText_MysteryGiftEgg:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "From the POKéMON CENTER we\n"
-	.string "have a gift--a POKéMON EGG!\p"
-	.string "Please raise it with love and\n"
-	.string "kindness.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "Fra POKéMON CENTRET har vi\n"
+	.string "en gave - et POKéMON ÆG!\p"
+	.string "Vær venlig at opfostre det med\n"
+	.string "kærlighed og venlighed.$"
 
 sText_FullParty:
-	.string "Oh, your party appears to be full.\p"
-	.string "Please come see me after storing\n"
-	.string "a POKéMON on a PC.$"
+	.string "Åh, dit hold ser ud til at være fuldt.\p"
+	.string "Kom venligst og se mig efter at have\n"
+	.string "opbevaret en POKéMON på en PC.$"
+

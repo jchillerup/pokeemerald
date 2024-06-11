@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_StampCard::
 	setvaddress MysteryGiftScript_StampCard
 	setorcopyvar VAR_RESULT, GET_MAX_STAMPS
@@ -15,7 +17,8 @@ MysteryGiftScript_StampCard::
 	end
 
 sText_MysteryGiftStampCard:
-	.string "Thank you for using the STAMP CARD\n"
-	.string "System.\p"
-	.string "You have {STR_VAR_1} more to collect to\n"
-	.string "fill your STAMP CARD.$"
+	.string "Tak fordi du bruger STAMP CARD\n"
+	.string "Systemet.\p"
+	.string "Du mangler at samle {STR_VAR_1} flere\n"
+	.string "for at fylde dit STAMP CARD.$"
+

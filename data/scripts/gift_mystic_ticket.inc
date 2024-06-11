@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_MysticTicket::
 	setvaddress MysteryGiftScript_MysticTicket
 	lock
@@ -36,23 +38,24 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicketForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "You must be {PLAYER}.\n"
-	.string "There is a ticket here for you.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "Du må være {PLAYER}.\n"
+	.string "Der er en billet her til dig.$"
 
 sText_MysticTicketUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Det ser ud til at være til brug ved\n"
+	.string "LILYCOVE CITY havn.\p"
+	.string "Hvorfor ikke prøve det og se hvad\n"
+	.string "det handler om?$"
 
 sText_MysticTicketThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE System.$"
 
 sText_MysticTicketBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Åh, undskyld, {PLAYER}.\n"
+	.string "Din TASCHEs NØGLEGENSTANDE-LOMME er fuld.\p"
+	.string "Gem venligst noget på din PC,\n"
+	.string "og kom tilbage for dette.$"
+

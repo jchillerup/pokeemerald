@@ -1,37 +1,41 @@
+@ TRANSLATED
+
 Route111_Text_MakingRoomUseTMToMakeYourOwn:
-	.string "What's that?\n"
-	.string "What am I doing?\p"
-	.string "I'm thinking about making my own room\n"
-	.string "here using a POKéMON move.\p"
-	.string "I know! I'll give you this TM.\n"
-	.string "Will you use it to make your own room?$"
+	.string "Hvad er det?\n"
+	.string "Hvad laver jeg?\p"
+	.string "Jeg overvejer at lave mit eget rum\n"
+	.string "her ved at bruge en POKéMON\n"
+	.string "move.\p"
+	.string "Jeg ved det! Jeg giver dig denne TM.\n"
+	.string "Vil du bruge den til at lave dit\n"
+	.string "eget rum?$"
 
 Route111_Text_ExplainSecretPower:
-	.string "Find a big tree that looks like it might\n"
-	.string "drop some vines.\p"
-	.string "Use SECRET POWER in front of the tree.\n"
-	.string "Some vines should get free and drop\l"
-	.string "down, so you can climb the tree.\p"
-	.string "You'll find a lot of space for putting\n"
-	.string "your favorite things.\p"
-	.string "It'll be your own secret room…\n"
-	.string "A SECRET BASE!\p"
-	.string "You should make one, too.\p"
-	.string "Another thing, you don't always have\n"
-	.string "to make your SECRET BASE in a tree.\p"
-	.string "Try using SECRET POWER on rock walls\n"
-	.string "that have small indents in them.\p"
-	.string "I'm going to look for other places, too.\n"
-	.string "Okay, bye!$"
+	.string "Find en stor træ, som ser ud til at kunne\n"
+	.string "tabe nogle slyngplanter.\p"
+	.string "Brug HEMMELIG KRAFT foran træet.\n"
+	.string "Nogle slyngplanter burde løsne sig og\n"
+	.string "falde ned, så du kan klatre i træet.\p"
+	.string "Du vil finde masser af plads til at\n"
+	.string "sætte dine yndlingsting.\p"
+	.string "Det vil være dit eget hemmelige rum…\n"
+	.string "EN HEMMELIG BASE!\p"
+	.string "Du burde også lave en.\p"
+	.string "En anden ting, du behøver ikke altid\n"
+	.string "lave din HEMMELIGE BASE i et træ.\p"
+	.string "Prøv at bruge HEMMELIG KRAFT på\n"
+	.string "klippevægge, der har små fordybninger.\p"
+	.string "Jeg vil også lede efter andre steder.\n"
+	.string "Okay, farvel!$" 
 
 Route111_Text_DontWantThis:
-	.string "Oh, you don't want this?\n"
-	.string "If you change your mind, tell me, okay?$"
+	.string "Åh, vil du ikke have dette?\n"
+	.string "Hvis du skifter mening, så sig det til mig, okay?$"
 
 Route111_Text_DontHaveAnyRoom:
-	.string "Oh, you don't have any room for this.\p"
-	.string "I'll hold on to it, so come back for it\n"
-	.string "another time, okay?$"
+	.string "Åh, du har ikke plads til dette.\p"
+	.string "Jeg vil passe på det, så kom tilbage\n"
+	.string "for det en anden gang, okay?$"
 
 Route111_EventScript_SecretPowerMan::
 	lock
@@ -98,3 +102,5 @@ Route111_Movement_SecretPowerManExitNorth:
 	walk_down
 	walk_down
 	step_end
+
+

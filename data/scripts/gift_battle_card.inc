@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_BattleCard::
 	setvaddress MysteryGiftScript_BattleCard
 	vgoto_if_set FLAG_MYSTERY_GIFT_DONE, MysteryGiftScript_BattleCardInfo
@@ -24,22 +26,23 @@ MysteryGiftScript_BattleCardInfo:
 	end
 
 sText_MysteryGiftBattleCountCard:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Your BATTLE COUNT CARD keeps\n"
-	.string "track of your battle record against\l"
-	.string "TRAINERS with the same CARD.\p"
-	.string "Look for and battle TRAINERS who\n"
-	.string "have the same CARD as you.\p"
-	.string "You may check the overall rankings\n"
-	.string "by reading the NEWS.\p"
-	.string "Please do give it a try!$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "Dit KAMP ANTAL KORT holder styr\n"
+	.string "på din kampoptegnelse mod\l"
+	.string "TRÆNERE med det samme KORT.\p"
+	.string "Find og kæmp mod TRÆNERE som\n"
+	.string "har det samme KORT som dig.\p"
+	.string "Du kan tjekke den overordnede\n"
+	.string "rangliste ved at læse NYHEDERNE.\p"
+	.string "Giv det endelig et forsøg!$"
 
 sText_MysteryGiftBattleCountCard_WonPrize:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Congratulations!\p"
-	.string "You have won a prize for winning\n"
-	.string "three battles!\p"
-	.string "We hope you will be inspired to\n"
-	.string "battle some more.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "Tillykke!\p"
+	.string "Du har vundet en pris for at vinde\n"
+	.string "tre kampe!\p"
+	.string "Vi håber, at du vil blive inspireret til\n"
+	.string "at kæmpe mere.$"
+

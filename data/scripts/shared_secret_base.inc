@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SecretBase_MapScripts::
 	map_script MAP_SCRIPT_ON_WARP_INTO_MAP_TABLE, SecretBase_OnWarp
 	map_script MAP_SCRIPT_ON_TRANSITION, SecretBase_OnTransition
@@ -202,14 +204,15 @@ SecretBase_EventScript_SkittyTV::
 	end
 
 SecretBase_Text_SmallIndentInWall::
-	.string "There's a small indent in the wall.$"
+	.string "Der er en lille fordybning i væggen.$"
 
 SecretBase_Text_IndentUseSecretPower::
-	.string "There's a small indent in the wall.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Der er en lille fordybning i væggen.\p"
+	.string "Brug DEN HEMMELIGE KRAFT?$"
 
 SecretBase_Text_DiscoveredSmallCavern::
-	.string "Discovered a small cavern!$"
+.string "Opdaget en lille hule!$"
 
 SecretBase_Text_WantToMakeYourSecretBaseHere:
-	.string "Want to make your SECRET BASE here?$"
+	.string "Vil du lave din HEMMELIGE BASE her?\p$"
+

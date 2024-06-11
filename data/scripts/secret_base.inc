@@ -1,26 +1,28 @@
+@ TRANSLATED
+
 SecretBase_Text_TreeCanBeClimbed:
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.$"
+	.string "Hvis nogle ranker falder ned, kan dette\n"
+	.string "træ klatres på.$"
 
 SecretBase_Text_TreeUseSecretPower:
-	.string "If some vines drop down, this tree can\n"
-	.string "be climbed.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Hvis nogle ranker falder ned, kan\p"
+	.string "denne træ klatres.\p"
+	.string "Brug DEN HEMMELIGE KRAFT?$"
 
 SecretBase_Text_VineDroppedDown:
-	.string "A thick vine dropped down!$"
+.string "En tyk vinranke faldt ned!$"
 
 SecretBase_Text_ClumpOfGrass:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.$"
+	.string "Hvis denne græstørv kan flyttes,\n"
+	.string "er det måske muligt at gå ind.$"
 
 SecretBase_Text_ClumpUseSecretPower:
-	.string "If this clump of grass can be moved,\n"
-	.string "it might be possible to go inside.\p"
-	.string "Use the SECRET POWER?$"
+	.string "Hvis denne tue græs kan flyttes,\n"
+	.string "så er det måske muligt at gå indenfor.\p"
+	.string "Brug DEN HEMMELIGE KRAFT?$"
 
 SecretBase_Text_DiscoveredSmallEntrance:
-	.string "Discovered a small entrance!$"
+.string "Opdagede en lille indgang!$"
 
 	.include "data/text/secret_base_trainers.inc"
 
@@ -672,66 +674,68 @@ SecretBase_EventScript_CushionInteract::
 	end
 
 SecretBase_Text_AllDecorationsWillBeReturned:
-	.string "All decorations and furniture in your\n"
-	.string "SECRET BASE will be returned to your PC.\p"
-	.string "Is that okay?$"
+	.string "Alle dekorationer og møbler i din\n"
+	.string "HEMLIGE BASE vil blive returneret til din PC.\p"
+	.string "Er det okay?$"
 
 SecretBase_Text_WantToRegisterSecretBase:
-	.string "Do you want to register\n"
-	.string "{STR_VAR_1}'s SECRET BASE?$"
+	.string "Vil du registrere\n"
+	.string "{STR_VAR_1}'s HEMMELIGE BASE?\p$"
 
 SecretBase_Text_AlreadyRegisteredDelete:
-	.string "This data is already registered.\n"
-	.string "Would you like to delete it?$"
+	.string "Disse data er allerede registreret.\n"
+	.string "Ønsker du at slette dem? $"
 
 SecretBase_Text_TooManyBasesDeleteSome:
-	.string "Up to 10 locations can be registered.\p"
-	.string "Delete a location if you want to\n"
-	.string "register another location.$"
+	.string "Op til 10 placeringer kan registreres.\p"
+	.string "Slet en placering, hvis du vil\n"
+	.string "registrere en anden placering.$"
 
 SecretBase_Text_RegistrationCompleted:
-	.string "Registration completed.$"
+.string "Registrering fuldført.$"
 
 SecretBase_Text_DataUnregistered:
-	.string "Data has been unregistered.$"
+	.string "Data er blevet afregistreret.$"
 
 SecretBase_Text_BootUpPC:
-	.string "{PLAYER} booted up the PC.$"
+.string "{PLAYER} startede computeren.$"
 
 SecretBase_Text_WhatWouldYouLikeToDo:
-	.string "What would you like to do?$"
+	.string "Hvad vil du gerne lave?$"
 
 SecretBase_Text_RegistryInfo:
-	.string "Once registered, a SECRET BASE will not\n"
-	.string "disappear unless the other TRAINER\l"
-	.string "moves it to a different location.\p"
-	.string "If a SECRET BASE is deleted from the\n"
-	.string "registered list, another one may take\l"
-	.string "its place.\p"
-	.string "Up to ten SECRET BASE locations\n"
-	.string "may be registered.$"
+	.string "Når du har registreret dig, vil en \n"
+	.string "HEMMLIG BASE ikke forsvinde, medmindre\n"
+	.string "den anden TRÆNER flytter den til\n"
+	.string "en anden placering.\p"
+	.string "Hvis en HEMMLIG BASE slettes fra\n"
+	.string "den registrerede liste, kan en anden\n"
+	.string "tage dens plads.\p"
+	.string "Op til ti HEMMELIGE BASE\n"
+	.string "placeringer kan registreres.$"
 
 SecretBase_Text_BattleTowerShield:
-	.string "A shield of {STR_VAR_2} that marks winning\n"
-	.string "{STR_VAR_1} times in a row at the BATTLE TOWER.$"
+	.string "Et skjold af {STR_VAR_2}, der markerer sejr\n"
+	.string "i {STR_VAR_1} runder i træk i KAMPTÅRNET.$"
 
 SecretBase_Text_ToyTV:
-	.string "A realistic toy TV. It could be easily\n"
-	.string "mistaken for the real thing.$"
+	.string "En realistisk legetøjs-tv. Det kunne\n"
+	.string "let forveksles med ægte vare.$"
 
 SecretBase_Text_SeedotTV:
-	.string "A toy TV shaped like a SEEDOT.\n"
-	.string "It looks ready to roll away on its own…$"
+	.string "En legetøjs-tv formet som en SEEDOT.\n"
+	.string "Det ser ud til at være klar til at rulle væk af sig selv…$"
 
 SecretBase_Text_SkittyTV:
-	.string "A toy TV shaped like a SKITTY.\n"
-	.string "It looks ready to stroll away…$"
+	.string "En legetøjs-TV formet som en SKITTY.\n"
+	.string "Den ser klar til at spadsere væk…$"
 
 SecretBase_Text_WouldYouLikeToMoveBases:
-	.string "You may only make one SECRET BASE.\p"
-	.string "Would you like to move from the SECRET\n"
-	.string "BASE near {STR_VAR_1}?$"
+	.string "Du kan kun lave en HEMMELIG BASE.\p"
+	.string "Vil du flytte fra den HEMMELIGE\n"
+	.string "BASE nær {STR_VAR_1}?$"
 
 SecretBase_Text_MovingCompletedUseSecretPower:
-	.string "Moving completed.\p"
-	.string "Would you like to use the SECRET POWER?$"
+	.string "Flytning fuldført.\p"
+	.string "Vil du bruge DEN HEMMELIGE KRAFT?$"
+

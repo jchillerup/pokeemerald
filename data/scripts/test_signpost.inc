@@ -1,7 +1,11 @@
+@ TRANSLATED
+
 Text_ThisIsATestSignpostMsg::
-	.string "This is a test message.\n"
-	.string "This is a signpost.$"
+	.string "Dette er en testbesked.\n"
+	.string "Dette er et skilt.$"
 
 EventScript_TestSignpostMsg::
 	msgbox Text_ThisIsATestSignpostMsg, MSGBOX_SIGN
 	end
+
+
