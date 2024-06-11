@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 BattleDome_Text_Potential1::
 	.string "Den bedste kandidat til at blive mester!$"
 

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_ApprenticeChallenge0::
 	.string "Øhm, jeg er {STR_VAR_1}s nr. {STR_VAR_2} lærling.\n"
 	.string "Snøft… Denne spænding er for meget for mig…$"

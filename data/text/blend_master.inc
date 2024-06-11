@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 BerryBlender_Text_BlendWithTheBlendMaster:
 	.string "BLEND MESTER: Ja, det er mig!\n"
 	.string "BLEND MESTEREN, det er jeg!\p"

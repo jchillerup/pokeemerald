@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Text_BootUpPC:
 	.string "{PLAYER} startede PC'en.$"
 

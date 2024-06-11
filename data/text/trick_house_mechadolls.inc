@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gTrickHouse_Mechadoll_Oddish::
 	.string "ODDISH$"
 

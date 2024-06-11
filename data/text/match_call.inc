@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MatchCall_WildBattleText1::
 	.string "Hej! {PLAYER}{KUN}, hej!\n"
 	.string "Det er {STR_VAR_1}.\p"

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 FallarborTown_BattleTentLobby_Text_WelcomeToBattleTent:
 	.string "Velkommen til BATTLE TENT\n"
 	.string "FALLARBOR!\p"

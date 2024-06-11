@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gPokeNewsTextSlateport_Upcoming::
 	.string "Velkommen!\n"
 	.string "Det er tid til POKéMON NYHEDER.\p"

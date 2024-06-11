@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 ShoalCave_LowTideEntranceRoom_Text_AreYouPlanningOnGoingInThere:
 	.string "Har du planer om at gå dybt ind\n"
 	.string "derinde?\p"

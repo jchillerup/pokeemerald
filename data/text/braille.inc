@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 @ NOTE: The brailleformat macro in this file is leftover from RS.
 @       The numbers are simply skipped over. If you'd like to omit
 @       this macro you must also stop it from skipping over this

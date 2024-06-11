@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 PetalburgCity_Gym_Text_GiveEnigmaBerry:
 	.string "DAD: Hej, {PLAYER}!\p"
 	.string "Jeg har lige modtaget et meget sjældent BÆR.\n"

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_PkmnTransferredSomeonesPC::
 	.string "{STR_VAR_2} blev overført til\n"
 	.string "NOGENS PC.\p"

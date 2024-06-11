@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_WantToUseSurf::
 	.string "Vandet er farvet en dyb blå…\n"
 	.string "Vil du SURFE?$"

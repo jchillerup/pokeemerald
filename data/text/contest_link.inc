@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 @ With the exception of Link standby, none of the below texts are used
 
 gTest_MissedTurn::

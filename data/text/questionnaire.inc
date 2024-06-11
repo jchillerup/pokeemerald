@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Questionnaire_Text_FillOut::
 	.string "Der er en spørgeskema.\n"
 	.string "Ønsker du at udfylde det?$"

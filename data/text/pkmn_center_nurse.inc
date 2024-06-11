@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_WouldYouLikeToRestYourPkmn::
 	.string "Hej, og velkommen til\n"
 	.string "POKéMON CENTERET.\p"

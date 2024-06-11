@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_Birch_Welcome::
     .string "Hej! Undskyld ventetiden!\p"
     .string "Velkommen til POKéMON'ernes verden!\p"

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .align 2
 gText_ConfirmSave::
 	.string "Ønsker du at gemme?$"

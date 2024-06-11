@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_HighlyAppealingMove::
 	.string "En meget tiltalende handling.$"
 

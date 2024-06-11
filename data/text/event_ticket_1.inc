@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 EventTicket_Text_ShowOldSeaMap:
 	.string "Færgen til SLATEPORT er…\p"
 	.string "Undskyld mig?\n"

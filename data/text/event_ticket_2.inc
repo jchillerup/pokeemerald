@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 EventTicket_Text_OldSeaMapTooFar:
 	.string "Hva' så, unge?\p"
 	.string "Hva', er det dig, der har\n"

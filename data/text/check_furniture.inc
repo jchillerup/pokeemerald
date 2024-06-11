@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Text_PictureBookShelf:
 	.string "Der er en samling af POKéMON-billedbøger.$"
 

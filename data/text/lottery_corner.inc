@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_DepartmentStore_1F_Text_LotteryCornerDrawTicket:
 	.string "Dette er POKéMON LOTTERIHJØRNET.\p"
 	.string "Alle kunder i vores STORMAGASIN\n"

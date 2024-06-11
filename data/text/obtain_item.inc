@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_ObtainedTheItem::
 	.string "Modtog {STR_VAR_2}!$"
 

@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 SecretBase_Text_Trainer0Intro:
 	.string "Har du allerede lavet en HEMMELIG BASE?\p"
 	.string "Jeg gik her, der og alle vegne, før jeg\n"

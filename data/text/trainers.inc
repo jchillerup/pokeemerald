@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Route102_Text_CalvinIntro:
 	.string "Hvis du har POKéMON med dig, så er\n"
 	.string "du en officiel POKéMON TRÆNER!\l"

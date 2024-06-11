@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gText_HowMayIServeYou::
 	.string "Velkommen!\p"
 	.string "Hvad kan jeg hjælpe med?$"

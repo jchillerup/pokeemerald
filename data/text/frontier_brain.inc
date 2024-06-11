@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 @ Battle Tower
 gText_AnabelWonSilver::
 	.string "Det er meget skuffende…$"

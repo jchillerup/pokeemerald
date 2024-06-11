@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 Text_WouldYouLikeToMixRecords:
 	.string "Vil du gerne sammenligne\n"
 	.string "optegnelser med andre trænere?$"

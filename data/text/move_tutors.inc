@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MoveTutor_Text_ThisMoveCanOnlyBeLearnedOnce:
 	.string "Denne bevægelse kan kun\n"
 	.string "læres én gang. Er det i orden?$"

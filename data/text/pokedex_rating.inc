@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 gBirchDexRatingText_AreYouCurious::
 	.string "PROF. BIRCH: Ah, {PLAYER}{KUN}!\p"
 	.string "Er du nysgerrig på, hvordan din\n"

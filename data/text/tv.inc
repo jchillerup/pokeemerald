@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 LilycoveCity_ContestLobby_Text_InterviewRequest:
 	.string "Hej, halloj! Du var til en POKéMON\n"
 	.string "KONKURRENCE, ikke sandt?\l"

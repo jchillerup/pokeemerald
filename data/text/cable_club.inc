@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 CableClub_Text_WelcomeWhichCableClubService::
 	.string "Velkommen til POKéMON KABEL\n"
 	.string "KLUBBEN.\p"
