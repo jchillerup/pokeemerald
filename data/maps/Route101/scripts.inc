@@ -268,7 +268,7 @@ Route101_Text_HelpMe:
 Route101_Text_PleaseHelp:
 	.string "Hej! Dig derovre!\n"
 	.string "Vær så venlig at hjælpe!\p"
-	.string "I min TASKE!\n"
+	.string "I min RYGSÆK!\n"
 	.string "Der er en POKé BALL!$"
 
 Route101_Text_DontLeaveMe:

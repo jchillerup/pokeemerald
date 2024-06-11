@@ -157,8 +157,8 @@ Route113_Text_RouteSignFallarbor:
 
 Route113_Text_TrainerTipsRegisterKeyItems:
 	.string "TRÆNER TIPS\p"
-	.string "Du kan registrere en af de VIGTIGE GENSTANDE\n"
-	.string "i din TASKE som VÆLG.\p"
+	.string "Du kan registrere en af de VIGTIGE TING\n"
+	.string "i din RYGSÆK som VÆLG.\p"
 	.string "Tryk blot på VÆLG for at bruge\n"
 	.string "den registrerede genstand praktisk.$"
 

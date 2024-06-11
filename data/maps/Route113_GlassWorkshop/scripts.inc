@@ -359,7 +359,7 @@ Route113_GlassWorkshop_Text_IveFinishedGlassItem:
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
 	.string "Åh?\n"
-	.string "Du har ingen plads i din TASKE, pustegrin.\p"
+	.string "Du har ingen plads i din RYGSÆK, pustegrin.\p"
 	.string "Jeg vil beholde det, så kom tilbage senere,\n"
 	.string "pustegrin.$"
 

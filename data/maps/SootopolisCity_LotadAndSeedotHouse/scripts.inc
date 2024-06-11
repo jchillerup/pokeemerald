@@ -180,7 +180,7 @@ SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2:
 
 SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
 	.string "Hvad?\n"
-	.string "Din TASKE er proppet fuld.$"
+	.string "Din RYGSÆK er propfuld.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
 	.string "{STR_VAR_2} tommer?\p"

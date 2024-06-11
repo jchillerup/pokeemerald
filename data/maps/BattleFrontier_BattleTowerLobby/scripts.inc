@@ -950,8 +950,8 @@ BattleFrontier_BattleTowerLobby_Text_ReceivedPrize:
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom:
-	.string "Åh nej, din TASKE ser ud til at være fuld.\p"
-	.string "Venligst skab plads i din TASKE, og kom\n"
+	.string "Åh nej, din RYGSÆK ser ud til at være fuld.\p"
+	.string "Venligst skab plads i din RYGSÆK, og kom\n"
 	.string "tilbage til mig.$"
 
 BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying:

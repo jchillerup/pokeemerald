@@ -2075,7 +2075,7 @@ gTVWhatsNo1InHoennTodayText05::
 gTVWhatsNo1InHoennTodayText06::
     .string "På bare én dag plukkede {STR_VAR_1}\n"
     .string "{STR_VAR_2} BÆR!\p"
-    .string "{STR_VAR_1}s TASKE blev så fyldt\n"
+    .string "{STR_VAR_1}s RYGSÆK blev så fyldt\n"
     .string "med BÆR, at TRÆNEREN havde svært\n"
     .string "ved at gå bagefter!$"
 
@@ -2207,7 +2207,7 @@ TVSecretBaseSecrets_Text_UsedMudBall::
 
 TVSecretBaseSecrets_Text_UsedBag::
 	.string "…Åh?\p"
-	.string "Besøgende når ned i deres eget\n"
+	.string "Besøgende når ned i deres egen\n"
 	.string "taske og roder rundt i den!\p"
 	.string "Besøgende trak en\n"
 	.string "{STR_VAR_2} frem!\p"

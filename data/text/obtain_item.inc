@@ -2,7 +2,7 @@ gText_ObtainedTheItem::
 	.string "Modtog {STR_VAR_2}!$"
 
 gText_TheBagIsFull::
-	.string "Tasken er fuld…$"
+	.string "Rygsækken er fuld…$"
 
 gText_PutItemInPocket::
 	.string "{PLAYER} lagde {STR_VAR_2}\n"
@@ -13,11 +13,11 @@ gText_PlayerFoundOneItem::
 
 gText_TooBadBagIsFull::
 	.string "Øv!\n"
-	.string "Tasken er fuld…$"
+	.string "Rygsækken er fuld…$"
 
 gText_PlayerPutItemInBag::
 	.string "{PLAYER} lagde {STR_VAR_2}\n"
-	.string "i TASKEN.$"
+	.string "i RYGSÆKKEN.$"
 
 gText_ObtainedTheDecor::
 	.string "Modtog {STR_VAR_2}!$"

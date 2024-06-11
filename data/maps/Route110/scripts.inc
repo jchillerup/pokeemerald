@@ -950,7 +950,7 @@ Route110_Text_TrainerTipsPrlzSleep:
 
 Route110_Text_TrainerTipsRegisterItems:
 	.string "TRÆNER TIPS\p"
-	.string "Genstandene i TASKEN kan organiseres\n"
+	.string "Tingene i RYGSÆKKEN kan organiseres\n"
 	.string "ved at trykke på SELECT.$"
 
 Route110_Text_TrickHouseSign:

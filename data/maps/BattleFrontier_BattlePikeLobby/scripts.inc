@@ -416,7 +416,7 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 .string "Hvilken overskrift vil du læse?\p$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "TASKEN og POKéNAV må ikke bruges\n"
+	.string "RYGSÆKKEN og POKéNAV må ikke bruges\n"
 	.string "under en Kampvalgsudfordring.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:

@@ -315,7 +315,7 @@ SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "Din POKéMON vokser ganske godt,\n"
 	.string "så du fortjener en belønning.\p"
 	.string "Desværre har du ikke plads til\n"
-	.string "dette i din TASKE.$"
+	.string "dette i din RYGSÆK.$"
 
 SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
 	.string "Din {STR_VAR_1}, den vokser på\n"

@@ -782,7 +782,7 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls:
 	.string "fange dem med POKé BALLS!$"
 
 LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull:
-	.string "Åh? Din TASKE er fuld.$"
+	.string "Åh? Din RYGSÆK er fuld.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_MayWhereShouldIGoNext:
 	.string "Jeg undrer mig over, hvor jeg\n" 
@@ -804,7 +804,7 @@ LittlerootTown_ProfessorBirchsLab_Text_CatchCoolPokemonWithPokeBalls:
 	.string "dem med POKéBOLDE.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull:
-.string "Hey, din TASKE er fuld.$"
+	.string "Hey, din RYGSÆK er fuld.$"
 
 LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext:
 	.string "BRENDAN: Hvor skal jeg lede efter\n"

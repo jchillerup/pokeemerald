@@ -550,9 +550,9 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
 	.string "Du skal gå ind med tre POKéMONs,\n"
 	.string "ingen af dem holder en genstand.\p"
 	.string "På din opstigning vil du få\n"
-	.string "en KAMPTASKE til genstande.\p"
+	.string "en KAMPRYGSÆK til genstande.\p"
 	.string "Hvis du mislykkes i din udfordring,\n"
-	.string "forsvinder alle genstande i KAMPTASKEN.\p"
+	.string "forsvinder alle genstande i KAMPRYGSÆKKEN.\p"
 	.string "Hvis du ønsker at afbryde din\n"
 	.string "udfordring, skal du vælge “HVILE”\n"
 	.string "og gemme spillet.\p"
@@ -601,20 +601,20 @@ BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
 	.string "i KAMP-PIRAMIDEN.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
-	.string "Vi vil passe på DIN TASKE mens\n"
+	.string "Vi passer på din RYGSÆK mens\n"
 	.string "du udforsker, {PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
-	.string "Til gengæld, tag venligst denne KAMPE\n"
-	.string "TASKE, den du tidligere brugte.$"
+	.string "Til gengæld, tag KAMPRYGSÆKKEN\n"
+	.string "som du brugte tidligere.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
-	.string "Som tak, tag venligst dette\n"
-	.string "KAMP TASKE.$"
+	.string "Som tak, tag venligst denne\n"
+	.string "KAMPRYGSÆK.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} udvekslede TASKEN med\n"
-	.string "KAMP TASKEN.$"
+	.string "{PLAYER} byttede RYGSÆKKEN ud\n"
+	.string "med KAMPRYGSÆKKEN.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
 	.string "Når du træder på dette gulvpanel,\n"
@@ -647,13 +647,13 @@ BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
 	.string "Alle genstande holdt af din POKéMON vil blive\n"
-	.string "flyttet til din KAMP-TASKE, {PLAYER}.$"
+	.string "flyttet til din KAMPRYGSÆK, {PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
-	.string "TASKETILLEN kan ikke holde alle dine\n"
+	.string "KAMPRYGSÆKKEN har ikke plads alle dine\n"
 	.string "genstande, det må jeg desværre sige.\p"
 	.string "Vælg venligst de genstande, du vil\n"
-	.string "gemme i TASKETILLEN, og med dine POKéMON.$"
+	.string "gemme i KAMPRYGSÆKKEN, og med dine POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
 	.string "Mindst én POKéMON har stadig\n"
@@ -661,7 +661,7 @@ BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
 
 BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
 	.string "Vælg venligst de ting, du vil opbevare i\n"
-	.string "KAMPTASKEN sammen med dine POKéMON.$"
+	.string "KAMPRYGSÆKKEN sammen med dine POKéMON.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
@@ -669,10 +669,10 @@ BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
 	.string "POKéMONene holdt.$"
 
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
-	.string "BATTLE BAG'en, du brugte, vil blive gemt\n"
+	.string "KAMPRYGSÆKKEN, du brugte, vil blive gemt\n"
 	.string "klar til din næste udfordring.\p"
-	.string "{PLAYER} vendte BATTLE BAG'en\n"
-	.string "for at få tasken tilbage.$"
+	.string "{PLAYER} vendte KAMPRYGSÆKKEN\n"
+	.string "for at få rygsækken tilbage.$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
 	.string "Jeg skal registrere dine resultater.\n"
@@ -691,15 +691,15 @@ BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem:
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
 	.string "…Åh…\n"
-	.string "Din TASKE ser ud til at være fuld.\p"
+	.string "Din RYGSÆK ser ud til at være fuld.\p"
 	.string "Kom venligst tilbage, når du har fået\n"
-	.string "organiseret indholdet i din TASKE.$"
+	.string "organiseret indholdet i din RYGSÆK.$"
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "Hvor skuffende for dig…\p"
-	.string "Her er TASKEN, vi har holdt på\n"
+	.string "Her er RYGSÆKKEN, vi har holdt på\n"
 	.string "til dig.\p"
-	.string "{PLAYER} fik TASKEN tilbage.$"
+	.string "{PLAYER} fik RYGSÆKKEN tilbage.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
 	.string "Vi glæder os til din\n"
@@ -894,7 +894,7 @@ BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
 	.string "besejrer en vild POKéMON eller en TRÆNER.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
-	.string "BATTLE BAG'en fungerer som din TASKE\n"
+	.string "BATTLE BAG'en fungerer som din RYGSÆK\n"
 	.string "mens du er i PYRAMIDEN.\p"
 	.string "Der er to separate BATTLE BAGS--\n"
 	.string "en til hvert Level 50 og\l"

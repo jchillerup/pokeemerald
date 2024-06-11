@@ -2952,7 +2952,7 @@ Route119_Text_RachelDefeat:
 
 Route119_Text_RachelPostBattle:
 	.string "Du spørger om min parasol er tung?\n"
-	.string "Din TASKE er fyldt med mere skrammel\l"
+	.string "Din RYGSÆK er fyldt med mere skrammel\l"
 	.string "end jeg nogensinde bærer rundt på.$"
 
 Route120_Text_ColinIntro:
@@ -3314,7 +3314,7 @@ Route121_Text_CalePostBattle:
 	.string "Jeg har købt alt for meget\n"
 	.string "ting hos LILYCOVE DEPT. STORE.\p"
 	.string "Det er oppe ad vejen herfra.\n"
-	.string "Jeg ønsker, jeg havde en TASKE som din.$"
+	.string "Jeg ønsker, jeg havde en RYGSÆK som din.$"
 
 Route121_Text_MylesIntro:
 	.string "Der er intet, jeg elsker mere end\n"

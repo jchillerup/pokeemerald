@@ -413,7 +413,7 @@ Route116_Text_NewBallAvailableAtMart:
 	.string "Tak og farvel!$"
 
 Route116_Text_BagIsJamPacked:
-	.string "Din TASKE er propfyldt.\n"
+	.string "Din RYGSÆK er propfyldt.\n"
 	.string "Jeg kan ikke give dig denne GENTAGELSESBOLD.$"
 
 Route116_Text_TokenOfAppreciation:
@@ -470,11 +470,11 @@ Route116_Text_TrainerTipsBToStopEvolution:
 
 Route116_Text_TrainerTipsBagHasPockets:
 	.string "TRÆNER TIPS\p"
-	.string "Din TASKE har flere LOMMER.\p"
+	.string "Din RYGSÆK har flere LOMMER.\p"
 	.string "Genstande, du får fat i, bliver\n"
 	.string "automatisk placeret i de rette LOMMER.\p"
 	.string "Ingen TRÆNER kan undvære deres egen\n"
-	.string "TASKE.$"
+	.string "RYGSÆK.$"
 
 
 

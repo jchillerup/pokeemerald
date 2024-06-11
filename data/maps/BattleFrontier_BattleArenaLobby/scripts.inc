@@ -467,7 +467,7 @@ BattleFrontier_BattleArenaLobby_Text_ReceivedPrize:
 @ Unused
 BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize:
 	.string "Nå?\n"
-	.string "Din TASKE ser ud til at være fuld.\p"
+	.string "Din RYGSÆK ser ud til at være fuld.\p"
 	.string "Jeg opfordrer dig til at frigøre plads og\n"
 	.string "komme tilbage efter din præmie.$"
 

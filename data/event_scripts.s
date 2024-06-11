@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 #include "config.h"
 #include "constants/global.h"
 #include "constants/apprentice.h"
@@ -834,122 +836,124 @@ Common_EventScript_PlayerHandedOverTheItem::
 
 @ The below and surf.inc could be split into some text/notices.inc
 gText_PokemartSign::
-	.string "“Selected items for your convenience!”\n"
-	.string "POKéMON MART$"
+    .string "“Udvalgte varer til din bekvemmelighed!”\n"
+    .string "POKéMON-MARKED$"
 
 gText_PokemonCenterSign::
-	.string "“Rejuvenate your tired partners!”\n"
+	.string "Forny dine trætte partnere!\n"
 	.string "POKéMON CENTER$"
 
 gText_MomOrDadMightLikeThisProgram::
-	.string "{STR_VAR_1} might like this program.\n"
+	.string "{STR_VAR_1} kunne godt lide dette program.\n"
 	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Better get going!$"
+	.string "Det er bedst at komme afsted!$"
 
 gText_WhichFloorWouldYouLike::
-	.string "Welcome to LILYCOVE DEPARTMENT STORE.\p"
-	.string "Which floor would you like?$"
+	.string "Velkommen til LILYCOVE DEPARTMENT STORE.\p"
+	.string "Hvilket etage vil du gerne?$"
 
 gText_SandstormIsVicious::
-	.string "The sandstorm is vicious.\n"
-	.string "It's impossible to keep going.$"
+	.string "Sandstormen er voldsom.\n"
+	.string "Det er umuligt at fortsætte.$" 
 
 gText_SelectWithoutRegisteredItem::
-	.string "An item in the BAG can be\n"
-	.string "registered to SELECT for easy use.$"
+	.string "Et emne i RYGSÆKKEN kan blive\n"
+	.string "registreret til VALG for nem brug.$"
 
 gText_PokemonTrainerSchoolEmail::
-	.string "There's an e-mail from POKéMON TRAINER\n"
+	.string "Der er en e-mail fra POKéMON TRAINER\n"
 	.string "SCHOOL.\p"
 	.string "… … … … … …\p"
-	.string "A POKéMON may learn up to four moves.\p"
-	.string "A TRAINER's expertise is tested on the\n"
-	.string "move sets chosen for POKéMON.\p"
+	.string "En POKéMON kan lære op til fire\n"
+	.string "angreb.\p"
+	.string "En TRAINER's ekspertise bliver testet\n"
+	.string "ud fra de angreb, de vælger til deres\n"
+	.string "POKéMON.\p"
 	.string "… … … … … …$"
 
 gText_PlayerHouseBootPC::
-	.string "{PLAYER} booted up the PC.$"
+.string "{PLAYER} startede computeren.$"
 
 gText_PokeblockLinkCanceled::
-	.string "The link was canceled.$"
+.string "Linket blev annulleret.$"
 
 gText_UnusedNicknameReceivedPokemon::
-	.string "Want to give a nickname to\n"
-	.string "the {STR_VAR_2} you received?$"
+	.string "Har du lyst til at give et kaldenavn til\n"
+	.string "{STR_VAR_2}, som du har modtaget?$"
 
 gText_PlayerWhitedOut::
-	.string "{PLAYER} is out of usable\n"
-	.string "POKéMON!\p{PLAYER} whited out!$"
+	.string "{PLAYER} har ikke flere\n"
+	.string "brugbare POKéMON!\p{PLAYER} blev hvid!\p$"
 
 gText_RegisteredTrainerinPokeNav::
-	.string "Registered {STR_VAR_1} {STR_VAR_2}\n"
-	.string "in the POKéNAV.$"
+	.string "Registrerede {STR_VAR_1} {STR_VAR_2}\n"
+	.string "i POKéNAV.\p$"
 
 gText_ComeBackWithSecretPower::
-	.string "Do you know the TM SECRET POWER?\p"
-	.string "Our group, we love the TM SECRET\n"
-	.string "POWER.\p"
-	.string "One of our members will give it to you.\n"
-	.string "Come back and show me if you get it.\p"
-	.string "We'll accept you as a member and sell\n"
-	.string "you good stuff in secrecy.$"
+	.string "Kender du TM'en HEMMELIG KRAFT?\p"
+	.string "Vores gruppe elsker TM'en HEMMELIG\n"
+	.string "KRAFT.\p"
+	.string "En af vores medlemmer vil give den til dig.\n"
+	.string "Kom tilbage og vis mig, hvis du får den.\p"
+	.string "Vi vil acceptere dig som medlem og\n"
+	.string "sælge dig gode ting i hemmelighed.$"
 
 gText_PokerusExplanation::
-	.string "Your POKéMON may be infected with\n"
+	.string "Din POKéMON kan være inficeret med\n"
 	.string "POKéRUS.\p"
-	.string "Little is known about the POKéRUS\n"
-	.string "except that they are microscopic life-\l"
-	.string "forms that attach to POKéMON.\p"
-	.string "While infected, POKéMON are said to\n"
-	.string "grow exceptionally well.$"
+	.string "Der er kun lidt viden om POKéRUS,\n"
+	.string "bortset fra at de er mikroskopiske\n"
+	.string "livsformer, der hæfter sig til POKéMON.\p"
+	.string "Mens de er inficeret, siges det, at\n"
+	.string "POKéMON vokser exceptionelt godt.$"
 
 	.include "data/text/surf.inc"
 
 gText_DoorOpenedFarAway::
-	.string "It sounded as if a door opened\n"
-	.string "somewhere far away.$"
+	.string "Det lød som om en dør åbnede\n"
+	.string "et sted langt væk.$" 
 
 gText_BigHoleInTheWall::
-	.string "There is a big hole in the wall.$"
+.string "Der er et stort hul i væggen.$"
 
 gText_SorryWirelessClubAdjustments::
-	.string "I'm terribly sorry.\n"
-	.string "The POKéMON WIRELESS CLUB is\l"
-	.string "undergoing adjustments now.$"
+	.string "Jeg er frygteligt ked af det.\n"
+	.string "POKéMON TRÅDLØSE KLUB gennemgår\n"
+	.string "justeringer lige nu.$"
 
 gText_UndergoingAdjustments::
-	.string "It appears to be undergoing\n"
-	.string "adjustments…$"
+	.string "Det ser ud til at være undergående\n"
+	.string "justeringer…$"
 
 @ Unused
 gText_SorryTradeCenterInspections::
-	.string "I'm terribly sorry. The TRADE CENTER\n"
-	.string "is undergoing inspections.$"
+	.string "Jeg er meget ked af det. HANDELS-\n"
+	.string "CENTRET gennemgår inspektioner.$"
 
 @ Unused
 gText_SorryRecordCornerPreparation::
-	.string "I'm terribly sorry. The RECORD CORNER\n"
-	.string "is under preparation.$"
+	.string "Jeg beklager meget. PLADEHJØRNET\n"
+	.string "er under forberedelse.$"
 
 gText_PlayerHandedOverTheItem::
-	.string "{PLAYER} handed over the\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER} gav\n" 
+	.string "over {STR_VAR_1}.$"
 
 gText_ThankYouForAccessingMysteryGift::
-	.string "Thank you for accessing the\n"
-	.string "MYSTERY GIFT System.$"
+	.string "Tak fordi du har adgang til\n"
+	.string "GÅDEN GAVE System.$"
 
 gText_PlayerFoundOneTMHM::
-	.string "{PLAYER} found one {STR_VAR_1}\n"
+	.string "{PLAYER} fandt en {STR_VAR_1}\n"
 	.string "{STR_VAR_2}!$"
 
 gText_Sudowoodo_Attacked::
-	.string "The weird tree doesn't like the\n"
-	.string "WAILMER PAIL!\p"
-	.string "The weird tree attacked!$"
+	.string "Den underlige træ kan ikke lide\n"
+	.string "VANDBAKKELAND!\p"
+	.string "Den underlige træ angreb!$"
 
 gText_LegendaryFlewAway::
-	.string "The {STR_VAR_1} flew away!$"
+.string "Den {STR_VAR_1} fløj væk!$"
 
 	.include "data/text/pc_transfer.inc"
 	.include "data/text/questionnaire.inc"

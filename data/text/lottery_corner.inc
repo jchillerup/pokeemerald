@@ -64,8 +64,8 @@ LilycoveCity_DepartmentStore_1F_Text_AllFiveDigitsMatched:
 LilycoveCity_DepartmentStore_1F_Text_NoRoomForThis:
 	.string "Åh?\n"
 	.string "Du ser ud til at have ikke plads til dette.\p"
-	.string "Lav venligst plads i din TASKE og\n"
-	.string "lad mig vide det.$"
+	.string "Gør venligst plads i din RYGSÆK og\n"
+	.string "kom tilbage.$"
 
 LilycoveCity_DepartmentStore_1F_Text_PrizeWeveBeenHolding:
 	.string "{PLAYER}?\n"

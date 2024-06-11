@@ -482,10 +482,10 @@ BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize:
 	.string "Det ser ud til, at du ikke har plads til\n"
 	.string "vores præmie.\p"
 	.string "Du bør vende tilbage, når du har\n"
-	.string "organiseret din TASKE.$"
+	.string "organiseret din RYGSÆK.$"
 
 BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting:
-.string "Vi har ventet på dig…$"
+	.string "Vi har ventet på dig…$"
 
 BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge:
 	.string "Jeg skal gemme, før jeg viser dig til\n"

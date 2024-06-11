@@ -99,7 +99,7 @@ FallarborTown_BattleTentLobby_Text_ReceivedPrize:
 
 FallarborTown_BattleTentLobby_Text_BagFullReturnForPrize:
 	.string "Åh?\n"
-	.string "Din TASKE ser ud til at være fuld.\p"
+	.string "Din RYGSÆK ser ud til at være fuld.\p"
 	.string "Jeg opfordrer dig til at rydde plads og\n"
 	.string "komme tilbage for din præmie.$"
 
@@ -285,7 +285,7 @@ SlateportCity_BattleTentLobby_Text_AwardYouThisPrize:
 SlateportCity_BattleTentLobby_Text_NoRoomInBagMakeRoom:
 	.string "Åh?\n"
 	.string "Du ser ud til at have ikke plads til dette.\p"
-	.string "Venligst ryd plads i din TASKE og\n"
+	.string "Venligst ryd plads i din RYGSÆK og\n"
 	.string "lad mig vide.$"
 
 SlateportCity_BattleTentLobby_Text_BeenWaitingForYou:
