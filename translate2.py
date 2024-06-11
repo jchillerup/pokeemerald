@@ -376,35 +376,40 @@ import subprocess
 import os
 
 def build():
-    result = subprocess.Popen("make", stdout=subprocess.PIPE, stderr=subprocess.PIPE)
+    result = subprocess.Popen(["make", "-j1"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     text = result.communicate()[0]
     return result.returncode
 
-for mf in track(MAPFILES):
-    
-    created = process_file(mf)
+created_files = []
 
-    if created:
-        # Replace it with the translated version
-        os.system("cp %s.translated %s" % (mf, mf))
+try:
+    for mf in track(MAPFILES):
+        
+        created = process_file(mf)
+        if created:
+            # Replace it with the translated version
+            os.system("cp %s.translated %s" % (mf, mf))
 
-        # Try building
-        return_code = build()
+            # Try building
+            return_code = build()
 
-        if return_code == 0:
-            print("Still builds, let's continue!")
+            if return_code == 0:
+                print("Still builds, let's continue!")
 
-            # If the build succeeded, we may remove the temporary files
-            os.system("rm %s.translated" % mf)
+                # If the build succeeded, we may remove the temporary files
+                os.system("rm %s.translated" % mf)
 
-            os.system("git add %s" % mf)
-            os.system("git commit -m 'Auto-translated: %s'" % mf)
-        else:
-            print("Broke the build :(, let's restore the original file and continue!")
+                os.system("git add %s" % mf)
+                created_files.append(mf)
+            else:
+                print("Broke the build :(, let's restore the original file and continue!")
 
-            # If it did not, restore the old file
-            os.system("git checkout %s" % (mf))
+                # If it did not, restore the old file
+                os.system("git checkout %s" % (mf))
 
-            # Ensure we've restored order!
-            new_return_code = build()
-            assert(new_return_code == 0)
+                # Ensure we've restored order!
+                new_return_code = build()
+                assert(new_return_code == 0)
+finally:
+    if len(created_files) > 0:
+        os.system("git commit -m 'Auto-translated: %d files'" % len(created_files))
