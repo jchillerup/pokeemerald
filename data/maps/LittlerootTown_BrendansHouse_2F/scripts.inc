@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_RIVAL, 1
 
 LittlerootTown_BrendansHouse_2F_MapScripts::
@@ -273,18 +275,16 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-    .string "Uret går ikke…\p"
+    .string "Uret går ikke...\p"
     .string "Du må hellere stille det!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-    .string "MOR: {PLAYER}, hvordan kan du lide dit\n"
+    .string "MOR: {PLAYER}, hvordan syn's du om din\n"
     .string "nye værelse?\p"
-    .string "Godt! Alt er lagt pænt på plads!\p"
-    .string "De blev færdige med at flytte alt ind\n"
-    .string "på nedenunder også.\p"
-    .string "POKéMON-flyttemænd er så praktiske!\p"
-    .string "Åh, du skulle sørge for, at\n"
-    .string "alt er der på dit skrivebord.$"
+    .string "Super! Alt er ryddeligt nu!\p"
+    .string "De har også flyttet alt nedenunder.\p"
+    .string "POKéMON-flyttefolk er så praktiske!\p"
+    .string "Åh, husk at checke dit skrivebord.\p$"
 
 PlayersHouse_2F_Text_Notebook:
     .string "{PLAYER} åbnede notesbogen.\p"
@@ -295,10 +295,12 @@ PlayersHouse_2F_Text_Notebook:
     .string "De resterende sider er tomme…$"
 
 Common_Text_LookCloserAtMap:
-    .string "{PLAYER} tog et nærmere kig på\n"
+    .string "{PLAYER} tog et nærmere kig\n"
+    .string "på\n"
     .string "HOENN-regionens kort.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
     .string "Det er en Nintendo GameCube.\p"
     .string "En Game Boy Advance er tilsluttet\n"
     .string "for at fungere som kontroller.$"
+

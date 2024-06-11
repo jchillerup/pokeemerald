@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_MOM, 1
 .set LOCALID_RIVAL_MOM, 4
 .set LOCALID_RIVAL, 7
@@ -292,19 +294,21 @@ PlayersHouse_1F_Text_IsntItNiceInHere:
     .string "Er det ikke også dejligt herinde?$"
 
 PlayersHouse_1F_Text_MoversPokemonGoSetClock:
-    .string "Flyttemændenes POKéMON gør alt arbejdet\n"
-    .string "med at flytte os ind og rydde op efter.\l"
+    .string "Flyttemændenes POKéMON gør alt\n"
+    .string "arbejdet med at flytte os ind\n"
+    .string "og rydde op efter.\l"
     .string "Det er så praktisk!\p"
     .string "{PLAYER}, dit værelse er ovenpå.\n"
     .string "Gå derop og se det, skat!\p"
     .string "FAR har købt et nyt ur til dig\n"
-    .string "i forbindelse med vores flytning herhen.\l"
+    .string "i forbindelse med vores flytning\n"
+    .string "herhen.\l"
     .string "Glem ikke at stille det!$"
 
 PlayersHouse_1F_Text_ArentYouInterestedInRoom:
-    .string "MOR: Nå, {PLAYER}?\p"
-    .string "Er du ikke interesseret i at se dit\n"
-    .string "helt eget værelse?$"
+    .string "MOR: Well, {PLAYER}?\p"
+    .string "Aren't you excited to see your\n"
+    .string "very own room?$"
 
 PlayersHouse_1F_Text_GoSetTheClock:
     .string "MOR: {PLAYER}.\p"
@@ -319,7 +323,7 @@ PlayersHouse_1F_Text_MaybeDadWillBeOn:
     .string "Måske er FAR på!\p"
 
 PlayersHouse_1F_Text_ItsOverWeMissedHim:
-    .string "MOR: Åh… Det er slut.\p"
+    .string "MOR: Åh… It's slut.\p"
     .string "Jeg tror, at FAR var der, men vi\n"
     .string "mistede ham. Det er ærgerligt.$"
 
@@ -331,10 +335,10 @@ PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor:
     .string "gå hen og præsentere dig selv.$"
 
 PlayersHouse_1F_Text_SeeYouHoney:
-    .string "MOR: Vi ses, skat!$"
+    .string "MOR: Vi ses, skat!$" 
 
 PlayersHouse_1F_Text_DidYouMeetProfBirch:
-    .string "MOR: Præsenterede du dig selv for\n"
+    .string "MOR: Did you introduce yourself to\n"
     .string "PROF. BIRCH?$"
 
 PlayersHouse_1F_Text_YouShouldRestABit:
@@ -346,18 +350,18 @@ PlayersHouse_1F_Text_TakeCareHoney:
     .string "MOR: Pas på dig selv, skat!$"
 
 PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom:
-    .string "MOR: Åh? Gav FAR dig den BADGE?\p"
-    .string "Så her er noget fra din MOR!$"
+    .string "MOR: Oh? Did FAR give you the BADGE?\p"
+    .string "So here's something from your MOTHER!$"
 
 PlayersHouse_1F_Text_DontPushYourselfTooHard:
-    .string "Pres dig ikke for hårdt, skat.\n"
-    .string "Du kan altid komme hjem.\p"
-    .string "Gå efter det, skat!$"
+    .string "Tag det roligt, søde.\n"
+    .string "Du kan altid vende tilbage.\p"
+    .string "Giv den gas, søde!$" 
 
 PlayersHouse_1F_Text_IsThatAPokenav:
     .string "MOR: Hvad er det, skat? En POKéNAV?\n"
     .string "Nogen fra DEVON gav dig den?\p"
-    .string "Nå, skat, hvad med at registrere\ndin mor?\p"
+    .string "Nå, skat, hvad med at registrere\n\pdin mor?\p"
     .string "… … …$"
 
 PlayersHouse_1F_Text_RegisteredMom:
@@ -365,28 +369,28 @@ PlayersHouse_1F_Text_RegisteredMom:
     .string "i POKéNAV.$"
 
 PlayersHouse_1F_Text_Vigoroth1:
-    .string "Fugiiiiih!$"
+.string "Fugiiiiih!$" 
 
 PlayersHouse_1F_Text_Vigoroth2:
     .string "Huggoh, uggo uggo…$"
 
 PlayersHouse_1F_Text_ReportFromPetalburgGym:
-    .string "INTERVIEWER: …Vi bringer dig denne\n"
+    .string "INTERVIEWER: ...Vi bringer dig denne\n"
     .string "rapport fra foran PETALBURG GYM.$"
 
 PlayersHouse_1F_Text_TheresAMovieOnTV:
     .string "Der er en film på TV.\p"
-    .string "To mænd danser på et stort klaver\n"
-    .string "keyboard.\p"
+    .string "To mænd danser på et stort\n"
+    .string "klaver\nkeyboard.\p"
     .string "Bedre komme videre!$"
 
 PlayersHouse_1F_Text_RunningShoesManual:
-    .string "Det er instruktionshæftet til\n"
+    .string "Dette er manualen til\n"
     .string "LØBESKOENE.\p"
-    .string "“Tryk på B-knappen for at løbe, mens\n"
-    .string "du har dine LØBESKO på.\p"
-    .string "“Sæt dine LØBESKO på og kom ud\n"
-    .string "på vejen at løbe!”$"
+    .string "“Tryk på B-knappen for at\n"
+    .string "løbe, når du har dine LØBESKO på.\p"
+    .string "“Tag dine LØBESKO på og\n"
+    .string "kom ud på vejen for at løbe!$"
 
 PlayersHouse_1F_Text_TicketFromBrineyCameForYou:
     .string "FAR: Hm?\p"
@@ -405,29 +409,29 @@ PlayersHouse_1F_Text_PortsInSlateportLilycove:
     .string "i SLATEPORT og LILYCOVE.$"
 
 PlayersHouse_1F_Text_BetterGetBackToGym:
-    .string "Jeg burde nok komme tilbage til\n"
+    .string "Jeg burde nok komme tilbage\ntil\n"
     .string "PETALBURG GYM.\p"
-    .string "MOR, tak fordi du passer huset\n"
+    .string "MOR, tak fordi du passer\nhuset\n"
     .string "mens jeg er væk.$"
 
 PlayersHouse_1F_Text_DadShouldStayLonger:
-    .string "MOR: Den FAR, din…\p"
+    .string "MOR: Din FAR, han... \p"
     .string "Han kommer hjem for første gang i lang tid,\n"
-    .string "men alt hvad han taler om, er POKéMON.\p"
+    .string "men alt hvad han taler om, er POKéMON. \p"
     .string "Han burde slappe af og blive lidt længere.$"
 
 PlayersHouse_1F_Text_IsThatABreakingStory:
-    .string "MOR: Er det en nyhedsflash?$"
+.string "MOR: Er det en nyhedsflash?$"
 
 PlayersHouse_1F_Text_LatiEmergencyNewsFlash:
     .string "Vi bringer dig denne nød-\n"
     .string "nyhedsflash!\p"
-    .string "I forskellige HOENN-områder er der blevet\n"
-    .string "rapporteret om en BZZT…farvet\n"
+    .string "I forskellige HOENN-\nområder er der blevet\n"
+    .string "rapporteret om en BZZT…\nfarvet\n"
     .string "POKéMON, der flyver rundt.\p"
-    .string "Identiteten af denne POKéMON er\n"
+    .string "Identiteten af denne\nPOKéMON er\n"
     .string "for øjeblikket ukendt.\p"
-    .string "Vi vender nu tilbage til den normale\n"
+    .string "Vi vender nu tilbage\ntil den normale\n"
     .string "filmudsendelse.$"
 
 PlayersHouse_1F_Text_WhatColorDidTheySay:
@@ -436,5 +440,6 @@ PlayersHouse_1F_Text_WhatColorDidTheySay:
     .string "at POKéMON'en havde?$"
 
 PlayersHouse_1F_Text_StillUnknownPokemon:
-    .string "MOR: Nå, er det ikke noget!\n"
-    .string "Der er stadig ukendte POKéMON.$"
+    .string "MOR: Well, isn't that something!\n"
+    .string "There are still unknown POKéMON.$"
+

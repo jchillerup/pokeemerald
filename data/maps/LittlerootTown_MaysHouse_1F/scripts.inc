@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_MOM, 1
 .set LOCALID_RIVAL_MOM, 4
 .set LOCALID_RIVAL, 7
@@ -326,11 +328,12 @@ RivalsHouse_1F_Text_OhYoureTheNewNeighbor:
     .string "… … … … … … … … …\p"
     .string "Åh, du er {PLAYER}{KUN}, vores nye nabo!\n"
     .string "Hej!\p"
-    .string "Vi har en {STR_VAR_1} på omtrent samme\n"
-    .string "alder som dig.\p"
+    .string "Vi har en {STR_VAR_1} på omtrent\n"
+    .string "samme alder som dig.\p"
     .string "Vores {STR_VAR_1} var spændt på at få\n"
     .string "en ny ven.\p"
-    .string "Vores {STR_VAR_1} er oppe ovenpå, tror jeg.$"
+    .string "Vores {STR_VAR_1} er oppe ovenpå,\n"
+    .string "tror jeg.$"
 
 RivalsHouse_1F_Text_LikeChildLikeFather:
     .string "Som barn, som far.\p"
@@ -342,8 +345,8 @@ RivalsHouse_1F_Text_LikeChildLikeFather:
 RivalsHouse_1F_Text_TooBusyToNoticeVisit:
     .string "Den {RIVAL}!\p"
     .string "Jeg tror, vores barn er for travlt\n"
-    .string "med POKéMON til at lægge mærke til,\n"
-    .string "at du kom for at besøge, {PLAYER}{KUN}.$"
+    .string "med POKéMON til at lægge mærke\n"
+    .string "til, at du kom for at besøge, {PLAYER}{KUN}.$"
 
 RivalsHouse_1F_Text_WentOutToRoute103:
     .string "Åh, {RIVAL} tog ud til ROUTE 103\n"
@@ -352,8 +355,8 @@ RivalsHouse_1F_Text_WentOutToRoute103:
     .string "{RIVAL} kan ikke blive stille derhjemme.$"
 
 RivalsHouse_1F_Text_ShouldGoHomeEverySoOften:
-    .string "Jeg synes, det er vidunderligt for folk\n"
-    .string "at rejse med POKéMON.\p"
+    .string "Jeg synes, det er fantastisk at rejse\n"
+    .string "med POKéMON.\p"
     .string "Men du burde tage hjem en gang imellem\n"
     .string "for at lade din mor vide, at du er okay.\p"
     .string "Hun siger det måske ikke, men jeg er\n"
@@ -386,13 +389,13 @@ RivalsHouse_1F_Text_MayWhoAreYou:
 
 RivalsHouse_1F_Text_BrendanWhoAreYou:
     .string "Hey!\n"
-    .string "Du…\p"
+    .string "Du...\p"
     .string "Hvem er du?\p"
     .string "Åh, du er {PLAYER}, ikke? Flyttede ind\n"
     .string "lige ved siden af, ikke?\p"
     .string "Jeg vidste ikke, at du er en pige.\p"
     .string "Min far, PROF. BIRCH, sagde, at vores\n"
-    .string "nye nabo er en GYM LEADER's barn, så\n"
+    .string "nye nabo er en GYM LEADERs barn, så\n"
     .string "jeg antog, at du ville være en fyr.\p"
     .string "Mit navn er BRENDAN.\n"
     .string "Så, hej, nabo!\p"
@@ -400,12 +403,13 @@ RivalsHouse_1F_Text_BrendanWhoAreYou:
     .string "en POKéMON?\p"
     .string "Vil du have, at jeg går ud og fanger en\n"
     .string "til dig?\p"
-    .string "Åh, for søren, det glemte jeg…\p"
+    .string "Åh, for søren, det glemte jeg...\p"
     .string "Jeg skulle hjælpe min far med at fange\n"
     .string "nogle vilde POKéMON.\p"
     .string "En anden gang, okay?$"
 
 RivalsHouse_1F_Text_DoYouHavePokemon:
     .string "Hej, nabo!\p"
-    .string "Har du allerede din\n"
-    .string "egen POKéMON?$"
+    .string "Har du allerede\n"
+    .string "din egen POKéMON?$"
+

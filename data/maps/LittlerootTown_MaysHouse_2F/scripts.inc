@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 .set LOCALID_RIVAL, 1
 
 LittlerootTown_MaysHouse_2F_MapScripts::
@@ -332,18 +334,18 @@ RivalsHouse_2F_Text_MayWhoAreYou:
     .string "Åh nej! Jeg glemte det!\p"
     .string "Jeg skulle hjælpe far med at fange\n"
     .string "nogle vilde POKéMON!\p"
-    .string "{PLAYER}{KUN}, vi ses senere!$"
+    .string "{PLAYER}{KUN}, vi ses senere!$" 
 
 RivalsHouse_2F_Text_MayGettingReady:
     .string "POKéMON fuldt genoprettet!\n"
-    .string "Ting klar, og…$"
+    .string "Klar til eventyr…$"
 
 RivalsHouse_2F_Text_BrendanWhoAreYou:
-    .string "Hey!\n"
+    .string "Hej!\n"
     .string "Du…\p"
     .string "Hvem er du?\p"
-    .string "Åh, du er {PLAYER}, ikke? Flyttede ind\n"
-    .string "lige ved siden af, ikke?\p"
+    .string "Åh, du er {PLAYER}, ikke? Flyttede\n"
+    .string "ind lige ved siden af, ikke?\p"
     .string "Jeg vidste ikke, at du er en pige.\p"
     .string "Min far, PROF. BIRCH, sagde, at vores\n"
     .string "nye nabo er en GYM LEADER's barn, så\n"
@@ -352,8 +354,8 @@ RivalsHouse_2F_Text_BrendanWhoAreYou:
     .string "Så, hej, nabo!\p"
     .string "Hvad? Hej, {PLAYER}, har du ikke\n"
     .string "en POKéMON?\p"
-    .string "Vil du have, at jeg går ud og fanger en\n"
-    .string "til dig?\p"
+    .string "Vil du have, at jeg går ud og fanger\n"
+    .string "en til dig?\p"
     .string "Åh, for søren, det glemte jeg…\p"
     .string "Jeg skulle hjælpe min far med at fange\n"
     .string "nogle vilde POKéMON.\p"
@@ -365,27 +367,28 @@ RivalsHouse_2F_Text_BrendanGettingReady:
 
 RivalsHouse_2F_Text_ItsRivalsPokeBall:
     .string "Det er {RIVAL}s POKé BOLD!\p"
-    .string "Bedre at lade det være, hvor det er.$"
+    .string "Bedre at lade det være,\nhvor det er.$"
 
 RivalsHouse_2F_Text_MayJustCheckingMyPokedex:
-    .string "MAY: {PLAYER}{KUN}!\p"
-    .string "Jeg tjekkede lige min POKéDEX.\p"
-    .string "Der er stadig en masse POKéMON, som\n"
-    .string "jeg har set, men ikke fanget.\p"
-    .string "Og der er mange andre, som jeg tror vil\n"
-    .string "udvikle sig.\p"
-    .string "Jeg undrer mig over, hvor jeg skulle gå\n"
-    .string "hen og fange nogle POKéMON næste gang?$"
+    .string "MAY: {PLAYER} only!\p"
+    .string "I just checked my POKéDEX.\p"
+    .string "There are still a lot of POKéMON\n"
+    .string "I've seen but not caught.\p"
+    .string "And many others I think will evolve.\p"
+    .string "I wonder where I should go\n"
+    .string "to catch some POKéMON next time?$"
 
 RivalsHouse_2F_Text_MayWhereShouldIGoNext:
-    .string "MAY: Jeg undrer mig over, hvor jeg skulle\n"
-    .string "gå hen og fange nogle POKéMON næste\n"
-    .string "gang?\p"
-    .string "Ville det ikke være sjovt, hvis vi stødte\n"
+    .string "MAY: Jeg undrer mig over, hvor jeg\n"
+    .string "skulle gå hen og fange nogle\n"
+    .string "POKéMON næste\n"
+    .string "gang?\n"
+    .string "Ville det ikke være\n"
+    .string "sjovt, hvis vi stødte\n"
     .string "ind i hinanden, {PLAYER}{KUN}?$"
 
 RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex:
-    .string "BRENDAN: Hey, det er {PLAYER}.\p"
+    .string "BRENDAN: Hej, det er {PLAYER}.\p"
     .string "Jeg tjekkede lige min POKéDEX.\p"
     .string "Der er stadig mange POKéMON, som jeg\n"
     .string "skal fange, jeg ved det, men det\n"
@@ -399,3 +402,4 @@ RivalsHouse_2F_Text_BrendanWhereShouldIGoNext:
     .string "Hej, {PLAYER}, hvis jeg ser dig, mens jeg\n"
     .string "er ude og fange POKéMON, kan jeg\n"
     .string "udfordre dig til en kamp, hvis du vil.$"
+
