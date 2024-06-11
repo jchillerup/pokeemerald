@@ -37,7 +37,7 @@ SlateportCity_Mart_EventScript_Man::
 	end
 
 SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
-	.string "MARKED" har nogle spændende\n"
+	.string "MARKED har nogle spændende\n"
 	.string "varer.\p"
 	.string "Men der er nogle ting, du kun kan\n"
 	.string "få i en POKéMONFORRETNING.$"
@@ -47,6 +47,4 @@ SlateportCity_Mart_Text_GreatBallIsBetter:
 	.string "til at fange POKéMON.\p"
 	.string "Med denne burde jeg kunne fange den\n"
 	.string "flygtige POKéMON…$"
-
-
 

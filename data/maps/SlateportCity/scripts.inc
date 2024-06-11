@@ -1117,7 +1117,7 @@ SlateportCity_Text_SinkOldBoats:
 	.string "bliver levesteder for POKéMON.$"
 
 SlateportCity_Text_BuyTooMuch:
-	.string "Hver gang jeg besøger dette sted, bliver jeg\n"\n
+	.string "Hver gang jeg besøger dette sted, bliver jeg\n"
 	.string "revet med og køber for meget.$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
@@ -1180,7 +1180,8 @@ SlateportCity_Text_MostInvaluableExperience:
     .string "uvurderlig oplevelse...\n$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "Kaptajn Stern: Ja, bestemt. Vi har\n"\n.string "til hensigt at fortsætte med vores udforskning.$"
+	.string "Kaptajn Stern: Ja, bestemt. Vi har\n"
+	.string "tænkt os at fortsætte med vores udforskning.$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
 	.string "GABBY: Det er fantastisk, KAPT. STERN!\n"

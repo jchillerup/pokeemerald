@@ -838,7 +838,7 @@ Route110_Text_YouGotBikeFromRydel:
 	.string "RYDEL, RYDEL, RYDEL, RYDEL, RYDEL…\n"
 	.string "Det navn er overalt.\p"
 	.string "Du bør cykle rundt overalt\n"
-	.string "– det er god reklame!$"
+	.string "-- det er god reklame!$"
 
 Route110_Text_TwoRoads:
 	.string "De to veje, én ovenpå, én nedenunder...\p"

@@ -294,7 +294,7 @@ LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
 	.string "…Lad være med engang at prøve det!$"
 
 LavaridgeTown_Gym_B1F_Text_EliIntro:
-	.string "Selvom jeg elsker bjerge,\n" \n
+	.string "Selvom jeg elsker bjerge,\n"
 	.string "så elsker jeg især vulkaner.$"
 
 LavaridgeTown_Gym_B1F_Text_EliDefeat:

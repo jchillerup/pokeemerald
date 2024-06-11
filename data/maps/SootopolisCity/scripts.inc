@@ -1485,10 +1485,10 @@ SootopolisCity_Text_GreenOneSettlesThings:
 
 SootopolisCity_Text_SeeingLegendWithOwnEyes:
 	.string "Der er en gammel legende, der hævder,\n"
-	.string "at land og hav blev formet af en\f"
+	.string "at land og hav blev formet af en\l"
 	.string "kolossal kamp mellem POKéMON.\p"
 	.string "Wow, jeg ser det ske med mine egne\n"
-	.string "øjne!\p"
+	.string "øjne!\l"
 	.string "Whoa! Jeg havde aldrig forventet at\n"
 	.string "være vidne til noget så stort!$"
 
@@ -1667,7 +1667,8 @@ SootopolisCity_Text_HereWereAreHelpWallace:
 	.string "help him…$"
 
 SootopolisCity_Text_KnowWhatsNeededToHelpHim:
-.string "STEVEN: Jeg tror, du har hvad der\n"\n"skal til for at hjælpe ham...$"
+	.string "STEVEN: Jeg tror, du har hvad der\n"
+	.string "skal til for at hjælpe ham...$"
 
 SootopolisCity_Text_NeverBeenToSkyPillar:
 	.string "STEVEN: Himlens SØJLE…\p"

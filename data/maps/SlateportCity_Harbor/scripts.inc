@@ -423,7 +423,7 @@ SlateportCity_Harbor_Text_PleaseBoardFerry:
 	.string "på afgang.$"  
 
 SlateportCity_Harbor_Text_WhereWouldYouLikeToGo:
-	string "Hvor vil du gerne gå hen?$"
+	.string "Hvor vil du gerne gå hen?$"
 
 SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday:
 	.string "En rejse til bunden af havet...\n"

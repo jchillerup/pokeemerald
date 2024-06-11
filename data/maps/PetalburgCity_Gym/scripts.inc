@@ -1173,7 +1173,7 @@ PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon:
 	.string "før. Jeg ved ikke hvordan…$"
 
 PetalburgCity_Gym_Text_DadHmISee:
-	".string "Far: Hmm. Jeg ser.$"
+	.string "Far: Hmm. Det kan jeg godt se.$"
 
 PetalburgCity_Gym_Text_DadPlayerGoWithWally:
 	.string "FAR: {PLAYER}, hørte du det,\n"
@@ -1553,7 +1553,7 @@ PetalburgCity_Gym_Text_EnterGymLeadersRoom:
 	.string "Vil du gå igennem?$"
 
 PetalburgCity_Gym_Text_GymStatue:
-.string "PETALBURG CITY Pokémon GYM$"
+	.string "PETALBURG CITY POKéMON GYM$"
 
 PetalburgCity_Gym_Text_GymStatueCertified:
 	.string "PETALBURG CITY POKéMON GYM\p"

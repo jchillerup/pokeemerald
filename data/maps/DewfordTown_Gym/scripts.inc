@@ -309,7 +309,7 @@ DewfordTown_Gym_Text_TakaoIntro:
 	.string "Kom nu!$"
 
 DewfordTown_Gym_Text_TakaoDefeat:
-.string "Ikke nok energi..."$
+	.string "Ikke nok energi...$"
 
 DewfordTown_Gym_Text_TakaoPostBattle:
 	.string "Dit dygtighed overvandt min styrke!\n"
@@ -426,7 +426,7 @@ DewfordTown_Gym_Text_BrawlyPostBattle:
 	.string "forundring blandt TRÆNERE en dag!\p$"
 
 DewfordTown_Gym_Text_GymStatue:
-.string "DEWFORD BY POKéMON GYM$" 
+	.string "DEWFORD BY POKéMON GYM$" 
 
 DewfordTown_Gym_Text_GymStatueCertified:
 	.string "DEWFORD BY POKéMON GYM\p"

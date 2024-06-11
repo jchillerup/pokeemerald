@@ -342,7 +342,7 @@ LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg:
 	.string "med dette her ÆG!$"
 
 LavaridgeTown_Text_ReceivedTheEgg:
-".string "{PLAYER} modtog ÆGGET.$"
+	.string "{PLAYER} modtog ÆGGET.$"
 
 LavaridgeTown_Text_NoRoomForThisEgg:
 	.string "Åh? Du har for mange POKéMON.\n"
@@ -409,6 +409,3 @@ LavaridgeTown_Text_GymSign:
 LavaridgeTown_Text_HerbShopSign:
 	.string "POKéMON URTEBUTIK\n"
 	.string "“Bitter smag - bedre kur!”$"
-
-
-

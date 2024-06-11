@@ -385,7 +385,7 @@ MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
 	.string "Fremad, lille ven!$"
 
 MauvilleCity_Gym_Text_GymStatue:
-.string "MAUVILLE CITY Pokémon GYM$"
+	.string "MAUVILLE CITY POKéMON GYM$"
 
 MauvilleCity_Gym_Text_GymStatueCertified:
 	.string "MAUVILLE CITY POKéMON GYM\p"

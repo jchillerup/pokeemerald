@@ -382,11 +382,11 @@ MossdeepCity_Text_LifeNeedsSeaToLive:
 	.string "Ja, ligesom kystlinjen lige her.$"
 
 MossdeepCity_Text_SurfExhilarating:
-	.string ""En rejse på et skib er fint.\p""
-	.string ""Men at krydse havet med POKéMON\n""
-	.string ""ved at bruge SURF…\p""
-	.string ""Det er virkelig en spændende tur!\n""
-	.string ""Er du ikke enig, knægt?$""
+	.string "En rejse på et skib er fint.\p"
+	.string "Men at krydse havet med POKéMON\n"
+	.string "ved at bruge SURF…\p"
+	.string "Det er virkelig en spændende tur!\n"
+	.string "Er du ikke enig, knægt?$"
 
 MossdeepCity_Text_SpecialSpaceCenterRock:
 	.string "Denne sten har en særlig betydning for\n"
@@ -412,8 +412,8 @@ MossdeepCity_Text_CitySign:
 	.string "“Vores slogan: Værn om POKéMON!”$"
 
 MossdeepCity_Text_SpaceCenterSign:
-	.string "Mossdeep Space Center\\n"
-	.string "“Det nærmeste sted til rummet.”$"
+	.string "Mossdeep Space Center\n"
+	.string "Det nærmeste sted til rummet.$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
 	.string "SCOTT: {PLAYER}{KUN}, føler du dig godt tilpas?\n"

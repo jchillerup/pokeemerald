@@ -344,11 +344,11 @@ DewfordTown_Hall_Text_TrendsSmile:
 
 DewfordTown_Hall_Text_LastTrend:
 	.string "Den hedder “DEN SIDSTE\n"
-	.string "{STR_VAR_1}”.$"
+	.string "{STR_VAR_1}.$"
 
 DewfordTown_Hall_Text_BirthOfTrend:
 	.string "Det hedder “FØDSEL\n"
-	.string "AF {STR_VAR_1}".$"
+	.string "AF {STR_VAR_1}”.$"
 
 DewfordTown_Hall_Text_SawTrendCoolestThing:
 	.string "Jeg så “{STR_VAR_1}”!\n"
@@ -443,6 +443,3 @@ DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo:
 	.string "Men POKéMON med angrebet\n"
 	.string "“{STR_VAR_1}”\l"
 	.string "er også med.$"
-
-
-

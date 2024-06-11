@@ -382,7 +382,7 @@ Route120_Text_StevenIllWaitHere:
 	.string "Jeg vil vente her, så du kan gøre dig klar.$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "STEVEN: {PLAYER}, er dine POKéMON\n"\n
+	.string "STEVEN: {PLAYER}, er dine POKéMON\n"
 	.string "klar til kamp?$"
 
 Route120_Text_StevenShowMeYourPower:

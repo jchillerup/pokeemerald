@@ -263,7 +263,7 @@ RustboroCity_PokemonSchool_Text_ExplainQuickClaw:
 	.string "emner at studere!$"
 
 RustboroCity_PokemonSchool_Text_TradingRightNow:
-	.string "Jeg bytter POKéMON med min ven\n"\n
+	.string "Jeg bytter POKéMON med min ven\n"
 	.string "lige nu.$"
 
 RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot:

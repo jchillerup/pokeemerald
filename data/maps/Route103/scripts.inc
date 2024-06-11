@@ -341,7 +341,7 @@ Route103_Text_BrendanTimeToHeadBack:
 	.string "{PLAYER}, jeg har en fornemmelse af,\n"
 	.string "at du kunne blive ven med enhver\n"
 	.string "POKéMON med lethed.\p"
-	.string "Vi bør vende tilbage til LAB\'et.$"
+	.string "Vi bør vende tilbage til LAB'et.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
 	.string "Min POKéMON er forfærdeligt træt…\n"

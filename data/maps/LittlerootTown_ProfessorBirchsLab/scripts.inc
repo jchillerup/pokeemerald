@@ -938,10 +938,6 @@ LittlerootTown_ProfessorBirchsLab_Text_ReceivedJohtoStarter:
 	.string "{PLAYER} modtog den {STR_VAR_1}\n"
 	.string "fra PROF. BIRCH!$"
 
-@ Unused
-"Vil du give et kælenavn til\n"
-"{STR_VAR_1}, du har fået?$"
-
 LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting:
 	.string "PROF. BIRCH: Lyt, {PLAYER}{KUN}.\n"
 	.string "Du har fuldført HOENN POKéDEX,\l"

@@ -286,7 +286,7 @@ SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow:
 	.string "som vi ikke kender til.$"
 
 SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon:
-	.string "Jeg vil gerne have en hav POKéMON.\p"\n
+	.string "Jeg vil gerne have en hav POKéMON.\p"
 	.string "Jeg tror, det ville føles sejt og lækkert\n"
 	.string "at kramme.$"
 
