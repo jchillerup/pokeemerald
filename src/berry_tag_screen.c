@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "berry_tag_screen.h"
 #include "berry.h"

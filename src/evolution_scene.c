@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "malloc.h"
 #include "battle.h"
@@ -77,7 +78,7 @@ static const u16 sUnusedPal3[]  = INCBIN_U16("graphics/evolution_scene/unused_3.
 static const u16 sUnusedPal4[] = INCBIN_U16("graphics/evolution_scene/unused_4.gbapal");
 static const u16 sBgAnim_Pal[] = INCBIN_U16("graphics/evolution_scene/bg_anim.gbapal");
 
-static const u8 sText_ShedinjaJapaneseName[] = _("ヌケニン");
+static const u8 sText_ShedinjaJapaneseName[] = _("Ninja-fjæs");
 
 // The below table is used by Task_UpdateBgPalette to control the speed at which the bg color updates.
 // The first two values are indexes into sBgAnim_PalIndexes (indirectly, via sBgAnimPal), and are

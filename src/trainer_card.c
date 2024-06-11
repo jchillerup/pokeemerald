@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "scanline_effect.h"
 #include "palette.h"

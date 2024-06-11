@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "text.h"
 #include "text_window.h"

@@ -2,6 +2,7 @@ import re
 from rich.progress import track
 import rich
 from translate import PROMPT, client
+import os, subprocess
 
 
 MAPFILES = [
@@ -370,9 +371,6 @@ MAPFILES = [
     'data/text/tv.inc',
 ]
 
-
-
-
 def process_part(part):
     if ".string" not in part: return part
 
@@ -414,9 +412,6 @@ def process_file(infile):
         
         return True
     
-import subprocess
-import os
-
 def build():
     result = subprocess.Popen(["make", "-j1"], stdout=subprocess.PIPE, stderr=subprocess.PIPE)
     text = result.communicate()[0]

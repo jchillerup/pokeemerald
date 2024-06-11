@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "battle_anim.h"
 #include "berry.h"

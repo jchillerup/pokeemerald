@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "mail.h"
 #include "constants/items.h"

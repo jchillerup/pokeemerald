@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "battle_records.h"
 #include "bg.h"
@@ -84,8 +85,8 @@ static const struct WindowTemplate sLinkBattleRecordsWindow =
     .baseBlock = 1
 };
 
-static const u8 sText_DashesNoPlayer[] = _("-------");
-static const u8 sText_DashesNoScore[] = _("----");
+static const u8 sText_DashesNoPlayer[] = _("- - - - - -");
+static const u8 sText_DashesNoScore[] = _("- - - -");
 
 // code
 static void ClearLinkBattleRecord(struct LinkBattleRecord *record)

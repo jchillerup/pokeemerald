@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "gpu_regs.h"
 #include "main.h"

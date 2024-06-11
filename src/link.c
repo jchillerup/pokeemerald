@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "m4a.h"
 #include "malloc.h"

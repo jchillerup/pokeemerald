@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "battle.h"
 #include "battle_controllers.h"

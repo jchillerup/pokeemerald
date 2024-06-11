@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "trainer_pokemon_sprites.h"
 #include "bg.h"

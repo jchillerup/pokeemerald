@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "pokenav.h"
 #include "bg.h"

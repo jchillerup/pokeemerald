@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "malloc.h"
 #include "bg.h"

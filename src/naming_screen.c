@@ -1,3 +1,4 @@
+// TRANSLATED
 #include "global.h"
 #include "naming_screen.h"
 #include "malloc.h"
