@@ -453,7 +453,7 @@ BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe:
 	.string "Men hvor er indgangen?$"
 
 BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo:
-	.string ""Der plejede ikke at være noget her for\n"
+	.string "Der plejede ikke at være noget her for\n"
 	.string "så længe siden.\p"
 	.string "Men se nu dette sted! Fantastisk!\n"
 	.string "Jeg vil bringe min mor ud for at se dette.$"
@@ -527,6 +527,3 @@ BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier:
 	.string "Den må være sød. Jeg er sikker på det…\p"
 	.string "Åh, udfordringer kan vente. Jeg føler\n"
 	.string "mig drevet til at finde det dejlige væsen!$"
-
-
-
