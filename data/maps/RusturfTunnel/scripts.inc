@@ -492,10 +492,10 @@ RusturfTunnel_Text_YouShatteredBoulderTakeHM:
 	.string "Wow! Du knuste den store sten\n"
 	.string "der blokerede vejen.\p"
 	.string "For at vise dig, hvor meget jeg\n"
-	.string "værdsetter det, vil jeg gerne\have dette HM.$"
+	.string "værdsætter det, får du denne HM.$"
 
 RusturfTunnel_Text_ExplainStrength:
-	.string "Den HM indeholder STYRKE.\p"
+	.string "Denne HM indeholder STYRKE.\p"
 	.string "Hvis en muskuløs POKéMON lærte det,\n"
 	.string "ville den kunne flytte selv store\n"
 	.string "sten.$"

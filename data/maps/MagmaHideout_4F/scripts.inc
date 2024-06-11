@@ -170,7 +170,7 @@ MagmaHideout_4F_Text_Grunt13Defeat:
 .string "Var jeg virkelig så nem at vælte?\p$"
 
 MagmaHideout_4F_Text_Grunt13PostBattle:
-.string "Kom så, ét mere spil…$"
+	.string "Kom så, ét mere spil…$"
 
 MagmaHideout_4F_Text_TabithaIntro:
 	.string "Hihihi!\n"

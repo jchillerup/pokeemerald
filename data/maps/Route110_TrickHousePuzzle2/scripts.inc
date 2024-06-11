@@ -135,10 +135,10 @@ Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
 	.string "Så jeg studerer, hvordan man sætter fælder.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
-".Jeg har ikke studeret kamp nok!$"
+	.string "Jeg har ikke studeret nok!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "Du er stærk, er du ikke?\n"\n
+	.string "Du er stærk, er du ikke?\n"
 	.string "Måske endda stærk nok til at være en GYM LEADER!$"
 
 

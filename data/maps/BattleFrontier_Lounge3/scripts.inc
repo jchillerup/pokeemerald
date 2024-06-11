@@ -254,9 +254,9 @@ BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle::
 	.string "TRÆNER med den vindende kvalitet.$"
 
 BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble::
-	.string "Det, jeg leder efter, er en TRÆNER,"\n
+	.string "Det, jeg leder efter, er en TRÆNER,\n"
 	.string "som skal deltage i KAMPDOMENS\n"
-	.string "DOBBELTKAMPSTURNERING.\p"\n
+	.string "DOBBELTKAMPSTURNERING.\p"
 	.string "Men indtil videre har jeg ikke set\n"
 	.string "en TRÆNER, der besidder den\n"
 	.string "vindende kvalitet.$"

@@ -448,11 +448,11 @@ BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
 	.string "Vælg venligst en præmie fra denne liste.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissPoster:
-	.string "Du har valgt KISS PLAKATEN.\n"\n
+	.string "Du har valgt KISS PLAKATEN.\n"
 	.string "Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissCushion:
-	.string "Du har valgt KYSSEPUDEN.\n"\n
+	.string "Du har valgt KYSSEPUDEN.\n"
 	.string "Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSmoochumDoll:
@@ -464,7 +464,7 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmTogepiDoll:
 	.string "Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMeowthDoll:
-	.string "Du har valgt MEOWTH DUKKEN.\n"\n
+	.string "Du har valgt MEOWTH DUKKEN.\n"
 	.string "Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll:
@@ -472,7 +472,7 @@ BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll:
 	.string "Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmDittoDoll:
-	.string "Du har valgt DITTO DUKKEN.\n"\n
+	.string "Du har valgt DITTO DUKKEN.\n"
 	.string "Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCyndaquilDoll:
@@ -664,7 +664,7 @@ BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
 	.string "Læg den på en måtte eller et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "En stor DUKKE.\n" \p
+	.string "En stor DUKKE.\n"
 	.string "Placer den på et tæppe eller et skrivebord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
@@ -695,7 +695,7 @@ BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc::
 	.string "HP under kamp.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
-	.string "En holdgenstand, der genopretter enhver\n"\n
+	.string "En holdgenstand, der genopretter enhver\n"
 	.string "sænket statistik.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::

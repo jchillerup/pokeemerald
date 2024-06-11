@@ -230,9 +230,9 @@ LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "Den forestiller en gammel FUGL POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "Det er en stor POKé BALL udskåret\n" \n
-	.string "i sort sten.\p" \n
-	.string "Den blev åbenbart brugt til fester\n" \n
+	.string "Det er en stor POKé BALL udskåret\n"
+	.string "i sort sten.\p"
+	.string "Den blev åbenbart brugt til fester\n"
 	.string "i gamle dage.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:

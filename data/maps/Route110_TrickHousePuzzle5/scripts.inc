@@ -985,8 +985,8 @@ Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
 	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Koster ét REPEL og SODA POP\n"
-	.string "mere end én SUPER POTION?$"
+	.string "Koster ét REPEL og SODA POP\n"
+	.string "mere end én SUPER POTION?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
 	.string "KLIKKETY-KLAK…\n"

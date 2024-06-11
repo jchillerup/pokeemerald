@@ -191,7 +191,7 @@ BattleFrontier_Lounge2_Text_DomeAceGoldMons::
 	.string "bruger han disse tre POKéMON:\p"
 	.string "En DRAGE- og FLYVENDE EON POKéMON,\n"
 	.string "en VAND- og JORD MUD FISH POKéMON,\l"
-	.string "og en STÅL- og PSYKISK-type IRON LEG\l"
+	.string "og en STÅL- og PSYKISK-type IRON LEG\l"
 	.string "POKéMON.$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
@@ -345,7 +345,7 @@ BattleFrontier_Lounge2_Text_DoubleBattleAdvice3::
 BattleFrontier_Lounge2_Text_MultiBattleAdvice::
 	.string "Alle slags TRÆNERE samles i\n"
 	.string "KAMP SALONEN.\p"
-	.string "Forestil dig bare—du kunne støde\n"
+	.string "Forestil dig bare--du kunne støde\n"
 	.string "på dine venner eller følgere!\l"
 	.string "Du bør kigge godt efter!$"
 

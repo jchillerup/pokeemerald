@@ -257,13 +257,13 @@ Route110_TrickHouseEnd_Text_YouveMadeItToMe:
 	.string "Hmm... Du er skarp!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
-.string "Det tog mig hele natten at plante alle\n"
-.string "disse træer…\p"
-.string "Du er næsten min lige i storhed med\n"
-.string "et, to, tre, fire, fem, seks steder!$"
+	.string "Det tog mig hele natten at plante alle\n"
+	.string "disse træer…\p"
+	.string "Du er næsten min lige i storhed med\n"
+	.string "et, to, tre, fire, fem, seks steder!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMaze:
-	.string "Det tog mig hele natten at lave labyrinten...\p"\n
+	.string "Det tog mig hele natten at lave labyrinten...\p"
 	.string "Du er næsten min ligeværdige i storhed på\n"
 	.string "én, to, tre, fire, fem pladser!$"
 

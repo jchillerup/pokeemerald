@@ -509,7 +509,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon2Ask::
 	.string "Jeg er sikker på, det vil være en fantastisk kombination!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Accept::
-	.string "Jeg tror dette bliver sjovt!\n"\n
+	.string "Jeg tror dette bliver sjovt!\n"
 	.string "Jeg går hen og registrerer mig!$" 
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Reject::
@@ -759,7 +759,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassIntro::
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon1::
 	.string "Det jeg har er en {STR_VAR_2}\n"
-	.string "som bruger {STR_VAR_1} og én$"
+	.string "som bruger {STR_VAR_1} og én$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon2Ask::
 	.string "{STR_VAR_2} som bruger {STR_VAR_1}.\n"
@@ -878,7 +878,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyAccept::
 	.string "Jeg vil tage mig af registreringen.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyReject::
-	.string "Jeg er sikker på, at du vil fortryde\n"\n
+	.string "Jeg er sikker på, at du vil fortryde\n"
 	.string "ikke at have mig som din partner.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFIntro::
@@ -899,7 +899,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFAccept::
 	.string "Jeg vil gå registrere mig\p ved skranken.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFReject::
-	.string "Vi to sammen, vi ville have været\n"\n
+	.string "Vi to sammen, vi ville have været\n"
 	.string "sikker på seje!$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherIntro::
@@ -1125,7 +1125,7 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon1::
 	.string "der ved, hvordan man bruger {STR_VAR_1}$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon2Ask::
-	.string "og én {STR_VAR_2} med {STR_VAR_1}!\p"
+	.string "og én {STR_VAR_2} med {STR_VAR_1}!\p"
 	.string "Vi kunne være et tag team.\n"
 	.string "Ville det ikke være fedt?$"
 
@@ -1537,7 +1537,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFAccept::
 	.string "Jeg må hellere registrere mig.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFReject::
-	.string "Jeg tænkte på, hvordan vi ville\n"\n"være et sejt hold…$"
+	.string "Jeg tænkte på, at vi ville\n"
+	.string "være et sejt hold…$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacIntro::
 	.string "Hej!\n"
@@ -1579,7 +1580,8 @@ BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerAccept::
 	.string "Jeg går i gang med registreringen.$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerReject::
-	.string "Lover du at være min partner\n" \n "næste gang vi løber ind i hinanden?$"
+	.string "Lover du at være min partner\n"
+	.string "næste gang vi løber ind i hinanden?$"
 
 BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperIntro::
 	.string "Jeg er {STR_VAR_1}, og jeg er en SPEJDER!\p$"

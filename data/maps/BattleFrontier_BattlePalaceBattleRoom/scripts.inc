@@ -519,7 +519,7 @@ BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
 	.string "vil du aldrig besejre mine brødre!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "Den bånd du deler med din POKéMON!\n"\n
+	.string "Den bånd du deler med din POKéMON!\n"
 	.string "Bevis det for mig her!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:

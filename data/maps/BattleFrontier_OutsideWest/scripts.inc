@@ -334,10 +334,10 @@ BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard:
 	.string "{PLAYER} har ikke BILLETEN…\p"
 	.string "Jeg er virkelig ked af det.\p"
 	.string "Du skal have en BILLET for at\n"
-	.string "komme om bord på færgen.$" ​​​​​
+	.string "komme om bord på færgen.$"
 
 BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo:
-	.string "{PLAYER} blinke{\r}de billetten.\p"
+	.string "{PLAYER} viste billetten.\p"
 	.string "Perfekt! Det er alt, du behøver!\p"
 	.string "Og hvor vil du gerne rejse hen?$"
 

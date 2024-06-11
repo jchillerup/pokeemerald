@@ -28,12 +28,12 @@ RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays:
 	.string "småt, lille firma.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt:
-	.string "Min far arbejder hos {CORPORATION}.\p"
+	.string "Min far arbejder i FIRMAET.\p"
 	.string "Min far lavede dette!\n"
 	.string "Men jeg kan ikke bruge det, så du kan få det.$"
 
 RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo:
-	.string "Min far arbejder på CORPORATION.\p"
+	.string "Min far arbejder i FIRMAET.\p"
 	.string "Når jeg bliver stor, vil jeg også arbejde\n"
 	.string "for DEVON.$"
 

@@ -459,7 +459,7 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
 	.string "Som belønning for din viden og\n"
 	.string "skarpe intelligens, tildeles du\n"
-	.string "disse Kamp Point."$
+	.string "disse Kamp Point.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
 	.string "Lad mig bytte din POKéMON\n"

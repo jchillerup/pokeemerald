@@ -653,10 +653,10 @@ MtChimney_Text_DouseThemInFire:
 	.string "Overøs dem i ild!$"
 
 MtChimney_Text_KeepMakingMoreLand:
-.string "Vi vil blive ved med at skabe mere land!"$
+	.string "Vi vil blive ved med at skabe mere land!$"
 
 MtChimney_Text_Bufoh:
-.string "Bufoh!$"
+	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
 	.string "ARCHIE: Grr, {PLAYER}!\n"
@@ -692,7 +692,7 @@ MtChimney_Text_MagmaOutnumbersUs:
 	.string "Vi kan ikke følge med dem!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "Hvis de udvider området, vil der være\n"\n
+	.string "Hvis de udvider området, vil der være\n"
 	.string "færre levesteder til VAND POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
@@ -739,7 +739,7 @@ MtChimney_Text_PlayerLeftMeteorite:
 	.string "var.$"
 
 MtChimney_Text_MachineMakesNoResponse:
-	.string "Denne mystiske maskine..."\n
+	.string "Denne mystiske maskine...\n"
 	.string "Den reagerer overhovedet ikke.$"
 
 MtChimney_Text_RouteSign:

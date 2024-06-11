@@ -60,7 +60,7 @@ RustboroCity_House1_Text_IllTradeIfYouWant:
 	.string "en {STR_VAR_1}, hvis du vil.$"
 
 RustboroCity_House1_Text_PleaseBeGoodToMyPokemon:
-	.string "Hihihi...\\n"
+	.string "Hihihi...\n"
 	.string "Vær sød ved min POKéMON.$"
 
 RustboroCity_House1_Text_DoesntLookLikeMonToMe:

@@ -275,7 +275,7 @@ SootopolisCity_Gym_1F_Text_GoGetFortreeBadge:
 	.string "MÆRKE fra GYMMET i FORTREE.$"
 
 SootopolisCity_Gym_1F_Text_GymStatue:
-.string "SOOTOPOLIS CITY Pokémon Gym$"
+	.string "SOOTOPOLIS CITY POKéMON Gym$"
 
 SootopolisCity_Gym_1F_Text_GymStatueCertified:
 	.string "SOOTOPOLIS BY POKéMON GYM\p"

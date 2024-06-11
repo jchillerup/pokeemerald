@@ -46,7 +46,7 @@ VictoryRoad_B1F_Text_ShannonIntro:
 	.string "dine POKéMON.$"
 
 VictoryRoad_B1F_Text_ShannonDefeat:
-	.string "Dit forhold er baseret på\n"\n
+	.string "Dit forhold er baseret på\n"
 	.string "solid tillid.$"
 
 VictoryRoad_B1F_Text_ShannonPostBattle:

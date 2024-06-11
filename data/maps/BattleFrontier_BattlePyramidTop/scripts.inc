@@ -331,7 +331,8 @@ BattleFrontier_BattlePyramidTop_Text_FarewellForNow:
 	.string "Farvel for nu, unge opdagelsesrejsende!$"
 
 BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady:
-	.string "Nu, når du er klar, så tag mod\n"\n.string "og træd frem.$"
+	.string "Nu, når du er klar, så tag mod\n"
+	.string "og træd frem.$"
 
 
 

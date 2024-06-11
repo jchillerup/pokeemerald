@@ -25,10 +25,10 @@ SootopolisCity_House3_Text_JuanHasManyFansDoYou:
 	.string "Du er en POKéMON TRÆNER, ikke sandt?\p"
 	.string "JUAN fra SOOTOPOLIS har mange fans.\n"
 	.string "Endnu flere end hans elev WALLACE!\p"
-	.string "Har du nogen?"$
+	.string "Har du nogen?$"
 
 SootopolisCity_House3_Text_YouMustBePrettyStrong:
-.string "Nå, så må du være ret stærk.$"
+	.string "Nå, så må du være ret stærk.$"
 
 SootopolisCity_House3_Text_LonesomeTryWorkingHarder:
 	.string "Åh, kære…\n"

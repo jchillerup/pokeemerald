@@ -251,7 +251,7 @@ BattleFrontier_Lounge1_Text_EvenICantTell:
 	.string "Det er en POKéMON, jeg har brug for at se!$"
 
 BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding:
-	.string "Han sagde, at min POKéMON er fremragende!\n"\n
+	.string "Han sagde, at min POKéMON er fremragende!\n"
 	.string "Jeg er glad for, at jeg opdrættede det omhyggeligt!$"
 
 BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt:

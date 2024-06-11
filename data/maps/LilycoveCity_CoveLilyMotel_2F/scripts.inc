@@ -105,7 +105,7 @@ LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute:
 	.string "Jubii, det er uudholdeligt sjovt!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart:
-	.string "Havbrisen kilder mit hjerte.\n"\n
+	.string "Havbrisen kilder mit hjerte.\n"
 	.string "Det føles fantastisk her!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:

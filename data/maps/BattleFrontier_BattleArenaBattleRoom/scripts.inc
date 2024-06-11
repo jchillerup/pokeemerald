@@ -550,7 +550,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
 	.string "Set KO Tourney udfordring?\p$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-	.string "Jeg gemmer dine spildata.\n"\n
+	.string "Jeg gemmer dine spildata.\n"
 	.string "Vent venligst.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
@@ -620,7 +620,7 @@ BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
 	.string "Så, er du klar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
-	.string "Jeg tillader ikke en halvhjertet indsats!\n"\n
+	.string "Jeg tillader ikke en halvhjertet indsats!\n"
 	.string "Vær klar til at blive banket!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:

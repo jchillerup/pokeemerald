@@ -18,7 +18,7 @@ SeafloorCavern_Room4_Text_Grunt3Intro:
 	.string "Hvor kom du ind fra?$"
 
 SeafloorCavern_Room4_Text_Grunt3Defeat:
-.string "Mistet det..."$
+	.string "Mistet det...$"
 
 SeafloorCavern_Room4_Text_Grunt3PostBattle:
 	.string "Jeg kan ikke finde vejen ud!\p"

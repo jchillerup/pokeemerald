@@ -58,7 +58,7 @@ SootopolisCity_Gym_B1F_Text_AndreaIntro:
 	.string "jeg har lært af vores LEADER JUAN!$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
-.string "Please forgive me, {PLAYER_NAME}…$" 
+	.string "Please forgive me, JUAN…$" 
 
 SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 	.string "Se, hvad der sker, hvis du knækker\n"
@@ -74,7 +74,7 @@ SootopolisCity_Gym_B1F_Text_CrissyDefeat:
 	.string "Jeg blev narret af dit søde udseende!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
-	.string "Du er måske god nok til at undgå\n" \n
+	.string "Du er måske god nok til at undgå\n"
 	.string "at blive udslettet med ét slag af JUAN.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneIntro:
@@ -104,7 +104,7 @@ SootopolisCity_Gym_B1F_Text_ConnieDefeat:
 SootopolisCity_Gym_B1F_Text_ConniePostBattle:
 	.string "Jeg vil fortælle dig noget godt.\p"
 	.string "Hvis du vil nå JUAN, skal du\n"
-	.string "gå på hvert gulvflise én gang.$"
+	.string "gå på hver gulvflise én gang.$"
 
 SootopolisCity_Gym_B1F_Text_BridgetIntro:
 	.string "Den POKéMON GYM på det højeste niveau\n"
@@ -139,7 +139,7 @@ SootopolisCity_Gym_B1F_Text_TiffanyIntro:
 	.string "præstation, ville være smukt elegant!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
-	.string "Nå, undskyld mig?!"$ 
+	.string "Nå, undskyld mig?!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
 	.string "Det her er virkelig åbenlyst, men hvor\n"
@@ -148,7 +148,7 @@ SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
 	.string "Når jeg er sammen med mine POKéMON, så\n"
-	.string "flyver tiden afsted før du kan sige \"Ups!\"$"
+	.string "flyver tiden afsted før du kan sige “Ups!”$"
 
 SootopolisCity_Gym_B1F_Text_BethanyDefeat:
 	.string "Ups!$"

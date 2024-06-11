@@ -365,7 +365,7 @@ BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge:
 .string "udfordringen i KAMPARENAEN?$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge:
-	.string "Vi venter på dit udfordring på\n"\n
+	.string "Vi venter på dit udfordring på\n"
 	.string "en anden lejlighed!$"
 
 BattleFrontier_BattleArenaLobby_Text_ExplainChallenge:
@@ -476,7 +476,7 @@ BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave:
 	.string "Vent venligst, mens jeg gemmer spillet.$"
 
 BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2:
-	.string "Vi venter på dit udfordring en\n"\n
+	.string "Vi venter på dit udfordring en\n"
 	.string "anden gang!$"
 
 BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame:

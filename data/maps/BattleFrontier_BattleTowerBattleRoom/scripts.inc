@@ -489,7 +489,8 @@ BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait:
 	.string "Vent venligst.$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge:
-	.string "Vil du annullere din KAMP\p\n"\n"LOKALE udfordring?$"
+	.string "Vil du annullere din KAMP\n"
+	.string "LOKALE udfordring?$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved::
 	.string "Der opstod en fejl af en slags.\n"
@@ -559,9 +560,9 @@ BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine:
 	.string "gylden glans!$"
 
 BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain:
-	.string "Det var sjovt…\p"\n
+	.string "Det var sjovt…\p"
 	.string "Jeg har aldrig haft en POKéMON-kamp\n"
-	.string "så sjov før…\p"\n
+	.string "så sjov før…\p"
 	.string "Jeg ønsker, at jeg kunne kæmpe med dig igen…$"
 
 

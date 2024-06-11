@@ -164,7 +164,7 @@ JaggedPass_Text_EricDefeat:
 JaggedPass_Text_EricPostBattle:
 	.string "Ja, jeg tabte i POKéMON…\p"
 	.string "Men når det kommer til kærligheden\n"
-	.string "til bjergene, slår jeg dig!"$
+	.string "til bjergene, slår jeg dig!$"
 
 JaggedPass_Text_DianaIntro:
 	.string "Dette sted er ikke din almindelige gåtur.\n"

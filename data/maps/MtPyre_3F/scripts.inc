@@ -63,7 +63,7 @@ MtPyre_3F_Text_KaylaPostBattle:
 	.string "Kom så, mig!$"
 
 MtPyre_3F_Text_GabrielleIntro:
-	.string "Hvorfor er du kommet her?" $
+	.string "Hvorfor er du kommet her?$"
 
 MtPyre_3F_Text_GabrielleDefeat:
 	.string "Det var fantastisk!\n"

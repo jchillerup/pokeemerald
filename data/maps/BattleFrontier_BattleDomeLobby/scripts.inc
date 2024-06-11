@@ -513,7 +513,8 @@ BattleFrontier_BattleDomeLobby_Text_DidntSaveBeforeQuitting:
 	.string "indtil videre diskvalificeret. Beklager!$"
 
 BattleFrontier_BattleDomeLobby_Text_CongratsForWinningTourney:
-	.string "Tillykke med at vinde\n"\n.string "din Kampturnering!$"
+	.string "Tillykke med at vinde\n"
+	.string "din Kampturnering!$"
 
 @ Unused
 BattleFrontier_BattleDomeLobby_Text_HereIsYourPrize:
@@ -656,7 +657,7 @@ BattleFrontier_BattleDomeLobby_Text_RulesAreListed:
 	.string "er opført.$"
 
 BattleFrontier_BattleDomeLobby_Text_ReadWhichHeading:
-.string "Hvilken overskrift vil du læse?$"
+	.string "Hvilken overskrift vil du læse?$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules:
 	.string "Turneringskampe er planlagt\n"
@@ -667,8 +668,8 @@ BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules:
 
 BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree:
 	.string "Turneringsskemaet, eller som vi kalder\n"
-	.string "det, "Træet," er tilgængeligt for\l"
-	.string "visning i Venteværelset fra en hvilken\n"
+	.string "det, Træet, kan ses i\l"
+	.string "VENTEVÆRELSET fra en hvilken\n"
 	.string "som helst guide.\p"
 	.string "Turneringstræet vil give adgang til\n"
 	.string "forskellige typer af data.\p"
@@ -678,7 +679,7 @@ BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree:
 	.string "kampstil.$"
 
 BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules:
-	.string "Hvis POKéMON passeres ud på samme\n"
+	.string "Hvis begge POKéMON besvimer på samme\n"
 	.string "tid - en dobbelt KO - i en turnerings\l"
 	.string "kamp, vil DOMMERNE gennemgå\l"
 	.string "kampen og erklære vinderen.$"

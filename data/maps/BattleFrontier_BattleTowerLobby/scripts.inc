@@ -1350,7 +1350,7 @@ BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
 	.string "tildeler vi dig disse Kamp Point(er).$"
 
 BattleFrontier_Text_ObtainedXBattlePoints:
-	.string "{PLAYER} har fået {STR_VAR_1} Kamp Point."$
+	.string "{PLAYER} har fået {STR_VAR_1} Kamp Point.$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
 	.string "KAMP-TÅRNET regler er listet op.$"

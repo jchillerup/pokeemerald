@@ -334,7 +334,7 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals:
 BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
 	.string "Tillykke med at avancere\n"
 	.string "til finalen.\p"
-	.string "Du er ét skridt fra mesterskabet.\n"
+	.string "Du er ét skridt fra mesterskabet.\n"
 	.string "Er du klar?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:

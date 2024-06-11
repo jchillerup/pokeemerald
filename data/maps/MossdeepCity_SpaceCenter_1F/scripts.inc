@@ -425,12 +425,12 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
 	.string "Dette er... \n"
 	.string "En hensigt om at stjæle bemærkning?\p"
-	.string "\“Til personalet på RUMCENTRET:\n"
+	.string "Til personalet på RUMCENTRET:\n"
 	.string "Hvordan har I det? Vi har det fint.\p"
-	.string "\“Vi vil snart besøge jer for at tage jeres\n"
+	.string "“Vi vil snart besøge jer for at tage jeres\n"
 	.string "raketbrændstof.\p"
-	.string "\“Vær venlig ikke at forsøge at stoppe os.\n"
+	.string "“Vær venlig ikke at forsøge at stoppe os.\n"
 	.string "Vi vil tage brændstoffet uanset hvad.\p"
-	.string "\“Må der blive mere land!\n"
+	.string "“Må der blive mere land!\n"
 	.string "                                           TEAM MAGMA”$"
 

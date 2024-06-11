@@ -93,7 +93,7 @@ LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua:
 	.string "har turisterne holdt sig væk.$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV:
-	.string "Hej, nede foran!\n"\n
+	.string "Hej, nede foran!\n"
 	.string "Jeg kan ikke se fjernsynet!$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:

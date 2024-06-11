@@ -432,7 +432,7 @@ TrainerHill_Entrance_Text_ChallengeTime:
 
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
 	.string "Hvem ved, hvilke slags TRÆNERE\n"
-	.string "og POKéMON-komboer, der venter?\\p"
+	.string "og POKéMON-komboer, der venter?\p"
 	.string "Alt jeg ved er, at jeg vil skubbe\n"
 	.string "enhver til side, der står i min vej!$"
 

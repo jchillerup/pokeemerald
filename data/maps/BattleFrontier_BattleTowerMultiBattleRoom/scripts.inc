@@ -501,10 +501,10 @@ BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext:
 	.string "Gør dit bedste!$"
 
 gText_LinkStandby3::
-.string "Link klar…$"
+	.string "Link klar…$"
 
 gText_YourPartnerHasRetired::
-	.string "Din partner er gået på pension.\p"\n
+	.string "Din partner er gået på pension.\p"
 	.string "Din KAMPLOKALE udfordring\n"
 	.string "vil blive aflyst.$"
 

@@ -277,10 +277,11 @@ LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
 	.string "Dette er min drøm, der går i opfyldelse!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_TokenOfGratitude:
-	.string ""Dette er blot en lille gestus af min taknemmelighed."$"
+	.string "Dette er blot et lille gave\n"
+	.string "for min taknemmelighed.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_KeepThisForYou:
-	.string "Jeg vil gemme dette for dig, indtil vi\n"\n
+	.string "Jeg vil gemme dette for dig, indtil vi\n"
 	.string "mødes igen.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
@@ -291,8 +292,8 @@ LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
 	.string "besøg hos os.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame:
-.string "Det er en billedramme med lyserøde\n"
-.string "ornamenter.$"
+	.string "Det er en billedramme med lyserøde\n"
+	.string "ornamenter.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsYellowPictureFrame:
 	.string "Det er en billedramme med\n"
@@ -311,7 +312,7 @@ LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame:
 	.string "grønfarvede udsmykninger.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
-.string "Det er et maleri af POKéMON.$"
+	.string "Det er et maleri af POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
 	.string "Jeg har været væk i et stykke tid, så de nye\n"
