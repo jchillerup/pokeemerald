@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_VisitingTrainer::
 	setvaddress MysteryGiftScript_VisitingTrainer
 	special ValidateEReaderTrainer
@@ -20,29 +22,32 @@ MysteryGiftScript_VisitingTrainerArrived:
 	end
 
 sText_MysteryGiftVisitingTrainerInstructions:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "By holding this WONDER CARD, you\n"
-	.string "may take part in a survey at a\l"
-	.string "POKéMON MART.\p"
-	.string "Use these surveys to invite\n"
-	.string "TRAINERS to SOOTOPOLIS CITY.\p"
-	.string "…Let me give you a secret\n"
-	.string "password for a survey:\p"
-	.string "“GIVE ME\n"
-	.string "AWESOME TRAINER”\p"
-	.string "Write that in on a survey and send\n"
-	.string "it to the WIRELESS\l"
-	.string "COMMUNICATION SYSTEM.$"
+	.string "Tak for at du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "Ved at holde dette VIDUNDE\n"
+	.string "KORT kan du deltage i en\n"
+	.string "undersøgelse på et\l"
+	.string "POKéMON MARKED.\p"
+	.string "Brug disse undersøgelser til at\n"
+	.string "invitere TRÆNERE til SOOTOPOLIS\n"
+	.string "BY.\p"
+	.string "…Lad mig give dig en hemmelig\n"
+	.string "kode til en undersøgelse:\p"
+	.string "“GIV MIG\n"
+	.string "EN SEJ TRÆNER”\p"
+	.string "Skriv det på en undersøgelse og\n"
+	.string "send det via DEN TRÅDLØSE\l"
+	.string "KOMMUNIKATIONS SYSTEM.$"
 
 sText_MysteryGiftVisitingTrainerArrived:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "A TRAINER has arrived in\n"
-	.string "SOOTOPOLIS CITY looking for you.\p"
-	.string "We hope you will enjoy\n"
-	.string "battling the visiting TRAINER.\p"
-	.string "You may invite other TRAINERS by\n"
-	.string "entering other passwords.\p"
-	.string "Try looking for other passwords\n"
-	.string "that may work.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "En TRÆNER er ankommet til\n"
+	.string "SOOTOPOLIS BY, og leder efter dig.\p"
+	.string "Vi håber, du vil nyde at\n"
+	.string "kæmpe mod den besøgende TRÆNER.\p"
+	.string "Du kan invitere andre TRÆNERE ved at\n"
+	.string "indtaste andre adgangskoder.\p"
+	.string "Prøv at finde andre adgangskoder,\n"
+	.string "der måske virker.$"
+

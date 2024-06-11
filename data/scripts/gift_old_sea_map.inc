@@ -1,3 +1,5 @@
+@ TRANSLATED
+
 MysteryGiftScript_OldSeaMap::
 	setvaddress MysteryGiftScript_OldSeaMap
 	lock
@@ -35,24 +37,25 @@ OldSeaMap_Obtained:
 	end
 
 sText_MysteryGiftOldSeaMapForYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.\p"
-	.string "Let me confirm--you are {PLAYER}?\p"
-	.string "We received this OLD SEA MAP\n"
-	.string "addressed to you.$"
+	.string "Tak fordi du bruger MYSTERY\n"
+	.string "GAVE Systemet.\p"
+	.string "Lad mig bekræfte -- du er {PLAYER}?\p"
+	.string "Vi har modtaget dette GAMLE SØKORT\n"
+	.string "adresseret til dig.$"
 
 sText_MysteryGiftOldSeaMapUseAtPort:
-	.string "It appears to be for use at the\n"
-	.string "LILYCOVE CITY port.\p"
-	.string "Why not give it a try and see what\n"
-	.string "it is about?$"
+	.string "Det ser ud til at være til brug ved\n"
+	.string "LILYCOVE CITY havn.\p"
+	.string "Hvorfor ikke prøve det og se hvad\n"
+	.string "det handler om?$"
 
 sText_MysteryGiftOldSeaMapThankYou:
-	.string "Thank you for using the MYSTERY\n"
-	.string "GIFT System.$"
+	.string "Tak for at bruge MYSTERY\n"
+	.string "GAVE System.$"
 
 sText_MysteryGiftOldSeaMapBagFull:
-	.string "Oh, I'm sorry, {PLAYER}.\n"
-	.string "Your BAG's KEY ITEMS POCKET is full.\p"
-	.string "Please store something on your PC,\n"
-	.string "then come back for this.$"
+	.string "Åh, jeg beklager, {PLAYER}.\n"
+	.string "Lommen til de VIGTIGE TING er fuld.\p"
+	.string "Gem venligst noget på din PC,\n"
+	.string "og kom tilbage for denne.$"
+
