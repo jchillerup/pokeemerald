@@ -1,22 +1,23 @@
-const u8 gRibbonDescriptionPart1_Champion[]      = _("CHAMPION-beating, HALL");
-const u8 gRibbonDescriptionPart2_Champion[]      = _("OF FAME Member RIBBON");
-const u8 gRibbonDescriptionPart1_CoolContest[]   = _("COOL CONTEST");
-const u8 gRibbonDescriptionPart1_BeautyContest[] = _("BEAUTY CONTEST");
-const u8 gRibbonDescriptionPart1_CuteContest[]   = _("CUTE CONTEST");
-const u8 gRibbonDescriptionPart1_SmartContest[]  = _("SMART CONTEST");
-const u8 gRibbonDescriptionPart1_ToughContest[]  = _("TOUGH CONTEST");
-const u8 gRibbonDescriptionPart2_NormalRank[]    = _("Normal Rank winner!");
-const u8 gRibbonDescriptionPart2_SuperRank[]     = _("Super Rank winner!");
-const u8 gRibbonDescriptionPart2_HyperRank[]     = _("Hyper Rank winner!");
-const u8 gRibbonDescriptionPart2_MasterRank[]    = _("Master Rank winner!");
-const u8 gRibbonDescriptionPart1_Winning[]       = _("For clearing LV50");
-const u8 gRibbonDescriptionPart2_Winning[]       = _("at the BATTLE TOWER.");
-const u8 gRibbonDescriptionPart1_Victory[]       = _("For clearing Open Level");
-const u8 gRibbonDescriptionPart2_Victory[]       = _("at the BATTLE TOWER.");
-const u8 gRibbonDescriptionPart1_Artist[]        = _("RIBBON for being chosen");
-const u8 gRibbonDescriptionPart2_Artist[]        = _("as a super sketch model.");
-const u8 gRibbonDescriptionPart1_Effort[]        = _("RIBBON awarded for");
-const u8 gRibbonDescriptionPart2_Effort[]        = _("being a hard worker.");
+const u8 gRibbonDescriptionPart1_Champion[]      = _("MESTER-sluger, STORMESTER");
+const u8 gRibbonDescriptionPart2_Champion[]      = _("TRÆNER MEDALJE");
+const u8 gRibbonDescriptionPart1_CoolContest[]   = _("SEJHED KONKURRENCE");
+const u8 gRibbonDescriptionPart1_BeautyContest[] = _("SKØNHED KONKURRENCE");
+const u8 gRibbonDescriptionPart1_CuteContest[]   = _("NUTTET KONKURRENCE");
+const u8 gRibbonDescriptionPart1_SmartContest[]  = _("KLOGHED KONKURRENCE");
+const u8 gRibbonDescriptionPart1_ToughContest[]  = _("HÅRDHED KONKURRENCE");
+const u8 gRibbonDescriptionPart2_NormalRank[]    = _("Normalrangs vinder!");
+const u8 gRibbonDescriptionPart2_SuperRank[]     = _("Superrangs vinder!");
+const u8 gRibbonDescriptionPart2_HyperRank[]     = _("Hyperrangs vinder!");
+const u8 gRibbonDescriptionPart2_MasterRank[]    = _("Mesterrangs vinder!");
+const u8 gRibbonDescriptionPart1_Winning[]       = _("For at klare LV50");
+const u8 gRibbonDescriptionPart2_Winning[]       = _("ved TÅRNBATTLE.");
+const u8 gRibbonDescriptionPart1_Victory[]       = _("For at klare Åben Niveau");
+const u8 gRibbonDescriptionPart2_Victory[]       = _("ved TÅRNBATTLE.");
+const u8 gRibbonDescriptionPart1_Artist[]        = _("MEDALJE for at være valgt");
+const u8 gRibbonDescriptionPart2_Artist[]        = _("som en super skitsemodel.");
+const u8 gRibbonDescriptionPart1_Effort[]        = _("MEDALJE for at være");
+const u8 gRibbonDescriptionPart2_Effort[]        = _("hårdtarbejdende.");
+
 
 const u8 *const gRibbonDescriptionPointers[][2] =
 {

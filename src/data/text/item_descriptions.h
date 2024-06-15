@@ -1,1551 +1,1558 @@
 static const u8 sDummyDesc[] = _(
     "?????");
 
-// Pokeballs
+// Pokéballs
 static const u8 sMasterBallDesc[] = _(
-    "The best BALL that\n"
-    "catches a POKéMON\n"
-    "without fail.");
+    "Den bedste BOLD,\n"
+    "som altid fanger\n"
+    "en POKéMON.");
 
 static const u8 sUltraBallDesc[] = _(
-    "A better BALL with\n"
-    "a higher catch rate\n"
-    "than a GREAT BALL.");
+    "En bedre BOLD med\n"
+    "bedre fangstchance\n"
+    "end en STOR BOLD.");
 
 static const u8 sGreatBallDesc[] = _(
-    "A good BALL with a\n"
-    "higher catch rate\n"
-    "than a POKé BALL.");
+    "En god BOLD med en\n"
+    "bedre fangstchance\n"
+    "end en POKéBOLD.");
 
 static const u8 sPokeBallDesc[] = _(
-    "A tool used for\n"
-    "catching wild\n"
+    "Et værktøj til at\n"
+    "fange vilde\n"
     "POKéMON.");
 
 static const u8 sSafariBallDesc[] = _(
-    "A special BALL that\n"
-    "is used only in the\n"
-    "SAFARI ZONE.");
+    "En særlig BOLD, der\n"
+    "kun bruges i\n"
+    "SAFARI-ZONEN.");
 
 static const u8 sNetBallDesc[] = _(
-    "A BALL that works\n"
-    "well on WATER- and\n"
-    "BUG-type POKéMON.");
-
-static const u8 sDiveBallDesc[] = _(
-    "A BALL that works\n"
-    "better on POKéMON\n"
-    "on the ocean floor.");
-
-static const u8 sNestBallDesc[] = _(
-    "A BALL that works\n"
-    "better on weaker\n"
+    "Virker bedst på VAND-\n"
+    "og INSEKT-type\n"
     "POKéMON.");
 
+static const u8 sDiveBallDesc[] = _(
+    "En BOLD, der fungerer\n"
+    "bedre på POKéMON på\n"
+    "havbunden.");
+
+static const u8 sNestBallDesc[] = _(
+    "En BOLD, der\n"
+    "fungerer bedre på\n"
+    "svagere POKéMON.");
+
 static const u8 sRepeatBallDesc[] = _(
-    "A BALL that works\n"
-    "better on POKéMON\n"
-    "caught before.");
+    "En BOLD, der virker\n"
+    "bedst på POKéMON, \n"
+    "der er fanget før.");
 
 static const u8 sTimerBallDesc[] = _(
-    "A BALL that gains\n"
-    "power in battles\n"
-    "taking many turns.");
+    "En BOLD, der bliver\n"
+    "forstærket i lange\n"
+    "dueller.");
 
 static const u8 sLuxuryBallDesc[] = _(
-    "A cozy BALL that\n"
-    "makes POKéMON\n"
-    "more friendly.");
+    "En hyggelig BOLD,\n"
+    "der gør POKéMON\n"
+    "mere venlige.");
 
 static const u8 sPremierBallDesc[] = _(
-    "A rare BALL made\n"
-    "in commemoration\n"
-    "of some event.");
+    "En sjælden BOLD\n"
+    "lavet til minde\n"
+    "om en begivenhed.");
 
 // Medicine
 static const u8 sPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "20 points.");
+    "Gendanner 20 HP til\n"
+    "en POKéMON.");
 
 static const u8 sAntidoteDesc[] = _(
-    "Heals a poisoned\n"
+    "Helbreder en forgiftet\n"
     "POKéMON.");
 
 static const u8 sBurnHealDesc[] = _(
-    "Heals POKéMON\n"
-    "of a burn.");
+    "Helbreder en POKéMON\n"
+    "af forbrænding.");
 
 static const u8 sIceHealDesc[] = _(
-    "Defrosts a frozen\n"
+    "Afrimer en frossen\n"
     "POKéMON.");
 
 static const u8 sAwakeningDesc[] = _(
-    "Awakens a sleeping\n"
+    "Vækker en sovende\n"
     "POKéMON.");
 
 static const u8 sParalyzeHealDesc[] = _(
-    "Heals a paralyzed\n"
+    "Helbreder en lammet\n"
     "POKéMON.");
 
 static const u8 sFullRestoreDesc[] = _(
-    "Fully restores the\n"
-    "HP and status of a\n"
-    "POKéMON.");
+    "Fuldt gendanner HP og\n"
+    "status for en POKéMON.");
 
 static const u8 sMaxPotionDesc[] = _(
-    "Fully restores the\n"
-    "HP of a POKéMON.");
+    "Fuldt gendanner HP for\n"
+    "en POKéMON.");
 
 static const u8 sHyperPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "200 points.");
+    "Gendanner 200 HP til\n"
+    "en POKéMON.");
 
 static const u8 sSuperPotionDesc[] = _(
-    "Restores the HP of\n"
-    "a POKéMON by\n"
-    "50 points.");
+    "Gendanner 50 HP til\n"
+    "en POKéMON.");
 
 static const u8 sFullHealDesc[] = _(
-    "Heals all the\n"
-    "status problems of\n"
-    "one POKéMON.");
+    "Helbreder alle\n"
+    "statusproblemer for\n"
+    "én POKéMON.");
 
 static const u8 sReviveDesc[] = _(
-    "Revives a fainted\n"
-    "POKéMON with half\n"
-    "its HP.");
+    "Genopliver en\n"
+    "bevidstløs POKéMON\n"
+    "med halvdelen af HP.");
 
 static const u8 sMaxReviveDesc[] = _(
-    "Revives a fainted\n"
-    "POKéMON with all\n"
-    "its HP.");
+    "Genopliver en\n"
+    "bevidstløs POKéMON\n"
+    "med al HP.");
 
 static const u8 sFreshWaterDesc[] = _(
-    "A mineral water\n"
-    "that restores HP\n"
-    "by 50 points.");
+    "En mineralvand, der\n"
+    "gendanner 50 HP.");
 
 static const u8 sSodaPopDesc[] = _(
-    "A fizzy soda drink\n"
-    "that restores HP\n"
-    "by 60 points.");
+    "En boblende sodavand,\n"
+    "der gendanner 60 HP.");
 
 static const u8 sLemonadeDesc[] = _(
-    "A very sweet drink\n"
-    "that restores HP\n"
-    "by 80 points.");
+    "En meget sød drik,\n"
+    "der gendanner 80 HP.");
 
 static const u8 sMoomooMilkDesc[] = _(
-    "A nutritious milk\n"
-    "that restores HP\n"
-    "by 100 points.");
+    "En næringsrig mælk,\n"
+    "der gendanner 100 HP.");
 
 static const u8 sEnergyPowderDesc[] = _(
-    "A bitter powder\n"
-    "that restores HP\n"
-    "by 50 points.");
+    "En bitter pulver, der\n"
+    "gendanner 50 HP.");
 
 static const u8 sEnergyRootDesc[] = _(
-    "A bitter root\n"
-    "that restores HP\n"
-    "by 200 points.");
+    "En bitter rod, der\n"
+    "gendanner 200 HP.");
 
 static const u8 sHealPowderDesc[] = _(
-    "A bitter powder\n"
-    "that heals all\n"
-    "status problems.");
+    "Et bittert pulver,\n"
+    "der helbreder alle\n"
+    "statusproblemer.");
 
 static const u8 sRevivalHerbDesc[] = _(
-    "A very bitter herb\n"
-    "that revives a\n"
-    "fainted POKéMON.");
+    "En meget bitter urt,\n"
+    "der genopliver en\n"
+    "bevidstløs POKéMON.");
 
 static const u8 sEtherDesc[] = _(
-    "Restores the PP\n"
-    "of a selected move\n"
-    "by 10.");
+    "Gendanner 10 PP til\n"
+    "en valgt move.");
 
 static const u8 sMaxEtherDesc[] = _(
-    "Fully restores the\n"
-    "PP of a selected\n"
-    "move.");
+    "Fuldt gendanner PP\n"
+    "til en valgt move.");
 
 static const u8 sElixirDesc[] = _(
-    "Restores the PP\n"
-    "of all moves by 10.");
+    "Gendanner 10 PP til\n"
+    "alle moves.");
 
 static const u8 sMaxElixirDesc[] = _(
-    "Fully restores the\n"
-    "PP of a POKéMON's\n"
-    "moves.");
+    "Fuldt gendanner PP til\n"
+    "en POKéMONs moves.");
 
 static const u8 sLavaCookieDesc[] = _(
-    "A local specialty\n"
-    "that heals all\n"
-    "status problems.");
+    "En lokal specialitet,\n"
+    "der helbreder alle\n"
+    "statusproblemer.");
 
 static const u8 sBlueFluteDesc[] = _(
-    "A glass flute that\n"
-    "awakens sleeping\n"
+    "En glasfløjte, der\n"
+    "vækker sovende\n"
     "POKéMON.");
 
 static const u8 sYellowFluteDesc[] = _(
-    "A glass flute that\n"
-    "snaps POKéMON\n"
-    "out of confusion.");
+    "En glasfløjte, der\n"
+    "stopper POKéMONs\n"
+    "forvirring.");
 
 static const u8 sRedFluteDesc[] = _(
-    "A glass flute that\n"
-    "snaps POKéMON\n"
-    "out of attraction.");
+    "En glasfløjte, der\n"
+    "stopper POKéMONs\n"
+    "tiltrækning.");
 
 static const u8 sBlackFluteDesc[] = _(
-    "A glass flute that\n"
-    "keeps away wild\n"
-    "POKéMON.");
+    "En glasfløjte, der\n"
+    "holder vilde POKéMON\n"
+    "væk.");
 
 static const u8 sWhiteFluteDesc[] = _(
-    "A glass flute that\n"
-    "lures wild POKéMON.");
+    "En glasfløjte, der\n"
+    "tiltrækker vilde\n"
+    "POKéMON.");
 
 static const u8 sBerryJuiceDesc[] = _(
-    "A 100% pure juice\n"
-    "that restores HP\n"
-    "by 20 points.");
+    "En 100% ren juice,\n"
+    "der gendanner 20 HP.");
 
 static const u8 sSacredAshDesc[] = _(
-    "Fully revives and\n"
-    "restores all\n"
-    "fainted POKéMON.");
+    "Fuldt genopliver og\n"
+    "gendanner alle\n"
+    "bevidstløse POKéMON.");
+
 
 // Collectibles
 static const u8 sShoalSaltDesc[] = _(
-    "Salt obtained from\n"
-    "deep inside the\n"
+    "Salt hentet fra\n"
+    "dybt inde i\n"
     "SHOAL CAVE.");
 
 static const u8 sShoalShellDesc[] = _(
-    "A seashell found\n"
-    "deep inside the\n"
+    "En muslingeskaller\n"
+    "fundet dybt inde i\n"
     "SHOAL CAVE.");
 
 static const u8 sRedShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "En skår fra en\n"
+    "gammel genstand. Kan\n"
+    "sælges billigt.");
 
 static const u8 sBlueShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "En skår fra en\n"
+    "gammel genstand. Kan\n"
+    "sælges billigt.");
 
 static const u8 sYellowShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "En skår fra en\n"
+    "gammel genstand. Kan\n"
+    "sælges billigt.");
 
 static const u8 sGreenShardDesc[] = _(
-    "A shard from an\n"
-    "ancient item. Can\n"
-    "be sold cheaply.");
+    "En skår fra en\n"
+    "gammel genstand. Kan\n"
+    "sælges billigt.");
 
 // Vitamins
 static const u8 sHPUpDesc[] = _(
-    "Raises the base HP\n"
-    "of one POKéMON.");
+    "Øger base HP for\n"
+    "én POKéMON.");
 
 static const u8 sProteinDesc[] = _(
-    "Raises the base\n"
-    "ATTACK stat of one\n"
+    "Øger base\n"
+    "ANGREB stat for én\n"
     "POKéMON.");
 
 static const u8 sIronDesc[] = _(
-    "Raises the base\n"
-    "DEFENSE stat of\n"
-    "one POKéMON.");
+    "Øger base\n"
+    "FORSVAR stat for\n"
+    "én POKéMON.");
 
 static const u8 sCarbosDesc[] = _(
-    "Raises the base\n"
-    "SPEED stat of one\n"
-    "POKéMON.");
+    "Øger base\n"
+    "HASTIGHED stat for\n"
+    "én POKéMON.");
 
 static const u8 sCalciumDesc[] = _(
-    "Raises the base\n"
-    "SP. ATK stat of one\n"
+    "Øger base\n"
+    "SP. ATK stat for én\n"
     "POKéMON.");
 
 static const u8 sRareCandyDesc[] = _(
-    "Raises the level\n"
-    "of a POKéMON by\n"
-    "one.");
+    "Øger level for en\n"
+    "POKéMON med én.");
 
 static const u8 sPPUpDesc[] = _(
-    "Raises the maximum\n"
-    "PP of a selected\n"
-    "move.");
+    "Øger maksimal PP\n"
+    "for en valgt move.");
 
 static const u8 sZincDesc[] = _(
-    "Raises the base\n"
-    "SP. DEF stat of one\n"
+    "Øger base\n"
+    "SP. DEF stat for én\n"
     "POKéMON.");
 
 static const u8 sPPMaxDesc[] = _(
-    "Raises the PP of a\n"
-    "move to its maximum\n"
-    "points.");
+    "Øger PP for en\n"
+    "move til maksimale\n"
+    "point.");
 
 // Battle items
 static const u8 sGuardSpecDesc[] = _(
-    "Prevents stat\n"
-    "reduction when\n"
-    "used in battle.");
+    "Forhindrer stat\n"
+    "reduktion når\n"
+    "brugt i kamp.");
 
 static const u8 sDireHitDesc[] = _(
-    "Raises the\n"
-    "critical-hit ratio\n"
-    "during one battle.");
+    "Øger\n"
+    "kritisk-hits ratio\n"
+    "under én kamp.");
 
 static const u8 sXAttackDesc[] = _(
-    "Raises the stat\n"
-    "ATTACK during one\n"
-    "battle.");
+    "Øger stat\n"
+    "ANGREB under én\n"
+    "kamp.");
 
 static const u8 sXDefendDesc[] = _(
-    "Raises the stat\n"
-    "DEFENSE during one\n"
-    "battle.");
+    "Øger stat\n"
+    "FORSVAR under én\n"
+    "kamp.");
 
 static const u8 sXSpeedDesc[] = _(
-    "Raises the stat\n"
-    "SPEED during one\n"
-    "battle.");
+    "Øger stat\n"
+    "HASTIGHED under én\n"
+    "kamp.");
 
 static const u8 sXAccuracyDesc[] = _(
-    "Raises accuracy\n"
-    "of attack moves\n"
-    "during one battle.");
+    "Øger præcisionen\n"
+    "af angrebsmoves\n"
+    "under én kamp.");
 
 static const u8 sXSpecialDesc[] = _(
-    "Raises the stat\n"
-    "SP. ATK during one\n"
-    "battle.");
+    "Øger stat\n"
+    "SP. ATK under én\n"
+    "kamp.");
 
 static const u8 sPokeDollDesc[] = _(
-    "Use to flee from\n"
-    "any battle with\n"
-    "a wild POKéMON.");
+    "Bruges til at flygte\n"
+    "fra enhver kamp med\n"
+    "en vild POKéMON.");
 
 static const u8 sFluffyTailDesc[] = _(
-    "Use to flee from\n"
-    "any battle with\n"
-    "a wild POKéMON.");
+    "Bruges til at flygte\n"
+    "fra enhver kamp med\n"
+    "en vild POKéMON.");
 
 // Field items
 static const u8 sSuperRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 200\n"
-    "steps.");
+    "Skubber svage vilde\n"
+    "POKéMON væk i 200\n"
+    "trin.");
 
 static const u8 sMaxRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 250\n"
-    "steps.");
+    "Skubber svage vilde\n"
+    "POKéMON væk i 250\n"
+    "trin.");
 
 static const u8 sEscapeRopeDesc[] = _(
-    "Use to escape\n"
-    "instantly from a\n"
-    "cave or a dungeon.");
+    "Bruges til at flygte\n"
+    "øjeblikkeligt fra en\n"
+    "hule eller et fængsel.");
 
 static const u8 sRepelDesc[] = _(
-    "Repels weak wild\n"
-    "POKéMON for 100\n"
-    "steps.");
+    "Skubber svage vilde\n"
+    "POKéMON væk i 100\n"
+    "trin.");
 
 // Evolution stones
 static const u8 sSunStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Får visse\n"
+    "arter af POKéMON\n"
+    "til at udvikle sig.");
 
 static const u8 sMoonStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Får visse\n"
+    "arter af POKéMON\n"
+    "til at udvikle sig.");
 
 static const u8 sFireStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Får visse\n"
+    "arter af POKéMON\n"
+    "til at udvikle sig.");
 
 static const u8 sThunderStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Får visse\n"
+    "arter af POKéMON\n"
+    "til at udvikle sig.");
 
 static const u8 sWaterStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Får visse\n"
+    "arter af POKéMON\n"
+    "til at udvikle sig.");
 
 static const u8 sLeafStoneDesc[] = _(
-    "Makes certain\n"
-    "species of POKéMON\n"
-    "evolve.");
+    "Får visse\n"
+    "arter af POKéMON\n"
+    "til at udvikle sig.");
 
-// Valuable items
+// Værdifulde genstande
 static const u8 sTinyMushroomDesc[] = _(
-    "A plain mushroom\n"
-    "that would sell\n"
-    "at a cheap price.");
+    "En almindelig svamp,\n"
+    "der kan sælges\n"
+    "billigt.");
 
 static const u8 sBigMushroomDesc[] = _(
-    "A rare mushroom\n"
-    "that would sell at a\n"
-    "high price.");
+    "En sjælden svamp,\n"
+    "der kan sælges\n"
+    "til en høj pris.");
 
 static const u8 sPearlDesc[] = _(
-    "A pretty pearl\n"
-    "that would sell at a\n"
-    "cheap price.");
+    "En smuk perle,\n"
+    "der kan sælges\n"
+    "billigt.");
 
 static const u8 sBigPearlDesc[] = _(
-    "A lovely large pearl\n"
-    "that would sell at a\n"
-    "high price.");
+    "En stor og dejlig\n"
+    "perle, der kan sælges\n"
+    "til en høj pris.");
 
 static const u8 sStardustDesc[] = _(
-    "Beautiful red sand.\n"
-    "Can be sold at a\n"
-    "high price.");
+    "Smukt rødt sand.\n"
+    "Kan sælges til en\n"
+    "høj pris.");
 
 static const u8 sStarPieceDesc[] = _(
-    "A red gem shard.\n"
-    "It would sell for a\n"
-    "very high price.");
+    "Et rødt ædelstens-\n"
+    "fragment. Kan sælges\n"
+    "til en meget høj pris.");
 
 static const u8 sNuggetDesc[] = _(
-    "A nugget of pure\n"
-    "gold. Can be sold at\n"
-    "a high price.");
+    "En klump ren guld.\n"
+    "Kan sælges til en\n"
+    "høj pris.");
 
 static const u8 sHeartScaleDesc[] = _(
-    "A lovely scale.\n"
-    "It is coveted by\n"
-    "collectors.");
+    "En dejlig skæl.\n"
+    "Efterspurgt af\n"
+    "samlere.");
 
-// Mail
+// Post
 static const u8 sOrangeMailDesc[] = _(
-    "A ZIGZAGOON-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En ZIGZAGOON-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sHarborMailDesc[] = _(
-    "A WINGULL-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En WINGULL-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sGlitterMailDesc[] = _(
-    "A PIKACHU-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En PIKACHU-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sMechMailDesc[] = _(
-    "A MAGNEMITE-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En MAGNEMITE-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sWoodMailDesc[] = _(
-    "A SLAKOTH-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En SLAKOTH-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sWaveMailDesc[] = _(
-    "A WAILMER-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En WAILMER-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sBeadMailDesc[] = _(
-    "MAIL featuring a\n"
-    "sketch of the\n"
-    "holding POKéMON.");
+    "POST med en\n"
+    "skitse af den\n"
+    "holdende POKéMON.");
 
 static const u8 sShadowMailDesc[] = _(
-    "A DUSKULL-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En DUSKULL-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sTropicMailDesc[] = _(
-    "A BELLOSSOM-print\n"
-    "MAIL to be held by\n"
-    "a POKéMON.");
+    "En BELLOSSOM-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sDreamMailDesc[] = _(
-    "MAIL featuring a\n"
-    "sketch of the\n"
-    "holding POKéMON.");
+    "POST med en\n"
+    "skitse af den\n"
+    "holdende POKéMON.");
 
 static const u8 sFabMailDesc[] = _(
-    "A gorgeous-print\n"
-    "MAIL to be held\n"
-    "by a POKéMON.");
+    "En smuk-\n"
+    "printet POST til at\n"
+    "blive holdt af en POKéMON.");
 
 static const u8 sRetroMailDesc[] = _(
-    "MAIL featuring the\n"
-    "drawings of three\n"
-    "POKéMON.");
+    "POST med tegninger\n"
+    "af tre POKéMON.");
 
-// Berries
+// Bær
 static const u8 sCheriBerryDesc[] = _(
-    "A hold item that\n"
-    "heals paralysis\n"
-    "in battle.");
+    "En POKé-holdt ting,\n"
+    "der helbreder\n"
+    "lammelse i kamp.");
 
 static const u8 sChestoBerryDesc[] = _(
-    "A hold item that\n"
-    "awakens POKéMON\n"
-    "in battle.");
+    "En POKé-holdt ting,\n"
+    "der vækker POKéMON\n"
+    "i kamp.");
 
 static const u8 sPechaBerryDesc[] = _(
-    "A hold item that\n"
-    "heals poisoning\n"
-    "in battle.");
+    "En POKé-holdt ting,\n"
+    "der helbreder\n"
+    "forgiftning i kamp.");
 
 static const u8 sRawstBerryDesc[] = _(
-    "A hold item that\n"
-    "heals a burn in\n"
-    "battle.");
+    "En POKé-holdt ting,\n"
+    "der helbreder\n"
+    "forbrænding i kamp.");
 
 static const u8 sAspearBerryDesc[] = _(
-    "A hold item that\n"
-    "defrosts POKéMON\n"
-    "in battle.");
+    "En POKé-holdt ting,\n"
+    "der afrimer\n"
+    "POKéMON i kamp.");
 
 static const u8 sLeppaBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 10 PP in\n"
-    "battle.");
+    "En POKé-holdt ting,\n"
+    "der genopretter 10 PP\n"
+    "i kamp.");
 
 static const u8 sOranBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 10 HP in\n"
-    "battle.");
+    "En POKé-holdt ting,\n"
+    "der genopretter 10 HP\n"
+    "i kamp.");
 
 static const u8 sPersimBerryDesc[] = _(
-    "A hold item that\n"
-    "heals confusion\n"
-    "in battle.");
+    "En POKé-holdt ting,\n"
+    "der helbreder\n"
+    "forvirring i kamp.");
 
 static const u8 sLumBerryDesc[] = _(
-    "A hold item that\n"
-    "heals any status\n"
-    "problem in battle.");
+    "En POKé-holdt ting, der\n"
+    "klarer ethvert\n"
+    "statusproblem i kamp.");
 
 static const u8 sSitrusBerryDesc[] = _(
-    "A hold item that\n"
-    "restores 30 HP in\n"
-    "battle.");
+    "En POKé-holdt ting,\n"
+    "der genopretter 30 HP\n"
+    "i kamp.");
 
 static const u8 sFigyBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "En POKé-holdt ting,\n"
+    "der genopretter HP,\n"
+    "men kan forvirre.");
 
 static const u8 sWikiBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "En POKé-holdt ting,\n"
+    "der genopretter HP,\n"
+    "men kan forvirre.");
 
 static const u8 sMagoBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "En POKé-holdt ting,\n"
+    "der genopretter HP,\n"
+    "men kan forvirre.");
 
 static const u8 sAguavBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "En POKé-holdt ting,\n"
+    "der genopretter HP,\n"
+    "men kan forvirre.");
 
 static const u8 sIapapaBerryDesc[] = _(
-    "A hold item that\n"
-    "restores HP but\n"
-    "may confuse.");
+    "En POKé-holdt ting,\n"
+    "der genopretter HP,\n"
+    "men kan forvirre.");
 
 static const u8 sRazzBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow RAZZ.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke RAZZ.");
 
 static const u8 sBlukBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow BLUK.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke BLUK.");
 
 static const u8 sNanabBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow NANAB.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke NANAB.");
 
 static const u8 sWepearBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow WEPEAR.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke WEPEAR.");
 
 static const u8 sPinapBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow PINAP.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke PINAP.");
 
 static const u8 sPomegBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
+    "Gør en POKéMON\n"
+    "venlig, men sænker\n"
     "base HP.");
 
 static const u8 sKelpsyBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
+    "Gør en POKéMON\n"
+    "venlig, men sænker\n"
     "base ATTACK.");
 
 static const u8 sQualotBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
+    "Gør en POKéMON\n"
+    "venlig, men sænker\n"
     "base DEFENSE.");
 
 static const u8 sHondewBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
+    "Gør en POKéMON\n"
+    "venlig, men sænker\n"
     "base SP. ATK.");
 
 static const u8 sGrepaBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
+    "Gør en POKéMON\n"
+    "venlig, men sænker\n"
     "base SP. DEF.");
 
 static const u8 sTamatoBerryDesc[] = _(
-    "Makes a POKéMON\n"
-    "friendly but lowers\n"
+    "Gør en POKéMON\n"
+    "venlig, men sænker\n"
     "base SPEED.");
 
 static const u8 sCornnBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow CORNN.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke CORNN.");
 
 static const u8 sMagostBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow MAGOST.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke MAGOST.");
 
 static const u8 sRabutaBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow RABUTA.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke RABUTA.");
 
 static const u8 sNomelBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow NOMEL.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke NOMEL.");
 
 static const u8 sSpelonBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow SPELON.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke SPELON.");
 
 static const u8 sPamtreBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow PAMTRE.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke PAMTRE.");
 
 static const u8 sWatmelBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow WATMEL.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke WATMEL.");
 
 static const u8 sDurinBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow DURIN.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke DURIN.");
 
 static const u8 sBelueBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow BELUE.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke BELUE.");
 
 static const u8 sLiechiBerryDesc[] = _(
-    "A hold item that\n"
-    "raises ATTACK in\n"
-    "a pinch.");
+    "En POKé-holdt ting,\n"
+    "der øger ATTACK i\n"
+    "en knibe.");
 
 static const u8 sGanlonBerryDesc[] = _(
-    "A hold item that\n"
-    "raises DEFENSE in\n"
-    "a pinch.");
+    "En POKé-holdt ting,\n"
+    "der øger DEFENSE i\n"
+    "en knibe.");
 
 static const u8 sSalacBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SPEED in\n"
-    "a pinch.");
+    "En POKé-holdt ting,\n"
+    "der øger SPEED i\n"
+    "en knibe.");
 
 static const u8 sPetayaBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SP. ATK in\n"
-    "a pinch.");
+    "En POKé-holdt ting,\n"
+    "der øger SP. ATK i\n"
+    "en knibe.");
 
 static const u8 sApicotBerryDesc[] = _(
-    "A hold item that\n"
-    "raises SP. DEF in\n"
-    "a pinch.");
+    "En POKé-holdt ting,\n"
+    "der øger SP. DEF i\n"
+    "en knibe.");
 
 static const u8 sLansatBerryDesc[] = _(
-    "A hold item that\n"
-    "ups the critical-\n"
-    "hit rate in a pinch.");
+    "En POKé-holdt ting,\n"
+    "der øger kritisk\n"
+    "træffehastighed i en knibe.");
 
 static const u8 sStarfBerryDesc[] = _(
-    "A hold item that\n"
-    "sharply boosts a\n"
-    "stat in a pinch.");
+    "En POKé-holdt ting,\n"
+    "der skarpt øger en\n"
+    "stat i en knibe.");
 
 static const u8 sEnigmaBerryDesc[] = _(
-    "{POKEBLOCK} ingredient.\n"
-    "Plant in loamy soil\n"
-    "to grow a mystery.");
+    "{POKEBLOCK}-ingrediens.\n"
+    "Plantes i muld\n"
+    "til at dyrke et mysterium.");
 
-// Hold items
+// POKé-holdt tinge
 static const u8 sBrightPowderDesc[] = _(
-    "A hold item that\n"
-    "casts a glare to\n"
-    "reduce accuracy.");
+    "En POKé-holdt ting,\n"
+    "der kaster et\n"
+    "blændende lys for\n"
+    "at reducere\n"
+    "nøjagtighed.");
 
 static const u8 sWhiteHerbDesc[] = _(
-    "A hold item that\n"
-    "restores any\n"
-    "lowered stat.");
+    "En POKé-holdt ting,\n"
+    "der genopretter\n"
+    "enhver sænket stat.");
 
 static const u8 sMachoBraceDesc[] = _(
-    "A hold item that\n"
-    "promotes growth,\n"
-    "but reduces SPEED.");
+    "En POKé-holdt ting,\n"
+    "der fremmer\n"
+    "vækst, men\n"
+    "sænker SPEED.");
 
 static const u8 sExpShareDesc[] = _(
-    "A hold item that\n"
-    "gets EXP. points\n"
-    "from battles.");
+    "En POKé-holdt ting,\n"
+    "der får EXP.-point\n"
+    "fra kampe.");
 
 static const u8 sQuickClawDesc[] = _(
-    "A hold item that\n"
-    "occasionally allows\n"
-    "the first strike.");
+    "En POKé-holdt ting,\n"
+    "der lejlighedsvis\n"
+    "tillader det første\n"
+    "angreb.");
 
 static const u8 sSootheBellDesc[] = _(
-    "A hold item that\n"
-    "calms spirits and\n"
-    "fosters friendship.");
+    "En POKé-holdt ting,\n"
+    "der beroliger\n"
+    "ånder og fremmer\n"
+    "venskab.");
 
 static const u8 sMentalHerbDesc[] = _(
-    "A hold item that\n"
-    "snaps POKéMON out\n"
-    "of infatuation.");
+    "En POKé-holdt ting,\n"
+    "der får POKéMON til\n"
+    "at komme ud af\n"
+    "forelskelse.");
 
 static const u8 sChoiceBandDesc[] = _(
-    "Raises a move's\n"
-    "power, but permits\n"
-    "only that move.");
+    "Øger en moves\n"
+    "kraft, men\n"
+    "tillader kun den\n"
+    "move.");
 
 static const u8 sKingsRockDesc[] = _(
-    "A hold item that\n"
-    "may cause flinching\n"
-    "when the foe is hit.");
+    "En POKé-holdt ting,\n"
+    "der kan få modstand\n"
+    "til at vakle, når\n"
+    "fjenden bliver ramt.");
 
 static const u8 sSilverPowderDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "BUG-type moves.");
 
 static const u8 sAmuletCoinDesc[] = _(
-    "Doubles money in\n"
-    "battle if the\n"
-    "holder takes part.");
+    "Fordobler penge i\n"
+    "kamp, hvis indehaveren\n"
+    "deltager.");
 
 static const u8 sCleanseTagDesc[] = _(
-    "A hold item that\n"
-    "helps repel wild\n"
-    "POKéMON.");
+    "En POKé-holdt ting,\n"
+    "der hjælper med at\n"
+    "skræmme vilde\n"
+    "POKéMON væk.");
 
 static const u8 sSoulDewDesc[] = _(
-    "Hold item: raises\n"
-    "SP. ATK & SP. DEF of\n"
+    "POKé-holdt ting: hæver\n"
+    "SP. ATK & SP. DEF af\n"
     "LATIOS & LATIAS.");
 
 static const u8 sDeepSeaToothDesc[] = _(
-    "A hold item that\n"
-    "raises the SP. ATK\n"
-    "of CLAMPERL.");
+    "En POKé-holdt ting,\n"
+    "der hæver CLAMPERL's\n"
+    "SP. ATK.");
 
 static const u8 sDeepSeaScaleDesc[] = _(
-    "A hold item that\n"
-    "raises the SP. DEF\n"
-    "of CLAMPERL.");
+    "En POKé-holdt ting,\n"
+    "der hæver CLAMPERL's\n"
+    "SP. DEF.");
 
 static const u8 sSmokeBallDesc[] = _(
-    "A hold item that\n"
-    "assures fleeing\n"
-    "from wild POKéMON.");
+    "En POKé-holdt ting,\n"
+    "der sikrer flugt\n"
+    "fra vilde POKéMON.");
 
 static const u8 sEverstoneDesc[] = _(
-    "A wondrous hold\n"
-    "item that prevents\n"
-    "evolution.");
+    "En fantastisk hold-\n"
+    "genstand, der\n"
+    "forhindrer udvikling.");
 
 static const u8 sFocusBandDesc[] = _(
-    "A hold item that\n"
-    "occasionally\n"
-    "prevents fainting.");
+    "En POKé-holdt ting,\n"
+    "der lejlighedsvis\n"
+    "forhindrer besvimelse.");
 
 static const u8 sLuckyEggDesc[] = _(
-    "A hold item that\n"
-    "boosts EXP. points\n"
-    "earned in battle.");
+    "En POKé-holdt ting,\n"
+    "der øger EXP.-point\n"
+    "tjent i kamp.");
 
 static const u8 sScopeLensDesc[] = _(
-    "A hold item that\n"
-    "improves the\n"
-    "critical-hit rate.");
+    "En POKé-holdt ting,\n"
+    "der forbedrer\n"
+    "kritisk-hit-raten.");
 
 static const u8 sMetalCoatDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "STEEL-type moves.");
 
 static const u8 sLeftoversDesc[] = _(
-    "A hold item that\n"
-    "gradually restores\n"
-    "HP in battle.");
+    "En POKé-holdt ting,\n"
+    "der gradvist\n"
+    "gendanner HP i kamp.");
 
 static const u8 sDragonScaleDesc[] = _(
-    "A strange scale\n"
-    "held by DRAGON-\n"
+    "En mærkelig skala\n"
+    "holdt af DRAGON-\n"
     "type POKéMON.");
 
 static const u8 sLightBallDesc[] = _(
-    "A hold item that\n"
-    "raises the SP. ATK\n"
-    "of PIKACHU.");
+    "En POKé-holdt ting,\n"
+    "der hæver PIKACHU's\n"
+    "SP. ATK.");
 
 static const u8 sSoftSandDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "GROUND-type moves.");
 
 static const u8 sHardStoneDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "ROCK-type moves.");
 
 static const u8 sMiracleSeedDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "GRASS-type moves.");
 
 static const u8 sBlackGlassesDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "DARK-type moves.");
 
 static const u8 sBlackBeltDesc[] = _(
-    "A hold item that\n"
-    "boosts FIGHTING-\n"
+    "En POKé-holdt ting,\n"
+    "der øger FIGHTING-\n"
     "type moves.");
 
 static const u8 sMagnetDesc[] = _(
-    "A hold item that\n"
-    "boosts ELECTRIC-\n"
+    "En POKé-holdt ting,\n"
+    "der øger ELECTRIC-\n"
     "type moves.");
 
 static const u8 sMysticWaterDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "WATER-type moves.");
 
 static const u8 sSharpBeakDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "FLYING-type moves.");
 
 static const u8 sPoisonBarbDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "POISON-type moves.");
 
 static const u8 sNeverMeltIceDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "ICE-type moves.");
 
 static const u8 sSpellTagDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "GHOST-type moves.");
 
 static const u8 sTwistedSpoonDesc[] = _(
-    "A hold item that\n"
-    "boosts PSYCHIC-\n"
-    "type moves.");
+    "En POKé-holdt ting,\n"
+    "der forstærker\n"
+    "PSYCHIC-type moves.");
 
 static const u8 sCharcoalDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "FIRE-type moves.");
 
 static const u8 sDragonFangDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "DRAGON-type moves.");
 
 static const u8 sSilkScarfDesc[] = _(
-    "A hold item that\n"
-    "raises the power of\n"
+    "En POKé-holdt ting,\n"
+    "der hæver kraften af\n"
     "NORMAL-type moves.");
 
 static const u8 sUpGradeDesc[] = _(
-    "A peculiar box made\n"
-    "by SILPH CO.");
+    "En mærkelig kasse\n"
+    "lavet af SILPH CO.");
 
 static const u8 sShellBellDesc[] = _(
-    "A hold item that\n"
-    "restores HP upon\n"
-    "striking the foe.");
+    "En POKé-holdt ting,\n"
+    "der gendanner HP\n"
+    "ved at ramme\n"
+    "fjenden.");
 
 static const u8 sSeaIncenseDesc[] = _(
-    "A hold item that\n"
-    "slightly boosts\n"
+    "En POKé-holdt ting,\n"
+    "der let øger\n"
     "WATER-type moves.");
 
 static const u8 sLaxIncenseDesc[] = _(
-    "A hold item that\n"
-    "slightly lowers the\n"
-    "foe's accuracy.");
+    "En POKé-holdt ting,\n"
+    "der let sænker\n"
+    "fjendens nøjagtighed.");
 
 static const u8 sLuckyPunchDesc[] = _(
-    "A hold item that\n"
-    "raises CHANSEY's\n"
-    "critical-hit rate.");
+    "En POKé-holdt ting,\n"
+    "der øger CHANSEY's\n"
+    "kritisk-hit rate.");
 
 static const u8 sMetalPowderDesc[] = _(
-    "A hold item that\n"
-    "raises DITTO's\n"
+    "En POKé-holdt ting,\n"
+    "der hæver DITTO's\n"
     "DEFENSE.");
 
 static const u8 sThickClubDesc[] = _(
-    "A hold item that \n"
-    "raises CUBONE or\n"
-    "MAROWAK's ATTACK.");
+    "En POKé-holdt ting,\n"
+    "der hæver CUBONE\n"
+    "eller MAROWAK's\n"
+    "ATTACK.");
 
 static const u8 sStickDesc[] = _(
-    "A hold item that\n"
-    "raises FARFETCH'D's\n"
-    "critical-hit ratio.");
+    "En POKé-holdt ting,\n"
+    "der hæver\n"
+    "FARFETCH'D's\n"
+    "kritiske hit ratio.");
 
 static const u8 sRedScarfDesc[] = _(
-    "A hold item that\n"
-    "raises COOL in\n"
-    "CONTESTS.");
+    "En POKé-holdt ting,\n"
+    "der hæver COOL i\n"
+    "KONKURRENCER.");
 
 static const u8 sBlueScarfDesc[] = _(
-    "A hold item that\n"
-    "raises BEAUTY in\n"
-    "CONTESTS.");
+    "En POKé-holdt ting,\n"
+    "der hæver BEAUTY i\n"
+    "KONKURRENCER.");
 
 static const u8 sPinkScarfDesc[] = _(
-    "A hold item that\n"
-    "raises CUTE in\n"
-    "CONTESTS.");
+    "En POKé-holdt ting,\n"
+    "der hæver CUTE i\n"
+    "KONKURRENCER.");
 
 static const u8 sGreenScarfDesc[] = _(
-    "A hold item that\n"
-    "raises SMART in\n"
-    "CONTESTS.");
+    "En POKé-holdt ting,\n"
+    "der hæver SMART i\n"
+    "KONKURRENCER.");
 
 static const u8 sYellowScarfDesc[] = _(
-    "A hold item that\n"
-    "raises TOUGH in\n"
-    "CONTESTS.");
+    "En POKé-holdt ting,\n"
+    "der hæver TOUGH i\n"
+    "KONKURRENCER.");
 
-// Key items
+// Nøglegenstande
 static const u8 sMachBikeDesc[] = _(
-    "A folding bicycle\n"
-    "that doubles your\n"
-    "speed or better.");
+    "En sammenklappelig\n"
+    "cykel, der fordobler\n"
+    "din hastighed");
 
 static const u8 sCoinCaseDesc[] = _(
-    "A case that holds\n"
-    "up to 9,999 COINS.");
+    "Et etui, der kan\n"
+    "indeholde op til\n"
+    "9.999 MØNTer.");
 
 static const u8 sItemfinderDesc[] = _(
-    "A device that\n"
-    "signals an invisible\n"
-    "item by sound.");
+    "En enhed, der finder\n"
+    "usynlige ting ved\n"
+    "hjælp af lyd.");
 
 static const u8 sOldRodDesc[] = _(
-    "Use by any body of\n"
-    "water to fish for\n"
-    "wild POKéMON.");
+    "Bruges ved en\n"
+    "vandkrop til at fiske\n"
+    "vilde POKéMON.");
 
 static const u8 sGoodRodDesc[] = _(
-    "A decent fishing\n"
-    "rod for catching\n"
-    "wild POKéMON.");
+    "En rimelig\n"
+    "fiskestang til at\n"
+    "fange vilde POKéMON.");
 
 static const u8 sSuperRodDesc[] = _(
-    "The best fishing\n"
-    "rod for catching\n"
-    "wild POKéMON.");
+    "Den bedste fiskestang\n"
+    "til at fange vilde\n"
+    "POKéMON.");
 
 static const u8 sSSTicketDesc[] = _(
-    "The ticket required\n"
-    "for sailing on a\n"
-    "ferry.");
+    "Billetten, der kræves\n"
+    "for at sejle med en\n"
+    "færge.");
 
 static const u8 sContestPassDesc[] = _(
-    "The pass required\n"
-    "for entering\n"
-    "POKéMON CONTESTS.");
+    "Pas, der kræves for\n"
+    "at deltage i\n"
+    "POKéMON KONKURRENCER.");
 
 static const u8 sWailmerPailDesc[] = _(
-    "A tool used for\n"
-    "watering BERRIES\n"
-    "and plants.");
+    "Et værktøj til\n"
+    "vanding af BÆR\n"
+    "og planter.");
 
 static const u8 sDevonGoodsDesc[] = _(
-    "A package that\n"
-    "contains DEVON's\n"
-    "machine parts.");
+    "En pakke, der indeholder\n"
+    "DEVON's maskindele.");
 
 static const u8 sSootSackDesc[] = _(
-    "A sack used to\n"
-    "gather and hold\n"
-    "volcanic ash.");
+    "En sæk brugt til at\n"
+    "samle og holde\n"
+    "vulkanisk aske.");
 
 static const u8 sBasementKeyDesc[] = _(
-    "The key for NEW\n"
-    "MAUVILLE beneath\n"
+    "Nøglen til NEW\n"
+    "MAUVILLE under\n"
     "MAUVILLE CITY.");
 
 static const u8 sAcroBikeDesc[] = _(
-    "A folding bicycle\n"
-    "capable of jumps\n"
-    "and wheelies.");
+    "En sammenklappelig\n"
+    "cykel, der kan lave\n"
+    "hop og wheelies.");
 
 static const u8 sPokeblockCaseDesc[] = _(
-    "A case for holding\n"
-    "{POKEBLOCK}S made with\n"
-    "a BERRY BLENDER.");
+    "Et etui til at have\n"
+    "{POKEBLOCK}S lavet i\n"
+    "en BÆR BLENDER.");
 
 static const u8 sLetterDesc[] = _(
-    "A letter to STEVEN\n"
-    "from the PRESIDENT\n"
-    "of the DEVON CORP.");
+    "Et brev til STEVEN\n"
+    "fra PRÆSIDENTEN\n"
+    "af DEVON CORP.");
 
 static const u8 sEonTicketDesc[] = _(
-    "The ticket for a\n"
-    "ferry to a distant\n"
-    "southern island.");
+    "Billetten til en\n"
+    "færge til en fjern\n"
+    "sydhavsø.");
 
 static const u8 sRedOrbDesc[] = _(
-    "A red, glowing orb\n"
-    "said to contain an\n"
-    "ancient power.");
+    "En rød, lysende kugle,\n"
+    "siges at indeholde en\n"
+    "gammel kraft.");
 
 static const u8 sBlueOrbDesc[] = _(
-    "A blue, glowing orb\n"
-    "said to contain an\n"
-    "ancient power.");
+    "En blå, lysende kugle,\n"
+    "siges at indeholde en\n"
+    "gammel kraft.");
 
 static const u8 sScannerDesc[] = _(
-    "A device found\n"
-    "inside the\n"
-    "ABANDONED SHIP.");
+    "En enhed fundet\n"
+    "inde i det\n"
+    "FORLADTE SKIB.");
 
 static const u8 sGoGogglesDesc[] = _(
-    "Nifty goggles that\n"
-    "protect eyes from\n"
-    "desert sandstorms.");
+    "Smart briller, der\n"
+    "beskytter øjne mod\n"
+    "ørken sandstorme.");
 
 static const u8 sMeteoriteDesc[] = _(
-    "A meteorite found\n"
-    "at METEOR FALLS.");
+    "En meteorit fundet\n"
+    "ved METEOR FALLS.");
 
 static const u8 sRoom1KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "En nøgle, der åbner\n"
+    "en dør inde i det\n"
+    "FORLADTE SKIB.");
 
 static const u8 sRoom2KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "En nøgle, der åbner\n"
+    "en dør inde i det\n"
+    "FORLADTE SKIB.");
 
 static const u8 sRoom4KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "En nøgle, der åbner\n"
+    "en dør inde i det\n"
+    "FORLADTE SKIB.");
 
 static const u8 sRoom6KeyDesc[] = _(
-    "A key that opens a\n"
-    "door inside the\n"
-    "ABANDONED SHIP.");
+    "En nøgle, der åbner\n"
+    "en dør inde i det\n"
+    "FORLADTE SKIB.");
 
 static const u8 sStorageKeyDesc[] = _(
-    "The key to the\n"
-    "storage inside the\n"
-    "ABANDONED SHIP.");
+    "Nøglen til\n"
+    "opbevaringen inde\n"
+    "i det FORLADTE SKIB.");
 
 static const u8 sRootFossilDesc[] = _(
-    "A fossil of an\n"
-    "ancient, seafloor-\n"
-    "dwelling POKéMON.");
+    "Et fossil af en\n"
+    "gammel havbund-\n"
+    "boende POKéMON.");
 
 static const u8 sClawFossilDesc[] = _(
-    "A fossil of an\n"
-    "ancient, seafloor-\n"
-    "dwelling POKéMON.");
+    "Et fossil af en\n"
+    "gammel havbund-\n"
+    "boende POKéMON.");
 
 static const u8 sDevonScopeDesc[] = _(
-    "A device by DEVON\n"
-    "that signals any\n"
-    "unseeable POKéMON.");
+    "En enhed af DEVON,\n"
+    "der registrerer\n"
+    "usynlige POKéMON.");
 
-// TMs/HMs
 static const u8 sTM01Desc[] = _(
-    "Powerful, but makes\n"
-    "the user flinch if\n"
-    "hit by the foe.");
+    "Kraftfuld, men får\n"
+    "brugeren til at skælve,\n"
+    "hvis ramt af fjenden.");
 
 static const u8 sTM02Desc[] = _(
-    "Hooks and slashes\n"
-    "the foe with long,\n"
-    "sharp claws.");
+    "Krog og skærer\n"
+    "fjenden med lange,\n"
+    "skarpe kløer.");
 
 static const u8 sTM03Desc[] = _(
-    "Generates an\n"
-    "ultrasonic wave\n"
-    "that may confuse.");
+    "Genererer en\n"
+    "ultralydsvåge,\n"
+    "som kan forvirre.");
 
 static const u8 sTM04Desc[] = _(
-    "Raises SP. ATK and\n"
-    "SP. DEF by focusing\n"
-    "the mind.");
+    "Øger SP. ATK og\n"
+    "SP. DEF ved at fokusere\n"
+    "sinnet.");
 
 static const u8 sTM05Desc[] = _(
-    "A savage roar that\n"
-    "makes the foe flee \n"
-    "to end the battle.");
+    "Et vildt brøl, der\n"
+    "får fjenden til at\n"
+    "flygte og afslutter\n"
+    "kampen.");
 
 static const u8 sTM06Desc[] = _(
-    "Poisons the foe\n"
-    "with a toxin that\n"
-    "gradually worsens.");
+    "Forgifter fjenden\n"
+    "med en gift, der\n"
+    "gradvist forværres.");
 
 static const u8 sTM07Desc[] = _(
-    "Creates a hailstorm\n"
-    "that damages all\n"
-    "types except ICE.");
+    "Skaber en haglstorm,\n"
+    "der skader alle typer\n"
+    "undtagen IS.");
 
 static const u8 sTM08Desc[] = _(
-    "Bulks up the body\n"
-    "to boost both\n"
-    "ATTACK & DEFENSE.");
+    "Styrker kroppen for at\n"
+    "øge både\n"
+    "ANGREB & FORSVAR.");
 
 static const u8 sTM09Desc[] = _(
-    "Shoots 2 to 5 seeds\n"
-    "in a row to strike\n"
-    "the foe.");
+    "Skyder 2 til 5 frø\n"
+    "i træk for at ramme\n"
+    "fjenden.");
 
 static const u8 sTM10Desc[] = _(
-    "The attack power\n"
-    "varies among\n"
-    "different POKéMON.");
+    "Angrebskraften\n"
+    "varierer mellem\n"
+    "forskellige POKéMON.");
 
 static const u8 sTM11Desc[] = _(
-    "Raises the power of\n"
-    "FIRE-type moves\n"
-    "for 5 turns.");
+    "Øger kraften af\n"
+    "ILD-type angreb\n"
+    "i 5 omgange.");
 
 static const u8 sTM12Desc[] = _(
-    "Enrages the foe so\n"
-    "it can only use\n"
-    "attack moves.");
+    "Gør fjenden så\n"
+    "vred, at den kun\n"
+    "kan bruge angreb.");
 
 static const u8 sTM13Desc[] = _(
-    "Fires an icy cold\n"
-    "beam that may\n"
-    "freeze the foe.");
+    "Skyder en iskold\n"
+    "stråle, der kan\n"
+    "fryse fjenden.");
 
 static const u8 sTM14Desc[] = _(
-    "A brutal snow-and-\n"
-    "wind attack that\n"
-    "may freeze the foe.");
+    "Et brutalt snedækket\n"
+    "vindangreb, der kan\n"
+    "fryse fjenden.");
 
 static const u8 sTM15Desc[] = _(
-    "Powerful, but needs\n"
-    "recharging the\n"
-    "next turn.");
+    "Kraftfuld, men skal\n"
+    "genoplades næste tur.");
 
 static const u8 sTM16Desc[] = _(
-    "Creates a wall of\n"
-    "light that lowers\n"
-    "SP. ATK damage.");
+    "Skaber en væg af\n"
+    "lys, der reducerer\n"
+    "SP. ATK skade.");
 
 static const u8 sTM17Desc[] = _(
-    "Negates all damage,\n"
-    "but may fail if used\n"
-    "in succession.");
+    "Negler al skade,\n"
+    "men kan mislykkes,\n"
+    "hvis brugt efter hinanden.");
 
 static const u8 sTM18Desc[] = _(
-    "Raises the power of\n"
-    "WATER-type moves\n"
-    "for 5 turns.");
+    "Øger kraften af\n"
+    "VAND-type angreb\n"
+    "i 5 omgange.");
 
 static const u8 sTM19Desc[] = _(
-    "Recovers half the\n"
-    "HP of the damage \n"
-    "this move inflicts.");
+    "Gendanner halvdelen\n"
+    "af den HP, skade,\n"
+    "denne bevægelse påfører.");
 
 static const u8 sTM20Desc[] = _(
-    "Prevents status\n"
-    "abnormality with a\n"
-    "mystical power.");
+    "Forhindrer status\n"
+    "unormalitet med en\n"
+    "mystisk kraft.");
 
 static const u8 sTM21Desc[] = _(
-    "The less the user\n"
-    "likes you, the more\n"
-    "powerful this move.");
+    "Jo mindre brugeren\n"
+    "kan lide dig, jo\n"
+    "kraftigere er denne\n"
+    "bevægelse.");
 
 static const u8 sTM22Desc[] = _(
-    "Absorbs sunlight in\n"
-    "the 1st turn, then\n"
-    "attacks next turn.");
+    "Absorberer sollys i\n"
+    "1. tur, derefter\n"
+    "angriber næste tur.");
 
 static const u8 sTM23Desc[] = _(
-    "Slams the foe with\n"
-    "a hard tail. It may\n"
-    "lower DEFENSE.");
+    "Slår fjenden med\n"
+    "en hård hale. Det\n"
+    "kan sænke FORSVAR.");
 
 static const u8 sTM24Desc[] = _(
-    "A powerful electric\n"
-    "attack that may\n"
-    "cause paralysis.");
+    "Et kraftfuldt\n"
+    "elektrisk angreb,\n"
+    "som kan forårsage\n"
+    "lammelse.");
 
 static const u8 sTM25Desc[] = _(
-    "Strikes the foe\n"
-    "with a thunderbolt.\n"
-    "It may paralyze.");
+    "Slår fjenden med\n"
+    "en lynbolt. Det kan\n"
+    "paralysere.");
 
 static const u8 sTM26Desc[] = _(
-    "Causes a quake\n"
-    "that has no effect\n"
-    "on flying foes.");
+    "Forårsager et jordskælv,\n"
+    "som ikke påvirker\n"
+    "flyvende fjender.");
 
 static const u8 sTM27Desc[] = _(
-    "The more the user\n"
-    "likes you, the more\n"
-    "powerful this move.");
+    "Jo mere brugeren\n"
+    "kan lide dig, jo\n"
+    "kraftigere er denne\n"
+    "bevægelse.");
 
 static const u8 sTM28Desc[] = _(
-    "Digs underground\n"
-    "the 1st turn, then\n"
-    "strikes next turn.");
+    "Graver under jorden\n"
+    "i 1. tur, derefter\n"
+    "slår næste tur.");
 
 static const u8 sTM29Desc[] = _(
-    "A powerful psychic\n"
-    "attack that may\n"
-    "lower SP. DEF.");
+    "Et kraftfuldt psykisk\n"
+    "angreb, som kan\n"
+    "sænke SP. DEF.");
 
 static const u8 sTM30Desc[] = _(
-    "Hurls a dark lump\n"
-    "at the foe. It may\n"
-    "lower SP. DEF.");
+    "Kaster en mørk klump\n"
+    "mod fjenden. Det kan\n"
+    "sænke SP. DEF.");
 
 static const u8 sTM31Desc[] = _(
-    "Destroys barriers\n"
-    "like LIGHT SCREEN\n"
-    "and causes damage.");
+    "Ødelægger barriere\n"
+    "som LYS SKÆRM og\n"
+    "forårsager skade.");
 
 static const u8 sTM32Desc[] = _(
-    "Creates illusory\n"
-    "copies to enhance\n"
-    "elusiveness.");
+    "Skaber illusionære\n"
+    "kopier for at forbedre\n"
+    "undvigelse.");
 
 static const u8 sTM33Desc[] = _(
-    "Creates a wall of\n"
-    "light that weakens\n"
-    "physical attacks.");
+    "Skaber en væg af\n"
+    "lys, der svækker\n"
+    "fysiske angreb.");
 
 static const u8 sTM34Desc[] = _(
-    "Zaps the foe with a\n"
-    "jolt of electricity\n"
-    "that never misses.");
+    "Sender en stød af\n"
+    "elektricitet mod\n"
+    "fjenden, som aldrig\n"
+    "misser.");
 
 static const u8 sTM35Desc[] = _(
-    "Looses a stream of\n"
-    "fire that may burn\n"
-    "the foe.");
+    "Udsender en strøm af\n"
+    "ild, som kan brænde\n"
+    "fjenden.");
 
 static const u8 sTM36Desc[] = _(
-    "Hurls sludge at the\n"
-    "foe. It may poison\n"
-    "the foe.");
+    "Kaster slam mod\n"
+    "fjenden. Det kan\n"
+    "forgifte fjenden.");
 
 static const u8 sTM37Desc[] = _(
-    "Causes a sandstorm\n"
-    "that hits the foe\n"
-    "over several turns.");
+    "Forårsager en\n"
+    "sandstorm, som rammer\n"
+    "fjenden over flere\n"
+    "omgange.");
 
 static const u8 sTM38Desc[] = _(
-    "A powerful fire\n"
-    "attack that may\n"
-    "burn the foe.");
+    "Et kraftfuldt ild-\n"
+    "angreb, som kan\n"
+    "brænde fjenden.");
 
 static const u8 sTM39Desc[] = _(
-    "Stops the foe from\n"
-    "moving with rocks.\n"
-    "May lower SPEED.");
+    "Forhindrer fjenden\n"
+    "i at bevæge sig med\n"
+    "sten. Kan sænke\n"
+    "HASTIGHED.");
 
 static const u8 sTM40Desc[] = _(
-    "An extremely fast\n"
-    "attack that can't\n"
-    "be avoided.");
+    "En ekstremt hurtig\n"
+    "angreb, som ikke kan\n"
+    "undgås.");
 
 static const u8 sTM41Desc[] = _(
-    "Prevents the foe\n"
-    "from using the same\n"
-    "move in a row.");
+    "Forhindrer fjenden i\n"
+    "at bruge samme\n"
+    "bevægelse i træk.");
 
 static const u8 sTM42Desc[] = _(
-    "Raises ATTACK when\n"
-    "poisoned, burned,\n"
-    "or paralyzed.");
+    "Øger ANGREB, når\n"
+    "forgiftet, brændt\n"
+    "eller paralyseret.");
 
 static const u8 sTM43Desc[] = _(
-    "Adds an effect to\n"
-    "attack depending\n"
-    "on the location.");
+    "Tilføjer en effekt\n"
+    "til angreb afhængigt\n"
+    "af placering.");
 
 static const u8 sTM44Desc[] = _(
-    "The user sleeps for\n"
-    "2 turns to restore\n"
-    "health and status.");
+    "Brugeren sover i\n"
+    "2 ture for at\n"
+    "gendanne sundhed\n"
+    "og status.");
 
 static const u8 sTM45Desc[] = _(
-    "Makes it tough to\n"
-    "attack a foe of the\n"
-    "opposite gender.");
+    "Gør det svært at\n"
+    "angribe en fjende af\n"
+    "det modsatte køn.");
 
 static const u8 sTM46Desc[] = _(
-    "While attacking,\n"
-    "it may steal the\n"
-    "foe's held item.");
+    "Mens man angriber,\n"
+    "kan det stjæle\n"
+    "fjendens holdte\n"
+    "genstand.");
 
 static const u8 sTM47Desc[] = _(
-    "Spreads hard-\n"
-    "edged wings and\n"
-    "slams into the foe.");
+    "Spreader hårdkantede\n"
+    "vinger og slår\n"
+    "ind i fjenden.");
 
 static const u8 sTM48Desc[] = _(
-    "Switches abilities\n"
-    "with the foe on the\n"
-    "turn this is used.");
+    "Skifter evner med\n"
+    "fjenden på den tur,\n"
+    "dette bruges.");
 
 static const u8 sTM49Desc[] = _(
-    "Steals the effects\n"
-    "of the move the foe\n"
-    "is trying to use.");
+    "Stjæler effekterne\n"
+    "af bevægelsen, som\n"
+    "fjenden forsøger at\n"
+    "bruge.");
 
 static const u8 sTM50Desc[] = _(
-    "Enables full-power\n"
-    "attack, but sharply\n"
-    "lowers SP. ATK.");
-
+    "Giver fuldkraftig\n"
+    "angreb, men svækker\n"
+    "SP. ATK kraftigt.");
 
 static const u8 sHM01Desc[] = _(
-    "Attacks the foe\n"
-    "with sharp blades\n"
-    "or claws.");
+    "Angriber fjenden\n"
+    "med skarpe klinger\n"
+    "eller kløer.");
 
 static const u8 sHM02Desc[] = _(
-    "Flies up on the\n"
-    "first turn, then\n"
-    "attacks next turn.");
+    "Flyver op på\n"
+    "første tur, derefter\n"
+    "angriber næste tur.");
 
 static const u8 sHM03Desc[] = _(
-    "Creates a huge\n"
-    "wave, then crashes\n"
-    "it down on the foe.");
+    "Skaber en kæmpe\n"
+    "bølge og kaster\n"
+    "den ned på fjenden.");
 
 static const u8 sHM04Desc[] = _(
-    "Builds enormous\n"
-    "power, then slams\n"
-    "the foe.");
+    "Bygger enorm\n"
+    "kraft og slammer\n"
+    "fjenden.");
 
 static const u8 sHM05Desc[] = _(
-    "Looses a powerful\n"
-    "blast of light that\n"
-    "reduces accuracy.");
+    "Frigiver en kraftig\n"
+    "lysstråle, der\n"
+    "nedsætter præcision.");
 
 static const u8 sHM06Desc[] = _(
-    "A rock-crushingly\n"
-    "tough attack that\n"
-    "may lower DEFENSE.");
+    "Et stenhårdt\n"
+    "angreb, som kan\n"
+    "sænke FORSVAR.");
 
 static const u8 sHM07Desc[] = _(
-    "Attacks the foe\n"
-    "with enough power\n"
-    "to climb waterfalls.");
+    "Angriber fjenden\n"
+    "med tilstrækkelig\n"
+    "kraft til at klatre\n"
+    "op ad vandfald.");
 
 static const u8 sHM08Desc[] = _(
-    "Dives underwater\n"
-    "the 1st turn, then\n"
-    "attacks next turn.");
+    "Dykker under vandet\n"
+    "på første tur,\n"
+    "derefter angriber\n"
+    "næste tur.");
 
-// FireRed/LeafGreen key items
 static const u8 sOaksParcelDesc[] = _(
-    "A parcel for PROF.\n"
-    "OAK from a POKéMON\n"
-    "MART's clerk.");
+    "Et pakke til PROF.\n"
+    "OAK fra en POKéMON-\n"
+    "MART-kasserer.");
 
 static const u8 sPokeFluteDesc[] = _(
-    "A sweet-sounding\n"
-    "flute that awakens\n"
-    "POKéMON.");
+    "En sødtlydende fløjte,\n"
+    "som vækker POKéMON.");
 
 static const u8 sSecretKeyDesc[] = _(
-    "The key to the\n"
-    "CINNABAR ISLAND\n"
-    "GYM's entrance.");
+    "Nøglen til CINNABAR\n"
+    "ISLAND GYM's indgang.");
 
 static const u8 sBikeVoucherDesc[] = _(
-    "A voucher for\n"
-    "obtaining a bicycle\n"
-    "from the BIKE SHOP.");
+    "En voucher til at\n"
+    "skaffe en cykel fra\n"
+    "BIKE SHOP.");
 
 static const u8 sGoldTeethDesc[] = _(
-    "Gold dentures lost\n"
-    "by the SAFARI\n"
-    "ZONE's WARDEN.");
+    "Guldproteser tabt af\n"
+    "SAFARI ZONE's vogter.");
 
 static const u8 sOldAmberDesc[] = _(
-    "A stone containing\n"
-    "the genes of an\n"
-    "ancient POKéMON.");
+    "En sten, som\n"
+    "indeholder generne\n"
+    "fra en gammel\n"
+    "POKéMON.");
 
 static const u8 sCardKeyDesc[] = _(
-    "A card-type door\n"
-    "key used in SILPH\n"
-    "CO's office.");
+    "En korttype\n"
+    "dørnøgle, brugt i\n"
+    "SILPH CO's kontor.");
 
 static const u8 sLiftKeyDesc[] = _(
-    "An elevator key\n"
-    "used in TEAM\n"
+    "En elevator nøgle\n"
+    "brugt i TEAM\n"
     "ROCKET's HIDEOUT.");
 
 static const u8 sHelixFossilDesc[] = _(
-    "A piece of an\n"
-    "ancient marine\n"
-    "POKéMON's seashell.");
+    "Et stykke af en\n"
+    "gammel hav-\n"
+    "POKéMON's snegleskal.");
 
 static const u8 sDomeFossilDesc[] = _(
-    "A piece of an\n"
-    "ancient marine\n"
-    "POKéMON's shell.");
+    "Et stykke af en\n"
+    "gammel hav-\n"
+    "POKéMON's skal.");
 
 static const u8 sSilphScopeDesc[] = _(
-    "SILPH CO's scope\n"
-    "makes unseeable\n"
-    "POKéMON visible.");
+    "SILPH CO's scope,\n"
+    "gør usynlige\n"
+    "POKéMON synlige.");
 
 static const u8 sBicycleDesc[] = _(
-    "A folding bicycle\n"
-    "that is faster than\n"
-    "the RUNNING SHOES.");
+    "En sammenklappelig\n"
+    "cykel, som er\n"
+    "hurtigere end\n"
+    "LØBESKOENE.");
 
 static const u8 sTownMapDesc[] = _(
-    "Can be viewed\n"
-    "anytime. Shows your\n"
-    "present location.");
+    "Kan ses\n"
+    "når som helst.\n"
+    "Viser din nuværende\n"
+    "position.");
 
 static const u8 sVSSeekerDesc[] = _(
-    "A rechargeable unit\n"
-    "that flags battle-\n"
-    "ready TRAINERS.");
+    "En genopladelig\n"
+    "enhed, der markerer\n"
+    "kampklare TRÆNERE.");
 
 static const u8 sFameCheckerDesc[] = _(
-    "Stores information\n"
-    "on famous people\n"
-    "for instant recall.");
+    "Gemmer information\n"
+    "om berømte personer\n"
+    "til hurtig genkaldelse.");
 
 static const u8 sTMCaseDesc[] = _(
-    "A convenient case \n"
-    "that holds TMs and\n"
+    "En praktisk kasse,\n"
+    "som holder TMs og\n"
     "HMs.");
 
 static const u8 sBerryPouchDesc[] = _(
-    "A convenient\n"
-    "container that\n"
-    "holds BERRIES.");
+    "En praktisk\n"
+    "beholder, der\n"
+    "holder BÆR.");
 
 static const u8 sTeachyTVDesc[] = _(
-    "A TV set tuned to\n"
-    "an advice program\n"
-    "for TRAINERS.");
+    "Et TV sat til et\n"
+    "rådgivningsprogram\n"
+    "til TRÆNERE.");
 
 static const u8 sTriPassDesc[] = _(
-    "A pass for ferries\n"
-    "between ONE, TWO,\n"
-    "and THREE ISLAND.");
+    "En pas for færger\n"
+    "mellem ONE, TWO,\n"
+    "og THREE ISLAND.");
 
 static const u8 sRainbowPassDesc[] = _(
-    "For ferries serving\n"
-    "VERMILION and the\n"
-    "SEVII ISLANDS.");
+    "Til færger, der\n"
+    "betjener VERMILION\n"
+    "og SEVII ISLANDS.");
 
 static const u8 sTeaDesc[] = _(
-    "A thirst-quenching\n"
-    "tea prepared by an\n"
-    "old lady.");
+    "En tørstslukkende\n"
+    "te, tilberedt af en\n"
+    "gammel dame.");
 
 static const u8 sMysticTicketDesc[] = _(
-    "A ticket required\n"
-    "to board the ship\n"
-    "to NAVEL ROCK.");
+    "En billet, der kræves\n"
+    "for at gå om bord\n"
+    "i skibet til NAVEL\n"
+    "ROCK.");
 
 static const u8 sAuroraTicketDesc[] = _(
-    "A ticket required\n"
-    "to board the ship\n"
-    "to BIRTH ISLAND.");
+    "En billet, der kræves\n"
+    "for at gå om bord\n"
+    "i skibet til BIRTH\n"
+    "ISLAND.");
 
 static const u8 sPowderJarDesc[] = _(
-    "Stores BERRY\n"
-    "POWDER made using\n"
-    "a BERRY CRUSHER.");
+    "Gemmer BÆRPULVER\n"
+    "lavet med en\n"
+    "BÆRKNUSER.");
 
 static const u8 sRubyDesc[] = _(
-    "An exquisite, red-\n"
-    "glowing gem that\n"
-    "symbolizes passion.");
+    "En udsøgt, rød-\n"
+    "glødende perle, der\n"
+    "symboliserer passion.");
 
 static const u8 sSapphireDesc[] = _(
-    "A brilliant blue gem\n"
-    "that symbolizes\n"
-    "honesty.");
+    "En strålende blå perle\n"
+    "der symboliserer\n"
+    "ærlighed.");
 
-// Emerald-specific key items
 static const u8 sMagmaEmblemDesc[] = _(
-    "A medal-like item in\n"
-    "the same shape as\n"
-    "TEAM MAGMA's mark.");
+    "En medalje-lignende\n"
+    "genstand i samme\n"
+    "form som TEAM\n"
+    "MAGMA's mærke.");
 
 static const u8 sOldSeaMapDesc[] = _(
-    "A faded sea chart\n"
-    "that shows the way\n"
-    "to a certain island.");
+    "Et falmet søkort,\n"
+    "der viser vejen til\n"
+    "en bestemt ø.");
