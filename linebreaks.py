@@ -40,7 +40,7 @@ def parse_block(l):
             return collapse_strings(theStrs)
 
     try:
-        match = re.search("^(\\w+):+\\n", l)
+        match = re.search("^(\\w+:?):\\n", l)
         header = match.group(1)
     except AttributeError:
         return ["", l]
@@ -111,11 +111,23 @@ def reformat_file(f):
 if __name__ == '__main__':
     import argparse
     import io
+    import sys
 
     parse = argparse.ArgumentParser()
     parse.add_argument("filename")
+    parse.add_argument("--replace", action=argparse.BooleanOptionalAction)
     args = parse.parse_args()
+
 
     print(args.filename)
     f = io.open(args.filename)
-    reformat_file(f.read())
+    c = f.read()
+
+    out = sys.stdout
+    if (args.replace):
+        f.close()
+        out = io.open(args.filename, "w")
+
+    sys.stdout = out
+
+    reformat_file(c)
