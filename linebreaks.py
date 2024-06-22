@@ -1,3 +1,5 @@
+#!/usr/bin/python
+
 import re
 import functools
 import json
@@ -49,11 +51,13 @@ def parse_block(l):
 # multiple lines to fit in the text box.
 def format_line(line, theEnd):
     def measure_word(w):
-        match = re.match("(.*)({[A-Z0-9_]*})(.*)", w)
+        match = re.match("([^{}]*)({[A-Z0-9_]*})({[A-Z0-9_]*})?(.*)", w)
         if match:
             m = widths[match.group(2)]
+            if (match.group(3)):
+                m += widths[match.group(3)]
             m += functools.reduce(lambda acc, l: acc + widths[l], match.group(1), 0)
-            m += functools.reduce(lambda acc, l: acc + widths[l], match.group(3), 0)
+            m += functools.reduce(lambda acc, l: acc + widths[l], match.group(4), 0)
         else: 
             m = functools.reduce(lambda acc, l: acc + widths[l], w, 0)
         return m
