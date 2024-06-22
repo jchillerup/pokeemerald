@@ -248,58 +248,52 @@ Route118_EventScript_Deandre::
 
 Route118_Text_StevenQuestions:
 	.string "STEVEN: Hej, {PLAYER}{KUN}!\p"
-	.string "Det er mig, STEVEN!\n"
-	.string "Vi mødtes i hulen nær DEWFORD.\p"
-	.string "Har du mødt mange slags POKéMON\n"
-	.string "siden jeg sidst så dig?\p"
-	.string "Der er mange, mange slags POKéMON\n"
-	.string "i denne store verden af vores.\p"
-	.string "Hvis du kun vil opdrætte dine\n"
-	.string "favoritter, så er det fint.\p"
+	.string "Det er mig, STEVEN! Vi mødtes i hulen nær\n"
+	.string "DEWFORD.\p"
+	.string "Har du mødt mange slags POKéMON siden jeg\n"
+	.string "sidst så dig?\p"
+	.string "Der er mange, mange slags POKéMON i denne\n"
+	.string "store verden af vores.\p"
+	.string "Hvis du kun vil opdrætte dine favoritter, så\n"
+	.string "er det fint.\p"
 	.string "Måske synes du, at det er sjovere at\n"
 	.string "opdrætte alle slags POKéMON.\p"
-	.string "Som en TRÆNER af POKéMON,\n"
-	.string "hvad tænker du?\p"
+	.string "Som en TRÆNER af POKéMON, hvad tænker du?\p"
 	.string "Selvfølgelig er det ikke min sag.\p"
-	.string "Det ville være dejligt, hvis vi skulle\n"
-	.string "mødes igen et sted.$"
+	.string "Det ville være dejligt, hvis vi skulle mødes\n"
+	.string "igen et sted.$"
 
 Route118_Text_YouAgreeGoodRodIsGood:
-	.string "Hmm!\n"
-	.string "En GOD STANG er virkelig god!\p"
+	.string "Hmm! En GOD STANG er virkelig god!\p"
 	.string "Ville du ikke være enig?$"
 
 Route118_Text_IdenticalMindsTakeThis:
-	.string "Hmm!\n"
-	.string "Vi tænker ens!\p"
-	.string "Hmm!\n"
-	.string "Tag denne GODE STANG!$"
+	.string "Hmm! Vi tænker ens!\p"
+	.string "Hmm! Tag denne GODE STANG!$"
 
 Route118_Text_TryYourLuckFishing:
-	.string "Hvor end der er vand, så prøv lykken\n"
-	.string "med at fiske.$"
+	.string "Hvor end der er vand, så prøv lykken med at\n"
+	.string "fiske.$"
 
 Route118_Text_DontYouLikeToFish:
 	.string "Kan du ikke lide at fiske?$"
 
 Route118_Text_TryCatchingMonWithGoodRod:
-	.string "Prøv at fange alle mulige POKéMON\n"
-	.string "med din GODE STANG.$"
+	.string "Prøv at fange alle mulige POKéMON med din\n"
+	.string "GODE STANG.$"
 
 Route118_Text_CanCrossRiversWithSurf:
-	.string "Selv hvis der ikke er en båd, kan du\n"
-	.string "krydse floder og havet, hvis du har\l"
-	.string "en POKéMON, der kan SURFE.\p"
-	.string "Man kan altid regne med en POKéMON\n"
-	.string "til at gøre så meget!$"
+	.string "Selv hvis der ikke er en båd, kan du krydse\n"
+	.string "floder og havet, hvis du har en POKéMON, der\l"
+	.string "kan SURFE.\p"
+	.string "Man kan altid regne med en POKéMON til at\n"
+	.string "gøre så meget!$"
 
 Route118_Text_RouteSignMauville:
-	.string "RUTE 118\n"
-	.string "{LEFT_ARROW} MAUVILLE CITY$"
+	.string "RUTE 118 {LEFT_ARROW} MAUVILLE CITY$"
 
 Route118_Text_RouteSign119:
-	.string "RUTE 118\n"
-	.string "{UP_ARROW} RUTE 119$"
+	.string "RUTE 118 {UP_ARROW} RUTE 119$"
 
 
 

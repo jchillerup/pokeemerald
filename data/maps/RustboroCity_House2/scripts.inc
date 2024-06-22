@@ -13,12 +13,12 @@ RustboroCity_House2_EventScript_LittleGirl::
 
 RustboroCity_House2_Text_TrainerSchoolExcellent:
 	.string "TRÆNERENS SKOLE er fantastisk.\p"
-	.string "Hvis du studerer der, kan du endda\n"
-	.string "blive en GYM-LEDER.$"
+	.string "Hvis du studerer der, kan du endda blive en\n"
+	.string "GYM-LEDER.$"
 
 RustboroCity_House2_Text_RoxanneKnowsALot:
-	.string "ROXANNE, GYM-lederen, ved virkelig\n"
-	.string "meget om POKéMON.\p"
+	.string "ROXANNE, GYM-lederen, ved virkelig meget\n"
+	.string "om POKéMON.\p"
 	.string "Hun er også virkelig stærk!$"
 
 

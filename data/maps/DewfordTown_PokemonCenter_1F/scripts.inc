@@ -29,15 +29,14 @@ DewfordTown_PokemonCenter_1F_EventScript_Man::
 	end
 
 DewfordTown_PokemonCenter_1F_Text_StoneCavern:
-	.string "Der er en stenhule ved kanten\n"
-	.string "af byen.\p"
-	.string "Jeg har hørt, at man kan finde\n"
-	.string "sjældne sten der.$" 
+	.string "Der er en stenhule ved kanten af byen.\p"
+	.string "Jeg har hørt, at man kan finde sjældne sten\n"
+	.string "der.$"
 
 DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM:
-	.string "Selv hvis en POKéMON besvimer og ikke\n"
-	.string "kan kæmpe, kan den stadig bruge et\n"
-	.string "træk, den har lært fra en SKJULT MASKINE (HM).$"
+	.string "Selv hvis en POKéMON besvimer og ikke kan\n"
+	.string "kæmpe, kan den stadig bruge et træk, den har\l"
+	.string "lært fra en SKJULT MASKINE (HM).$"
 
 
 

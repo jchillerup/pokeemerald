@@ -6,7 +6,6 @@
 .set LOCALID_MAGMA_GRUNT_2, 22
 .set LOCALID_MAGMA_GRUNT_1, 29
 
-
 MtChimney_MapScripts::
 	map_script MAP_SCRIPT_ON_RESUME, MtChimney_OnResume
 	map_script MAP_SCRIPT_ON_TRANSITION, MtChimney_OnTransition
@@ -540,117 +539,107 @@ MtChimney_Text_MeteoriteWillActivateVolcano:
 	.string "Ved at forstærke dens kraft med denne\n"
 	.string "maskine, vil MT. CHIMNEYs vulkanske\l"
 	.string "aktivitet øjeblikkeligt intensiveres…\p"
-	.string "Dens energi vil vokse dybt inde i\n"
-	.string "krateret og…\l"
-	.string "Fufufu…$"
+	.string "Dens energi vil vokse dybt inde i krateret\n"
+	.string "og… Fufufu…$"
 
 MtChimney_Text_MaxieIntro:
-	.string "MAXIE: Hm?\n"
-	.string "Hvem er du?\p"
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "Jeg hørte ARCHIE beklage sig over et\n"
-	.string "barn, der har rodet sig ind i TEAM\n"
-	.string "AQUA's sager.\p"
+	.string "MAXIE: Hm? Hvem er du?\p"
+	.string "… … … … … … … … … … … …\p"
+	.string "Jeg hørte ARCHIE beklage sig over et barn,\n"
+	.string "der har rodet sig ind i TEAM AQUA's sager.\p"
 	.string "Det må være dig, han mente.\p"
-	.string "Hmf! Så du tænker på at blande dig\n"
-	.string "i vores, TEAM MAGMA's, anliggender?\p"
-	.string "Nu hør her.\n"
-	.string "I gamle dage brugte levende væsener\n"
-	.string "jorden til at leve og vokse.\p"
-	.string "Det er derfor, jorden er så vigtig!\n"
-	.string "Det er vuggen for alt!\p"
+	.string "Hmf! Så du tænker på at blande dig i vores,\n"
+	.string "TEAM MAGMA's, anliggender?\p"
+	.string "Nu hør her. I gamle dage brugte levende\n"
+	.string "væsener jorden til at leve og vokse.\p"
+	.string "Det er derfor, jorden er så vigtig! Det er\n"
+	.string "vuggen for alt!\p"
 	.string "Derfor er TEAM MAGMA dedikeret til\n"
 	.string "udvidelsen af landmassen.\p"
 	.string "Det er til yderligere fremskridt for\n"
 	.string "menneskeheden og POKéMON!\p"
-	.string "Og til det har vi brug for kraften af\n"
-	.string "det, der sover indeni dette bjerg…\p"
-	.string "Åh! Du behøvede ikke at lære så\n"
-	.string "meget.\p"
-	.string "Men, det betyder intet!\n"
-	.string "Jeg vil lære dig konsekvenserne af at\n"
-	.string "blande dig i vores store plan!$"
+	.string "Og til det har vi brug for kraften af det, der\n"
+	.string "sover indeni dette bjerg…\p"
+	.string "Åh! Du behøvede ikke at lære så meget.\p"
+	.string "Men, det betyder intet! Jeg vil lære dig\n"
+	.string "konsekvenserne af at blande dig i vores\l"
+	.string "store plan!$"
 
 MtChimney_Text_MaxieDefeat:
 	.string "Hvad?!\p"
 	.string "Jeg, MAXIE, blev overrasket?!$"
 
 MtChimney_Text_MaxieYouHaventSeenLastOfMagma:
-	.string "MAXIE: Men nok om det.\n"
-	.string "Jeg vil trække mig denne gang.\p"
-	.string "Men tro ikke, at det her er sidste\n"
-	.string "gang, du har set til TEAM MAGMA.\p"
+	.string "MAXIE: Men nok om det. Jeg vil trække mig\n"
+	.string "denne gang.\p"
+	.string "Men tro ikke, at det her er sidste gang, du har\n"
+	.string "set til TEAM MAGMA.\p"
 	.string "Fufufu…\p"
-	.string "Selv uden METEORITEN, hvis vi\n"
-	.string "skaffer den ORB… Fufufu…$"
+	.string "Selv uden METEORITEN, hvis vi skaffer den\n"
+	.string "ORB… Fufufu…$"
 
 MtChimney_Text_TabithaIntro:
 	.string "Hihihi!\p"
 	.string "Så du er kommet hele vejen herhen!\p"
-	.string "Men du er for sent!\n"
-	.string "Jeg har allerede leveret METEORITEN\l"
-	.string "fra METEORFALDENE til BOSS!\p$"
+	.string "Men du er for sent! Jeg har allerede leveret\n"
+	.string "METEORITEN fra METEORFALDENE til BOSS!$"
 
 MtChimney_Text_TabithaDefeat:
 	.string "Hihihi…\p"
-	.string "Selvom jeg har tabt, hvis vores leder\n"
-	.string "vækker den ting…$"
+	.string "Selvom jeg har tabt, hvis vores leder vækker\n"
+	.string "den ting…$"
 
 MtChimney_Text_TabithaPostBattle:
-	.string "BOSS, skynd dig!\n"
-	.string "Giv den METEORITens energi!\p"
+	.string "BOSS, skynd dig! Giv den METEORITens\n"
+	.string "energi!\p"
 	.string "Hehehe…$"
 
 MtChimney_Text_Grunt2Intro:
-	.string "Vi i TEAM MAGMA arbejder hårdt for\n"
-	.string "alles skyld.\p"
-	.string "Hvis den der tinges kraft skabte mere\n"
-	.string "land, ville der være flere steder at bo.\p"
+	.string "Vi i TEAM MAGMA arbejder hårdt for alles\n"
+	.string "skyld.\p"
+	.string "Hvis den der tinges kraft skabte mere land,\n"
+	.string "ville der være flere steder at bo.\p"
 	.string "Alle ville være glade!$"
 
 MtChimney_Text_Grunt2Defeat:
-	.string "Hvad mener du med, at jeg har tabt?\p$"
+	.string "Hvad mener du med, at jeg har tabt?$"
 
 MtChimney_Text_Grunt2PostBattle:
-	.string "Vores CHEF siger, “Det vil gøre alle\n"
-	.string "glade.”\p"
-	.string "Men hvorfor bliver alle ved med\n"
-	.string "at komme i vores vej?$"
+	.string "Vores CHEF siger, “Det vil gøre alle glade.”\p"
+	.string "Men hvorfor bliver alle ved med at komme i\n"
+	.string "vores vej?$"
 
 MtChimney_Text_Grunt1Intro:
-	.string "Hvis der var mere jord, ville jeg kunne\n"
-	.string "få et stort hus for mig selv!\p"
+	.string "Hvis der var mere jord, ville jeg kunne få et\n"
+	.string "stort hus for mig selv!\p"
 	.string "Jeg vil bygge det på størknet lava!$"
 
 MtChimney_Text_Grunt1Defeat:
 	.string "Min drøm om et stort hus…$"
 
 MtChimney_Text_Grunt1PostBattle:
-	.string "En lille skat som dig, burde\n"
-	.string "plaske rundt i bølgerne!$"
+	.string "En lille skat som dig, burde plaske rundt i\n"
+	.string "bølgerne!$"
 
 MtChimney_Text_TeamAquaAlwaysMessingWithPlans:
-	.string "De irriterende TEAM AQUA…\n"
-	.string "De roder altid med vores planer!$"
+	.string "De irriterende TEAM AQUA… De roder altid\n"
+	.string "med vores planer!$"
 
 MtChimney_Text_MeteoritesPackAmazingPower:
 .string "METEORITER har en fantastisk kraft!$"
 
 MtChimney_Text_YouBetterNotMessWithUs:
 	.string "Du skal nok lade være med at provokere os!\p"
-	.string "Vi prøver at vække det der\n"
-	.string "til gavn for alle!$"
+	.string "Vi prøver at vække det der til gavn for alle!$"
 
 MtChimney_Text_AquasNameSimilar:
 	.string "Vi er TEAM MAGMA!\p"
 	.string "De er TEAM AQUA!\p"
-	.string "Det irriterer mig helt vildt, at de\n"
-	.string "ville bruge et navn ligesom vores!$"
+	.string "Det irriterer mig helt vildt, at de ville bruge\n"
+	.string "et navn ligesom vores!$"
 
 MtChimney_Text_DouseThemInFire:
-	.string "Ja!\n"
-	.string "Overøs dem i ild!$"
+	.string "Ja! Overøs dem i ild!$"
 
 MtChimney_Text_KeepMakingMoreLand:
 	.string "Vi vil blive ved med at skabe mere land!$"
@@ -659,62 +648,59 @@ MtChimney_Text_Bufoh:
 	.string "Bufoh!$"
 
 MtChimney_Text_ArchieGoStopTeamMagma:
-	.string "ARCHIE: Grr, {PLAYER}!\n"
-	.string "Jeg skulle have gættet på, at du ville dukke op!\p"
-	.string "Se selv, hvad fanatikerne fra\n"
-	.string "TEAM MAGMA er i gang med!\p"
-	.string "De forsøger at injicere stjålet\n"
-	.string "METEORITS kraft ind i vulkanen!\p"
-	.string "At gøre noget sådan vil få vulkanen\n"
-	.string "til at gå i udbrud!$"
+	.string "ARCHIE: Grr, {PLAYER}! Jeg skulle have\n"
+	.string "gættet på, at du ville dukke op!\p"
+	.string "Se selv, hvad fanatikerne fra TEAM MAGMA er\n"
+	.string "i gang med!\p"
+	.string "De forsøger at injicere stjålet METEORITS\n"
+	.string "kraft ind i vulkanen!\p"
+	.string "At gøre noget sådan vil få vulkanen til at gå\n"
+	.string "i udbrud!$"
 
 MtChimney_Text_ArchieIHaveMyHandsFull:
 	.string "ARCHIE: Grrr…\p"
-	.string "Jeg vil stoppe den MAXIE,\n"
-	.string "men jeg kan ikke!\p"
-	.string "Ikke når jeg har hænderne fulde med at kæmpe\n"
-	.string "mod tre modstandere på én gang!$"
+	.string "Jeg vil stoppe den MAXIE, men jeg kan ikke!\p"
+	.string "Ikke når jeg har hænderne fulde med at\n"
+	.string "kæmpe mod tre modstandere på én gang!$"
 
 MtChimney_Text_ArchieThankYou:
-	.string "ARCHIE: {PLAYER}!\n"
-	.string "Tak!\p"
-	.string "Med din hjælp har vi forhindret TEAM\n"
-	.string "MAGMAs destruktive plan!\p"
-	.string "Men… Du…\n"
-	.string "Hvilken side er du på?\p"
+	.string "ARCHIE: {PLAYER}! Tak!\p"
+	.string "Med din hjælp har vi forhindret TEAM MAGMAs\n"
+	.string "destruktive plan!\p"
+	.string "Men… Du… Hvilken side er du på?\p"
 	.string "Nå, det betyder ikke noget.\p"
-	.string "Vi vil forblive årvågne og fortsætte\n"
-	.string "vores jagt på TEAM MAGMA.\p"
+	.string "Vi vil forblive årvågne og fortsætte vores\n"
+	.string "jagt på TEAM MAGMA.\p"
 	.string "{PLAYER}, vi skal mødes igen!$"
 
 MtChimney_Text_MagmaOutnumbersUs:
-	.string "Øv... HOLD MAGMA er flere end os!\n"
-	.string "Vi kan ikke følge med dem!$"
+	.string "Øv... HOLD MAGMA er flere end os! Vi kan ikke\n"
+	.string "følge med dem!$"
 
 MtChimney_Text_LessHabitatForWaterPokemon:
-	.string "Hvis de udvider området, vil der være\n"
-	.string "færre levesteder til VAND POKéMON!$"
+	.string "Hvis de udvider området, vil der være færre\n"
+	.string "levesteder til VAND POKéMON!$"
 
 MtChimney_Text_MagmasNameSimilar:
 	.string "Vi er HOLD AQUA!\p"
 	.string "De er HOLD MAGMA!\p"
-	.string "Det gør mig rasende, at de ville\n"
-	.string "bruge et så forvirrende navn!$"
+	.string "Det gør mig rasende, at de ville bruge et så\n"
+	.string "forvirrende navn!$"
 
 MtChimney_Text_Bushaa:
 	.string "Bushaa!$"
 
 MtChimney_Text_LavaCookiesJust200:
-	.string "LAVA COOKIES er det lokale\n"
-	.string "specialitet på MT. CHIMNEY.\p"
+	.string "LAVA COOKIES er det lokale specialitet på\n"
+	.string "MT. CHIMNEY.\p"
 	.string "Prøv en. Det koster kun ¥200.$"
 
 MtChimney_Text_ThankYouDear:
 	.string "Tak, søde!$"
 
 MtChimney_Text_YouveNotGotTheMoney:
-	.string "Åh, du. Du kan ikke købe noget, hvis\n"
-	.string "du ikke har pengene.$"
+	.string "Åh, du. Du kan ikke købe noget, hvis du ikke\n"
+	.string "har pengene.$"
 
 MtChimney_Text_OhFineThen:
 	.string "Åh, fint så.$"
@@ -722,8 +708,8 @@ MtChimney_Text_OhFineThen:
 MtChimney_Text_MetoriteFittedOnMachine:
 	.string "En METEORIT er monteret på en mystisk\n"
 	.string "maskine...\p"
-	.string "Maskinen ser ud til at lagre\n"
-	.string "energi i METEORITTEN.$"
+	.string "Maskinen ser ud til at lagre energi i\n"
+	.string "METEORITTEN.$"
 
 MtChimney_Text_RemoveTheMeteorite:
 	.string "En METEORIT er monteret på en mystisk\n"
@@ -731,120 +717,112 @@ MtChimney_Text_RemoveTheMeteorite:
 	.string "Vil du fjerne METEORITEN?$"
 
 MtChimney_Text_PlayerRemovedMeteorite:
-	.string "{PLAYER} fjernede METEORITEN fra\n"
-	.string "den mystiske maskine.$"
+	.string "{PLAYER} fjernede METEORITEN fra den\n"
+	.string "mystiske maskine.$"
 
 MtChimney_Text_PlayerLeftMeteorite:
 	.string "{PLAYER} efterlod METEORITEN hvor den\n"
 	.string "var.$"
 
 MtChimney_Text_MachineMakesNoResponse:
-	.string "Denne mystiske maskine...\n"
-	.string "Den reagerer overhovedet ikke.$"
+	.string "Denne mystiske maskine... Den reagerer\n"
+	.string "overhovedet ikke.$"
 
 MtChimney_Text_RouteSign:
-	.string "{DOWN_ARROW} STEJL STI\n"
-	.string "LAVARIDGE BY FORAN$" 
+	.string "{DOWN_ARROW} STEJL STI LAVARIDGE BY FORAN$"
 
 MtChimney_Text_ShelbyIntro:
-	.string "Jeg har været i de varme kilder og\n"
-	.string "fået fornyet energi i mine trætte ben.\p"
+	.string "Jeg har været i de varme kilder og fået\n"
+	.string "fornyet energi i mine trætte ben.\p"
 	.string "Lige nu føler jeg mig stærk!$"
 
 MtChimney_Text_ShelbyDefeat:
-	.string "Åh, min gode.\n"
-	.string "Nå, er du ikke noget særligt!$"
+	.string "Åh, min gode. Nå, er du ikke noget særligt!$"
 
 MtChimney_Text_ShelbyPostBattle:
-	.string "Nå, nå, jeg har tabt. Jeg kan ikke\n"
-	.string "kalde mig selv en EKSPERT nu, kan jeg?$"
+	.string "Nå, nå, jeg har tabt. Jeg kan ikke kalde mig\n"
+	.string "selv en EKSPERT nu, kan jeg?$"
 
 MtChimney_Text_ShelbyRegister:
-	.string "Tak, barn. Det var sjovt, som om\n"
-	.string "jeg kæmpede mod mit eget barnebarn.\p"
-	.string "Kom venligst og besøg mig igen\n"
-	.string "til en revanche.$"
+	.string "Tak, barn. Det var sjovt, som om jeg kæmpede\n"
+	.string "mod mit eget barnebarn.\p"
+	.string "Kom venligst og besøg mig igen til en\n"
+	.string "revanche.$"
 
 MtChimney_Text_ShelbyRematchIntro:
-	.string "Hvis du kan forene dit hjerte med\n"
-	.string "dine POKéMONs, ja, så kan du\l"
-	.string "opnå store ting.$"
+	.string "Hvis du kan forene dit hjerte med dine\n"
+	.string "POKéMONs, ja, så kan du opnå store ting.$"
 
 MtChimney_Text_ShelbyRematchDefeat:
-	.string "Åh, min gode.\n"
-	.string "Nå, er du ikke noget!$"
+	.string "Åh, min gode. Nå, er du ikke noget!$"
 
 MtChimney_Text_ShelbyPostRematch:
-	.string "Måske er dit hjerte blevet ét\n"
-	.string "med hjertene af dine POKéMON.$"
+	.string "Måske er dit hjerte blevet ét med hjertene\n"
+	.string "af dine POKéMON.$"
 
 MtChimney_Text_MelissaIntro:
-	.string "Jeg har ilden i mig, skat.\n"
-	.string "Jeg kan ikke holde det ud! Jeg er nødt til at kæmpe!$"
+	.string "Jeg har ilden i mig, skat. Jeg kan ikke holde\n"
+	.string "det ud! Jeg er nødt til at kæmpe!$"
 
 MtChimney_Text_MelissaDefeat:
 	.string "Åh, det var en brændende varm kamp!$"
 
 MtChimney_Text_MelissaPostBattle:
-	.string "Varmen fra MT. CHIMNEY\n"
-	.string "varmer mig op, skat!$"
+	.string "Varmen fra MT. CHIMNEY varmer mig op, skat!$"
 
 MtChimney_Text_SheilaIntro:
-	.string "Jeg er endelig nået til MT. CHIMNEY.\n"
-	.string "Jeg vil gerne have min POKéMON til kamp!$"
+	.string "Jeg er endelig nået til MT. CHIMNEY. Jeg vil\n"
+	.string "gerne have min POKéMON til kamp!$"
 
 MtChimney_Text_SheilaDefeat:
-	.string "Måden, du kæmper på…\n"
-	.string "Det er som en MT. CHIMNEY-udbrud!$"
+	.string "Måden, du kæmper på… Det er som en MT.\n"
+	.string "CHIMNEY-udbrud!$"
 
 MtChimney_Text_SheilaPostBattle:
-	.string "Som jeg sagde, er jeg endelig nået\n"
-	.string "til MT. CHIMNEY. Det ville være en\n"
-	.string "skam, hvis jeg kun nøjedes med at\n"
-	.string "tage lidt sightseeing…\p"
-	.string "Jeg vil gerne kæmpe og købe\n"
-	.string "KAGEKAGER som souvenir.$"
+	.string "Som jeg sagde, er jeg endelig nået til MT.\n"
+	.string "CHIMNEY. Det ville være en skam, hvis jeg kun\l"
+	.string "nøjedes med at tage lidt sightseeing…\p"
+	.string "Jeg vil gerne kæmpe og købe KAGEKAGER som\n"
+	.string "souvenir.$"
 
 MtChimney_Text_ShirleyIntro:
-	.string "Siden jeg badede i de varme kilder,\n"
-	.string "har jeg følt mig fantastisk!\l"
-	.string "Jeg er sikker på, at jeg vil vinde!$"
+	.string "Siden jeg badede i de varme kilder, har jeg\n"
+	.string "følt mig fantastisk! Jeg er sikker på, at jeg\l"
+	.string "vil vinde!$"
 
 MtChimney_Text_ShirleyDefeat:
-	.string "Av!\n"
-	.string "Jeg fryser af vandet.$"
+	.string "Av! Jeg fryser af vandet.$"
 
 MtChimney_Text_ShirleyPostBattle:
-	.string "Jeg bliver nødt til at tage endnu et\n"
-	.string "dyp i de varme kilder. Vil du med?\p"
-	.string "Bare pjat!\p$"
+	.string "Jeg bliver nødt til at tage endnu et dyp i de\n"
+	.string "varme kilder. Vil du med?\p"
+	.string "Bare pjat!$"
 
 MtChimney_Text_SawyerIntro:
-	.string "Det her er et fantastisk bjerg! Masser\n"
-	.string "af seje mennesker at være sammen med!$"
+	.string "Det her er et fantastisk bjerg! Masser af\n"
+	.string "seje mennesker at være sammen med!$"
 
 MtChimney_Text_SawyerDefeat:
 	.string "Åh, du er også en ægte ildsjæl!$"
 
 MtChimney_Text_SawyerPostBattle:
-	.string "Jeg tror, jeg har brug for en dukkert i LAVARIDGE\n"
-	.string "VARME KILDE med de lokale!$"
+	.string "Jeg tror, jeg har brug for en dukkert i\n"
+	.string "LAVARIDGE VARME KILDE med de lokale!$"
 
 MtChimney_Text_SawyerRegister:
-	.string "Jeg kan godt lide små ildkugler som dig.\n"
-	.string "Lad mig registrere dig i min POKéNAV.$"
+	.string "Jeg kan godt lide små ildkugler som dig. Lad\n"
+	.string "mig registrere dig i min POKéNAV.$"
 
 MtChimney_Text_SawyerRematchIntro:
-	.string "Jeg er glad omgivet af seje folk\n"
-	.string "her i nærheden. Jeg vil ikke tabe!$"
+	.string "Jeg er glad omgivet af seje folk her i\n"
+	.string "nærheden. Jeg vil ikke tabe!$"
 
 MtChimney_Text_SawyerRematchDefeat:
-	.string "Åh, du er stadig den samme\n"
-	.string "ildsjæl som før!$"
+	.string "Åh, du er stadig den samme ildsjæl som før!$"
 
 MtChimney_Text_SawyerPostRematch:
-	.string "Faktisk er det virkelig varmt her.\n"
-	.string "Jeg er klædt overdrevet på til disse egne.$"
+	.string "Faktisk er det virkelig varmt her. Jeg er\n"
+	.string "klædt overdrevet på til disse egne.$"
 
 
 

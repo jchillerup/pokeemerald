@@ -288,87 +288,85 @@ MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent:
 .string "Raketten skal snart sendes afsted!$"
 
 MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber:
-	.string "Raketten blev skudt af sted sikkert!\n"
-	.string "Det er vellykket opsendelse nr. {STR_VAR_1}!$"
+	.string "Raketten blev skudt af sted sikkert! Det er\n"
+	.string "vellykket opsendelse nr. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent:
-	.string "Jeg ved, at tingene er lidt\n"
-	.string "kaos lige nu, men…\p"
+	.string "Jeg ved, at tingene er lidt kaos lige nu, men…\p"
 	.string "Raketten skydes snart afsted!$"
 
 MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber:
-	.string "Jeg ved, at tingene er lidt\n"
-	.string "ude af kontrol lige nu, men…\p"
-	.string "Raketten blev sendt afsted sikkert!\n"
-	.string "Det er succesfuld affyring nr. {STR_VAR_1}!$"
+	.string "Jeg ved, at tingene er lidt ude af kontrol\n"
+	.string "lige nu, men…\p"
+	.string "Raketten blev sendt afsted sikkert! Det er\n"
+	.string "succesfuld affyring nr. {STR_VAR_1}!$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection:
-	.string "En rumraketopsendelse kræver perfektion.\n"
-	.string "Ikke engang en 1% fejlmargen er tilladt.\p"
+	.string "En rumraketopsendelse kræver\n"
+	.string "perfektion. Ikke engang en 1% fejlmargen\l"
+	.string "er tilladt.\p"
 	.string "Selvom det er 99% okay, er det hele\n"
-	.string "ubrugeligt, hvis 1% viser sig ikke at være godt.\p"
+	.string "ubrugeligt, hvis 1% viser sig ikke at være\l"
+	.string "godt.\p"
 	.string "Alligevel stopper vi aldrig med at prøve.\n"
 	.string "Hvorfor? Det er en drøm, der aldrig ender.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter:
-	.string "Disse MAGMA-skurke har sat deres\n"
-	.string "sigt på vores RUMCENTER.\p"
-	.string "Men vi kan ikke tillade noget så\n"
-	.string "lille at forstyrre vores raketopsendelse!$"
+	.string "Disse MAGMA-skurke har sat deres sigt på\n"
+	.string "vores RUMCENTER.\p"
+	.string "Men vi kan ikke tillade noget så lille at\n"
+	.string "forstyrre vores raketopsendelse!$"
 
 MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt:
-	.string "Jeg var ude og gå en tur langs\n"
-	.string "stranden, da jeg fandt dette.\p"
-	.string "Det er ikke noget, jeg har brug for,\n"
-	.string "så du kan få det.$"
+	.string "Jeg var ude og gå en tur langs stranden, da\n"
+	.string "jeg fandt dette.\p"
+	.string "Det er ikke noget, jeg har brug for, så du kan\n"
+	.string "få det.$"
 
 MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers:
-	.string "HOENN-regionen har længe været kendt \n"
-	.string "for sine stjerneskurer.$"
+	.string "HOENN-regionen har længe været kendt  for\n"
+	.string "sine stjerneskurer.$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis:
-	.string "Hold da op, TEAM MAGMA må ikke få lov\n"
-	.string "til at stjæle raketafbrændingen.\p"
-	.string "Åh, forresten, du kan få denne sten,\n"
-	.string "jeg fandt på stranden.$"
+	.string "Hold da op, TEAM MAGMA må ikke få lov til at\n"
+	.string "stjæle raketafbrændingen.\p"
+	.string "Åh, forresten, du kan få denne sten, jeg\n"
+	.string "fandt på stranden.$"
 
 MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma:
 	.string "Med TEAM MAGMA omkring, gætter jeg\n"
 	.string "spadsereture på stranden ikke er sikre.$"
 
 MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace:
-	.string "Nogle mennesker hævder, at POKéMON\n"
-	.string "kom fra rummet. Kan det være sandt?$"
+	.string "Nogle mennesker hævder, at POKéMON kom fra\n"
+	.string "rummet. Kan det være sandt?$"
 
 MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma:
-	.string "TEAM AQUA bør tage sig af\n"
-	.string "TEAM MAGMA!\p"
-	.string "Men hvis de gjorde det, vil TEAM AQUA\n"
-	.string "blive modige og frimodige, gør de ikke?$"
+	.string "TEAM AQUA bør tage sig af TEAM MAGMA!\p"
+	.string "Men hvis de gjorde det, vil TEAM AQUA blive\n"
+	.string "modige og frimodige, gør de ikke?$"
 
 MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind:
-	.string "Et kæmpestort stykke metal braser\n"
-	.string "gennem himlen og flyver ud\n"
-	.string "i rummet…\p"
+	.string "Et kæmpestort stykke metal braser gennem\n"
+	.string "himlen og flyver ud i rummet…\p"
 	.string "Det sætter min hjerne på overarbejde!$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream:
 	.string "Et kæmpestort metalstykke bryder\n"
 	.string "igennem himlen og flyver ud i rummet…\p"
-	.string "Men HOLD MAGMA vil ødelægge\n"
-	.string "den drøm om min!\p"
+	.string "Men HOLD MAGMA vil ødelægge den drøm om min!\p"
 	.string "Det er jeg ikke med på!$"
 
 MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel:
 	.string "STEVEN: {PLAYER}{KUN}, har du læst den\n"
 	.string "proklamation allerede?\p"
-	.string "Hold nu op! TEAM MAGMA er på vej\n"
-	.string "efter raketbrændstoffet på denne ø.\p"
-	.string "Jeg ved ikke, hvad de skal bruge det til,\n"
-	.string "men de kan ikke tillades at tage det.\p"
+	.string "Hold nu op! TEAM MAGMA er på vej efter\n"
+	.string "raketbrændstoffet på denne ø.\p"
+	.string "Jeg ved ikke, hvad de skal bruge det til, men\n"
+	.string "de kan ikke tillades at tage det.\p"
 	.string "Jeg vil holde øje lidt længere.\p"
-	.string "I mellemtiden, hvorfor går du ikke\n"
-	.string "ind og tjekker byen?$"
+	.string "I mellemtiden, hvorfor går du ikke ind og\n"
+	.string "tjekker byen?$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro:
 	.string "Som lovet, er vi kommet efter\n"
@@ -378,59 +376,56 @@ MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat:
 	.string "Kørte tør for brændstof…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle:
-	.string "Tro ikke, at du er på en rulle\n"
-	.string "bare fordi du har slået mig!$"
+	.string "Tro ikke, at du er på en rulle bare fordi du har\n"
+	.string "slået mig!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro:
-	.string "Vi gav dig en fair advarsel!\n"
-	.string "Der er ikke noget snedigt ved os!$"
+	.string "Vi gav dig en fair advarsel! Der er ikke noget\n"
+	.string "snedigt ved os!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat:
-	.string "Grrr…\n"
-	.string "Vi burde have brugt snigmord…$"
+	.string "Grrr… Vi burde have brugt snigmord…$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle:
 	.string "Okay, jeg forstår det allerede! Næste gang,\n"
 	.string "kommer vi uanmeldt.$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro:
-	.string "Raketbrændstoffet, som SPACE CENTER\n"
-	.string "har på lager - det er det, vi er ude\n"
-	.string "efter.\p"
-	.string "Vi har til hensigt at tage hver eneste\n"
-	.string "smule af det!$"
+	.string "Raketbrændstoffet, som SPACE CENTER har\n"
+	.string "på lager - det er det, vi er ude efter.\p"
+	.string "Vi har til hensigt at tage hver eneste smule\n"
+	.string "af det!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat:
 	.string "Kan du være sød at skaffe lidt brændstof?\n"
 	.string "Selv en simpel kop vil gøre!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle:
-	.string "Hvad skal vi gøre med\n"
-	.string "raketbrændstoffet?\p"
-	.string "Hvordan skulle jeg vide det?\n"
-	.string "Spørg vores leder ovenpå!$"  
+	.string "Hvad skal vi gøre med raketbrændstoffet?\p"
+	.string "Hvordan skulle jeg vide det? Spørg vores\n"
+	.string "leder ovenpå!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro:
-	.string "Vores leder sagde ingen, men ingen,\n"
-	.string "kommer forbi mig!$"
+	.string "Vores leder sagde ingen, men ingen, kommer\n"
+	.string "forbi mig!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat:
 .string "Av! Av! Øv!$"
 
 MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle:
-	.string "Fortæl vores leder, at\n"
-	.string "jeg aldrig forlod min post.\l"
-	.string "At jeg blev til det bitre end…$"
+	.string "Fortæl vores leder, at jeg aldrig forlod min\n"
+	.string "post. At jeg blev til det bitre end…$"
 
 MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice:
-	.string "Dette er... \n"
-	.string "En hensigt om at stjæle bemærkning?\p"
-	.string "Til personalet på RUMCENTRET:\n"
-	.string "Hvordan har I det? Vi har det fint.\p"
+	.string "Dette er...  En hensigt om at stjæle\n"
+	.string "bemærkning?\p"
+	.string "Til personalet på RUMCENTRET: Hvordan har\n"
+	.string "I det? Vi har det fint.\p"
 	.string "“Vi vil snart besøge jer for at tage jeres\n"
 	.string "raketbrændstof.\p"
-	.string "“Vær venlig ikke at forsøge at stoppe os.\n"
-	.string "Vi vil tage brændstoffet uanset hvad.\p"
-	.string "“Må der blive mere land!\n"
-	.string "                                           TEAM MAGMA”$"
+	.string "“Vær venlig ikke at forsøge at stoppe os. Vi\n"
+	.string "vil tage brændstoffet uanset hvad.\p"
+	.string "“Må der blive mere land!                                            TEAM MAGMA”$"
+
+
 

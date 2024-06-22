@@ -19,3 +19,4 @@ EverGrandeCity_PokemonCenter_2F_EventScript_RecordCorner::
 	end
 
 
+

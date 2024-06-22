@@ -103,3 +103,5 @@ SlateportCity_BattleTentBattleRoom_Movement_OpponentEnter:
 	walk_in_place_faster_left
 	step_end
 
+
+

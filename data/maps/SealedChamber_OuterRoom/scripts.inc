@@ -104,3 +104,5 @@ SealedChamber_OuterRoom_EventScript_BrailleDigHere::
 	releaseall
 	end
 
+
+

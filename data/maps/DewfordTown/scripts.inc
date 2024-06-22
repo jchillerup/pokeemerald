@@ -641,158 +641,137 @@ DewfordTown_EventScript_PhraseNotTrendyEnough::
 	end
 
 DewfordTown_Text_TinyIslandCommunity:
-	.string "DEWFORD er en lille ø-samfund.\n"
-	.string "Hvis noget bliver trendy her,\n"
-	.string "opdager alle det med det samme.$"
+	.string "DEWFORD er en lille ø-samfund. Hvis noget\n"
+	.string "bliver trendy her, opdager alle det med det\l"
+	.string "samme.$"
 
 DewfordTown_Text_TownSign:
-	.string "DEWFORD BY\n"
-	.string "“En lille ø i det blå hav.”$"
+	.string "DEWFORD BY “En lille ø i det blå hav.”$"
 
 DewfordTown_Text_GymSign:
-	.string "DEWFORD TOWN POKéMON GYM\n"
-	.string "LEDER: BRAWLY\l"
+	.string "DEWFORD TOWN POKéMON GYM LEDER: BRAWLY\n"
 	.string "“En stor bølge i kamp!”$"
 
 DewfordTown_Text_HallSign:
-	.string "DEWFORD HALL\n"
-	.string "“Alle deltageres informationsudveksling!”$"
+	.string "DEWFORD HALL “Alle deltageres\n"
+	.string "informationsudveksling!”$"
 
 Route104_Text_LandedInDewfordDeliverLetter:
-	.string "HR. BRINEY: Hej!\n"
-	.string "Vi har ramt land i DEWFORD.\p"
-	.string "Jeg antager, at du skal aflevere det\n"
-	.string "BREV til, hvem var det nu, STEVEN!$"
+	.string "HR. BRINEY: Hej! Vi har ramt land i DEWFORD.\p"
+	.string "Jeg antager, at du skal aflevere det BREV\n"
+	.string "til, hvem var det nu, STEVEN!$"
 
 DewfordTown_Text_SetSailBackToPetalburg:
-	.string "HR. BRINEY: Har du leveret din\n"
-	.string "BREV?\p"
+	.string "HR. BRINEY: Har du leveret din BREV?\p"
 	.string "Eller mente du at sejle tilbage til\n"
 	.string "PETALBURG?$"
 
 DewfordTown_Text_PetalburgWereSettingSail2:
 	.string "HR. BRINEY: PETALHAVN det er, så!\p"
-	.string "Ankre op!\n"
-	.string "PEEKO, vi sejler afsted, min skat!$"
+	.string "Ankre op! PEEKO, vi sejler afsted, min skat!$"
 
 DewfordTown_Text_GoDeliverIllBeWaiting:
 	.string "HR. BRINEY: Så går du videre og leverer\n"
 	.string "BREVET. Jeg venter på dig.$"
 
 DewfordTown_Text_BrineyLandedInDewford:
-	.string "MR. BRINEY: Hej!\n"
-	.string "Vi har ramt land i DEWFORD!\p"
-	.string "Du bare siger til, når\n"
-	.string "du er klar til at sejle igen!$"
+	.string "MR. BRINEY: Hej! Vi har ramt land i DEWFORD!\p"
+	.string "Du bare siger til, når du er klar til at sejle\n"
+	.string "igen!$"
 
 DewfordTown_Text_WhereAreWeBound:
-	.string "HR. BRINEY: Hej!\n"
-	.string "Jeg sejler ud til havs for dig når som helst!\p"
+	.string "HR. BRINEY: Hej! Jeg sejler ud til havs for\n"
+	.string "dig når som helst!\p"
 	.string "Nu, min ven, hvor skal vi hen?$"
 
 DewfordTown_Text_PetalburgWereSettingSail:
 	.string "HR. BRINEY: PETALHAVN, er det?\p"
-	.string "Sejl sættes!\n"
-	.string "PEEKO, vi sejler ud, skat!$"
+	.string "Sejl sættes! PEEKO, vi sejler ud, skat!$"
 
 DewfordTown_Text_SlateportWereSettingSail:
 	.string "HR. BRINEY: Slateport, er det?\p"
-	.string "Anker op!\n"
-	.string "PEEKO, vi stikker til søs, min kære!$"
+	.string "Anker op! PEEKO, vi stikker til søs, min kære!$"
 
 DewfordTown_Text_JustTellMeWhenYouNeedToSetSail:
-	.string "HR. BRINEY: Du skal bare fortælle mig, når\n"
-	.string "du skal sejle igen!$"
+	.string "HR. BRINEY: Du skal bare fortælle mig, når du\n"
+	.string "skal sejle igen!$"
 
 DewfordTown_Text_GettingItchToFish:
-	.string "Dette er et kendt fiskested.\n"
-	.string "Får du lyst til at fiske?\p$"
+	.string "Dette er et kendt fiskested. Får du lyst til\n"
+	.string "at fiske?$"
 
 DewfordTown_Text_GiveYouOneOfMyRods:
-	.string "Jeg hører dig, og jeg kan lide hvad\n"
-	.string "du siger!\p"
+	.string "Jeg hører dig, og jeg kan lide hvad du siger!\p"
 	.string "Jeg vil give dig en af mine fiskestænger.$"
 
 DewfordTown_Text_ThrowInFishingAdvice:
-	.string "Og som en ekstra bonus, får du\n"
-	.string "lidt fiskevejledning med!\p"
-	.string "Først skal du vende dig mod vandet\n"
-	.string "og bruge STANGEN.\p"
-	.string "Fokuser…\n"
-	.string "Hvis du får et hug, træk i STANGEN.\p"
-	.string "Nogle gange kan du fange noget\n"
-	.string "med det samme, men med større fangster,\l"
-	.string "skal du time trækkene på din STANG\l"
-	.string "for at få dem ind.$"
+	.string "Og som en ekstra bonus, får du lidt\n"
+	.string "fiskevejledning med!\p"
+	.string "Først skal du vende dig mod vandet og bruge\n"
+	.string "STANGEN.\p"
+	.string "Fokuser… Hvis du får et hug, træk i STANGEN.\p"
+	.string "Nogle gange kan du fange noget med det\n"
+	.string "samme, men med større fangster, skal du\l"
+	.string "time trækkene på din STANG for at få dem ind.$"
 
 DewfordTown_Text_ThatsTooBadThen:
-	.string "Åh, er det sådan?\n"
-	.string "Det er ærgerligt. Sådan.$"
+	.string "Åh, er det sådan? Det er ærgerligt. Sådan.$"
 
 DewfordTown_Text_HowsYourFishing:
-	.string "Hej!\n"
-	.string "Hvordan går det med din fiskeri?$"
+	.string "Hej! Hvordan går det med din fiskeri?$"
 
 DewfordTown_Text_GreatHaulInSomeBigOnes:
-	.string "Er det rigtigt! Det er fantastisk!\n"
-	.string "Hiv nogle store fisk i land!$"
+	.string "Er det rigtigt! Det er fantastisk! Hiv nogle\n"
+	.string "store fisk i land!$"
 
 DewfordTown_Text_FishingAdvice:
-	.string "Åh, hey, kom nu ikke ned på dig selv!\n"
-	.string "Jeg vil give dig lidt fiske-råd.\p"
-	.string "Først skal du vende dig mod vandet,\n"
-	.string "og så bruge STANGEN.\p"
-	.string "Fokuser din tanke…\n"
-	.string "Hvis du får et hug, så træk i STANGEN.\p"
-	.string "Nogle gange får du noget på krogen\n"
-	.string "straks, men med større fangster,\l"
-	.string "bliver du nødt til at time trækkene på STANGEN\l"
-	.string "for at få dem ind.$"
+	.string "Åh, hey, kom nu ikke ned på dig selv! Jeg vil\n"
+	.string "give dig lidt fiske-råd.\p"
+	.string "Først skal du vende dig mod vandet, og så\n"
+	.string "bruge STANGEN.\p"
+	.string "Fokuser din tanke… Hvis du får et hug, så\n"
+	.string "træk i STANGEN.\p"
+	.string "Nogle gange får du noget på krogen straks,\n"
+	.string "men med større fangster, bliver du nødt til\l"
+	.string "at time trækkene på STANGEN for at få dem\l"
+	.string "ind.$"
 
 DewfordTown_Text_XIsTheBiggestHappeningThingRight:
-	.string "Jeg kan lide, hvad der er moderne, smart, og trendy.\n"
-	.string "Jeg holder altid øje med det.\p"
+	.string "Jeg kan lide, hvad der er moderne, smart, og\n"
+	.string "trendy. Jeg holder altid øje med det.\p"
 	.string "Hør lige, har du hørt om dette nye\n"
 	.string "“{STR_VAR_1}”?\p"
-	.string "Det passer!\n"
-	.string "Selvfølgelig ved du det!\p"
-	.string "Altså, seriøst,\n"
-	.string "“{STR_VAR_1}”…\l"
-	.string "Det er det hotteste inden for cool!\p"
-	.string "Uanset hvor du er fra,\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "er det største trendende, ikke sandt?$"
+	.string "Det passer! Selvfølgelig ved du det!\p"
+	.string "Altså, seriøst, “{STR_VAR_1}”… Det er\n"
+	.string "det hotteste inden for cool!\p"
+	.string "Uanset hvor du er fra, “{STR_VAR_1}” er\n"
+	.string "det største trendende, ikke sandt?$"
 
 DewfordTown_Text_TellMeWhatsNewAndIn:
-	.string "Hvad?\n"
-	.string "Det er ikke det hippe og happening ting?\p"
-	.string "Nå, hey, du skal fortælle mig,\n"
-	.string "hvad er nyt og hvad er “in”?$"
+	.string "Hvad? Det er ikke det hippe og happening\n"
+	.string "ting?\p"
+	.string "Nå, hey, du skal fortælle mig, hvad er nyt og\n"
+	.string "hvad er “in”?$"
 
 DewfordTown_Text_OfCourseIKnowAboutThat:
-	.string "Hvad?\n"
-	.string "“{STR_VAR_2}”?\p"
+	.string "Hvad? “{STR_VAR_2}”?\p"
 	.string "… …\p"
-	.string "…Øh… Jep! Det er rigtigt!\n"
-	.string "Ja, det vidste jeg! Vidste det hele tiden!\p"
+	.string "…Øh… Jep! Det er rigtigt! Ja, det vidste jeg!\n"
+	.string "Vidste det hele tiden!\p"
 	.string "Selvfølgelig ved jeg om det!\n"
 	.string "“{STR_VAR_2},” ikke sandt?\p"
-	.string "Ja, præcis, det er der!\n"
-	.string "Er det ikke “{STR_VAR_2}”\l"
-	.string "det sejeste, eller hva'?\p"
-	.string "Det er det fedeste inden for det fede.\n"
-	.string "Tror du, jeg ikke ville vide det?\p"
-	.string "“{STR_VAR_1}”…\n"
-	.string "Det er ligesom så i går.\p"
-	.string "Nu er det “{STR_VAR_2}”\n"
-	.string "som er vigtigt og med på beatet!$"
+	.string "Ja, præcis, det er der! Er det ikke\n"
+	.string "“{STR_VAR_2}” det sejeste, eller hva'?\p"
+	.string "Det er det fedeste inden for det fede. Tror\n"
+	.string "du, jeg ikke ville vide det?\p"
+	.string "“{STR_VAR_1}”… Det er ligesom så i går.\p"
+	.string "Nu er det “{STR_VAR_2}” som er vigtigt\n"
+	.string "og med på beatet!$"
 
 DewfordTown_Text_XHuhIThinkYIsCool:
-	.string "Hmm…\n"
-	.string "“{STR_VAR_2},” hva?\p"
+	.string "Hmm… “{STR_VAR_2},” hva?\p"
 	.string "Men personligt synes jeg\n"
-	.string "“{STR_VAR_1}”\l"
-	.string "er virkelig sejt.$"
+	.string "“{STR_VAR_1}” er virkelig sejt.$"
 
 DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
 	.string "Nå, hvis du hører om nogle spændende nye\n"
@@ -800,6 +779,8 @@ DewfordTown_Text_HearOfAnyTrendsComeShareWithMe:
 
 DewfordTown_Text_YeahDefinitionOfInRightNow:
 	.string "Ja, helt rigtigt!\p"
-	.string "“{STR_VAR_1}” er\n"
-	.string "definitionen af “in” lige nu.$"
+	.string "“{STR_VAR_1}” er definitionen af “in”\n"
+	.string "lige nu.$"
+
+
 

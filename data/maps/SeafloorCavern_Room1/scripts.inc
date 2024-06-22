@@ -14,26 +14,26 @@ SeafloorCavern_Room1_EventScript_Grunt2::
 	end
 
 SeafloorCavern_Room1_Text_Grunt1Intro:
-	.string "Vi har ikke brug for et barn her!\n"
-	.string "Gå hjem allerede!$"
+	.string "Vi har ikke brug for et barn her! Gå hjem\n"
+	.string "allerede!$"
 
 SeafloorCavern_Room1_Text_Grunt1Defeat:
 	.string "Jeg vil hjem…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "Jeg vil gerne have en forfremmelse, så jeg kan\n"
-	.string "befale rundt med GRUNTE…$"
+	.string "Jeg vil gerne have en forfremmelse, så jeg\n"
+	.string "kan befale rundt med GRUNTE…$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "Den ubåd... Den er lille indeni.\n"
-	.string "Jeg er øm over det hele!$"
+	.string "Den ubåd... Den er lille indeni. Jeg er øm over\n"
+	.string "det hele!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
-	.string "At tabe gør ondt!\p$"
+	.string "At tabe gør ondt!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "Den undervandsbåd, vi kaprede, mand,\n"
-	.string "det er vildt som en tur.\p"
+	.string "Den undervandsbåd, vi kaprede, mand, det er\n"
+	.string "vildt som en tur.\p"
 	.string "Det er alt for stramt derinde!$"
 
 

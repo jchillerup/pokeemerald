@@ -53,70 +53,59 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 	end
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
-	.string "Hvad? Hvad? Hvad vil du med \n"
-	.string "TEAM AQUA?\p"
-	.string "Vores chef er ikke her! Han er taget\n"
-	.string "afsted for at snuppe noget vigtigt!\p"
-	.string "… …\n"
-	.string "Hvor er han taget hen?\p"
-	.string "Hahaha! Tror du virkelig, jeg ville\n"
-	.string "fortælle dig noget så afgørende?$"
+	.string "Hvad? Hvad? Hvad vil du med  TEAM AQUA?\p"
+	.string "Vores chef er ikke her! Han er taget afsted\n"
+	.string "for at snuppe noget vigtigt!\p"
+	.string "… … Hvor er han taget hen?\p"
+	.string "Hahaha! Tror du virkelig, jeg ville fortælle\n"
+	.string "dig noget så afgørende?$"
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
-	.string "Hvad? Hvad?\n"
-	.string "Er du en del af TEAM MAGMA holdet?\p"
-	.string "Jeg hører, at TEAM MAGMA prøver at\n"
-	.string "vække en fantastisk POKéMON i deres\l"
-	.string "SKJULESTED.\p"
+	.string "Hvad? Hvad? Er du en del af TEAM MAGMA\n"
+	.string "holdet?\p"
+	.string "Jeg hører, at TEAM MAGMA prøver at vække en\n"
+	.string "fantastisk POKéMON i deres SKJULESTED.\p"
 	.string "Men hvor mon deres SKJULESTED er?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
-	.string "Hvad? Hvad? Hvad vil du med \n"
-	.string "TEAM AQUA?\p"
-	.string "Vores BOSS er ikke her!\n"
-	.string "Han er taget af sted for at kapre en \nubåd!\p"
-	.string "… …\n"
-	.string "Hvor er han taget hen?\p"
-	.string "Haha! Tror du virkelig, jeg ville \nforkrænke dig med så vigtig en \noplysning?$"
+	.string "Hvad? Hvad? Hvad vil du med  TEAM AQUA?\p"
+	.string "Vores BOSS er ikke her! Han er taget af sted\n"
+	.string "for at kapre en ubåd!\p"
+	.string "… … Hvor er han taget hen?\p"
+	.string "Haha! Tror du virkelig, jeg ville forkrænke\n"
+	.string "dig med så vigtig en oplysning?$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
-	.string "Hvad? Hvad? Hvad vil du med \n"
-	.string "TEAM AQUA?\p"
-	.string "Vores BOSS er ikke her! Han er på vej til\n"
-	.string "MT. PYRE på ROUTE 122!\p"
-	.string "… …\n"
-	.string "Hvorfor tog han af sted?\p"
-	.string "Hahaha! Tror du virkelig, jeg ville\n"
-	.string "fortælle dig noget så afgørende?$"
+	.string "Hvad? Hvad? Hvad vil du med  TEAM AQUA?\p"
+	.string "Vores BOSS er ikke her! Han er på vej til MT.\n"
+	.string "PYRE på ROUTE 122!\p"
+	.string "… … Hvorfor tog han af sted?\p"
+	.string "Hahaha! Tror du virkelig, jeg ville fortælle\n"
+	.string "dig noget så afgørende?$"
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
-	.string "Hvad? Hvad?\n"
-	.string "Er du en del af TEAM MAGMA?\p"
-	.string "Jeg hører, at TEAM MAGMA jagter\n"
-	.string "en fantastisk POKéMON på MT. CHIMNEY.\p"
+	.string "Hvad? Hvad? Er du en del af TEAM MAGMA?\p"
+	.string "Jeg hører, at TEAM MAGMA jagter en\n"
+	.string "fantastisk POKéMON på MT. CHIMNEY.\p"
 	.string "Men hvordan er den POKéMON?$"
 
 AquaHideout_1F_Text_BossIsInSlateportCity:
-	.string "Hvad? Hvad? Hvad vil du med\n"
-	.string "TEAM AQUA?\p"
-	.string "Vores BOSS er ikke her!\n"
-	.string "Han er på vej til SLATEPORT CITY!\p"
-	.string "… …\n"
-	.string "Hvorfor tog han afsted?\p"
-	.string "Haha! Tror du virkelig, jeg ville\n"
-	.string "fortælle dig noget så afgørende?$"
+	.string "Hvad? Hvad? Hvad vil du med TEAM AQUA?\p"
+	.string "Vores BOSS er ikke her! Han er på vej til\n"
+	.string "SLATEPORT CITY!\p"
+	.string "… … Hvorfor tog han afsted?\p"
+	.string "Haha! Tror du virkelig, jeg ville fortælle dig\n"
+	.string "noget så afgørende?$"
 
 AquaHideout_1F_Text_Grunt1Intro:
-	.string "Aj-aj-aj!\n"
-	.string "Mistænkelig karakter spottet!$"
+	.string "Aj-aj-aj! Mistænkelig karakter spottet!$"
 
 AquaHideout_1F_Text_Grunt1Defeat:
-	.string "Av av…\n"
-	.string "Jeg tabte den!$"
+	.string "Av av… Jeg tabte den!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "Jeg tog tabet for HOLDEN,\n"
-	.string "men jeg gjorde mit job...\p$"
+	.string "Jeg tog tabet for HOLDEN, men jeg gjorde mit\n"
+	.string "job...$"
 
 
 

@@ -23,15 +23,14 @@ FortreeCity_House5_EventScript_Zigzagoon::
 
 FortreeCity_House5_Text_TreeHousesAreGreat:
 	.string "Træhusene i SKOVHAVEN er fantastiske!\p"
-	.string "Jeg tror, det er den bedste by til at\n"
-	.string "bo sammen med POKéMON.$"
+	.string "Jeg tror, det er den bedste by til at bo\n"
+	.string "sammen med POKéMON.$"
 
 FortreeCity_House5_Text_AdaptedToNature:
 	.string "POKéMON og mennesker har tilpasset sig\n"
 	.string "naturen for at overleve.\p"
-	.string "Der er ingen grund til at få naturen\n"
-	.string "til at tilpasse sig den måde, vi ønsker\n"
-	.string "at leve på.$"
+	.string "Der er ingen grund til at få naturen til at\n"
+	.string "tilpasse sig den måde, vi ønsker at leve på.$"
 
 FortreeCity_House5_Text_Zigzagoon:
 .string "ZIGZAGOON: Bufuu!$"

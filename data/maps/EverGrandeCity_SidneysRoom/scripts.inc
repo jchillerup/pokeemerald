@@ -67,26 +67,23 @@ EverGrandeCity_SidneysRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_SidneysRoom_Text_IntroSpeech:
-	.string "Velkommen, udfordrer!\n"
-	.string "Jeg er SIDNEY fra DE FIRE STORSLÅEDE.\p"
-	.string "Jeg kan lide det udtryk, du giver mig.\n"
-	.string "Jeg tror, du vil give mig en god kamp.\l"
-	.string "Det er godt! Ser rigtig godt ud!\p"
-	.string "Okay! Du og jeg, lad os nyde\n"
-	.string "en kamp, der kun kan udkæmpes\l"
-	.string "her i POKéMON LIGAEN!$"
+	.string "Velkommen, udfordrer! Jeg er SIDNEY fra DE\n"
+	.string "FIRE STORSLÅEDE.\p"
+	.string "Jeg kan lide det udtryk, du giver mig. Jeg\n"
+	.string "tror, du vil give mig en god kamp. Det er godt!\l"
+	.string "Ser rigtig godt ud!\p"
+	.string "Okay! Du og jeg, lad os nyde en kamp, der kun\n"
+	.string "kan udkæmpes her i POKéMON LIGAEN!$"
 
 EverGrandeCity_SidneysRoom_Text_Defeat:
-	.string "Nå, hvad synes du om det? Jeg tabte!\n"
-	.string "Nå, det var sjovt, så det betyder ikke noget.$"
+	.string "Nå, hvad synes du om det? Jeg tabte! Nå, det\n"
+	.string "var sjovt, så det betyder ikke noget.$"
 
 EverGrandeCity_SidneysRoom_Text_PostBattleSpeech:
-	.string "Nå, lyt til hvad denne taber har\n"
-	.string "at sige.\p"
-	.string "Du har, hvad der skal til for at gå\n"
-	.string "langt.\n"
-	.string "Gå nu videre til det næste rum og\n"
-	.string "nyd din næste kamp!$"
+	.string "Nå, lyt til hvad denne taber har at sige.\p"
+	.string "Du har, hvad der skal til for at gå langt. Gå nu\n"
+	.string "videre til det næste rum og nyd din næste\l"
+	.string "kamp!$"
 
 
 

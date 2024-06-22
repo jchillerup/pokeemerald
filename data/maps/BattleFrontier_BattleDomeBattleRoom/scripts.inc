@@ -931,57 +931,45 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome:
 	.string "{PLAYER} er trådt ind i KAMPDOMÆNET!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer:
-	.string "{STR_VAR_1}\n"
-	.string "kamp!\p"
+	.string "{STR_VAR_1} kamp!\p"
 	.string "{PLAYER} mod {STR_VAR_2}!\p"
 	.string " Lad kampen begynde!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner:
-	.string "{PLAYER} er vinderen!\n"
-	.string "Tillykke!$"
+	.string "{PLAYER} er vinderen! Tillykke!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner:
-	.string "{STR_VAR_2} er vinderen!\n"
-	.string "Tillykke!$"
+	.string "{STR_VAR_2} er vinderen! Tillykke!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ:
-	.string "{PLAYER} er den Niveau 50\n"
-	.string "Kampp Turnering Mester!\p"
+	.string "{PLAYER} er den Niveau 50 Kampp\n"
+	.string "Turnering Mester!\p"
 	.string "Tillykke!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp:
-	.string "{PLAYER} er Åben Level\n"
-	.string "Battle Tournament Champion!\p"
+	.string "{PLAYER} er Åben Level Battle\n"
+	.string "Tournament Champion!\p"
 	.string "Tillykke!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait:
-	.string "Hvilken utrolig afslutning!\n"
-	.string "Vi har en dobbelt knockout!\p"
-	.string "I dette event, kalder Battle\n"
-	.string "Turneringens regler på en DOMMER\n"
-	.string "beslutning.\p"
-	.string "Vent venligst mens bedømmelsen\n"
-	.string "er i gang.$"
+	.string "Hvilken utrolig afslutning! Vi har en\n"
+	.string "dobbelt knockout!\p"
+	.string "I dette event, kalder Battle Turneringens\n"
+	.string "regler på en DOMMER beslutning.\p"
+	.string "Vent venligst mens bedømmelsen er i gang.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer:
-	.string "Dommerne har truffet\n"
-	.string "en beslutning!\p"
-	.string "Vinderen er...\n"
-	.string "Åh, min gode!\l"
-	.string "Vinderen er {STR_VAR_1}!\l"
-	.string "Tillykke!$"
+	.string "Dommerne har truffet en beslutning!\p"
+	.string "Vinderen er... Åh, min gode! Vinderen er\n"
+	.string "{STR_VAR_1}! Tillykke!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer:
-	.string "Dommerne har nået\n"
-	.string "en beslutning!\p"
-	.string "Vinderen er...\n"
-	.string "Åh, min gode!\l"
-	.string "Vinderen er {PLAYER}!\l"
-	.string "Tillykke!$"
+	.string "Dommerne har nået en beslutning!\p"
+	.string "Vinderen er... Åh, min gode! Vinderen er\n"
+	.string "{PLAYER}! Tillykke!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope:
-.string "Den skinnende nye håb!\p"
-.string "$"
+	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RisingStar:
 	.string "Den stigende stjerne!\p"
@@ -998,12 +986,12 @@ BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged:
-	.string "Kan tabet af den sidste kamp\n"
-	.string "hævnes?\p"
+	.string "Kan tabet af den sidste kamp hævnes?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship:
-	.string "Træneren er helt oppe at\nflammerne til sit første\nmesterskabsforsøg!\p"
+	.string "Træneren er helt oppe atflammerne til sit\n"
+	.string "førstemesterskabsforsøg!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
@@ -1012,8 +1000,8 @@ BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue:
-	.string "Vil den længe nærede drøm om\n"
-	.string "et mesterskab endelig gå i opfyldelse?\p"
+	.string "Vil den længe nærede drøm om et mesterskab\n"
+	.string "endelig gå i opfyldelse?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
@@ -1021,18 +1009,17 @@ BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer:
-	.string "Kan nogen håbe på at slå denne\n"
-	.string "TRÆNER?\p"
+	.string "Kan nogen håbe på at slå denne TRÆNER?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer:
-	.string "Findes kampe udelukkende for\n"
-	.string "denne TRÆNER?\p"
+	.string "Findes kampe udelukkende for denne\n"
+	.string "TRÆNER?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle:
-	.string "Den nuværende mester sigter mod\n"
-	.string "at bevare titlen!\p"
+	.string "Den nuværende mester sigter mod at bevare\n"
+	.string "titlen!\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned:
@@ -1044,114 +1031,105 @@ BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned:
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals:
-	.string "Vil denne TRÆNER gøre som forventet\n"
-	.string "og avancere til finalen?\p"
+	.string "Vil denne TRÆNER gøre som forventet og\n"
+	.string "avancere til finalen?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory:
-	.string "Vil den tidligere mester genvinde\n"
-	.string "sin tabte ære?\p"
+	.string "Vil den tidligere mester genvinde sin tabte\n"
+	.string "ære?\p"
 	.string "$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster:
 .string "Føl gløden fra en sand mester!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker:
-	.string "Og nu… TRÆNEREN står i\n"
-	.string "vejen for {PLAYER}'s rekordsættende sejr…\p"
+	.string "Og nu… TRÆNEREN står i vejen for\n"
+	.string "{PLAYER}'s rekordsættende sejr…\p"
 	.string "Ja! Den eneste og sande!\n"
-	.string "KAMPDOME-KOMMISSÆREN!\l"
-	.string "Vores egen DOME-ESS!\l"
-	.string "Giv plads til TUCKER!$"
+	.string "KAMPDOME-KOMMISSÆREN! Vores egen\l"
+	.string "DOME-ESS! Giv plads til TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant:
-	.string "Tilskuere: TUCKER! TUCKER!\n"
-	.string "TUCKER! TUCKER! TUCKER!$"
+	.string "Tilskuere: TUCKER! TUCKER! TUCKER!\n"
+	.string "TUCKER! TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro:
 	.string "TUCKER: Ahahah!\p"
-	.string "Kan du høre det? Denne forsamling!\n"
-	.string "De klør alle efter at se vores kamp!\p"
+	.string "Kan du høre det? Denne forsamling! De klør\n"
+	.string "alle efter at se vores kamp!\p"
 	.string "Ahahah!\p"
 	.string "Jeg ved, du ryster over hele kroppen af\n"
 	.string "spændingen ved at skulle kæmpe mod mig!\p"
 	.string "Men du behøver ikke bekymre dig om noget!\p"
-	.string "Jeg er stjernen på BATTLE DOME!\n"
-	.string "Jeg, TUCKER DOME ES, vil overøse dig\n"
-	.string "med min strålende glans!\p$"
+	.string "Jeg er stjernen på BATTLE DOME! Jeg, TUCKER\n"
+	.string "DOME ES, vil overøse dig med min strålende\l"
+	.string "glans!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy:
-	.string "Din strategi!\n"
-	.string "Lad os se den!$"
+	.string "Din strategi! Lad os se den!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer:
-	.string "Utroligt! Det er fantastisk!\n"
-	.string "{PLAYER} er vinderen!$"
+	.string "Utroligt! Det er fantastisk! {PLAYER} er\n"
+	.string "vinderen!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker:
-	.string "Vinderen er TUCKER!\n"
-	.string "DOME ACE har sejret!\p"
+	.string "Vinderen er TUCKER! DOME ACE har sejret!\p"
 	.string "Tillykke, TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass:
-	.string "TUCKER: Regler er regler!\n"
-	.string "Lad mig se dit FRONTIER PASS.$"
+	.string "TUCKER: Regler er regler! Lad mig se dit\n"
+	.string "FRONTIER PASS.$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol:
-	.string "Taktik Symbolet var præget på\n"
-	.string "GRÆNSE PASSAGEN!$"
+	.string "Taktik Symbolet var præget på GRÆNSE\n"
+	.string "PASSAGEN!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime:
-	.string "Jeg undervurderede dig alvorligt. Jeg\n"
-	.string "vil ikke begå den samme fejl næste\ngang…$"
+	.string "Jeg undervurderede dig alvorligt. Jeg vil\n"
+	.string "ikke begå den samme fejl næstegang…$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched:
-	.string "Kan sejrsstimen fortsættes?\n"
-	.string "Selvtilliden er på plads!$"
+	.string "Kan sejrsstimen fortsættes? Selvtilliden\n"
+	.string "er på plads!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker:
-	.string "Damer og herrer!\n"
-	.string "Drenge, piger, og POKéMON!\p"
-	.string "Endelig!\n"
-	.string "Endelig, legenden er tilbage!\p"
-	.string "Ja, navnet på den legend!\n"
-	.string "Vores helt egen DOME ACE!\l"
-	.string "Det er ingen andre end TUCKER!$"
+	.string "Damer og herrer! Drenge, piger, og POKéMON!\p"
+	.string "Endelig! Endelig, legenden er tilbage!\p"
+	.string "Ja, navnet på den legend! Vores helt egen\n"
+	.string "DOME ACE! Det er ingen andre end TUCKER!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro:
-	.string "TUCKER: Åh…\n"
-	.string "Den dunkende brølen fra mængden…\l"
-	.string "Derres ovn-lignende varme af spænding…\l"
-	.string "Dette er et vidunderligt sted…\p"
-	.string "For mængden er jeg DOME ACE…\n"
-	.string "Jeg repræsenterer deres håb og drømme…\l"
-	.string "Jeg må aldrig forsvinde fra deres syn…\p"
-	.string "Jeg må brænde!\n"
-	.string "Stærkere og mere strålende!\l"
+	.string "TUCKER: Åh… Den dunkende brølen fra\n"
+	.string "mængden… Derres ovn-lignende varme af\l"
+	.string "spænding… Dette er et vidunderligt sted…\p"
+	.string "For mængden er jeg DOME ACE… Jeg\n"
+	.string "repræsenterer deres håb og drømme… Jeg må\l"
+	.string "aldrig forsvinde fra deres syn…\p"
+	.string "Jeg må brænde! Stærkere og mere strålende!\n"
 	.string "Jeg skal oplyse alle, der samles her!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess:
-	.string "Jeg vil udløse al den kraft,\n"
-	.string "jeg besidder! Lige her og nu!$"
+	.string "Jeg vil udløse al den kraft, jeg besidder!\n"
+	.string "Lige her og nu!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed:
 	.string "TUCKER: Du er virkelig fantastisk!\p"
 	.string "Aldrig før! Jeg har aldrig tabt i de\n"
-	.string "øjeblikke, hvor jeg har måttet frigøre min styrke.\p"
-	.string "Ja, helt fantastisk!\n"
-	.string "Din FRONTIER PASS, tak?$"
+	.string "øjeblikke, hvor jeg har måttet frigøre min\l"
+	.string "styrke.\p"
+	.string "Ja, helt fantastisk! Din FRONTIER PASS,\n"
+	.string "tak?$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine:
-	.string "Taktiksymbolet antog\n"
-	.string "en gylden glans!$"
+	.string "Taktiksymbolet antog en gylden glans!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter:
-	.string "Du er stærk, men frem for alt,\n"
-	.string "du har en unik charme!\p"
-	.string "I dig ser jeg et klart potentiale for\n"
-	.string "en superstjerne som mig.\p"
-	.string "Jeg vil meget se frem til\n"
-	.string "vores næste møde!$"
+	.string "Du er stærk, men frem for alt, du har en unik\n"
+	.string "charme!\p"
+	.string "I dig ser jeg et klart potentiale for en\n"
+	.string "superstjerne som mig.\p"
+	.string "Jeg vil meget se frem til vores næste møde!$"
 
 @ Unused
 BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2:
@@ -1171,12 +1149,11 @@ BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker:
 	.string " Lad kampen begynde!$"
 
 BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker:
-	.string "DOMMERNE har truffet\n"
-	.string "en beslutning!\p"
-	.string "Vinderen er...\n"
-	.string "Åh, du milde!\l"
-	.string "Vinderen er vores egen DOME ACE!\l"
-	.string "Det er TUCKER!\p"
-	.string "Tillykke! Og tak!\n"
-	.string "Lad os høre det for DOME ACE, TUCKER!$"
+	.string "DOMMERNE har truffet en beslutning!\p"
+	.string "Vinderen er... Åh, du milde! Vinderen er vores\n"
+	.string "egen DOME ACE! Det er TUCKER!\p"
+	.string "Tillykke! Og tak! Lad os høre det for DOME\n"
+	.string "ACE, TUCKER!$"
+
+
 

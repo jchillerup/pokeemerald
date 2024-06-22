@@ -426,103 +426,94 @@ RusturfTunnel_EventScript_Mike::
 	end
 
 RusturfTunnel_Text_ComeAndGetSome:
-	.string "Hvad, kommer du?\n"
-	.string "Kom og få noget så!$"
+	.string "Hvad, kommer du? Kom og få noget så!$"
 
 RusturfTunnel_Text_Peeko:
-	.string "PEEKO: Pii pihyoh!$" 
+	.string "PEEKO: Pii pihyoh!$"
 
 RusturfTunnel_Text_GruntIntro:
 	.string "Åh, kejle det hele!\p"
-	.string "Den gidsel POKéMON viste sig at\n"
-	.string "være ubrugelig!\p"
-	.string "Og tænk, at jeg slap væk…\n"
-	.string "I denne tunnel til ingenting!\p"
-	.string "Hey! Dig der!\n"
-	.string "Så vil du i kamp med mig?$"
+	.string "Den gidsel POKéMON viste sig at være\n"
+	.string "ubrugelig!\p"
+	.string "Og tænk, at jeg slap væk… I denne tunnel til\n"
+	.string "ingenting!\p"
+	.string "Hey! Dig der! Så vil du i kamp med mig?$"
 
 RusturfTunnel_Text_GruntDefeat:
-	.string "Åhh nej! Min kriminelle karriere nåede\n"
-	.string "et dødt punkt!$"
+	.string "Åhh nej! Min kriminelle karriere nåede et\n"
+	.string "dødt punkt!$"
 
 RusturfTunnel_Text_GruntTakePackage:
 	.string "Det her er bare helt forkert…\p"
-	.string "BOSS'en fortalte mig, at det her ville\n"
-	.string "være en let og lækker sag.\p"
-	.string "Alt jeg skulle gøre, var at stjæle en\n"
-	.string "pakke fra DEVON.\p"
-	.string "Tsk!\n"
-	.string "Hvis du vil have den så meget tilbage,\n"
-	.string "så tag den!$"
+	.string "BOSS'en fortalte mig, at det her ville være\n"
+	.string "en let og lækker sag.\p"
+	.string "Alt jeg skulle gøre, var at stjæle en pakke\n"
+	.string "fra DEVON.\p"
+	.string "Tsk! Hvis du vil have den så meget tilbage, så\n"
+	.string "tag den!$"
 
 RusturfTunnel_Text_PeekoGladToSeeYouSafe:
-	.string "PEEKO!\n"
-	.string "Er jeg glad for at se, at du er sikker!$"
+	.string "PEEKO! Er jeg glad for at se, at du er sikker!$"
 
 RusturfTunnel_Text_ThankYouLetsGoHomePeeko:
 	.string "PEEKO skylder dig sit liv!\p"
-	.string "De kalder mig HR. BRINEY.\n"
-	.string "Og, du er?\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "Åh, så du er {PLAYER}{KUN}!\n"
-	.string "Jeg takker dig dybt!\p"
-	.string "Hvis der er noget, der bekymrer dig,\n"
-	.string "så tøv ikke med at fortælle mig!\p"
-	.string "Du kan som regel finde mig i mit hus\n"
-	.string "ved havet, tæt på PETALBURG WOODS.\p"
+	.string "De kalder mig HR. BRINEY. Og, du er?\p"
+	.string "… … … … … … … … … … … … … … … …\p"
+	.string "Åh, så du er {PLAYER}{KUN}! Jeg takker dig dybt!\p"
+	.string "Hvis der er noget, der bekymrer dig, så tøv\n"
+	.string "ikke med at fortælle mig!\p"
+	.string "Du kan som regel finde mig i mit hus ved havet,\n"
+	.string "tæt på PETALBURG WOODS.\p"
 	.string "Kom, PEEKO, vi bør tage hjemad.\p"
 	.string "PEEKO: Pihyoh!$"
 
 RusturfTunnel_Text_WhyCantTheyKeepDigging:
-	.string "Hvorfor kan de ikke blive ved \npå at grave?\p"
+	.string "Hvorfor kan de ikke blive ved på at grave?\p"
 	.string "Er undergrunden for hård?\p"
-	.string "Min elskede venter på mig i \nVERDANTURF TOWN lige herovre…\p"
+	.string "Min elskede venter på mig i VERDANTURF TOWN\n"
+	.string "lige herovre…\p"
 	.string "Hvis RUSTBORO og VERDANTURF blev\n"
-	.string "forbundet af denne tunnel, kunne \njeg besøge hende hver dag…\p"
-	.string "Men dette…\n"
-	.string "Hvad skal jeg gøre?$"
+	.string "forbundet af denne tunnel, kunne jeg\l"
+	.string "besøge hende hver dag…\p"
+	.string "Men dette… Hvad skal jeg gøre?$"
 
 RusturfTunnel_Text_ToGetToVerdanturf:
 	.string "For at komme fra RUSTBORO til VERDANTURF,\n"
-	.string "skal du tage til DEWFORD, og derefter\n"
+	.string "skal du tage til DEWFORD, og derefter\l"
 	.string "passere gennem SLATEPORT og MAUVILLE...$"
 
 RusturfTunnel_Text_YouShatteredBoulderTakeHM:
-	.string "Wow! Du knuste den store sten\n"
-	.string "der blokerede vejen.\p"
-	.string "For at vise dig, hvor meget jeg\n"
-	.string "værdsætter det, får du denne HM.$"
+	.string "Wow! Du knuste den store sten der\n"
+	.string "blokerede vejen.\p"
+	.string "For at vise dig, hvor meget jeg værdsætter\n"
+	.string "det, får du denne HM.$"
 
 RusturfTunnel_Text_ExplainStrength:
 	.string "Denne HM indeholder STYRKE.\p"
-	.string "Hvis en muskuløs POKéMON lærte det,\n"
-	.string "ville den kunne flytte selv store\n"
-	.string "sten.$"
+	.string "Hvis en muskuløs POKéMON lærte det, ville\n"
+	.string "den kunne flytte selv store sten.$"
 
 RusturfTunnel_Text_WandaReunion:
-	.string "WANDA!\n"
-	.string "Nu kan jeg se dig når som helst!\p"
+	.string "WANDA! Nu kan jeg se dig når som helst!\p"
 	.string "WANDA: Det er... vidunderligt.\p"
 	.string "Vær venlig at hvile dig lidt hjemme hos mig.$"
 
 RusturfTunnel_Text_BoyfriendOnOtherSideOfRock:
-	.string "På den anden side af denne sten…\n"
-	.string "Min kæreste er der.\p"
-	.string "Han… Han graver ikke bare tunnelen\n"
-	.string "for at komme og se mig.\p"
-	.string "Han arbejder sine hænder rå og ru\n"
-	.string "for alles skyld.$"
+	.string "På den anden side af denne sten… Min\n"
+	.string "kæreste er der.\p"
+	.string "Han… Han graver ikke bare tunnelen for at\n"
+	.string "komme og se mig.\p"
+	.string "Han arbejder sine hænder rå og ru for alles\n"
+	.string "skyld.$"
 
 RusturfTunnel_Text_MikeIntro:
 	.string "Hvad kalder man en vild mand oppe i\n"
 	.string "bjergene? En bjergmand, ikke sandt?\p"
-	.string "Så hvorfor kalder de ikke en POKéMON\n"
-	.string "i bjergene for en bjerg POKéMON?$"
+	.string "Så hvorfor kalder de ikke en POKéMON i\n"
+	.string "bjergene for en bjerg POKéMON?$"
 
 RusturfTunnel_Text_MikeDefeat:
-	.string "Mine POKéMON…\n"
-	.string "Er løbet tør for energi…$"
+	.string "Mine POKéMON… Er løbet tør for energi…$"
 
 RusturfTunnel_Text_MikePostBattle:
 	.string "De stoppede udviklingen her for at\n"

@@ -248,30 +248,27 @@ Route128_EventScript_Carlee::
 	end
 
 Route128_Text_ArchieWhatHappened:
-	.string "ARCHIE: Hvad skete der…\n"
-	.string "Hvad er dette klamme syn…\p"
+	.string "ARCHIE: Hvad skete der… Hvad er dette\n"
+	.string "klamme syn…\p"
 	.string "Har jeg lavet en frygtelig fejltagelse?$"
 
 Route128_Text_ArchieIOnlyWanted:
-	.string "Jeg...\n"
-	.string "Jeg ville kun..."
+	.string "Jeg... Jeg ville kun...$"
 
 Route128_Text_MaxieDoYouUnderstandNow:
-	.string "MAXIE: Forstår du det nu,\n"
-	.string "ARCHIE?\p"
-	.string "Ser du endelig, hvor katastrofal\n"
-	.string "din drøm er blevet til?\p"
-	.string "Vi skal skynde os! Vi skal gøre noget,\n"
-	.string "før situationen løber helt af\n"
-	.string "sporet!\l$"
+	.string "MAXIE: Forstår du det nu, ARCHIE?\p"
+	.string "Ser du endelig, hvor katastrofal din drøm er\n"
+	.string "blevet til?\p"
+	.string "Vi skal skynde os! Vi skal gøre noget, før\n"
+	.string "situationen løber helt af sporet!$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
 	.string "MAXIE: {PLAYER}, sig ikke noget.\p"
 	.string "Jeg ved, at jeg ikke har ret til at være\n"
 	.string "kritisk overfor ARCHIE…\p"
-	.string "Men på den måde tingene er nu,\n"
-	.string "tvivler jeg på, at vi mennesker vil være i\n"
-	.string "stand til at gøre noget ved det.\p"
+	.string "Men på den måde tingene er nu, tvivler jeg på,\n"
+	.string "at vi mennesker vil være i stand til at gøre\l"
+	.string "noget ved det.\p"
 	.string "Men vi kan heller ikke bare se hjælpeløst til.\p"
 	.string "Ansvaret for at sætte en stopper for dette\n"
 	.string "ligger hos ARCHIE og mig…$"
@@ -279,31 +276,28 @@ Route128_Text_MaxieResposibilityFallsToArchieAndMe:
 Route128_Text_MaxieThisDefiesBelief:
 	.string "MAXIE: Dette er ubegribeligt…\p"
 	.string "Disse superældgamle POKéMON…\p"
-	.string "Deres kræfter er utrolige.\n"
-	.string "De har forstyrret naturens balance…$"
+	.string "Deres kræfter er utrolige. De har\n"
+	.string "forstyrret naturens balance…$"
 
 Route128_Text_StevenWhatIsHappening:
-	.string "STEVEN: {PLAYER}Hej!\n"
-	.string "Hvad sker der?$"
+	.string "STEVEN: {PLAYER}Hej! Hvad sker der?$"
 
 Route128_Text_StevenWholeWorldWillDrown:
 	.string "Det her er forfærdeligt…\p"
-	.string "Efter varmebølgen endte,\n"
-	.string "begyndte dette skybrud.\p"
+	.string "Efter varmebølgen endte, begyndte dette\n"
+	.string "skybrud.\p"
 	.string "Hvis det her ikke stopper, vil hele HOENN…\n"
 	.string "Nej, hele verden drukne.\p"
-	.string "Denne store regnsky breder sig\n"
-	.string "fra oven over SOOTOPOLIS…\p"
+	.string "Denne store regnsky breder sig fra oven\n"
+	.string "over SOOTOPOLIS…\p"
 	.string "Hvad i alverden foregår der?\p"
 	.string "Der er ingen pointe i at diskutere her…\n"
 	.string "SOOTOPOLIS kan måske give svar…$"
 
 Route128_Text_StevenImGoingToSootopolis:
-	.string "{PLAYER}{KUN}... \n"
-	.string "Jeg ved ikke, hvad du har i tankerne,\l"
-	.string "men gør ikke noget dumt.\p"
-	.string "Okay.\n"
-	.string "Jeg tager til SOOTOPOLIS.$"
+	.string "{PLAYER}{KUN}...  Jeg ved ikke, hvad du har i\n"
+	.string "tankerne, men gør ikke noget dumt.\p"
+	.string "Okay. Jeg tager til SOOTOPOLIS.$"
 
 
 

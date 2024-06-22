@@ -78,59 +78,57 @@ LilycoveCity_CoveLilyMotel_1F_Movement_OwnerReturn:
 	step_end
 
 LilycoveCity_CoveLilyMotel_1F_Text_GuestsDoubledByMascot:
-	.string "Hmm, så fordoblede de gæsterne ved at\n"
-	.string "bruge POKéMON som attraktioner?\p"
-	.string "Hmm, måske skulle jeg gøre en sød\n"
-	.string "POKéMON til vores kro's maskot.\p"
-	.string "Jeg undrer mig over, om det vil\n"
-	.string "tiltrække flere gæster til at blive\n"
-	.string "hos os?$"
+	.string "Hmm, så fordoblede de gæsterne ved at bruge\n"
+	.string "POKéMON som attraktioner?\p"
+	.string "Hmm, måske skulle jeg gøre en sød POKéMON\n"
+	.string "til vores kro's maskot.\p"
+	.string "Jeg undrer mig over, om det vil tiltrække\n"
+	.string "flere gæster til at blive hos os?$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua:
-	.string "Åh, undskyld, undskyld!\n"
-	.string "Jeg var for meget optaget af at se tv!\p"
-	.string "Siden HOLD AQUA kom til byen,\n"
-	.string "har turisterne holdt sig væk.$"
+	.string "Åh, undskyld, undskyld! Jeg var for meget\n"
+	.string "optaget af at se tv!\p"
+	.string "Siden HOLD AQUA kom til byen, har turisterne\n"
+	.string "holdt sig væk.$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV:
-	.string "Hej, nede foran!\n"
-	.string "Jeg kan ikke se fjernsynet!$"
+	.string "Hej, nede foran! Jeg kan ikke se\n"
+	.string "fjernsynet!$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem:
-	.string "Fantastisk! Siger du, at en POKéMON\n"
-	.string "har fundet en tabt genstand?\p"
+	.string "Fantastisk! Siger du, at en POKéMON har\n"
+	.string "fundet en tabt genstand?\p"
 	.string "Det er noget. Hvis vi havde nogle kloge\n"
 	.string "POKéMON som den…\p"
-	.string "Så kunne vi finde alt, vores gæster\n"
-	.string "har tabt…$"
+	.string "Så kunne vi finde alt, vores gæster har\n"
+	.string "tabt…$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
-	.string "Åh, undskyld, undskyld!\n"
-	.string "Jeg var alt for optaget af at se TV!\p"
-	.string "Jeg hørte, at nogen bustede\n"
-	.string "TEAM AQUA HIDEOUT.\p"
-	.string "Takket være det har vi lige\n"
-	.string "fået en reservation fra en stor gruppe.\p"
-	.string "Det var et firma kaldet… Øh…\n"
-	.string "GAME noget...$"
+	.string "Åh, undskyld, undskyld! Jeg var alt for\n"
+	.string "optaget af at se TV!\p"
+	.string "Jeg hørte, at nogen bustede TEAM AQUA\n"
+	.string "HIDEOUT.\p"
+	.string "Takket være det har vi lige fået en\n"
+	.string "reservation fra en stor gruppe.\p"
+	.string "Det var et firma kaldet… Øh… GAME noget...$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
-	.string "Fantastisk! En husvagt POKéMON\n"
-	.string "fangede en indbrudstyv?\p"
+	.string "Fantastisk! En husvagt POKéMON fangede\n"
+	.string "en indbrudstyv?\p"
 	.string "Det er noget. Hvis vi havde en robust\n"
 	.string "POKéMON som vagthund…\p"
-	.string "Kunne vi kunne give vores gæster\n"
-	.string "bedre sikkerhed.$"
+	.string "Kunne vi kunne give vores gæster bedre\n"
+	.string "sikkerhed.$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_BetterGetWorkingOnGuestsDinner:
-	.string "Åh, undskyld, undskyld!\n"
-	.string "Jeg var for dybt optaget af at se TV.\p"
-	.string "Åh, ja. En stor gruppe gæster ankom\n"
-	.string "for lidt siden.\p"
-	.string "De reserverede som GAME FREAK,\n"
-	.string "så jeg antager, de laver spil.\p"
-	.string "Åh-åh, jeg burde nok gå i gang med\n"
-	.string "deres aftensmad!$"
+	.string "Åh, undskyld, undskyld! Jeg var for dybt\n"
+	.string "optaget af at se TV.\p"
+	.string "Åh, ja. En stor gruppe gæster ankom for lidt\n"
+	.string "siden.\p"
+	.string "De reserverede som GAME FREAK, så jeg\n"
+	.string "antager, de laver spil.\p"
+	.string "Åh-åh, jeg burde nok gå i gang med deres\n"
+	.string "aftensmad!$"
 
 
 

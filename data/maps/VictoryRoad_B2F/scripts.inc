@@ -35,29 +35,27 @@ VictoryRoad_B2F_EventScript_Dianne::
 
 VictoryRoad_B2F_Text_VitoIntro:
 	.string "Jeg trænede sammen med hele min familie,\n"
-	.string "alle sammen!\l"
-	.string "Jeg taber ikke til nogen!$"
+	.string "alle sammen! Jeg taber ikke til nogen!$"
 
 VictoryRoad_B2F_Text_VitoDefeat:
-	.string "Bedre end min familie?!\n"
-	.string "Er det muligt?!\p$"
+	.string "Bedre end min familie?! Er det muligt?!$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-	.string "Jeg var bedre end alle i min\n"
-	.string "familie. Jeg har aldrig tabt før…\p"
-	.string "Jeg har mistet min tillid…\n"
-	.string "Måske vil jeg tage hjem…$"
+	.string "Jeg var bedre end alle i min familie. Jeg har\n"
+	.string "aldrig tabt før…\p"
+	.string "Jeg har mistet min tillid… Måske vil jeg tage\n"
+	.string "hjem…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-	.string "Jeg havde hørt, at der var en sej \n"
-	.string "lille knægt heromkring. Mener de dig?$"
+	.string "Jeg havde hørt, at der var en sej  lille knægt\n"
+	.string "heromkring. Mener de dig?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
 	.string "Den lille reje er sej!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "De rygter, jeg hørte, om den seje\n"
-	.string "lille knægt er fra PETALBURG CITY.$"
+	.string "De rygter, jeg hørte, om den seje lille knægt\n"
+	.string "er fra PETALBURG CITY.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
 	.string "Du må være lidt træt.$"
@@ -66,48 +64,45 @@ VictoryRoad_B2F_Text_CarolineDefeat:
 	.string "Ingen tegn på træthed overhovedet!$"
 
 VictoryRoad_B2F_Text_CarolinePostBattle:
-	.string "SEJR VEJ og POKéMON LIGAEN\n"
-	.string "er lange og udmattende udfordringer.\p"
+	.string "SEJR VEJ og POKéMON LIGAEN er lange og\n"
+	.string "udmattende udfordringer.\p"
 	.string "Pas på træthed!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "Du skal ikke blive selvtilfreds\n"
-	.string "bare fordi du har mange GYM BADGES.\p"
-	.string "Der vil altid være nogen, der er\n"
-	.string "bedre end dig!$"
+	.string "Du skal ikke blive selvtilfreds bare fordi\n"
+	.string "du har mange GYM BADGES.\p"
+	.string "Der vil altid være nogen, der er bedre end dig!$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
 	.string "Du er bedre end mig!$"
 
 VictoryRoad_B2F_Text_JuliePostBattle:
-	.string "Se på dine indsamlede MÆRKER og\n"
-	.string "husk TRÆNERNE, du har stået overfor.$"
+	.string "Se på dine indsamlede MÆRKER og husk\n"
+	.string "TRÆNERNE, du har stået overfor.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-	.string "Jeg er nået så langt, men spændingen\n"
-	.string "giver mig forfærdelige mavesmerter…$"
+	.string "Jeg er nået så langt, men spændingen giver\n"
+	.string "mig forfærdelige mavesmerter…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
-	.string "Åh…\n"
-	.string "Det gør ondt…$"
+	.string "Åh… Det gør ondt…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-	.string "Jeg kan ikke lade være med at blive\n"
-	.string "spændt, når jeg nærmer mig POKéMON-\n"
-	.string "LIGAEN. Jeg prøver virkelig at være\n"
-	.string "rolig.$"
+	.string "Jeg kan ikke lade være med at blive spændt,\n"
+	.string "når jeg nærmer mig POKéMON- LIGAEN. Jeg\l"
+	.string "prøver virkelig at være rolig.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
-	.string "De bedste af de bedste samles i\n"
-	.string "denne grotte.\p"
+	.string "De bedste af de bedste samles i denne\n"
+	.string "grotte.\p"
 	.string "Hvordan synes du om den?$"
 
 VictoryRoad_B2F_Text_DianneDefeat:
 	.string "Slet ikke forskrækket!$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-	.string "Du har virkelig modet! Det kan jeg lide!\n" 
-	.string "Bliv ved med det!$"
+	.string "Du har virkelig modet! Det kan jeg lide! Bliv\n"
+	.string "ved med det!$"
 
 
 

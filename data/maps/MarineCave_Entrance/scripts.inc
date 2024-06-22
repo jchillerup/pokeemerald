@@ -6,3 +6,5 @@ MarineCave_Entrance_OnResume:
 	setdivewarp MAP_UNDERWATER_MARINE_CAVE, 9, 6
 	end
 
+
+

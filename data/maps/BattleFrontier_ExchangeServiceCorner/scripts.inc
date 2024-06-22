@@ -439,8 +439,8 @@ BattleFrontier_ExchangeServiceCorner_EventScript_Girl::
 BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize:
 	.string "Hej, dette er UDVEKSLINGSSERVICEN\n"
 	.string "HJØRNE.\p"
-	.string "Vi udveksler de Kamp Point du har\n"
-	.string "samlet ind til dejlige præmier.\p"
+	.string "Vi udveksler de Kamp Point du har samlet ind\n"
+	.string "til dejlige præmier.\p"
 	.string "Vælg venligst en præmie fra denne liste.$"
 
 @ Unused
@@ -448,240 +448,211 @@ BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize:
 	.string "Vælg venligst en præmie fra denne liste.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissPoster:
-	.string "Du har valgt KISS PLAKATEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt KISS PLAKATEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissCushion:
-	.string "Du har valgt KYSSEPUDEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt KYSSEPUDEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSmoochumDoll:
-	.string "Du har valgt SMOOCHUM DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt SMOOCHUM DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTogepiDoll:
-	.string "Du har valgt TOGEPI-DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt TOGEPI-DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMeowthDoll:
-	.string "Du har valgt MEOWTH DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt MEOWTH DUKKEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll:
-	.string "Du har valgt CLEFAIRY DUKKE.\n" 
-	.string "Er det korrekt?$"
+	.string "Du har valgt CLEFAIRY DUKKE. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmDittoDoll:
-	.string "Du har valgt DITTO DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt DITTO DUKKEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCyndaquilDoll:
-	.string "Du har valgt CYNDAQUIL-DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt CYNDAQUIL-DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChikoritaDoll:
-	.string "Du har valgt CHIKORITA DUKKE.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt CHIKORITA DUKKE. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmTotodileDoll:
-	.string "Du har valgt TOTODILE DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt TOTODILE DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLaprasDoll:
-	.string "Du har valgt LAPRAS DUKKE.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt LAPRAS DUKKE. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmSnorlaxDoll:
-	.string "Du har valgt SNORLAX-DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt SNORLAX-DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmVenusaurDoll:
-	.string "Du har valgt VENUSAUR DOLL.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt VENUSAUR DOLL. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCharizardDoll:
-	.string "Du har valgt CHARIZARD DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt CHARIZARD DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBlastoiseDoll:
-	.string "Du har valgt BLASTOISE DUKKEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt BLASTOISE DUKKEN. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmProtein:
-	.string "Du har valgt PROTEIN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt PROTEIN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCalcium:
-	.string "Du har valgt CALCIUM.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt CALCIUM. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron:
-	.string "Du har valgt JERNET.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt JERNET. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmZinc:
-	.string "Du har valgt ZINC.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt ZINC. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmCarbos:
-	.string "Du har valgt CARBOS.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt CARBOS. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmHPUp:
-	.string "Du har valgt HP OP.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt HP OP. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder:
-	.string "Du har valgt LYSPUDERET.\n" 
-	.string "Er det korrekt?$"
+	.string "Du har valgt LYSPUDERET. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmWhiteHerb:
-	.string "Du har valgt DEN HVIDE URTE.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt DEN HVIDE URTE. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw:
-	.string "Du har valgt HURTIGE KLO.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt HURTIGE KLO. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmMentalHerb:
-	.string "Du har valgt den mentale urt.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt den mentale urt. Er det\n"
+	.string "korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmChoiceBand:
-	.string "Du har valgt VALGBÅNDEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt VALGBÅNDEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmKingsRock:
-	.string "Du har valgt KONGENS STEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt KONGENS STEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmFocusBand:
-	.string "Du har valgt FOKUSBÅNDEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt FOKUSBÅNDEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmScopeLens:
-	.string "Du har valgt KIKKERTEN.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt KIKKERTEN. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ConfirmLeftovers:
-	.string "Du har valgt RESTERNE.\n"
-	.string "Er det korrekt?$"
+	.string "Du har valgt RESTERNE. Er det korrekt?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC:
-	.string "Tak!\n"
-	.string "Vi sender det til din PC derhjemme.$"
+	.string "Tak! Vi sender det til din PC derhjemme.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize:
 	.string "Her er din præmie!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints:
-	.string "Jeg er så ked af det...\n"
-	.string "Du har ikke nok Kamp Point...\p$"
+	.string "Jeg er så ked af det... Du har ikke nok Kamp\n"
+	.string "Point...$"
 
 BattleFrontier_ExchangeServiceCorner_Text_PCIsFull:
-	.string "Jeg er så ked af det…\n"
-	.string "Din pc ser ud til at være fuld...$"
+	.string "Jeg er så ked af det… Din pc ser ud til at være\n"
+	.string "fuld...$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt:
-	.string "Jeg er så ked af det…\n"
-	.string "Du har ikke plads til at holde det…$"
+	.string "Jeg er så ked af det… Du har ikke plads til at\n"
+	.string "holde det…$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints:
 	.string "Mange tak.\p"
-	.string "Besøg os gerne, når du har\n"
-	.string "samlet nok Kamp Point.$"
+	.string "Besøg os gerne, når du har samlet nok Kamp\n"
+	.string "Point.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls:
-	.string "Åh, de er så søde!\n"
-	.string "Jeg ville ønske, jeg havde dem!\l"
-	.string "Søde puder!\l"
-	.string "Store plysdukker!\l"
-	.string "Små plysdukker!\l"
-	.string "Jeg ville ønske, jeg havde dem alle!$"
+	.string "Åh, de er så søde! Jeg ville ønske, jeg havde\n"
+	.string "dem! Søde puder! Store plysdukker! Små\l"
+	.string "plysdukker! Jeg ville ønske, jeg havde dem\l"
+	.string "alle!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant:
 	.string "Lad din mor om det!\p"
-	.string "Hvis der er noget du ønsker, vil jeg\n"
-	.string "gøre alt for at få det, skat!$"
+	.string "Hvis der er noget du ønsker, vil jeg gøre alt\n"
+	.string "for at få det, skat!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher:
-	.string "Hvis jeg kan få fat i tingene her,\n"
-	.string "vil mine POKéMON blive stærkere.\p"
-	.string "Det kan du bande på!\n"
-	.string "Ingen tvivl om det!$"
+	.string "Hvis jeg kan få fat i tingene her, vil mine\n"
+	.string "POKéMON blive stærkere.\p"
+	.string "Det kan du bande på! Ingen tvivl om det!$"
 
 BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll:
-	.string "Hvad?\n"
-	.string "Hvad glor du på?\p"
+	.string "Hvad? Hvad glor du på?\p"
 	.string "Jeg kan ikke lide, at du stirrer på min plys-\n"
 	.string "dukke på den måde.\p"
-	.string "Hvis du vil have en, så skaf selv en!\n"
-	.string "Er det ikke sådan, SMOOCHUM?$"
+	.string "Hvis du vil have en, så skaf selv en! Er det\n"
+	.string "ikke sådan, SMOOCHUM?$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord:
 	.string "Vidste du det?\p"
-	.string "Hvis du strækker din rekord på\n"
-	.string "en af KAMP faciliteterne, begynder de\l"
-	.string "at give dig flere og flere Kamp Point.$"
+	.string "Hvis du strækker din rekord på en af KAMP\n"
+	.string "faciliteterne, begynder de at give dig\l"
+	.string "flere og flere Kamp Point.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc::
 .string "En stor plakat med et SMOOCHUM-tryk.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc::
-	.string "En SMOOCHUM pude.\n"
-	.string "Læg den på et tæppe eller et bord.$"
+	.string "En SMOOCHUM pude. Læg den på et tæppe eller\n"
+	.string "et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc::
-	.string "En SMOOCHUM-dukke.\n"
-	.string "Placer den på en måtte eller et bord.$"
+	.string "En SMOOCHUM-dukke. Placer den på en måtte\n"
+	.string "eller et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc::
-	.string "En TOGEPI-dukke.\n"
-	.string "Læg den på en måtte eller et bord.$"
+	.string "En TOGEPI-dukke. Læg den på en måtte eller\n"
+	.string "et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc::
-	.string "En MEOWTH-dukke.\n"
-	.string "Placer den på en måtte eller et skrivebord.$"
+	.string "En MEOWTH-dukke. Placer den på en måtte\n"
+	.string "eller et skrivebord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc::
-	.string "En CLEFAIRY-dukke.\n"
-	.string "Placer den på en måtte eller et skrivebord.$"
+	.string "En CLEFAIRY-dukke. Placer den på en måtte\n"
+	.string "eller et skrivebord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc::
-	.string "EN DITTO DUKKE.\n"
-	.string "Placér den på et tæppe eller et bord.$"
+	.string "EN DITTO DUKKE. Placér den på et tæppe eller\n"
+	.string "et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc::
-	.string "En CYNDAQUIL-dukke.\n"
-	.string "Placer den på et tæppe eller et bord.$"
+	.string "En CYNDAQUIL-dukke. Placer den på et\n"
+	.string "tæppe eller et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc::
-	.string "En CHIKORITA-DUKKE.\n"
-	.string "Læg den på en måtte eller en skrivebord.$"
+	.string "En CHIKORITA-DUKKE. Læg den på en måtte\n"
+	.string "eller en skrivebord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc::
-	.string "En TOTODILE-dukke.\n"
-	.string "Læg den på en måtte eller et bord.$"
+	.string "En TOTODILE-dukke. Læg den på en måtte\n"
+	.string "eller et bord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc::
-	.string "En stor DUKKE.\n"
-	.string "Placer den på et tæppe eller et skrivebord.$"
+	.string "En stor DUKKE. Placer den på et tæppe eller\n"
+	.string "et skrivebord.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc::
-	.string "Øger statistikken ANGREB for en\n"
-	.string "POKéMON.$"
+	.string "Øger statistikken ANGREB for en POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc::
-	.string "Øger SP. ATK statistikken for en\n"
-	.string "POKéMON.$"
+	.string "Øger SP. ATK statistikken for en POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_IronDesc::
-	.string "Øger forsvaret af en\n"
-	.string "POKéMON.$"
+	.string "Øger forsvaret af en POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ZincDesc::
-	.string "Øger statistikken SP. DEF af én\n"
-	.string "POKéMON.$"
+	.string "Øger statistikken SP. DEF af én POKéMON.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc::
 	.string "Øger statistikken HASTIGHED for en\n"
@@ -699,30 +670,31 @@ BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc::
 	.string "sænket statistik.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc::
-	.string "Et holdobjekt, der lejlighedsvis\n"
-	.string "muliggør det første angreb.$"
+	.string "Et holdobjekt, der lejlighedsvis muliggør\n"
+	.string "det første angreb.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc::
-.string "En holdgenstand, der får POKéMON\n"
-.string "ud af fortryllelse.$"
+	.string "ud af fortryllelse.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc::
-	.string "En holdgenstand, der kaster et\n"
-	.string "skær for at reducere nøjagtighed.$"
+	.string "En holdgenstand, der kaster et skær for at\n"
+	.string "reducere nøjagtighed.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc::
-	.string "Øger en bevægelses kraft, men tillader\n"
-	.string "kun den bevægelse.$"
+	.string "Øger en bevægelses kraft, men tillader kun\n"
+	.string "den bevægelse.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc::
 	.string "En holdgenstand, der kan få modstanderen\n"
 	.string "til at blive forpurret, når fjenden ramt.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc::
-	.string "En holdgenstand, der af og til\n"
-	.string "forhindrer besvimelse.$"
+	.string "En holdgenstand, der af og til forhindrer\n"
+	.string "besvimelse.$"
 
 BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc::
 	.string "En holdgenstand, der hæver\n"
 	.string "kritisk-hit-raten.$"
+
+
 

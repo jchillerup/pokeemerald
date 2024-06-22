@@ -48,33 +48,30 @@ BattleFrontier_Lounge6_EventScript_TradeCompleted::
 	end
 
 BattleFrontier_Lounge6_Text_WouldYouLikeToTrade:
-	.string "Min POKéMON er en {STR_VAR_2}.\n"
-	.string "Kender du den?\l"
-	.string "Den er ret sød og ret rar.\p"
+	.string "Min POKéMON er en {STR_VAR_2}. Kender\n"
+	.string "du den? Den er ret sød og ret rar.\p"
 	.string "Denne lille fyr, jeg kunne bytte med\n"
 	.string "stolthed!\p"
-	.string "Vil du bytte mig en {STR_VAR_1}\n"
-	.string "for min {STR_VAR_2}?$"
+	.string "Vil du bytte mig en {STR_VAR_1} for min\n"
+	.string "{STR_VAR_2}?$"
 
 BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt:
-	.string "Åh, hvor er den sød!\n"
-	.string "Tak!\l"
-	.string "Jeg lover, jeg vil passe godt på den!\p"
-	.string "Åh! Jeg håber, du også vil være god\n"
-	.string "ved min {STR_VAR_2}!$"
+	.string "Åh, hvor er den sød! Tak! Jeg lover, jeg vil\n"
+	.string "passe godt på den!\p"
+	.string "Åh! Jeg håber, du også vil være god ved min\n"
+	.string "{STR_VAR_2}!$"
 
 BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon:
-	.string "Åh, undskyld!\n"
-	.string "Jeg har ikke til hensigt at handle\n"
-	.string "for andet end en {STR_VAR_1}.$"
+	.string "Åh, undskyld! Jeg har ikke til hensigt at\n"
+	.string "handle for andet end en {STR_VAR_1}.$"
 
 BattleFrontier_Lounge6_Text_WellThatsFineToo:
-	.string "Åh, vil du ikke?\n"
-	.string "Nå, det er også fint.\l"
-	.string "Besøg os igen, tak.$"
+	.string "Åh, vil du ikke? Nå, det er også fint. Besøg os\n"
+	.string "igen, tak.$"
 
 BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined:
-	.string "Grin!\n"
-	.string "En SKITTY er meget sødere end jeg havde\n"
-	.string "forestillet mig. Jeg er henrykt!$"
+	.string "Grin! En SKITTY er meget sødere end jeg\n"
+	.string "havde forestillet mig. Jeg er henrykt!$"
+
+
 

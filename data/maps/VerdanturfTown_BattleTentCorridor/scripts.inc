@@ -43,15 +43,14 @@ VerdanturfTown_BattleTentCorridor_Movement_AttendantEnterDoor:
 	set_invisible
 	step_end
 
-
 VerdanturfTown_ContestHall_Text_WhichContestYouEntering:
-    .string "Hvilken KONKURRENCE vil du deltage i?\n"
-    .string "Vil du have et tip?\p"
-    .string "I enhver KONKURRENCE, f.eks. en SØD\n"
-    .string "KONKURRENCE, tror jeg ikke, de kun\l"
-    .string "bedømmer dig ud fra sødme i første runde.\p"
-    .string "Du skal finde måder at opdrage\n"
-    .string "POKéMON på bedre.$"
+	.string "Hvilken KONKURRENCE vil du deltage i? Vil du\n"
+	.string "have et tip?\p"
+	.string "I enhver KONKURRENCE, f.eks. en SØD\n"
+	.string "KONKURRENCE, tror jeg ikke, de kun\l"
+	.string "bedømmer dig ud fra sødme i første runde.\p"
+	.string "Du skal finde måder at opdrage POKéMON på\n"
+	.string "bedre.$"
 
 @ Unused
 VerdanturfTown_ContestHall_Text_RaisedMonToBeCute:

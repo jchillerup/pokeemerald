@@ -64,25 +64,21 @@ AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
 .string "Ups, jeg er sunket!$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanPostBattle:
-	.string "Skibets bund er sunket ned i\n"
-	.string "dybet.\p"
-	.string "Hvis en POKéMON vidste, hvordan man\n"
-	.string "gik under vand, kunne vi komme\n"
-	.string "videre…$"
+	.string "Skibets bund er sunket ned i dybet.\p"
+	.string "Hvis en POKéMON vidste, hvordan man gik\n"
+	.string "under vand, kunne vi komme videre…$"
 
 AbandonedShip_Corridors_B1F_Text_YayItsAShip:
-	.string "Jubii!\n"
-	.string "Det er et skib!$"
+	.string "Jubii! Det er et skib!$"
 
 AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
-.string "Døren er låst.\p"
-.string "“OPBEVARING” er malet på døren.$"
+	.string "“OPBEVARING” er malet på døren.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
 	.string "{PLAYER} satte nøglen i og drejede om.\n"
 	.string "OPBEVARINGSNØGLEN.\p"
-	.string "Den indsatte nøgle sad fast,\n"
-	.string "men døren åbnede.$"
+	.string "Den indsatte nøgle sad fast, men døren\n"
+	.string "åbnede.$"
 
 AbandonedShip_Text_TheDoorIsOpen:
 .string "Døren er åben.$"

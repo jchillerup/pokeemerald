@@ -930,12 +930,11 @@ BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting:
 	.string "Undskyld!\p"
 	.string "Du gemte ikke, før du afsluttede din\n"
 	.string "udfordring sidste gang.\p"
-	.string "På grund af det er din udfordring\n"
-	.string "hidtil blevet diskvalificeret. Undskyld!$"
+	.string "På grund af det er din udfordring hidtil\n"
+	.string "blevet diskvalificeret. Undskyld!$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven:
-	.string "Tillykke!\n"
-	.string "Du har slået alle syv TRÆNERE!\p"
+	.string "Tillykke! Du har slået alle syv TRÆNERE!\p"
 	.string "$"
 
 @ Unused
@@ -959,8 +958,7 @@ BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying:
 	.string "$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved:
-	.string "Din rekord vil blive gemt.\n"
-	.string "Vent venligst.$"
+	.string "Din rekord vil blive gemt. Vent venligst.$"
 
 BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou:
 	.string "Vi har ventet på dig!\p"
@@ -971,64 +969,62 @@ BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved:
 	.string "fremgang blive gemt. Vent venligst.$"
 
 BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer:
-	.string "Du er endelig ved at stå over for\n"
-	.string "den 50. TRÆNER.\p"
-	.string "Fra nu af, hver gang du besejrer syv\n"
-	.string "TRÆNERE i træk, vil dine POKéMON\l"
-	.string "modtage et minde-RIBBON.\p"
+	.string "Du er endelig ved at stå over for den 50.\n"
+	.string "TRÆNER.\p"
+	.string "Fra nu af, hver gang du besejrer syv TRÆNERE\n"
+	.string "i træk, vil dine POKéMON modtage et\l"
+	.string "minde-RIBBON.\p"
 	.string " Held og lykke!$"
 
 BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons:
-	.string "Her er nogle BÅND for at slå\n"
-	.string "syv seje TRÆNERE i træk.\p"
+	.string "Her er nogle BÅND for at slå syv seje TRÆNERE\n"
+	.string "i træk.\p"
 	.string "{PLAYER} fik nogle BÅND!$"
 
 BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons:
-	.string "{PLAYER} sætter BÅNDENE på\n"
-	.string "den udfordrende POKéMON.$"  
+	.string "{PLAYER} sætter BÅNDENE på den\n"
+	.string "udfordrende POKéMON.$"
 
 BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower:
 	.string "Undskyld, har du et øjeblik?\p"
-	.string "Kan du beskrive dine følelser, når\n"
-	.string "du er ved at begynde en KAMP TÅRN\l"
-	.string "kamp, eller når du enten har vundet\n"
-	.string "eller tabt en kamp?$"
+	.string "Kan du beskrive dine følelser, når du er ved\n"
+	.string "at begynde en KAMP TÅRN kamp, eller når du\l"
+	.string "enten har vundet eller tabt en kamp?$"
 
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin:
-	.string "Okay, hvad føler du, når\n"
-	.string "du er ved at begynde en kamp?$"
-
-BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon:
-	.string "Hvordan føler du dig, når du har vundet\n"
+	.string "Okay, hvad føler du, når du er ved at begynde\n"
 	.string "en kamp?$"
 
+BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon:
+	.string "Hvordan føler du dig, når du har vundet en\n"
+	.string "kamp?$"
+
 BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveLost:
-	.string "Kan jeg høre om dine følelser, når\n"
-	.string "du har tabt en kamp?$"
+	.string "Kan jeg høre om dine følelser, når du har tabt\n"
+	.string "en kamp?$"
 
 BattleFrontier_BattleTowerLobby_Text_DontThinkMuchAboutIt:
-	.string "Åh, så tænker du ikke så meget over det?\n"
-	.string "Du er en sej kunde.$"
+	.string "Åh, så tænker du ikke så meget over det? Du er\n"
+	.string "en sej kunde.$"
 
 BattleFrontier_BattleTowerLobby_Text_ChangedYourMind:
-	.string "Hvad? Har du skiftet mening?\n"
-	.string "Jeg gætter på, at du er lunefuld.$"
+	.string "Hvad? Har du skiftet mening? Jeg gætter på,\n"
+	.string "at du er lunefuld.$"
 
 BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel:
-	.string "Okay, sådan har du det?\n"
-	.string "Det er ret originalt.\p"
+	.string "Okay, sådan har du det? Det er ret originalt.\p"
 	.string "Tak!$"
 
 BattleFrontier_BattleTowerLobby_Text_WinsInRowRecorded:
-	.string "Antallet af kampe, du vinder i træk\n"
-	.string "bliver registreret.\p"
-	.string "Jeg vil helst ikke blive slået på\n"
-	.string "en pinlig måde!$"
+	.string "Antallet af kampe, du vinder i træk bliver\n"
+	.string "registreret.\p"
+	.string "Jeg vil helst ikke blive slået på en pinlig\n"
+	.string "måde!$"
 
 BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins:
-	.string "Når du først er kommet ind i KAMP\l"
-	.string "TÅRNET, kan du ikke gå, før du enten\n"
-	.string "taber eller slår syv TRÆNERE i træk.\p"
+	.string "Når du først er kommet ind i KAMP TÅRNET, kan\n"
+	.string "du ikke gå, før du enten taber eller slår syv\l"
+	.string "TRÆNERE i træk.\p"
 	.string "Sørg for, at du er klar til udfordringen.$"
 
 @ Unused
@@ -1050,12 +1046,11 @@ BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction:
 	.string "er færdigt.$"
 
 BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge:
-	.string "Vi glæder os til at se dig på en\n"
-	.string "ny udfordring!$"
+	.string "Vi glæder os til at se dig på en ny udfordring!$"
 
 BattleFrontier_BattleTowerLobby_Text_WhichLevelMode:
-	.string "KAMPLOKALET tilbyder to niveauer\n"
-	.string "af udfordring, Niveau 50 og Åbent Niveau.\p"
+	.string "KAMPLOKALET tilbyder to niveauer af\n"
+	.string "udfordring, Niveau 50 og Åbent Niveau.\p"
 	.string "Hvad er dit valg?$"
 
 @ Unused
@@ -1064,12 +1059,12 @@ BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons:
 	.string "at sende ind.$"
 
 BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering:
-	.string "Før du går ind i en KAMPZONE, skal\n"
-	.string "din fremgang gemmes. Er det okay?$"
+	.string "Før du går ind i en KAMPZONE, skal din\n"
+	.string "fremgang gemmes. Er det okay?$"
 
 BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom:
-	.string "Jeg vil nu vise dig til\n"
-	.string "{STR_VAR_1} KAMPLOKALET.$"
+	.string "Jeg vil nu vise dig til {STR_VAR_1}\n"
+	.string "KAMPLOKALET.$"
 
 BattleFrontier_BattleTowerLobby_Text_RecordLastMatch:
 	.string "Skal jeg optage din seneste KAMP I TÅRNET\n"
@@ -1099,8 +1094,8 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen:
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles:
 	.string "Undskyld!\p"
 	.string "Du har ikke tre kvalificerede POKéMON.\p"
-	.string "Du skal have tre forskellige POKéMON\n"
-	.string "af Level 50 eller derunder for at deltage.\p"
+	.string "Du skal have tre forskellige POKéMON af\n"
+	.string "Level 50 eller derunder for at deltage.\p"
 	.string "De skal også bære forskellige slags\n"
 	.string "genstande.\p"
 	.string "ÆG{STR_VAR_1} er ikke berettiget.\p"
@@ -1109,18 +1104,18 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles:
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenSingles:
 	.string "Undskyld!\p"
 	.string "Du har ikke tre gyldige POKéMON.\p"
-	.string "Du skal have tre forskellige POKéMON\n"
-	.string "for at deltage.\p"
-	.string "De skal også have forskellige\n"
-	.string "typer af genstande med sig.\p"
+	.string "Du skal have tre forskellige POKéMON for at\n"
+	.string "deltage.\p"
+	.string "De skal også have forskellige typer af\n"
+	.string "genstande med sig.\p"
 	.string "ÆGG{STR_VAR_1} er ikke berettiget.\p"
 	.string "Kom tilbage, når du er klar.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles:
 	.string "Undskyld!\p"
 	.string "Du har ikke fire egnede POKéMON.\p"
-	.string "Du skal have fire forskellige POKéMON\n"
-	.string "af niveau 50 eller mindre for at komme ind.\p"
+	.string "Du skal have fire forskellige POKéMON af\n"
+	.string "niveau 50 eller mindre for at komme ind.\p"
 	.string "De skal også have forskellige typer\n"
 	.string "genstande med sig.\p"
 	.string "ÆGG{STR_VAR_1} er ikke berettiget.\p"
@@ -1129,18 +1124,18 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles:
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenDoubles:
 	.string "Undskyld!\p"
 	.string "Du har ikke fire kvalificerede POKéMON.\p"
-	.string "Du skal have fire forskellige POKéMON\n"
-	.string "for at kunne deltage.\p"
-	.string "De skal også holde forskellige typer\n"
-	.string "af genstande.\p"
+	.string "Du skal have fire forskellige POKéMON for\n"
+	.string "at kunne deltage.\p"
+	.string "De skal også holde forskellige typer af\n"
+	.string "genstande.\p"
 	.string "ÆG{STR_VAR_1} er ugyldige.\p"
 	.string "Kom tilbage, når du er klar.$"
 
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis:
 	.string "Undskyld!\p"
 	.string "Du har ikke to kvalificerede POKéMON.\p"
-	.string "Du skal have to forskellige POKéMON\n"
-	.string "af niveau 50 eller derunder for at komme ind.\p"
+	.string "Du skal have to forskellige POKéMON af\n"
+	.string "niveau 50 eller derunder for at komme ind.\p"
 	.string "De skal også holde forskellige slags\n"
 	.string "genstande.\p"
 	.string "ÆGG{STR_VAR_1} ugyldige.\p"
@@ -1149,115 +1144,107 @@ BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis:
 BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis:
 	.string "Undskyld!\p"
 	.string "Du har ikke to kvalificerede POKéMON.\p"
-	.string "Du skal have to forskellige POKéMON\n"
-	.string "for at deltage.\p"
-	.string "De skal også have forskellige\n"
-	.string "typer af genstande.\p"
+	.string "Du skal have to forskellige POKéMON for at\n"
+	.string "deltage.\p"
+	.string "De skal også have forskellige typer af\n"
+	.string "genstande.\p"
 	.string "ÆGG{STR_VAR_1} er ikke kvalificeret.\p"
 	.string "Kom tilbage, når du er klar.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle:
-	.string "Hvor TRÆNERES talenter\n"
-	.string "bliver sat på prøve!\p"
+	.string "Hvor TRÆNERES talenter bliver sat på\n"
+	.string "prøve!\p"
 	.string "Velkommen til KAMP-TÅRNET!\p"
-	.string "Jeg er din guide til DE\n"
-	.string "ENKELTE KAMPLOKALER.$"
+	.string "Jeg er din guide til DE ENKELTE\n"
+	.string "KAMPLOKALER.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge:
-	.string "Vil du gerne deltage i DEN ENE\n"
-	.string "BATTLE ROOM udfordring?\p$"
+	.string "Vil du gerne deltage i DEN ENE BATTLE ROOM\n"
+	.string "udfordring?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge:
-	.string "BATTLE TOWER's SINGLE BATTLE\n"
-	.string "RUM er faciliteter til at afholde\n"
-	.string "ENEKAMPE med tre POKéMON.\p"
-	.string "Der er mange ENEKAMP RUM\n"
-	.string "i BATTLE TOWER til holdkampe.\p"
-	.string "I hvert ENEKAMP RUM\n"
-	.string "venter syv TRÆNERE på din udfordring.\p"
-	.string "Hvis du formår at besejre dem alle,\n"
-	.string "vil du tjene Kamp Points.\p"
-	.string "Hvis du vil afbryde din\n"
-	.string "udfordring, så gem spillet.\p"
-	.string "Hvis du ikke gemmer inden afbrydelse,\n"
-	.string "vil du blive diskvalificeret.$"
+	.string "BATTLE TOWER's SINGLE BATTLE RUM er\n"
+	.string "faciliteter til at afholde ENEKAMPE med tre\l"
+	.string "POKéMON.\p"
+	.string "Der er mange ENEKAMP RUM i BATTLE TOWER til\n"
+	.string "holdkampe.\p"
+	.string "I hvert ENEKAMP RUM venter syv TRÆNERE på\n"
+	.string "din udfordring.\p"
+	.string "Hvis du formår at besejre dem alle, vil du\n"
+	.string "tjene Kamp Points.\p"
+	.string "Hvis du vil afbryde din udfordring, så gem\n"
+	.string "spillet.\p"
+	.string "Hvis du ikke gemmer inden afbrydelse, vil du\n"
+	.string "blive diskvalificeret.$"
 
 BattleFrontier_BattleTowerLobby_Text_SelectThreeMons:
-	.string "Vælg nu de tre POKéMON\n"
-	.string "som skal deltage.$"
+	.string "Vælg nu de tre POKéMON som skal deltage.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle:
-	.string "Hvor TRÆNERES talenter\n"
-	.string "bliver sat på prøve!\p"
+	.string "Hvor TRÆNERES talenter bliver sat på\n"
+	.string "prøve!\p"
 	.string "Velkommen til KAMP-TÅRNET!\p"
-	.string "Jeg er din guide til DE DOBBELTE\n"
-	.string "KAMRE.$"
+	.string "Jeg er din guide til DE DOBBELTE KAMRE.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge:
-	.string "Vil du tage udfordringen fra RUMMET\n"
-	.string "DOUBLE BATTLE op?$"
+	.string "Vil du tage udfordringen fra RUMMET DOUBLE\n"
+	.string "BATTLE op?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge:
-	.string "BATTLE TOWER's DOUBLE BATTLE\n"
-	.string "RUM er faciliteter til at udføre\n"
-	.string "DOUBLE BATTLES med fire POKéMON.\p"
-	.string "Der er mange DOUBLE BATTLE RUM\n"
-	.string "i BATTLE TOWER til holdkampe.\p"
-	.string "I hvert DOUBLE BATTLE RUM\n"
-	.string "venter syv TRÆNERE på din udfordring.\p"
-	.string "Hvis du formår at besejre dem alle,\n"
-	.string "vil du tjene Battle Points.\p"
-	.string "Hvis du vil afbryde din\n"
-	.string "udfordring, skal du gemme spillet.\p"
-	.string "Hvis du ikke gemmer før afbrydelse,\n"
-	.string "vil du blive diskvalificeret.$"
+	.string "BATTLE TOWER's DOUBLE BATTLE RUM er\n"
+	.string "faciliteter til at udføre DOUBLE BATTLES\l"
+	.string "med fire POKéMON.\p"
+	.string "Der er mange DOUBLE BATTLE RUM i BATTLE\n"
+	.string "TOWER til holdkampe.\p"
+	.string "I hvert DOUBLE BATTLE RUM venter syv\n"
+	.string "TRÆNERE på din udfordring.\p"
+	.string "Hvis du formår at besejre dem alle, vil du\n"
+	.string "tjene Battle Points.\p"
+	.string "Hvis du vil afbryde din udfordring, skal du\n"
+	.string "gemme spillet.\p"
+	.string "Hvis du ikke gemmer før afbrydelse, vil du\n"
+	.string "blive diskvalificeret.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectFourMons:
-	.string "Vælg nu de fire POKéMON\n"
-	.string "som skal deltage.$"
+	.string "Vælg nu de fire POKéMON som skal deltage.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle:
-	.string "Hvor TRÆNERES talenter\n"
-	.string "bliver sat på prøve!\p"
+	.string "Hvor TRÆNERES talenter bliver sat på\n"
+	.string "prøve!\p"
 	.string "Velkommen til KAMPENS TÅRN!\p"
-	.string "Jeg er din guide til DE\n"
-	.string "MULTIPLE KAMMER.$"
+	.string "Jeg er din guide til DE MULTIPLE KAMMER.$"
 
 BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge:
-	.string "Vil du tage udfordringen i MULTI-\n"
-	.string "BATTLE ROOM?$"
+	.string "Vil du tage udfordringen i MULTI- BATTLE\n"
+	.string "ROOM?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge:
-	.string "BATTLE TOWER's MULTI BATTLE\n"
-	.string "LOKALER er faciliteter til at udføre\l"
-	.string "MULTI-KAMPE.\p"
+	.string "BATTLE TOWER's MULTI BATTLE LOKALER er\n"
+	.string "faciliteter til at udføre MULTI-KAMPE.\p"
 	.string "For MULTI-KAMPE skal du danne et\n"
-	.string "partnerskab med en TRÆNER i TOWEREN\n"
-	.string "og gå ind med to POKéMON hver.\p"
-	.string "I TOWEREN er der et lokale ved navn\n"
-	.string "BATTLE SALON, hvor du kan møde\n"
-	.string "andre TRÆNERE.\p"
-	.string "Her skal du finde en TRÆNER, der\n"
-	.string "vil være din partner i MULTI-KAMPENE.\p"
-	.string "Når du har dannet partnerskab, vil du\n"
-	.string "blive vist til et MULTI-KAMP\n"
-	.string "LOKALE.\p"
+	.string "partnerskab med en TRÆNER i TOWEREN og gå\l"
+	.string "ind med to POKéMON hver.\p"
+	.string "I TOWEREN er der et lokale ved navn BATTLE\n"
+	.string "SALON, hvor du kan møde andre TRÆNERE.\p"
+	.string "Her skal du finde en TRÆNER, der vil være din\n"
+	.string "partner i MULTI-KAMPENE.\p"
+	.string "Når du har dannet partnerskab, vil du blive\n"
+	.string "vist til et MULTI-KAMP LOKALE.\p"
 	.string "I MULTI-KAMP LOKALEN venter syv\n"
 	.string "tagteams på din udfordring.\p"
-	.string "Hvis du formår at besejre alle syv\n"
-	.string "hold, vil du tjene Kamp Point.\p"
-	.string "Hvis du gerne vil afbryde din\n"
-	.string "udfordring, så gem spillet, tak.\p"
-	.string "Hvis du ikke gemmer før afbrydelse,\n"
-	.string "vil du blive diskvalificeret.$"
+	.string "Hvis du formår at besejre alle syv hold, vil\n"
+	.string "du tjene Kamp Point.\p"
+	.string "Hvis du gerne vil afbryde din udfordring, så\n"
+	.string "gem spillet, tak.\p"
+	.string "Hvis du ikke gemmer før afbrydelse, vil du\n"
+	.string "blive diskvalificeret.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons:
-	.string "Vælg nu de to POKéMON\n"
-	.string "der skal deltage.$"
+	.string "Vælg nu de to POKéMON der skal deltage.$"
 
 BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle:
-	.string "Hvor TRÆNERES talenter\n"
-	.string "bliver sat på prøve!\p"
+	.string "Hvor TRÆNERES talenter bliver sat på\n"
+	.string "prøve!\p"
 	.string "Velkommen til KAMPENS TÅRN!\p"
 	.string "Jeg er din guide til LINK MULTI\n"
 	.string "KAMP-RUMMENE.$"
@@ -1267,30 +1254,28 @@ BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge:
 	.string "KAMP-LOKALET?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge:
-	.string "KAMP TÅRNETS MULTI-KAMP\n"
-	.string "RUM er faciliteter til at udføre\l"
-	.string "MULTI-KAMPE med en ven.\p"
-	.string "Du skal forbinde med din ven ved\n"
-	.string "brug af trådløse adaptere eller en\n"
-	.string "Game Boy Advance Link-kabel.\p"
-	.string "Du skal danne makkerpar med din ven\n"
-	.string "og have to forskellige slags POKéMON.\p"
-	.string "Der er mange MULTI-KAMP RUM\n"
-	.string "i KAMP TÅRNET til holdkampe.\p"
-	.string "I et MULTI-KAMP RUM venter syv\n"
-	.string "tag-teams på dig og din ven for at\n"
-	.string "tage udfordringen op som et hold.\p"
-	.string "Hvis I formår at besejre alle syv\n"
-	.string "hold, vil I tjene Kamp Point.\p"
-	.string "Vær opmærksom på, at i modsætning til\n"
-	.string "andre RUM kan du ikke afbryde din\n"
-	.string "udfordring.\p"
+	.string "KAMP TÅRNETS MULTI-KAMP RUM er\n"
+	.string "faciliteter til at udføre MULTI-KAMPE med\l"
+	.string "en ven.\p"
+	.string "Du skal forbinde med din ven ved brug af\n"
+	.string "trådløse adaptere eller en Game Boy\l"
+	.string "Advance Link-kabel.\p"
+	.string "Du skal danne makkerpar med din ven og have\n"
+	.string "to forskellige slags POKéMON.\p"
+	.string "Der er mange MULTI-KAMP RUM i KAMP TÅRNET\n"
+	.string "til holdkampe.\p"
+	.string "I et MULTI-KAMP RUM venter syv tag-teams\n"
+	.string "på dig og din ven for at tage udfordringen op\l"
+	.string "som et hold.\p"
+	.string "Hvis I formår at besejre alle syv hold, vil I\n"
+	.string "tjene Kamp Point.\p"
+	.string "Vær opmærksom på, at i modsætning til andre\n"
+	.string "RUM kan du ikke afbryde din udfordring.\p"
 	.string "Når du starter, skal du kæmpe syv\n"
 	.string "MULTI-KAMPE i træk uden pause.$"
 
 BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2:
-	.string "Vælg nu de to POKéMON,\n"
-	.string "som skal indtastes.$"
+	.string "Vælg nu de to POKéMON, som skal indtastes.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend:
@@ -1301,20 +1286,19 @@ BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend:
 	.string "du ønsker at deltage i, og registrer dig igen.$"
 
 BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers:
-	.string "Udfordringen i LINK MULTI BATTLE ROOM\n"
-	.string "er kun for to linkede spillere.$"
+	.string "Udfordringen i LINK MULTI BATTLE ROOM er\n"
+	.string "kun for to linkede spillere.$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMon:
-	.string "Din ven har også valgt\n"
-	.string "POKéMON {STR_VAR_1}.$"
+	.string "Din ven har også valgt POKéMON\n"
+	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMons:
-	.string "Din ven har også valgt\n"
-	.string "POKéMON {STR_VAR_1} og {STR_VAR_2}.$"
+	.string "Din ven har også valgt POKéMON\n"
+	.string "{STR_VAR_1} og {STR_VAR_2}.$"
 
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlMode:
-	.string "Din ven har valgt et andet\n"
-	.string "kampniveau.$"
+	.string "Din ven har valgt et andet kampniveau.$"
 
 @ Unused
 BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMon:
@@ -1332,17 +1316,15 @@ BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons:
 
 BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode:
 	.string "Vælg venligst to POKéMON, der er\n"
-	.string "forskellige fra din vens, match\n"
-	.string "niveauet du ønsker at indtaste,\l"
-	.string "og registrer igen.$"
+	.string "forskellige fra din vens, match niveauet du\l"
+	.string "ønsker at indtaste, og registrer igen.$"
 
 BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn:
-	.string "Jeg vil gemme spillet før\n"
-	.string "jeg viser dig ind. Vent venligst.$"
+	.string "Jeg vil gemme spillet før jeg viser dig ind.\n"
+	.string "Vent venligst.$"
 
 BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden:
-	.string "Tillykke!\n"
-	.string "Du har besejret SALONJOMFRUEN\l"
+	.string "Tillykke! Du har besejret SALONJOMFRUEN\n"
 	.string "og besejret syv TRÆNERE!$"
 
 BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
@@ -1350,7 +1332,8 @@ BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints:
 	.string "tildeler vi dig disse Kamp Point(er).$"
 
 BattleFrontier_Text_ObtainedXBattlePoints:
-	.string "{PLAYER} har fået {STR_VAR_1} Kamp Point.$"
+	.string "{PLAYER} har fået {STR_VAR_1} Kamp\n"
+	.string "Point.$"
 
 BattleFrontier_BattleTowerLobby_Text_RulesAreListed:
 	.string "KAMP-TÅRNET regler er listet op.$"
@@ -1359,45 +1342,46 @@ BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading:
 	.string "Hvilken overskrift vil du læse?$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules:
-	.string "BATTLE TOWER er en facilitet, hvor\n"
-	.string "fire typer kampe udkæmpes--\l"
-	.string "ENKELTKAMP, DUO KAMP, MULTI\l"
-	.string "KAMP, og LINK MULTI KAMP.\p"
-	.string "For hver af disse typer er der\n"
-	.string "særskilte KAMPRUM.\p"
-	.string "Snak venligst med en guide, der\n"
-	.string "tilbyder den type kamp, du vil deltage i.$"
+	.string "BATTLE TOWER er en facilitet, hvor fire\n"
+	.string "typer kampe udkæmpes-- ENKELTKAMP, DUO\l"
+	.string "KAMP, MULTI KAMP, og LINK MULTI KAMP.\p"
+	.string "For hver af disse typer er der særskilte\n"
+	.string "KAMPRUM.\p"
+	.string "Snak venligst med en guide, der tilbyder den\n"
+	.string "type kamp, du vil deltage i.$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMonRules:
-	.string "Afhængigt af KAMPLOKALET, du går\n"
-	.string "ind i, vil det kræve, at du har\l"
-	.string "et vist antal POKéMON med.\p"
-	.string "I ENKELTKAMPS-tilstand kræves\n"
-	.string "tre POKéMON.\p"
-	.string "I DOPPELTKAMPS-tilstand kræves fire,\n"
-	.string "og i MULTIKAMPS-tilstande kræves to.$"
+	.string "Afhængigt af KAMPLOKALET, du går ind i, vil\n"
+	.string "det kræve, at du har et vist antal POKéMON\l"
+	.string "med.\p"
+	.string "I ENKELTKAMPS-tilstand kræves tre\n"
+	.string "POKéMON.\p"
+	.string "I DOPPELTKAMPS-tilstand kræves fire, og i\n"
+	.string "MULTIKAMPS-tilstande kræves to.$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules:
-	.string "Kampsalonen er stedet, hvor du skal\n"
-	.string "finde en partner for at danne et hold\l"
-	.string "til udfordringen i MULTIKAMPEN.\p"
-	.string "Vælg den bedste partner for dig ved\n"
-	.string "at undersøge andre TRÆNERES'\l"
-	.string "POKéMON og deres bevægelser.\p"
-	.string "Du kan vælge en ny holdmakker\n"
-	.string "efter at have vundet syv kampe i træk.$"
+	.string "Kampsalonen er stedet, hvor du skal finde\n"
+	.string "en partner for at danne et hold til\l"
+	.string "udfordringen i MULTIKAMPEN.\p"
+	.string "Vælg den bedste partner for dig ved at\n"
+	.string "undersøge andre TRÆNERES' POKéMON og\l"
+	.string "deres bevægelser.\p"
+	.string "Du kan vælge en ny holdmakker efter at have\n"
+	.string "vundet syv kampe i træk.$"
 
 BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules:
 	.string "LINK MULTI BATTLE-tilstand er for to\n"
-	.string "venner, der vil kaste sig ud i en\n"
-	.string "udfordring sammen.\p"
+	.string "venner, der vil kaste sig ud i en udfordring\l"
+	.string "sammen.\p"
 	.string "Du og din ven skal være forbundet med\n"
-	.string "trådløse adaptere eller en GBA\n"
-	.string "Game Link-kabel.\p"
+	.string "trådløse adaptere eller en GBA Game\l"
+	.string "Link-kabel.\p"
 	.string "Du skal vælge to POKéMON ved\n"
 	.string "registreringsdisken.\p"
-	.string "Disse POKéMON skal være anderledes\n"
-	.string "end dem din ven har.\p"
+	.string "Disse POKéMON skal være anderledes end dem\n"
+	.string "din ven har.\p"
 	.string "Du må ikke afbryde denne udfordring\n"
 	.string "midtvejs, som i andre tilstande.$"
+
+
 

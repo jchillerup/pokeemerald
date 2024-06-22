@@ -49,16 +49,15 @@ MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
 	.string "POKéMON-MARKEDET i SLATEPORT...$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Åh! Har du HARBOR MAIL?\n"
-	.string "Vil du bytte den for en COIN CASE?$"
+	.string "Åh! Har du HARBOR MAIL? Vil du bytte den for\n"
+	.string "en COIN CASE?$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
-	.string "Åh, jeg er så glad!\n"
-	.string "Okay, jeg vil bytte dig en MØNTHOLDER!$"
+	.string "Åh, jeg er så glad! Okay, jeg vil bytte dig en\n"
+	.string "MØNTHOLDER!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "Den MØNTPUNG kan bruges\n"
-	.string "på SPILLEKROGEN.$"
+	.string "Den MØNTPUNG kan bruges på SPILLEKROGEN.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
 	.string "Åh, det er skuffende.\p"

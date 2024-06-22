@@ -33,25 +33,25 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "Min storebror er Fossilentusiasten…\n"
-	.string "Han er en rar fyr, som elsker FOSSILER…\p"
-	.string "Han elsker også at grave huller…\n"
-	.string "Han gravede dette hul selv…\p"
-	.string "Du kan få dette, så du kan GRAVE\n"
-	.string "huller ligesom min storebror…$"
+	.string "Min storebror er Fossilentusiasten… Han\n"
+	.string "er en rar fyr, som elsker FOSSILER…\p"
+	.string "Han elsker også at grave huller… Han\n"
+	.string "gravede dette hul selv…\p"
+	.string "Du kan få dette, så du kan GRAVE huller\n"
+	.string "ligesom min storebror…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "Hvis du laver en POKéMON GRAVE inde i\n"
-	.string "en hule, så bliver du sendt tilbage til indgangen…$"
+	.string "Hvis du laver en POKéMON GRAVE inde i en hule,\n"
+	.string "så bliver du sendt tilbage til indgangen…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
 	.string "Sten i sælsomme former fylder\n"
 	.string "udstillingskabinettet…$"
 
 Route114_FossilManiacsHouse_Text_CrammedWithBooks:
-	.string "SAMMENSÆTNINGEN AF LAGENE…\n"
-	.string "HVORDAN REGN FORMER LANDET…\l"
-	.string "STEN, JORD OG KLIPPER…\p"
+	.string "SAMMENSÆTNINGEN AF LAGENE… HVORDAN\n"
+	.string "REGN FORMER LANDET… STEN, JORD OG\l"
+	.string "KLIPPER…\p"
 	.string "Den er proppet med bøger.$"
 
 

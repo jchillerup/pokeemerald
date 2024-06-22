@@ -28,15 +28,14 @@ MossdeepCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable:
-	.string "GYM LEDERNE i denne by er\n"
-	.string "en formidabel duo.\p"
-	.string "Deres kombinationsangreb er sådan\n"
-	.string "lige til stor WOW!$"
+	.string "GYM LEDERNE i denne by er en formidabel duo.\p"
+	.string "Deres kombinationsangreb er sådan lige til\n"
+	.string "stor WOW!$"
 
 MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves:
-	.string "Afhængigt af de specielle evner\n"
-	.string "hos POKéMON, kan nogle angreb\n"
-	.string "ændre sig eller slet ikke virke.$"
+	.string "Afhængigt af de specielle evner hos\n"
+	.string "POKéMON, kan nogle angreb ændre sig eller\l"
+	.string "slet ikke virke.$"
 
 
 

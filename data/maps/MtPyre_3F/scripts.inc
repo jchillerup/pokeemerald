@@ -35,69 +35,64 @@ MtPyre_3F_EventScript_RematchGabrielle::
 	end
 
 MtPyre_3F_Text_WilliamIntro:
-	.string "Den rige atmosfære på bjerget\n"
-	.string "har styrket min psykiske kraft!\p"
-	.string "Bare et barn som dig…\n"
-	.string "Du drømmer om at vinde?$"
+	.string "Den rige atmosfære på bjerget har styrket\n"
+	.string "min psykiske kraft!\p"
+	.string "Bare et barn som dig… Du drømmer om at vinde?$"
 
 MtPyre_3F_Text_WilliamDefeat:
 .string "Jeg drukner i selvmedlidenhed…$"
 
 MtPyre_3F_Text_WilliamPostBattle:
-	.string "Mine psykiske evner er helt sikkert\n"
-	.string "vokset flere gange, men…$"
+	.string "Mine psykiske evner er helt sikkert vokset\n"
+	.string "flere gange, men…$"
 
 MtPyre_3F_Text_KaylaIntro:
 	.string "Ahahahaha!\p"
-	.string "Dette er ikke et sted for børn,\n"
-	.string "især ikke dig!$"
+	.string "Dette er ikke et sted for børn, især ikke dig!$"
 
 MtPyre_3F_Text_KaylaDefeat:
 	.string "Jeg tabte helt rent…$"
 
 MtPyre_3F_Text_KaylaPostBattle:
-	.string "Det betyder, at min træning stadig\n"
-	.string "ikke er nok…\p"
-	.string "Jeg bliver nødt til at blive ved med\n"
-	.string "at arbejde mod toppen…\p"
+	.string "Det betyder, at min træning stadig ikke er\n"
+	.string "nok…\p"
+	.string "Jeg bliver nødt til at blive ved med at\n"
+	.string "arbejde mod toppen…\p"
 	.string "Kom så, mig!$"
 
 MtPyre_3F_Text_GabrielleIntro:
 	.string "Hvorfor er du kommet her?$"
 
 MtPyre_3F_Text_GabrielleDefeat:
-	.string "Det var fantastisk!\n"
-	.string "Du er en meget speciel TRÆNER.$"
+	.string "Det var fantastisk! Du er en meget speciel\n"
+	.string "TRÆNER.$"
 
 MtPyre_3F_Text_GabriellePostBattle:
 	.string "POKéMON ikke længere i denne verden.\n"
 	.string "POKéMON, som er hos dig nu.\p"
-	.string "Og de POKéMON, som du vil møde\n"
-	.string "i fremtiden...\p"
-	.string "De skal alle værdsættes lige meget.\n"
-	.string "Husk venligst det.$"
+	.string "Og de POKéMON, som du vil møde i fremtiden...\p"
+	.string "De skal alle værdsættes lige meget. Husk\n"
+	.string "venligst det.$"
 
 MtPyre_3F_Text_GabrielleRegister:
-	.string "Jeg vil gerne se dine POKéMON\n"
-	.string "når de bliver lidt ældre... \p"
+	.string "Jeg vil gerne se dine POKéMON når de bliver\n"
+	.string "lidt ældre... \p"
 	.string "Vær sød at vise mig din POKéNAV.$"
 
 MtPyre_3F_Text_GabrielleRematchIntro:
 	.string "Åh, det er dig…\p"
-	.string "Er du kommet for at vise mig din \n"
-	.string "voksne POKéMON?$"
+	.string "Er du kommet for at vise mig din  voksne\n"
+	.string "POKéMON?$"
 
 MtPyre_3F_Text_GabrielleRematchDefeat:
-	.string "Hvor fantastisk!\n"
-	.string "Du er en speciel person.$"
+	.string "Hvor fantastisk! Du er en speciel person.$"
 
 MtPyre_3F_Text_GabriellePostRematch:
 	.string "POKéMON ikke længere af denne verden.\n"
 	.string "POKéMON som er med dig nu.\p"
-	.string "Og de POKéMON, som du vil møde\n"
-	.string "i fremtiden…\p"
-	.string "De skal alle være lige værdsatte.\n"
-	.string "Jeg kan se, at du har husket det.$"
+	.string "Og de POKéMON, som du vil møde i fremtiden…\p"
+	.string "De skal alle være lige værdsatte. Jeg kan se,\n"
+	.string "at du har husket det.$"
 
 
 

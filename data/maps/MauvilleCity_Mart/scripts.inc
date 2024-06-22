@@ -40,18 +40,17 @@ MauvilleCity_Mart_EventScript_Man::
 	end
 
 MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats:
-	.string "Der er genstande, der midlertidigt\n"
-	.string "øger statistikkerne for POKéMON.\p"
-	.string "Dem jeg kender, som du bruger i kampen\n"
-	.string "er X ANGREB og X FORSVAR…\p"
-	.string "Jeg tror der er andre\n"
-	.string "ligesom dem.$"
+	.string "Der er genstande, der midlertidigt øger\n"
+	.string "statistikkerne for POKéMON.\p"
+	.string "Dem jeg kender, som du bruger i kampen er X\n"
+	.string "ANGREB og X FORSVAR…\p"
+	.string "Jeg tror der er andre ligesom dem.$"
 
 MauvilleCity_Mart_Text_DecisionsDetermineBattle:
 	.string "Brug en bestemt bevægelse, eller brug en\n"
 	.string "genstand i stedet…\p"
-	.string "TRÆNERENS beslutninger bestemmer, hvordan\n"
-	.string "kampe ender, tror jeg.$"
+	.string "TRÆNERENS beslutninger bestemmer,\n"
+	.string "hvordan kampe ender, tror jeg.$"
 
 
 

@@ -107,3 +107,5 @@ UnionRoom_EventScript_Unused::
 	releaseall
 	end
 
+
+

@@ -11,16 +11,15 @@ MtPyre_5F_EventScript_Atsushi::
 	end
 
 MtPyre_5F_Text_AtsushiIntro:
-	.string "Lærer…\n"
-	.string "Vær venlig at følge med i min fremgang!$"
+	.string "Lærer… Vær venlig at følge med i min\n"
+	.string "fremgang!$"
 
 MtPyre_5F_Text_AtsushiDefeat:
-	.string "Lærer…\n"
-	.string "Vil du tilgive mig?$"
+	.string "Lærer… Vil du tilgive mig?$"
 
 MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Indtil jeg bliver bedre, vil min lærer, som hviler\n"
-	.string "her, aldrig finde sand fred…$"
+	.string "Indtil jeg bliver bedre, vil min lærer, som\n"
+	.string "hviler her, aldrig finde sand fred…$"
 
 
 

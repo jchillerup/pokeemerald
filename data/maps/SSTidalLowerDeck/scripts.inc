@@ -14,21 +14,21 @@ SSTidalLowerDeck_EventScript_Leonard::
 	end
 
 SSTidalLowerDeck_Text_PhillipIntro:
-	.string "Åh nej! Jeg er godt træt og sur af\n"
-	.string "at skulle gøre rent her hele tiden!\p"
+	.string "Åh nej! Jeg er godt træt og sur af at skulle\n"
+	.string "gøre rent her hele tiden!\p"
 	.string "Skal vi ikke i stedet kæmpe en hurtig kamp?$"
 
 SSTidalLowerDeck_Text_PhillipDefeat:
-	.string "Lillebror, jeg tabte!$" 
+	.string "Lillebror, jeg tabte!$"
 
 SSTidalLowerDeck_Text_PhillipPostBattle:
 	.string "Vi er RENGØRINGSBRØDRENE!\p"
-	.string "Den ældre hælder sæben ud,\n"
-	.string "og den yngre gør rent!$"
+	.string "Den ældre hælder sæben ud, og den yngre gør\n"
+	.string "rent!$"
 
 SSTidalLowerDeck_Text_LeonardIntro:
-	.string "Dette er bunden af skibets skrog.\n"
-	.string "Der er masser af plads.\p"
+	.string "Dette er bunden af skibets skrog. Der er\n"
+	.string "masser af plads.\p"
 	.string "Det skal nok gå til en POKéMON kamp.$"
 
 SSTidalLowerDeck_Text_LeonardDefeat:
@@ -36,8 +36,8 @@ SSTidalLowerDeck_Text_LeonardDefeat:
 
 SSTidalLowerDeck_Text_LeonardPostBattle:
 	.string "Vi er RENGØRINGSBRØDRENE!\p"
-	.string "Den ældre hælder sæben ud,\n"
-	.string "og den yngre gør rent!$"
+	.string "Den ældre hælder sæben ud, og den yngre gør\n"
+	.string "rent!$"
 
 
 

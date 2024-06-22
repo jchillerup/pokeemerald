@@ -25,16 +25,14 @@ PacifidlogTown_House5_Text_CantSeeMirageIslandToday:
 .string "Jeg kan ikke se MIRAGE ISLAND i dag…$"
 
 PacifidlogTown_House5_Text_CanSeeMirageIslandToday:
-	.string "Åh! Åh min!\n"
-	.string "Jeg kan se MIRAGE ISLAND i dag!$"
+	.string "Åh! Åh min! Jeg kan se MIRAGE ISLAND i dag!$"
 
 PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather:
 	.string "MIRAGE ISLAND…\p"
 	.string "Det skal blive synligt og usynligt\n"
-	.string "afhængigt af vejrforholdene, der\n"
-	.string "fremkalder mirager\l"
-	.string "Er det virkelig synligt eller\n"
-	.string "usynligt?$"
+	.string "afhængigt af vejrforholdene, der\l"
+	.string "fremkalder mirager Er det virkelig synligt\l"
+	.string "eller usynligt?$"
 
 
 

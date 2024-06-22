@@ -69,16 +69,16 @@ LilycoveCity_DepartmentStore_2F_Pokemart2:
 	end
 
 LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly:
-	.string "Lær at bruge genstande ordentligt.\n"
-	.string "Det er grundlæggende, virkelig.$"
+	.string "Lær at bruge genstande ordentligt. Det er\n"
+	.string "grundlæggende, virkelig.$"
 
 LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband:
-	.string "Min mand venter derhjemme.\n"
-	.string "Hvad ville være en god gave til ham?$"
+	.string "Min mand venter derhjemme. Hvad ville være\n"
+	.string "en god gave til ham?$"
 
 LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems:
-	.string "Jeg tager snart på en lang rejse.\n"
-	.string "Jeg skal have fyldt lageret op med ting.$"
+	.string "Jeg tager snart på en lang rejse. Jeg skal\n"
+	.string "have fyldt lageret op med ting.$"
 
 
 

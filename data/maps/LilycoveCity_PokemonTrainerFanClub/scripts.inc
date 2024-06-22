@@ -570,145 +570,134 @@ LilycoveCity_PokemonTrainerFanClub_EventScript_AlreadyInterviewed2::
 	end
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWowItsPlayer:
-	.string "Åh, wow!\n"
-	.string "Det er {PLAYER}!$"
+	.string "Åh, wow! Det er {PLAYER}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan:
-	.string "Jeg har hørt nyhederne!\n"
-	.string "Du er virkelig stærk, er du ikke?\p"
-	.string "Vi diskuterer altid, hvem der er\n"
-	.string "den stærkeste blandt alle TRÆNERE her.\p"
-	.string "Så da jeg hørte om dig, besluttede jeg\n"
-	.string "at være din fan!\p"
-	.string "Jeg håber, at du bliver ved med at kæmpe\n"
-	.string "mod andre seje TRÆNERE.\p"
-	.string "På den måde vil vi kunne se flere\n"
-	.string "af dine intense kampe.\p"
-	.string "Det vil få de andre her til at se\n"
-	.string "præcis, hvor fantastisk du er.\p"
-	.string "Husk, jeg hepper på dig,\n"
-	.string "{PLAYER}!$"
+	.string "Jeg har hørt nyhederne! Du er virkelig\n"
+	.string "stærk, er du ikke?\p"
+	.string "Vi diskuterer altid, hvem der er den\n"
+	.string "stærkeste blandt alle TRÆNERE her.\p"
+	.string "Så da jeg hørte om dig, besluttede jeg at\n"
+	.string "være din fan!\p"
+	.string "Jeg håber, at du bliver ved med at kæmpe mod\n"
+	.string "andre seje TRÆNERE.\p"
+	.string "På den måde vil vi kunne se flere af dine\n"
+	.string "intense kampe.\p"
+	.string "Det vil få de andre her til at se præcis, hvor\n"
+	.string "fantastisk du er.\p"
+	.string "Husk, jeg hepper på dig, {PLAYER}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureOneWeWantToWin:
-	.string "Hej, {PLAYER}!\n"
-	.string "Du er den, vi vil have til at vinde!$" 
+	.string "Hej, {PLAYER}! Du er den, vi vil have til at\n"
+	.string "vinde!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OthersDontKnowYoureTheBest:
-	.string "De andre, de ved ikke at\n"
-	.string "du er den bedste af de bedste!\p"
-	.string "Er det ikke rigtigt, {PLAYER}?\n"
-	.string "Vis dem, at du har modet!$"
+	.string "De andre, de ved ikke at du er den bedste af\n"
+	.string "de bedste!\p"
+	.string "Er det ikke rigtigt, {PLAYER}? Vis dem, at\n"
+	.string "du har modet!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary:
-	.string "Jeg hader at sige det, men TRÆNEREN\n"
-	.string "alle taler om er\l"
-	.string "{STR_VAR_1}, ingen tvivl om det!\p"
-	.string "Den TRÆNERs styrke…\n"
-	.string "Den er helt ekstraordinær.$"
+	.string "Jeg hader at sige det, men TRÆNEREN alle\n"
+	.string "taler om er {STR_VAR_1}, ingen tvivl om\l"
+	.string "det!\p"
+	.string "Den TRÆNERs styrke… Den er helt\n"
+	.string "ekstraordinær.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsBestNoOneWantsToListen:
-	.string "Øv... Jeg har fortalt folk\n"
-	.string "at {STR_VAR_1} er den bedste nu... \p"
+	.string "Øv... Jeg har fortalt folk at\n"
+	.string "{STR_VAR_1} er den bedste nu... \p"
 	.string "Men ingen vil høre...$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer:
-	.string "Jeg har hørt ting om en sej ny\n"
-	.string "TRÆNER.\p"
+	.string "Jeg har hørt ting om en sej ny TRÆNER.\p"
 	.string "Denne TRÆNER skulle angiveligt slå\n"
 	.string "GVM-LEDERE, endda.\p"
-	.string "Ved du noget om denne nye\n"
-	.string "TRÆNER?$"
+	.string "Ved du noget om denne nye TRÆNER?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ImPullingForYou:
-	.string "Åh!\n"
-	.string "{PLAYER}!\p"
-	.string "Kom så!\n"
-	.string "Jeg hepper på dig!$"
+	.string "Åh! {PLAYER}!\p"
+	.string "Kom så! Jeg hepper på dig!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan:
-	.string "Suk…\n"
-	.string "BRAWLY…\p"
-	.string "Åh nej! Vent!\n"
-	.string "Det er ikke rigtigt! Nej, nej, nej!\p"
+	.string "Suk… BRAWLY…\p"
+	.string "Åh nej! Vent! Det er ikke rigtigt! Nej, nej,\n"
+	.string "nej!\p"
 	.string "Jeg er din fan helt og holdent!\p"
-	.string "Så gør mig stolt!\n"
-	.string "Kom så!$"
+	.string "Så gør mig stolt! Kom så!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly:
-	.string "Jeg kan ikke gøre for det, jeg kan kun\n"
-	.string "lide BRAWLY…$"
+	.string "Jeg kan ikke gøre for det, jeg kan kun lide\n"
+	.string "BRAWLY…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly:
-    .string "Ingen forstår charmen ved\n"
-	.string "BRAWLY…\p"
+	.string "Ingen forstår charmen ved BRAWLY…\p"
 	.string "Det er ligemeget!\p"
-	.string "Selv hvis jeg er den eneste, vil jeg\n"
-	.string "blive ved med at heppe på BRAWLY!$"
+	.string "Selv hvis jeg er den eneste, vil jeg blive ved\n"
+	.string "med at heppe på BRAWLY!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly:
 	.string "Uanset hvad nogen siger, min yndlings-\n"
-	.string "TRÆNER er DEWFORDs GYMLEDERS\l"
-	.string "BRAWLY!$"
+	.string "TRÆNER er DEWFORDs GYMLEDERS BRAWLY!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather:
-	.string "Du har overgået din egen far på\n"
-	.string "alle områder!\p"
-	.string "Jeg siger det til dig, så der er\n"
-	.string "slet ingen tvivl om det!$"
+	.string "Du har overgået din egen far på alle\n"
+	.string "områder!\p"
+	.string "Jeg siger det til dig, så der er slet ingen\n"
+	.string "tvivl om det!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling:
-	.string "Selv når tingene så sortest ud,\n"
-	.string "gav din far aldrig op.\p"
+	.string "Selv når tingene så sortest ud, gav din far\n"
+	.string "aldrig op.\p"
 	.string "Det ved jeg er sandt.\p"
-	.string "Du giver aldrig op, selvom du taber!\n"
-	.string "Så bliv ved med at kæmpe!$"
+	.string "Du giver aldrig op, selvom du taber! Så bliv\n"
+	.string "ved med at kæmpe!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman:
-	.string "NORMAN kæmpede med mere styrke,\n"
-	.string "karisma og showmanship end dig.\p"
-	.string "Selvom folk måske siger, at du er\n"
-	.string "stærk…\p"
-	.string "Du har stadig lang vej at gå i\n"
-	.string "forhold til din far.$"
+	.string "NORMAN kæmpede med mere styrke, karisma og\n"
+	.string "showmanship end dig.\p"
+	.string "Selvom folk måske siger, at du er stærk…\p"
+	.string "Du har stadig lang vej at gå i forhold til din\n"
+	.string "far.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent:
-	.string "Du begynder at udstråle den samme\n"
-	.string "følelse af ærefrygt som NORMAN.\p"
-	.string "Men der er noget helt afgørende\n"
-	.string "anderledes mellem dig og NORMAN.\p"
-	.string "Det kan jeg ikke fortælle dig hvad er.\n"
-	.string "Det må du selv finde ud af.$"
+	.string "Du begynder at udstråle den samme følelse\n"
+	.string "af ærefrygt som NORMAN.\p"
+	.string "Men der er noget helt afgørende anderledes\n"
+	.string "mellem dig og NORMAN.\p"
+	.string "Det kan jeg ikke fortælle dig hvad er. Det må\n"
+	.string "du selv finde ud af.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers:
-	.string "Alle her, vi er kæmpe fans\n"
-	.string "af POKéMON kampe.\p"
-	.string "Vi diskuterer hvem vi betragter som\n"
-	.string "den stærkeste af alle TRÆNERE.\p"
-	.string "Hvis du blev berømt,\n"
-	.string "kunne vi endda blive dine fans!$"
+	.string "Alle her, vi er kæmpe fans af POKéMON kampe.\p"
+	.string "Vi diskuterer hvem vi betragter som den\n"
+	.string "stærkeste af alle TRÆNERE.\p"
+	.string "Hvis du blev berømt, kunne vi endda blive\n"
+	.string "dine fans!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OhWoweeItsPlayer:
-	.string "Åh, woweee! Det er {PLAYER}!\n"
-	.string "For real, også!\p"
-	.string "Vil du ikke hilse på mig, vil du ikke hilse på mig!$"
+	.string "Åh, woweee! Det er {PLAYER}! For real,\n"
+	.string "også!\p"
+	.string "Vil du ikke hilse på mig, vil du ikke hilse på\n"
+	.string "mig!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou:
-	.string "Jeg vil altid heppe på dig, {PLAYER}!\n"
-	.string "Altid, altid!\p"
-	.string "Jeg vil aldrig ønske at se dig tabe nogensinde,\n"
-	.string "{PLAYER}.\p"
-	.string "Fordi jeg ved, at du er virkelig,\n"
-	.string "virkelig stærk, {PLAYER}!$"
+	.string "Jeg vil altid heppe på dig, {PLAYER}! Altid,\n"
+	.string "altid!\p"
+	.string "Jeg vil aldrig ønske at se dig tabe\n"
+	.string "nogensinde, {PLAYER}.\p"
+	.string "Fordi jeg ved, at du er virkelig, virkelig\n"
+	.string "stærk, {PLAYER}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_EveryoneThinksTrainerIsCool:
 	.string "{STR_VAR_1} er virkelig sej…\p"
-	.string "Alle synes det, ikke sandt, ikke sandt?$" 
+	.string "Alle synes det, ikke sandt, ikke sandt?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsReallyCoolItsJustMe:
-	.string "{STR_VAR_1} er virkelig sej, synes\n"
-	.string "du ikke også?\p"
-	.string "Selvom det kun er mig, vil jeg blive\n"
-	.string "ved med at heppe på min favorit TRÆNER.$"
+	.string "{STR_VAR_1} er virkelig sej, synes du\n"
+	.string "ikke også?\p"
+	.string "Selvom det kun er mig, vil jeg blive ved med at\n"
+	.string "heppe på min favorit TRÆNER.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
 	.string "Min yndlings TRÆNER er…\p"
@@ -718,80 +707,77 @@ LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat:
 	.string "Jeg ville ønske, der var en TRÆNER som ham…$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_WantToBeStrongLikeYou:
-	.string "Whoa! Det er {PLAYER}!\n"
-	.string "Sejt!\p"
+	.string "Whoa! Det er {PLAYER}! Sejt!\p"
 	.string "Når jeg bliver stor, vil jeg være stærk\n"
 	.string "ligesom dig, {PLAYER}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OnlyOneWhoCheersForYou:
 	.string "Selvom jeg er den eneste...\p"
-	.string "Vil du altid være den eneste\n"
-	.string "Jeg hepper på, {PLAYER}!\p"
+	.string "Vil du altid være den eneste Jeg hepper på,\n"
+	.string "{PLAYER}!\p"
 	.string "Fordi jeg tror på dig, {PLAYER}!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsWickedlyCool:
-	.string "{STR_VAR_1} er så vanvittigt sej…\n"
-	.string "Jeg vil gerne give hånd med min helt.$"
+	.string "{STR_VAR_1} er så vanvittigt sej… Jeg\n"
+	.string "vil gerne give hånd med min helt.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NeverGoingToStopBeingTrainersFan:
 	.string "Selvom jeg er den eneste…\p"
 	.string "Jeg stopper aldrig med at være\n"
 	.string "{STR_VAR_1}s fan!\p"
-	.string "Fordi jeg har hørt, {STR_VAR_1}\n"
-	.string "aldrig taber!$"
+	.string "Fordi jeg har hørt, {STR_VAR_1} aldrig\n"
+	.string "taber!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureAmazingAfterAll:
-	.string "{PLAYER}!\n"
-	.string "Du er fantastisk trods alt!\p"
-	.string "Lige siden jeg så dig første gang,\n"
-	.string "vidste jeg, at du var fantastisk.\p"
+	.string "{PLAYER}! Du er fantastisk trods alt!\p"
+	.string "Lige siden jeg så dig første gang, vidste\n"
+	.string "jeg, at du var fantastisk.\p"
 	.string "Det ser ud til, at mine øjne ikke bedrog mig.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ImInYourCorner:
-	.string "Hvem bekymrer sig om de andre.\n"
-	.string "Jeg er på din side!\p"
-	.string "Du behøver ikke bekymre dig. Bare\n"
-	.string "kom ud og kæmp som altid.$"
+	.string "Hvem bekymrer sig om de andre. Jeg er på din\n"
+	.string "side!\p"
+	.string "Du behøver ikke bekymre dig. Bare kom ud og\n"
+	.string "kæmp som altid.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne:
-	.string "Du er en ret god TRÆNER,\n"
-	.string "synes jeg. \p"
-	.string "Men jeg tror også, at {STR_VAR_1}\n"
-	.string "er nummer et lige nu.\p"
-	.string "Det er bare min mening.\n"
-	.string "Du behøver ikke tænke mere på det.$"
+	.string "Du er en ret god TRÆNER, synes jeg. \p"
+	.string "Men jeg tror også, at {STR_VAR_1} er\n"
+	.string "nummer et lige nu.\p"
+	.string "Det er bare min mening. Du behøver ikke\n"
+	.string "tænke mere på det.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer:
-	.string "Wow, du er virkelig stærk.\n"
-	.string "Måske endda stærkere end {STR_VAR_1}.\p"
+	.string "Wow, du er virkelig stærk. Måske endda\n"
+	.string "stærkere end {STR_VAR_1}.\p"
 	.string "Men {STR_VAR_1} har brug for mig.\p"
 	.string "Hvis jeg ikke hepper på {STR_VAR_1},\n"
 	.string "hvem vil så?$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouChangedMyMind:
-	.string "Du har ændret min mening!\n"
-	.string "Du er stærk, ikke sandt?\p"
+	.string "Du har ændret min mening! Du er stærk, ikke\n"
+	.string "sandt?\p"
 	.string "Jeg vil gerne have dig til at fortælle mig\n"
 	.string "hvordan du blev så stærk!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation:
-	.string "Jo hårdere situationen er, jo\n"
-	.string "mere tiltrækkende kæmper du.\p"
+	.string "Jo hårdere situationen er, jo mere\n"
+	.string "tiltrækkende kæmper du.\p"
 	.string "Jeg kan ikke vente på dit næste slag!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout:
 	.string "Blandt de nyeste hotte TRÆNERE,\n"
 	.string "{STR_VAR_1} stikker ud.\p"
-	.string "Den sejhed, det er simpelthen ikke\n"
-	.string "normalt.\p"
-	.string "Du klarer dig okay, men du er ikke\n"
-	.string "på samme niveau som {STR_VAR_1}.$"
+	.string "Den sejhed, det er simpelthen ikke normalt.\p"
+	.string "Du klarer dig okay, men du er ikke på samme\n"
+	.string "niveau som {STR_VAR_1}.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_NoOneCanKnockYouButTrainerStronger:
 	.string "Du er virkelig populær…\p"
 	.string "Du er stærk, og du er omsorgsfuld over\n"
 	.string "POKéMON. Ingen kan slå dig.\p"
-	.string "Men ved du hvad, jeg tror på {STR_VAR_1}.\p"
+	.string "Men ved du hvad, jeg tror på\n"
+	.string "{STR_VAR_1}.\p"
 	.string "{STR_VAR_1} er helt sikkert stærkere!\n"
 	.string "Jeg er sikker!$"
 
@@ -800,26 +786,24 @@ LilycoveCity_PokemonTrainerFanClub_Text_YouImpressive:
 	.string "Imponerende!$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecognizeYourTrueWorth:
-	.string "Din sande værdi, det er fint hvis kun\n"
-	.string "jeg anerkendte det.\p"
-	.string "De andre tvivler jeg vil forstå\n"
-	.string "den skjulte kraft, der banker indeni.$"
+	.string "Din sande værdi, det er fint hvis kun jeg\n"
+	.string "anerkendte det.\p"
+	.string "De andre tvivler jeg vil forstå den skjulte\n"
+	.string "kraft, der banker indeni.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential:
 	.string "Ja, jeg ser styrke i dine øjne.\p"
 	.string "Men!\p"
-	.string "Du har stadig ikke opdaget dit\n"
-	.string "potentiale.$"
+	.string "Du har stadig ikke opdaget dit potentiale.$"
 
 LilycoveCity_PokemonTrainerFanClub_Text_YourePowerfulButNotTrueStrength:
-	.string "Det er sandt, at du er utroligt\n"
-	.string "kraftfuld.\p"
-	.string "Men!\n"
-	.string "Jeg kan mærke…\p"
-	.string "At styrken ikke kan betragtes som\n"
-	.string "ægte styrke endnu!\p"
-	.string "Ægte styrke er…!\n"
-	.string "… …\p"
-	.string "Faktisk har jeg heller ingen idé\n"
-	.string "om, hvad det er.$"
+	.string "Det er sandt, at du er utroligt kraftfuld.\p"
+	.string "Men! Jeg kan mærke…\p"
+	.string "At styrken ikke kan betragtes som ægte\n"
+	.string "styrke endnu!\p"
+	.string "Ægte styrke er…! … …\p"
+	.string "Faktisk har jeg heller ingen idé om, hvad det\n"
+	.string "er.$"
+
+
 

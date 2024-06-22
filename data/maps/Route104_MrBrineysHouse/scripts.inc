@@ -100,65 +100,59 @@ Route104_MrBrineysHouse_EventScript_Peeko::
 	end
 
 Route104_MrBrineysHouse_Text_WaitUpPeeko:
-	.string "Hold nu, lille ven!\n"
-	.string "Vent, PEEKO!$"
+	.string "Hold nu, lille ven! Vent, PEEKO!$"
 
 Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford:
-	.string "Hm? Du er {PLAYER}{KUN}!\n"
-	.string "Du reddede min kære PEEKO!\l"
-	.string "Vi skylder dig så meget!\p"
-	.string "Hvad så?\n"
-	.string "Vil du sejle med mig?\p"
+	.string "Hm? Du er {PLAYER}{KUN}! Du reddede min kære\n"
+	.string "PEEKO! Vi skylder dig så meget!\p"
+	.string "Hvad så? Vil du sejle med mig?\p"
 	.string "Hmhm…\p"
-	.string "Du har et BREV til DEWFORD\n"
-	.string "og en pakke til SLATEPORT, ikke?\p"
+	.string "Du har et BREV til DEWFORD og en pakke til\n"
+	.string "SLATEPORT, ikke?\p"
 	.string "Du må have et travlt liv!\p"
-	.string "Men helt sikkert, det du spørger om,\n"
-	.string "er slet ikke noget problem.\p"
-	.string "Du er kommet til den rette mand!\n"
-	.string "Vi vil sejle mod DEWFORD.$"
+	.string "Men helt sikkert, det du spørger om, er slet\n"
+	.string "ikke noget problem.\p"
+	.string "Du er kommet til den rette mand! Vi vil sejle\n"
+	.string "mod DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_SetSailForDewford:
 	.string "HR. BRINEY: Så er det DEWFORD!\p"
-	.string "Ankre op!\n"
-	.string "PEEKO, vi sejler afsted, skat!$"
+	.string "Ankre op! PEEKO, vi sejler afsted, skat!$"
 
 Route104_MrBrineysHouse_Text_DeclineDeliverySail:
-	.string "HR. BRINEY: Er det sådan?\n"
-	.string "Kan dine leverancer vente?\p"
-	.string "Du siger bare til, når du er klar\n"
-	.string "til at stikke til søs!$"
+	.string "HR. BRINEY: Er det sådan? Kan dine\n"
+	.string "leverancer vente?\p"
+	.string "Du siger bare til, når du er klar til at stikke\n"
+	.string "til søs!$"
 
 Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford:
-	.string "HR. BRINEY: Hej!\n"
-	.string "Jeg ved præcis, hvad du vil sige!\p"
-	.string "Du skal levere et BREV til DEWFORD\n"
-	.string "og en pakke til SLATEPORT.\p"
-	.string "Det du har brug for mig til er\n"
-	.string "slet ikke noget problem--jeg er manden\n"
-	.string "for jobbet!\p"
+	.string "HR. BRINEY: Hej! Jeg ved præcis, hvad du vil\n"
+	.string "sige!\p"
+	.string "Du skal levere et BREV til DEWFORD og en\n"
+	.string "pakke til SLATEPORT.\p"
+	.string "Det du har brug for mig til er slet ikke noget\n"
+	.string "problem--jeg er manden for jobbet!\p"
 	.string "Først sejler vi mod DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford:
-	.string "MR. BRINEY: Hej!\n"
-	.string "Jeg ved præcis, hvad du gerne vil sige!\p"
-	.string "Du skal aflevere en pakke til\n"
-	.string "KAPT. STERN i SLATEPORT.\p"
-	.string "Det du har brug for mig til, er ingen\n"
-	.string "problem overhovedet - Jeg er manden\n"
-	.string "til jobbet!\p"
+	.string "MR. BRINEY: Hej! Jeg ved præcis, hvad du\n"
+	.string "gerne vil sige!\p"
+	.string "Du skal aflevere en pakke til KAPT. STERN i\n"
+	.string "SLATEPORT.\p"
+	.string "Det du har brug for mig til, er ingen problem\n"
+	.string "overhovedet - Jeg er manden til jobbet!\p"
 	.string "Først sejler vi til DEWFORD.$"
 
 Route104_MrBrineysHouse_Text_WhereAreWeBound:
-	.string "HR. BRINEY: Hej!\n"
-	.string "Jeg sejler ud på havet for din skyld til enhver tid!\p"
+	.string "HR. BRINEY: Hej! Jeg sejler ud på havet for\n"
+	.string "din skyld til enhver tid!\p"
 	.string "Nu, min ven, hvor skal vi hen?$"
 
 Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail:
-	.string "HR. BRINEY: Er det sådan?\n"
-	.string "Ja, PEEKO skylder sit liv til dig.\p"
-	.string "Du fortæller mig bare, hvornår\n"
-	.string "du vil sejle ud!$"
+	.string "HR. BRINEY: Er det sådan? Ja, PEEKO skylder\n"
+	.string "sit liv til dig.\p"
+	.string "Du fortæller mig bare, hvornår du vil sejle\n"
+	.string "ud!$"
 
 Route104_MrBrineysHouse_Text_Peeko:
 .string "PEEKO: Pii piihyoro!$"

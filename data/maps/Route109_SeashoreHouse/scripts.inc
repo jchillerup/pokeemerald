@@ -99,83 +99,80 @@ Route109_SeashoreHouse_EventScript_TrainersNotCompleted::
 	end
 
 Route109_SeashoreHouse_Text_SeashoreHouseIntro:
-	.string "Jeg er ejeren af STRANDHUSET.\n"
-	.string "Men du kan kalde mig HR. HAV!\p"
+	.string "Jeg er ejeren af STRANDHUSET. Men du kan\n"
+	.string "kalde mig HR. HAV!\p"
 	.string "Hvad jeg elsker mest er at se varme\n"
 	.string "POKéMON-kampe.\p"
 	.string "Lad mig se, at dit hjerte brænder!\p"
-	.string "Hvis du kan besejre alle TRÆNERENE\n"
-	.string "her, vil jeg belønne dine anstrengelser.$"
+	.string "Hvis du kan besejre alle TRÆNERENE her, vil\n"
+	.string "jeg belønne dine anstrengelser.$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
 	.string "Vis mig nogle spændende kampe!\p"
-	.string "Jeg driver dette STRANDHUS kun for\n"
-	.string "den ene grund alene!$"
+	.string "Jeg driver dette STRANDHUS kun for den ene\n"
+	.string "grund alene!$"
 
 Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
-	.string "Du er brændende varm!\n"
-	.string "De kampe blussede!\l"
+	.string "Du er brændende varm! De kampe blussede!\n"
 	.string "Jeg er mere end bare tilfreds!\p"
-	.string "Som tak for at vise mig din varme\n"
-	.string "stribe, vil jeg have dig til at tage disse.\p"
+	.string "Som tak for at vise mig din varme stribe, vil\n"
+	.string "jeg have dig til at tage disse.\p"
 	.string "Det er et halvt dusin flasker SODAVAND!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Åh, men hey, din TASCHE er proppet fuld.\n"
-	.string "Jeg vil hænge på disse for dig.$"
+	.string "Åh, men hey, din TASCHE er proppet fuld. Jeg\n"
+	.string "vil hænge på disse for dig.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Vil du købe lidt SODAVAND?\n"
-	.string "POKéMON elsker det!\p"
-	.string "Kun ¥300 pr. flaske!\n"
-	.string "Køb noget!$"
+	.string "Vil du købe lidt SODAVAND? POKéMON elsker\n"
+	.string "det!\p"
+	.string "Kun ¥300 pr. flaske! Køb noget!$"
 
 Route109_SeashoreHouse_Text_HereYouGo:
-	.string "Her er det!$" 
+	.string "Her er det!$"
 
 Route109_SeashoreHouse_Text_NotEnoughMoney:
 .string "Du har ikke pengene.$"
 
 Route109_SeashoreHouse_Text_ThatsTooBad:
-	.string "Nå?\n"
-	.string "Det er ærgerligt.$"
+	.string "Nå? Det er ærgerligt.$"
 
 Route109_SeashoreHouse_Text_DwayneIntro:
-	.string "Hvis du leder efter en kamp på\n"
-	.string "ØSTERSØENS HUS, så finder du\n"
-	.string "ingen sejere TRÆNER end mig, makker!\p$"
+	.string "Hvis du leder efter en kamp på ØSTERSØENS\n"
+	.string "HUS, så finder du ingen sejere TRÆNER end\l"
+	.string "mig, makker!$"
 
 Route109_SeashoreHouse_Text_DwayneDefeated:
-	.string "Det var en varm kamp!\n"
-	.string "Jeg kan godt acceptere det tab, makker!$"
+	.string "Det var en varm kamp! Jeg kan godt\n"
+	.string "acceptere det tab, makker!$"
 
 Route109_SeashoreHouse_Text_DwaynePostBattle:
-	.string "Når jeg er i SLATEPORT, nyder jeg\n"
-	.string "varme kampe og iskolde SODAVAND!$"
+	.string "Når jeg er i SLATEPORT, nyder jeg varme\n"
+	.string "kampe og iskolde SODAVAND!$"
 
 Route109_SeashoreHouse_Text_JohannaIntro:
 	.string "Kedelige kampe er ikke besværet værd.\p"
-	.string "Brændende hede kampe er det, der gør stærkere\n"
-	.string "TRÆNERE og POKÉMON!\p$"
+	.string "Brændende hede kampe er det, der gør\n"
+	.string "stærkere TRÆNERE og POKÉMON!$"
 
 Route109_SeashoreHouse_Text_JohannaDefeated:
 	.string "Det er varmt!$"
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
-	.string "Puha, jeg er helt tørstig.\n"
-	.string "Måske jeg vil have en SODAVAND.$"
+	.string "Puha, jeg er helt tørstig. Måske jeg vil have\n"
+	.string "en SODAVAND.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
-	.string "Jeg vil vise dig, hvor fantastiske\n"
-	.string "mine POKéMON er, men græd ikke!$"
+	.string "Jeg vil vise dig, hvor fantastiske mine\n"
+	.string "POKéMON er, men græd ikke!$"
 
 Route109_SeashoreHouse_Text_SimonDefeated:
 	.string "Jeg tabte, men jeg vil ikke græde…$"
 
 Route109_SeashoreHouse_Text_SimonPostBattle:
 	.string "Hvis en af mine POKéMON kendte angrebet\n"
-	.string "for at bære mig over vandet på sin\l"
-	.string "ryg, kunne jeg komme af med denne badering.$"
+	.string "for at bære mig over vandet på sin ryg, kunne\l"
+	.string "jeg komme af med denne badering.$"
 
 
 

@@ -291,195 +291,165 @@ BattleFrontier_Lounge7_EventScript_Gentleman::
 
 BattleFrontier_Lounge7_Text_LeftTutorIntro:
 	.string "Buhahaha!\p"
-	.string "Du kunne ikke gætte det ved at kigge\n"
-	.string "på mig nu, men jeg var engang en sej\n"
-	.string "TRÆNER.\p"
+	.string "Du kunne ikke gætte det ved at kigge på mig\n"
+	.string "nu, men jeg var engang en sej TRÆNER.\p"
 	.string "Jeg havde ry for at være den sejeste\n"
 	.string "SKØNHED, jeg lover!\p"
 	.string "… … … … … …\p"
-	.string "Hvad er det nu?\n"
-	.string "Tror du mig ikke.\p"
-	.string "Jeg er ikke som den blærerøv af en\n"
-	.string "kvinde derovre. Jeg er faktisk\n"
-	.string "talentfuld!\p"
-	.string "Lad mig bevise det for dig.\n"
-	.string "Jeg kan lære dine POKéMON specielle\n"
-	.string "og alligevel søde angreb.\p"
-	.string "Men mine lektioner er ikke gratis.\n"
-	.string "Hvad med at betale for de angreb jeg\n"
-	.string "lærer dig med en smule Kamp Point?$"
+	.string "Hvad er det nu? Tror du mig ikke.\p"
+	.string "Jeg er ikke som den blærerøv af en kvinde\n"
+	.string "derovre. Jeg er faktisk talentfuld!\p"
+	.string "Lad mig bevise det for dig. Jeg kan lære dine\n"
+	.string "POKéMON specielle og alligevel søde\l"
+	.string "angreb.\p"
+	.string "Men mine lektioner er ikke gratis. Hvad med\n"
+	.string "at betale for de angreb jeg lærer dig med en\l"
+	.string "smule Kamp Point?$"
 
 BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack:
 	.string "Buhahaha!\p"
-	.string "Er du tilbage for at lære specielle\n"
-	.string "og søde POKéMON-moves?$"
+	.string "Er du tilbage for at lære specielle og søde\n"
+	.string "POKéMON-moves?$"
 
 BattleFrontier_Lounge7_Text_TeachWhichMove:
-	.string "Fint, fint, se her!\n"
-	.string "Hvilket træk skal jeg lære dig?$"
+	.string "Fint, fint, se her! Hvilket træk skal jeg lære\n"
+	.string "dig?$"
 
 BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints:
 	.string "Det træk {STR_VAR_1}, er det?\n"
 	.string "{STR_VAR_2} Kamp Point, i orden?$"
 
 BattleFrontier_Lounge7_Text_TeachMoveToWhichMon:
-	.string "Okay, okay, vælg nu POKéMON'en\n"
-	.string "Jeg burde lære trækket til.$"
+	.string "Okay, okay, vælg nu POKéMON'en Jeg burde\n"
+	.string "lære trækket til.$"
 
 BattleFrontier_Lounge7_Text_HaventGotEnoughPoints:
-	.string "Hvad i…\n"
-	.string "Du har ikke nok Kamp Point!$"
+	.string "Hvad i… Du har ikke nok Kamp Point!$"
 
 BattleFrontier_Lounge7_Text_IllTakeBattlePoints:
-	.string "Kan du se, hvor dygtig jeg er nu?\n"
-	.string "Jeg tager lige dine Kamp Point, tak!\p$"
+	.string "Kan du se, hvor dygtig jeg er nu? Jeg tager\n"
+	.string "lige dine Kamp Point, tak!$"
 
 BattleFrontier_Lounge7_Text_YouDontWantTo:
-	.string "Hvad er det?\n"
-	.string "Du vil ikke…\p"
-	.string "Hvis du vil se, hvor dygtig jeg er,\n"
-	.string "så kom og besøg mig når som helst!$"
+	.string "Hvad er det? Du vil ikke…\p"
+	.string "Hvis du vil se, hvor dygtig jeg er, så kom og\n"
+	.string "besøg mig når som helst!$"
 
 BattleFrontier_Lounge7_Text_RightTutorIntro:
 	.string "Ihihihi!\p"
-	.string "Jeg ved, det er svært at se lige nu, men jeg\n"
-	.string "var en fantastisk TRÆNER engang.\p"
-	.string "Jeg havde ry som den mest\n"
-	.string "uovervindelige SVØMMER, kan jeg fortælle dig!\p"
+	.string "Jeg ved, det er svært at se lige nu, men jeg var\n"
+	.string "en fantastisk TRÆNER engang.\p"
+	.string "Jeg havde ry som den mest uovervindelige\n"
+	.string "SVØMMER, kan jeg fortælle dig!\p"
 	.string "… … … … … …\p"
-	.string "Hvad er der galt?\n"
-	.string "Tror du ikke på mig.\p"
-	.string "Jeg er ikke som den tåbelige kvinde dernede.\n"
-	.string "Jeg har faktisk erfaring!\p"
-	.string "Jeg kan bevise det for dig.\n"
-	.string "Jeg kan lære dine POKéMON stærke og\l"
-	.string "smukke angreb.\p"
-	.string "Men mine lektioner er ikke gratis.\n"
-	.string "Hvad med at betale for de angreb, jeg lærer\l"
-	.string "dig, med en smule Kamp Point?$"
+	.string "Hvad er der galt? Tror du ikke på mig.\p"
+	.string "Jeg er ikke som den tåbelige kvinde\n"
+	.string "dernede. Jeg har faktisk erfaring!\p"
+	.string "Jeg kan bevise det for dig. Jeg kan lære dine\n"
+	.string "POKéMON stærke og smukke angreb.\p"
+	.string "Men mine lektioner er ikke gratis. Hvad med\n"
+	.string "at betale for de angreb, jeg lærer dig, med en\l"
+	.string "smule Kamp Point?$"
 
 BattleFrontier_Lounge7_Text_RightTutorWelcomeBack:
 	.string "Ihihihi!\p"
-	.string "Er du kommet for at lære hårde og\n"
-	.string "alligevel smukke POKéMON-tricks?$"
+	.string "Er du kommet for at lære hårde og alligevel\n"
+	.string "smukke POKéMON-tricks?$"
 
 BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong:
-	.string "De damer, måden de bagtaler\n"
-	.string "hinanden på, får dig måske til\n"
-	.string "at tro, at de ikke kan lide\n"
+	.string "De damer, måden de bagtaler hinanden på,\n"
+	.string "får dig måske til at tro, at de ikke kan lide\l"
 	.string "hinanden.\p"
-	.string "Men hvis det var sandt, ville de\n"
-	.string "vel ikke blive sammen herude, \n"
-	.string "ville de?$"
+	.string "Men hvis det var sandt, ville de vel ikke blive\n"
+	.string "sammen herude,  ville de?$"
 
 BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful:
-	.string "Da jeg var bare en lille KNÆGT,\n"
-	.string "var de damer stærke og smukke.\p"
+	.string "Da jeg var bare en lille KNÆGT, var de damer\n"
+	.string "stærke og smukke.\p"
 	.string "De var idoler blandt os TRÆNERE.\p"
-	.string "Selv nu har alderen ikke sløvet deres\n"
-	.string "evner.\p"
-	.string "Faktisk er deres POKéMON-angreb\n"
-	.string "blevet endnu mere raffinerede.\p"
-	.string "Men... af en eller anden grund kan jeg\n"
-	.string "ikke lade være med at føle dette...\p"
+	.string "Selv nu har alderen ikke sløvet deres evner.\p"
+	.string "Faktisk er deres POKéMON-angreb blevet\n"
+	.string "endnu mere raffinerede.\p"
+	.string "Men... af en eller anden grund kan jeg ikke\n"
+	.string "lade være med at føle dette...\p"
 	.string "Tiden er så nådesløs...$"
 
 BattleFrontier_Lounge7_Text_SoftboiledDesc::
-	.string "Gendanner op til\n"
-	.string "halvdelen af brugerens\n"
+	.string "Gendanner op til halvdelen af brugerens\n"
 	.string "maksimale HP.$"
 
 BattleFrontier_Lounge7_Text_SeismicTossDesc::
-	.string "Påfører skade\n"
-	.string "identisk med\n"
-	.string "brugerens niveau.$"
+	.string "Påfører skade identisk med brugerens\n"
+	.string "niveau.$"
 
 BattleFrontier_Lounge7_Text_DreamEaterDesc::
-	.string "Gendanner halvdelen\n"
-	.string "af skaden påført\n"
-	.string "en sovende fjende.$"
+	.string "Gendanner halvdelen af skaden påført en\n"
+	.string "sovende fjende.$"
 
 BattleFrontier_Lounge7_Text_MegaPunchDesc::
-	.string "Et stærkt slag\n"
-	.string "kastet med\n"
-	.string "utrolig kraft.$"
+	.string "Et stærkt slag kastet med utrolig kraft.$"
 
 BattleFrontier_Lounge7_Text_MegaKickDesc::
-	.string "En ekstremt\n"
-	.string "kraftfuld spark med\n"
-	.string "intens kraft.$"
+	.string "En ekstremt kraftfuld spark med intens\n"
+	.string "kraft.$"
 
 BattleFrontier_Lounge7_Text_BodySlamDesc::
-	.string "Et fuldt kropsslam\n"
-	.string "som kan forårsage\n"
+	.string "Et fuldt kropsslam som kan forårsage\n"
 	.string "lammelse.$"
 
 BattleFrontier_Lounge7_Text_RockSlideDesc::
-	.string "Store sten bliver kastet.\n"
-	.string "Kan få dig til at blive forskrækket.$"
+	.string "Store sten bliver kastet. Kan få dig til at\n"
+	.string "blive forskrækket.$"
 
 BattleFrontier_Lounge7_Text_CounterDesc::
-	.string "Gengælder enhver\n"
-	.string "fysisk angreb med\n"
+	.string "Gengælder enhver fysisk angreb med\n"
 	.string "dobbelt kraft.$"
 
 BattleFrontier_Lounge7_Text_ThunderWaveDesc::
-	.string "En svag stød af\n"
-	.string "elektricitet, der\n"
-	.string "lammer fjenden.$"
+	.string "En svag stød af elektricitet, der lammer\n"
+	.string "fjenden.$"
 
 BattleFrontier_Lounge7_Text_SwordsDanceDesc::
-	.string "En kampdans\n"
-	.string "der skarpt\n"
-	.string "øger ANGREBET.$"
+	.string "En kampdans der skarpt øger ANGREBET.$"
 
 BattleFrontier_Lounge7_Text_DefenseCurlDesc::
-	.string "Krøller sig sammen for at\n"
-	.string "skjule svage punkter\n"
-	.string "og hæve FORSVARET.$"
+	.string "Krøller sig sammen for at skjule svage\n"
+	.string "punkter og hæve FORSVARET.$"
 
 BattleFrontier_Lounge7_Text_SnoreDesc::
-	.string "Et højt angreb\n"
-	.string "som kun kan bruges\n"
-	.string "mens man sover.$"
+	.string "Et højt angreb som kun kan bruges mens man\n"
+	.string "sover.$"
 
 BattleFrontier_Lounge7_Text_MudSlapDesc::
-	.string "Kaster mudder i\n"
-	.string "fjendens ansigt for\n"
-	.string "at nedsætte dens præcision.$"
+	.string "Kaster mudder i fjendens ansigt for at\n"
+	.string "nedsætte dens præcision.$"
 
 BattleFrontier_Lounge7_Text_SwiftDesc::
-	.string "Sprøjter stjerne-\n"
-	.string "formede stråler\n"
-	.string "som aldrig rammer.$"
+	.string "Sprøjter stjerne- formede stråler som\n"
+	.string "aldrig rammer.$"
 
 BattleFrontier_Lounge7_Text_IcyWindDesc::
-	.string "Et isnende angreb\n"
-	.string "som sænker\n"
-	.string "fjendens HASTIGHED.$"
+	.string "Et isnende angreb som sænker fjendens\n"
+	.string "HASTIGHED.$"
 
 BattleFrontier_Lounge7_Text_EndureDesc::
-	.string "Holder til hvilken-\n"
-	.string "somhelst angreb i 1\n"
-	.string "tur, efterlader 1HP.$"
+	.string "Holder til hvilken- somhelst angreb i 1 tur,\n"
+	.string "efterlader 1HP.$"
 
 BattleFrontier_Lounge7_Text_PsychUpDesc::
-	.string "Kopierer modstanderens\n"
-	.string "effekt(er) og\n"
+	.string "Kopierer modstanderens effekt(er) og\n"
 	.string "giver til brugeren.$"
 
 BattleFrontier_Lounge7_Text_IcePunchDesc::
-	.string "En iskold slag\n"
-	.string "der kan\n"
-	.string "fryse fjenden.$"
+	.string "En iskold slag der kan fryse fjenden.$"
 
 BattleFrontier_Lounge7_Text_ThunderPunchDesc::
-	.string "En elektrificeret\n"
-	.string "punch, der kan\n"
-	.string "lamme modstanderen.$"
+	.string "En elektrificeret punch, der kan lamme\n"
+	.string "modstanderen.$"
 
 BattleFrontier_Lounge7_Text_FirePunchDesc::
-	.string "En flammende knytnæve\n"
-	.string "der måske kan brænde\n"
-	.string "fjenden.$"
+	.string "En flammende knytnæve der måske kan\n"
+	.string "brænde fjenden.$"
+
+
 

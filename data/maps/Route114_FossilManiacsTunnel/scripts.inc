@@ -58,40 +58,36 @@ Route114_FossilManiacsTunnel_EventScript_PlayerRevivedFossil::
 	end
 
 Route114_FossilManiacsTunnel_Text_LookInDesertForFossils:
-	.string "Jeg er Fossilmennesket…\n"
-	.string "Jeg er en rar fyr, der elsker FOSILER…\p"
+	.string "Jeg er Fossilmennesket… Jeg er en rar fyr,\n"
+	.string "der elsker FOSILER…\p"
 	.string "Vil du have en FOSIL?\p"
-	.string "Men FOSILERNE i disse egne tilhører\n"
-	.string "mig… Ingen til dig…\p"
-	.string "Hvis du ikke kan klare dig uden en\n"
-	.string "FOSIL, så kig i en ørken, hvor der er\l"
-	.string "store sten og sand, der kan skjule\l"
-	.string "FOSILER…$"
+	.string "Men FOSILERNE i disse egne tilhører mig…\n"
+	.string "Ingen til dig…\p"
+	.string "Hvis du ikke kan klare dig uden en FOSIL, så\n"
+	.string "kig i en ørken, hvor der er store sten og sand,\l"
+	.string "der kan skjule FOSILER…$"
 
 Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils:
-	.string "Du fandt en FOSSIL, gjorde du ikke?\n"
-	.string "Det er så dejligt... Det er så drømmende...\p"
-	.string "Hvad vil du gøre med den\n"
-	.string "FOSSIL?\p"
-	.string "Fra hvad jeg har hørt, forsker DEVON i\n"
-	.string "at genoplive POKéMON fra\l"
-	.string "FOSSILER... \p"
-	.string "Jeg elsker mine FOSSILER, så jeg ville\n"
-	.string "aldrig gøre noget sådant...$"
+	.string "Du fandt en FOSSIL, gjorde du ikke? Det er så\n"
+	.string "dejligt... Det er så drømmende...\p"
+	.string "Hvad vil du gøre med den FOSSIL?\p"
+	.string "Fra hvad jeg har hørt, forsker DEVON i at\n"
+	.string "genoplive POKéMON fra FOSSILER... \p"
+	.string "Jeg elsker mine FOSSILER, så jeg ville aldrig\n"
+	.string "gøre noget sådant...$"
 
 Route114_FossilManiacsTunnel_Text_FossilsAreWonderful:
-	.string "Fossiler er så... Vidunderlige...\n"
-	.string "Det er så drømmende...$"
+	.string "Fossiler er så... Vidunderlige... Det er så\n"
+	.string "drømmende...$"
 
 Route114_FossilManiacsTunnel_Text_NotSafeThatWay:
-	.string "Åh…\n"
-	.string "Det er ikke sikkert den vej…\p"
-	.string "Jeg gravede, ser du…\n"
-	.string "Da hele væggen kollapsede…\p"
-	.string "Jeg tror, der er en kæmpe hule\n"
-	.string "nedenunder nu…\p"
-	.string "Men jeg har ladet den være, fordi jeg\n"
-	.string "tror ikke, der er nogen FOSILER der…$"
+	.string "Åh… Det er ikke sikkert den vej…\p"
+	.string "Jeg gravede, ser du… Da hele væggen\n"
+	.string "kollapsede…\p"
+	.string "Jeg tror, der er en kæmpe hule nedenunder\n"
+	.string "nu…\p"
+	.string "Men jeg har ladet den være, fordi jeg tror\n"
+	.string "ikke, der er nogen FOSILER der…$"
 
 
 

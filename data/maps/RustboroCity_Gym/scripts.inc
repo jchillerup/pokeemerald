@@ -107,49 +107,45 @@ RustboroCity_Gym_EventScript_RegisterRoxanne::
 
 RustboroCity_Gym_Text_GymGuideAdvice:
 	.string "Hej, hvordan går det?\p"
-	.string "Lyt, min ven!\n"
-	.string "Vil du gerne blive MESTEREN?\p"
-	.string "Jeg er ikke EN TRÆNER, det er ikke mig,\n"
-	.string "men jeg kan helt sikkert give dig\n"
-	.string "vindende råd.\p"
+	.string "Lyt, min ven! Vil du gerne blive MESTEREN?\p"
+	.string "Jeg er ikke EN TRÆNER, det er ikke mig, men jeg\n"
+	.string "kan helt sikkert give dig vindende råd.\p"
 	.string "Så er det afgjort! Vi går efter\n"
 	.string "POKéMON-MESTERSKABET sammen!\p"
-	.string "Det er din opgave som EN TRÆNER at\n"
-	.string "samle GYMNASTIKMÆRKER, ikke sandt?\p"
+	.string "Det er din opgave som EN TRÆNER at samle\n"
+	.string "GYMNASTIKMÆRKER, ikke sandt?\p"
 	.string "Men GYMLEDERE er ikke nemme!\p"
-	.string "Og der kommer jeg ind i billedet!\n"
-	.string "Jeg er her for at give ekspert-råd!\p"
-	.string "ROXANNE, GYMLEDEREN, bruger\n"
-	.string "ROCK-type POKéMON.\p"
-	.string "ROCK-typen er meget holdbar, men\n"
-	.string "den kan ikke tåle VAND-type og\n"
-	.string "GRÆS-type angreb.\p"
-	.string "Kom og se mig efterfølgende,\n"
-	.string "hvis du slår GYMLEDEREN.\p"
+	.string "Og der kommer jeg ind i billedet! Jeg er her\n"
+	.string "for at give ekspert-råd!\p"
+	.string "ROXANNE, GYMLEDEREN, bruger ROCK-type\n"
+	.string "POKéMON.\p"
+	.string "ROCK-typen er meget holdbar, men den kan\n"
+	.string "ikke tåle VAND-type og GRÆS-type angreb.\p"
+	.string "Kom og se mig efterfølgende, hvis du slår\n"
+	.string "GYMLEDEREN.\p"
 	.string "Nå, gå efter det!$"
 
 RustboroCity_Gym_Text_GymGuidePostVictory:
-	.string "Whoa! Sikke en fantastisk sejr!\n"
-	.string "Mit heppende har nok virket!\p"
-	.string "Fantastisk!\n"
-	.string "Tjek din TRÆNERKORT.\p"
-	.string "STENMÆRKET, du fik, burde være\n"
-	.string "korrekt optaget på det.\p"
+	.string "Whoa! Sikke en fantastisk sejr! Mit\n"
+	.string "heppende har nok virket!\p"
+	.string "Fantastisk! Tjek din TRÆNERKORT.\p"
+	.string "STENMÆRKET, du fik, burde være korrekt\n"
+	.string "optaget på det.\p"
 	.string "Med andre ord…\p"
-	.string "Du har besteget det første trin på\n"
-	.string "vejen mod MESTERSKABET!\p"
+	.string "Du har besteget det første trin på vejen\n"
+	.string "mod MESTERSKABET!\p"
 	.string "Det må føles fantastisk!$"
 
 RustboroCity_Gym_Text_JoshIntro:
-	.string "Tag ikke os GYM TRAINERS let!\n"
-	.string "Jeg vil vise dig, hvorfor vi er bedre!$"
+	.string "Tag ikke os GYM TRAINERS let! Jeg vil vise\n"
+	.string "dig, hvorfor vi er bedre!$"
 
 RustboroCity_Gym_Text_JoshDefeat:
 .string "Du var for god til mig...$"
 
 RustboroCity_Gym_Text_JoshPostBattle:
-	.string "Du har ikke set noget af ROCK\n"
-	.string "typens skræmmende kraft!$"
+	.string "Du har ikke set noget af ROCK typens\n"
+	.string "skræmmende kraft!$"
 
 RustboroCity_Gym_Text_TommyIntro:
 	.string "Hvis du ikke kan slå mig, har du ingen\n"
@@ -159,50 +155,46 @@ RustboroCity_Gym_Text_TommyDefeat:
 	.string "Wow! Du har potentiale!$"
 
 RustboroCity_Gym_Text_TommyPostBattle:
-	.string "ROXANNE er stærkere end mig med\n"
-	.string "flere gange.\p"
+	.string "ROXANNE er stærkere end mig med flere\n"
+	.string "gange.\p"
 	.string "Du bør være på vagt!$"
 
 RustboroCity_Gym_Text_MarcIntro:
-	.string "Vi er måske midt i byen,\n"
-	.string "men så hvad?\p"
-	.string "Mine KLIPPE POKéMON skal bruge plads\n"
-	.string "til at hærge!$"
+	.string "Vi er måske midt i byen, men så hvad?\p"
+	.string "Mine KLIPPE POKéMON skal bruge plads til at\n"
+	.string "hærge!$"
 
 RustboroCity_Gym_Text_MarcDefeat:
-	.string "Åh ja, åh ja!\n"
-	.string "Vores udfordrer er en sej kunde!$"
+	.string "Åh ja, åh ja! Vores udfordrer er en sej kunde!$"
 
 RustboroCity_Gym_Text_MarcPostBattle:
-	.string "Jeg må nok give vores LEDER en stor\n"
-	.string "kredit. Det krævede intelligens og\n"
-	.string "sund fornuft at vælge STEN-typen i en\n"
-	.string "så ung alder.$"
+	.string "Jeg må nok give vores LEDER en stor kredit.\n"
+	.string "Det krævede intelligens og sund fornuft at\l"
+	.string "vælge STEN-typen i en så ung alder.$"
 
 RustboroCity_Gym_Text_RoxanneIntro:
 	.string "Hej, jeg er ROXANNE, lederen af\n"
 	.string "RUSTRUTE-POKéMON GYM.\p"
-	.string "Jeg blev GYM-leder for at kunne\n"
-	.string "anvende det, jeg lærte på POKéMON-\n"
-	.string "TRÆNERSKOLEN i kamp.\p"
+	.string "Jeg blev GYM-leder for at kunne anvende\n"
+	.string "det, jeg lærte på POKéMON- TRÆNERSKOLEN i\l"
+	.string "kamp.\p"
 	.string "Kan du venligst demonstrere, hvordan du\n"
 	.string "kæmper, og med hvilke POKéMON?$"
 
 RustboroCity_Gym_Text_RoxanneDefeat:
-	.string "Så...\n"
-	.string "Jeg tabte...\p"
-	.string "Det ser ud til, at jeg stadig har\n"
-	.string "meget mere at lære... \p"
+	.string "Så... Jeg tabte...\p"
+	.string "Det ser ud til, at jeg stadig har meget mere\n"
+	.string "at lære... \p"
 	.string "Jeg forstår.\p"
 	.string "POKéMON LIGAENS regler siger, at\n"
-	.string "TOGETHINGs skal gives dette\l"
-	.string "hvis de besejrer en GYM LEADER.\p"
+	.string "TOGETHINGs skal gives dette hvis de\l"
+	.string "besejrer en GYM LEADER.\p"
 	.string "Vær venlig at acceptere det officielle\n"
 	.string "POKéMON LIGA STENBAGE.$"
 
 RustboroCity_Gym_Text_ReceivedStoneBadge:
-	.string "{PLAYER} modtog STENBADGEN\n"
-	.string "fra ROXANNE.$"
+	.string "{PLAYER} modtog STENBADGEN fra\n"
+	.string "ROXANNE.$"
 
 RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "STENBADGEN forstærker ANGREBSKRAFTEN\n"
@@ -212,20 +204,20 @@ RustboroCity_Gym_Text_StoneBadgeInfoTakeThis:
 	.string "Tag også denne med dig.$"
 
 RustboroCity_Gym_Text_ExplainRockTomb:
-	.string "Den TEKNISKE MASKINE, TM39,\n"
-	.string "indeholder STENGRAV.\p"
-	.string "Den forårsager skade ved at kaste\n"
-	.string "sten, og den sænker også HASTIGHED.\p"
-	.string "Hvis du bruger en TM, lærer en\n"
-	.string "POKéMON øjeblikkeligt angrebet.\p"
-	.string "Husk, en TM kan kun bruges én gang,\n"
-	.string "så tænk dig om, før du bruger den.$"
+	.string "Den TEKNISKE MASKINE, TM39, indeholder\n"
+	.string "STENGRAV.\p"
+	.string "Den forårsager skade ved at kaste sten, og\n"
+	.string "den sænker også HASTIGHED.\p"
+	.string "Hvis du bruger en TM, lærer en POKéMON\n"
+	.string "øjeblikkeligt angrebet.\p"
+	.string "Husk, en TM kan kun bruges én gang, så tænk\n"
+	.string "dig om, før du bruger den.$"
 
 RustboroCity_Gym_Text_RoxannePostBattle:
-	.string "Fordi du er så stærk, bør du\n"
-	.string "udfordre andre GYM LEDERE.\p"
-	.string "Ved at kæmpe mod mange TRÆNERE, bør du\n"
-	.string "lære mange ting.$"
+	.string "Fordi du er så stærk, bør du udfordre andre\n"
+	.string "GYM LEDERE.\p"
+	.string "Ved at kæmpe mod mange TRÆNERE, bør du lære\n"
+	.string "mange ting.$"
 
 RustboroCity_Gym_Text_GymStatue:
 .string "RUSTBORO CITY POKéMON GYM$"
@@ -236,53 +228,50 @@ RustboroCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 RustboroCity_Gym_Text_RoxanneRegisterCall:
-	.string "… … … … … …\n"
-	.string "… … … … … Bip!\p"
-	.string "ROXANNE: Åh, hej, {PLAYER}?\n"
-	.string "Det er ROXANNE fra RUSTBORO BY.\p"
-	.string "Jeg hørte fra BRAWLY, at du bevæger\l"
-	.string "dig op gennem rækkerne af TRÆNERE\n"
-	.string "med en utrolig fart.\p"
-	.string "Nå, jeg vil hellere ikke tænke på,\n"
-	.string "at jeg ikke kan slå dig.\p"
-	.string "Jeg lover, at jeg vil få mit GYM på\n"
-	.string "højde, så du kan udfordre os igen.\p"
-	.string "Jeg håber, at du ser frem til den\n"
-	.string "lejlighed lige så meget som jeg!\p"
-	.string "… … … … … …\n"
-	.string "… … … … … Klik!$"
+	.string "… … … … … … … … … … … Bip!\p"
+	.string "ROXANNE: Åh, hej, {PLAYER}? Det er\n"
+	.string "ROXANNE fra RUSTBORO BY.\p"
+	.string "Jeg hørte fra BRAWLY, at du bevæger dig op\n"
+	.string "gennem rækkerne af TRÆNERE med en utrolig\l"
+	.string "fart.\p"
+	.string "Nå, jeg vil hellere ikke tænke på, at jeg ikke\n"
+	.string "kan slå dig.\p"
+	.string "Jeg lover, at jeg vil få mit GYM på højde, så du\n"
+	.string "kan udfordre os igen.\p"
+	.string "Jeg håber, at du ser frem til den lejlighed\n"
+	.string "lige så meget som jeg!\p"
+	.string "… … … … … … … … … … … Klik!$"
 
 RustboroCity_Gym_Text_RegisteredRoxanne:
-	.string "Registreret GYM LEDER ROXANNE\n"
-	.string "i POKéNAV.$"
+	.string "Registreret GYM LEDER ROXANNE i POKéNAV.$"
 
 RustboroCity_Gym_Text_RoxannePreRematch:
 	.string "ROXANNE: Jeg er så glad for at se dig igen.\n"
 	.string "Jeg er ROXANNE, GYM-LEDEREN her.\p"
-	.string "Jeg er sikker på, at vi begge har haft\n"
-	.string "mange kampe siden vi sidst mødtes.\p"
-	.string "Jeg vil gerne se, hvor meget bedre vi\n"
-	.string "er blevet. Lad os kæmpe!$"
+	.string "Jeg er sikker på, at vi begge har haft mange\n"
+	.string "kampe siden vi sidst mødtes.\p"
+	.string "Jeg vil gerne se, hvor meget bedre vi er\n"
+	.string "blevet. Lad os kæmpe!$"
 
 RustboroCity_Gym_Text_RoxanneRematchDefeat:
-	.string "Grr…\n"
-	.string "Igen har jeg tabt…$"
+	.string "Grr… Igen har jeg tabt…$"
 
 RustboroCity_Gym_Text_RoxannePostRematch:
-	.string "ROXANNE: Jeg har stadig meget at lære\n"
-	.string "når det kommer til at kæmpe med POKéMON.\p"
-	.string "Den bevidsthed gør, at jeg elsker at\n"
-	.string "kæmpe endnu mere!$"
+	.string "ROXANNE: Jeg har stadig meget at lære når\n"
+	.string "det kommer til at kæmpe med POKéMON.\p"
+	.string "Den bevidsthed gør, at jeg elsker at kæmpe\n"
+	.string "endnu mere!$"
 
 RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons:
 	.string "ROXANNE: Jeg er så glad for at se dig igen.\n"
 	.string "Jeg er ROXANNE, GYM LEDEREN her.\p"
-	.string "Jeg er sikker på, at vi begge har\n"
-	.string "oplevet mange kampe, siden vi sidst sås.\p"
-	.string "Jeg vil gerne se, hvor meget bedre vi\n"
-	.string "er blevet…\p"
-	.string "Åh nej…\n"
-	.string "Du har kun én POKéMON med dig?\p"
-	.string "Vend venligst tilbage med mindst én\n"
-	.string "mere POKéMON.$"
+	.string "Jeg er sikker på, at vi begge har oplevet\n"
+	.string "mange kampe, siden vi sidst sås.\p"
+	.string "Jeg vil gerne se, hvor meget bedre vi er\n"
+	.string "blevet…\p"
+	.string "Åh nej… Du har kun én POKéMON med dig?\p"
+	.string "Vend venligst tilbage med mindst én mere\n"
+	.string "POKéMON.$"
+
+
 

@@ -9,3 +9,5 @@ MirageTower_2F_SetHoleWarp:
 	setholewarp MAP_MIRAGE_TOWER_1F
 	end
 
+
+

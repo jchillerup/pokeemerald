@@ -6,3 +6,5 @@ AlteringCave_OnTransition:
 	setflag FLAG_LANDMARK_ALTERING_CAVE
 	end
 
+
+

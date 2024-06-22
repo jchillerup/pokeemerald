@@ -6,3 +6,5 @@ AbandonedShip_Deck_OnTransition:
 	setflag FLAG_LANDMARK_ABANDONED_SHIP
 	end
 
+
+

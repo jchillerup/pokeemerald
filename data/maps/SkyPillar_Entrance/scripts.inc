@@ -6,3 +6,5 @@ SkyPillar_Entrance_OnTransition:
 	setflag FLAG_LANDMARK_SKY_PILLAR
 	end
 
+
+

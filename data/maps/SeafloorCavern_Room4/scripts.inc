@@ -14,8 +14,7 @@ SeafloorCavern_Room4_EventScript_Grunt4::
 	end
 
 SeafloorCavern_Room4_Text_Grunt3Intro:
-	.string "Hvem er du?\n"
-	.string "Hvor kom du ind fra?$"
+	.string "Hvem er du? Hvor kom du ind fra?$"
 
 SeafloorCavern_Room4_Text_Grunt3Defeat:
 	.string "Mistet det...$"
@@ -25,15 +24,13 @@ SeafloorCavern_Room4_Text_Grunt3PostBattle:
 	.string "Jeg er ikke bange. Misforstå mig ikke!$"
 
 SeafloorCavern_Room4_Text_Grunt4Intro:
-	.string "Hvem er du?\n"
-	.string "Hvor tror du, du skal hen?$"
+	.string "Hvem er du? Hvor tror du, du skal hen?$"
 
 SeafloorCavern_Room4_Text_Grunt4Defeat:
 .string "Jeg formåede ikke at vinde!$"
 
 SeafloorCavern_Room4_Text_Grunt4PostBattle:
-	.string "Min partner glemte kortet i den\n"
-	.string "ubåd!\p"
+	.string "Min partner glemte kortet i den ubåd!\p"
 	.string "Hvad siger du til det, sådan er\n"
 	.string "tjenestevillighed?$"
 

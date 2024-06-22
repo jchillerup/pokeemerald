@@ -154,35 +154,32 @@ MossdeepCity_StevensHouse_EventScript_DiveItemBall::
 
 MossdeepCity_StevensHouse_Text_YouveEarnedHMDive:
 	.string "STEVEN: {PLAYER}{KUN}... \p"
-	.string "Som du kan se, der er ikke meget\n"
-	.string "her, men dette er mit hjem.\p"
+	.string "Som du kan se, der er ikke meget her, men\n"
+	.string "dette er mit hjem.\p"
 	.string "Tak for alt hvad du har gjort.\p"
-	.string "Dette er min tak for værdsættelse.\n"
-	.string "Det er den SKJULTE MASKINE DIVE.\p"
+	.string "Dette er min tak for værdsættelse. Det er\n"
+	.string "den SKJULTE MASKINE DIVE.\p"
 	.string "Du behøver ikke være genert--du har\n"
 	.string "fortjent denne HM.$"
 
 MossdeepCity_StevensHouse_Text_ExplainDive:
 	.string "STEVEN: Mens du bruger SURF, skal du\n"
 	.string "bemærke mørke vandpletter.\p"
-	.string "Brug DYK, hvis du når dybt vand\n"
-	.string "som dette. Du vil falde til havbunden.\p"
-	.string "Når du vil komme tilbage op, brug\n"
-	.string "DYK igen.\p"
-	.string "På nogle steder vil det dog ikke være\n"
-	.string "muligt for dig at komme op til overfladen.$"
+	.string "Brug DYK, hvis du når dybt vand som dette. Du\n"
+	.string "vil falde til havbunden.\p"
+	.string "Når du vil komme tilbage op, brug DYK igen.\p"
+	.string "På nogle steder vil det dog ikke være muligt\n"
+	.string "for dig at komme op til overfladen.$"
 
 MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis:
 	.string "STEVEN: Åbenbart er der en\n"
-	.string "undervandsgrotte mellem\n"
-	.string "MOSSAGTIG og SODAVANDSPOLIS.\p"
-	.string "Du ved, den som KAPT. STERN\n"
-	.string "fandt i sin ubåd.$"
+	.string "undervandsgrotte mellem MOSSAGTIG og\l"
+	.string "SODAVANDSPOLIS.\p"
+	.string "Du ved, den som KAPT. STERN fandt i sin ubåd.$"
 
 MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum:
 	.string "{PLAYER} checked the POKé BALL.\p"
-	.string "Den indeholdt POKéMONet\n"
-	.string "BELDUM.\p"
+	.string "Den indeholdt POKéMONet BELDUM.\p"
 	.string "Vil du tage POKé BALLen?$"
 
 MossdeepCity_StevensHouse_Text_ObtainedBeldum:
@@ -193,8 +190,8 @@ MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon:
 	.string "Der er ikke plads til flere POKéMON.$"
 
 MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas:
-	.string "{PLAYER} lod POKé BALL-en ligge,\n"
-	.string "hvor den var.$"
+	.string "{PLAYER} lod POKé BALL-en ligge, hvor den\n"
+	.string "var.$"
 
 MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "Det er et brev.\p"
@@ -205,8 +202,8 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "Jeg planlægger ikke at vende hjem\n"
 	.string "foreløbig.\p"
 	.string "Jeg har en tjeneste at bede om.\p"
-	.string "Jeg vil have dig til at tage POKé\n"
-	.string "BOLDEN på skrivebordet.\p"
+	.string "Jeg vil have dig til at tage POKé BOLDEN på\n"
+	.string "skrivebordet.\p"
 	.string "Indeni er der en BELDUM, min\n"
 	.string "yndlings-POKéMON.\p"
 	.string "Jeg regner med dig.\p"
@@ -214,8 +211,8 @@ MossdeepCity_StevensHouse_Text_LetterFromSteven:
 	.string "STEVEN STONE$"
 
 MossdeepCity_StevensHouse_Text_CollectionOfRareRocks:
-	.string "Det er en samling af sjældne sten og\n"
-	.string "klipper samlet af STEVEN.$"
+	.string "Det er en samling af sjældne sten og klipper\n"
+	.string "samlet af STEVEN.$"
 
 
 

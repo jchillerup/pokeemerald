@@ -287,55 +287,43 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
 	.string "Jeg er DEN DYKKENDE SKATTEJÆGER!\p"
-	.string "Jeg er den seje fyr, som laver\n"
-	.string "dyk ned i dybet for at samle skatte\l"
-	.string "der hviler på bunden.$"
+	.string "Jeg er den seje fyr, som laver dyk ned i dybet\n"
+	.string "for at samle skatte der hviler på bunden.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
-	.string "Fortæl mig, har du set nogle SHARDS\n"
-	.string "af værktøjer lavet i gamle tider?$"
+	.string "Fortæl mig, har du set nogle SHARDS af\n"
+	.string "værktøjer lavet i gamle tider?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
-	.string "Du har ingen skatte\n"
-	.string "til mig…\p"
-	.string "Hvis du ser nogen SKÅR, som den RØDE\n"
-	.string "SKÅR, skal du handle den med mig!$"
+	.string "Du har ingen skatte til mig…\p"
+	.string "Hvis du ser nogen SKÅR, som den RØDE SKÅR,\n"
+	.string "skal du handle den med mig!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
-	.string "Åh, hey! Det…\n"
-	.string "Det er en SKÆRV! Jeg leder efter dem!\p"
-	.string "Åh mand, du er nødt til at bytte den\n"
-	.string "med mig! Jeg vil give dig noget godt!$"
+	.string "Åh, hey! Det… Det er en SKÆRV! Jeg leder\n"
+	.string "efter dem!\p"
+	.string "Åh mand, du er nødt til at bytte den med mig!\n"
+	.string "Jeg vil give dig noget godt!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
 	.string "Hvad vil du handle med?$"
 
 Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone:
-	.string "Vil du bytte din {STR_VAR_1} for\n"
-	.string "min {STR_VAR_2}, så?$"
+	.string "Vil du bytte din {STR_VAR_1} for min\n"
+	.string "{STR_VAR_2}, så?$"
 
 Route124_DivingTreasureHuntersHouse_Text_ItsADeal:
-	.string "Det er en aftale!\n"
-	.string "Brug det klogt!$"
+	.string "Det er en aftale! Brug det klogt!$"
 
 Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse:
 	.string "Vil du bytte med noget andet?$"
 
 Route124_DivingTreasureHuntersHouse_Text_BagFull:
-	.string "Hovsa, din TASCHE er fuld.\n"
-	.string "Få ryddet op i nogle ting, ven!$"
+	.string "Hovsa, din TASCHE er fuld. Få ryddet op i\n"
+	.string "nogle ting, ven!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
-	.string "Nej? Det er ærgerligt.\n"
-	.string "Hvis du skifter mening, så kom tilbage.$"
+	.string "Nej? Det er ærgerligt. Hvis du skifter\n"
+	.string "mening, så kom tilbage.$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
-	.string "{CLEAR_TO 0x0a}Ønsket genstand{CLEAR_TO 0x7c}Byt genstand\n"
-	.string "{CLEAR_TO 0x0f}RØD SKÆRVE{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}ILDSTEN{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Ønsket genstand{CLEAR_TO 0x7c}Byt genstand\n"
-	.string "{CLEAR_TO 0x06}GUL SKÆRVE{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x73}TORDENSTEN{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Ønsket genstand{CLEAR_TO 0x7c}Byt genstand\n"
-	.string "{CLEAR_TO 0x0c}BLÅ SKÆRVE{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x79}VANDSTEN{CLEAR_TO 0xc8}\p"
-	.string "{CLEAR_TO 0x0a}Ønsket genstand{CLEAR_TO 0x7c}Byt genstand\n"
-	.string "{CLEAR_TO 0x08}GRØN SKÆRVE{CLEAR_TO 0x59}{LEFT_ARROW}{RIGHT_ARROW}{CLEAR_TO 0x7b}BLADESTEN$"
-

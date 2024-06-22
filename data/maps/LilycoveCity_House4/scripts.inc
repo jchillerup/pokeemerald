@@ -12,13 +12,13 @@ LilycoveCity_House4_EventScript_Man2::
 	end
 
 LilycoveCity_House4_Text_MysteriesAtBottomOfSea:
-	.string "Den største gåde på denne planet er\n"
-	.string "at finde i havets dybder.\p"
+	.string "Den største gåde på denne planet er at\n"
+	.string "finde i havets dybder.\p"
 	.string "Det siges i hvert fald af nogen…$"
 
 LilycoveCity_House4_Text_UnderwaterTrenchMossdeepSootopolis:
-	.string "Der er en dyb undersøisk kløft\n"
-	.string "mellem MOSSDEEP og SOOTOPOLIS.\p"
+	.string "Der er en dyb undersøisk kløft mellem\n"
+	.string "MOSSDEEP og SOOTOPOLIS.\p"
 	.string "Det var i hvert fald det, nogen fortalte mig.$"
 
 

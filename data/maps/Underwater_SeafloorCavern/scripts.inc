@@ -43,12 +43,10 @@ Underwater_SeafloorCavern_EventScript_CheckStolenSub::
 	end
 
 Underwater_SeafloorCavern_Text_SubExplorer1:
-	.string "“UNDERSØISKER 1” er malet\n"
-	.string "på skroget.\p"
-	.string "Dette er ubåden HOLD AQUA\n"
-	.string "stjal i SLATEPORT!\p"
-	.string "HOLD AQUA må være gået\n"
-	.string "i land her.$"
+	.string "“UNDERSØISKER 1” er malet på skroget.\p"
+	.string "Dette er ubåden HOLD AQUA stjal i\n"
+	.string "SLATEPORT!\p"
+	.string "HOLD AQUA må være gået i land her.$"
 
 
 

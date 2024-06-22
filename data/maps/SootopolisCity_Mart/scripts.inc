@@ -58,24 +58,22 @@ SootopolisCity_Mart_EventScript_GentlemanNoLegendaries::
 
 SootopolisCity_Mart_Text_PPUpIsGreat:
 	.string "PP UP er fantastisk!\p"
-	.string "Det øger STYRKETRÆKKENE,\n"
-	.string "PP'erne, på en POKéMON-maneuver.$"
+	.string "Det øger STYRKETRÆKKENE, PP'erne, på en\n"
+	.string "POKéMON-maneuver.$"
 
 SootopolisCity_Mart_Text_TooScaryOutside:
-	.string "Hvad…\n"
-	.string "Hvad sker der?\p"
-	.string "Jeg vil virkelig gerne vide det, men\n"
-	.string "det er for skræmmende at gå udenfor.$"
+	.string "Hvad… Hvad sker der?\p"
+	.string "Jeg vil virkelig gerne vide det, men det er\n"
+	.string "for skræmmende at gå udenfor.$"
 
 SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
 	.string "Kender du til FULD GENOPRET?\p"
-	.string "Fuld genopretning af HP!\n"
-	.string "Udryddelse af alle statusproblemer!\p"
+	.string "Fuld genopretning af HP! Udryddelse af alle\n"
+	.string "statusproblemer!\p"
 	.string "Det er virkelig et item fra dine drømme!$"
 
 SootopolisCity_Mart_Text_DidSomethingAwaken:
-	.string "Det her vejr...\n"
-	.string "Vågnede der noget?$"
+	.string "Det her vejr... Vågnede der noget?$"
 
 
 

@@ -49,3 +49,5 @@ Route129_EventScript_Clarence::
 	msgbox Route129_Text_ClarencePostBattle, MSGBOX_AUTOCLOSE
 	end
 
+
+

@@ -146,30 +146,28 @@ SkyPillar_Outside_Text_DoorIsClosed:
 
 SkyPillar_Outside_Text_OpenedDoorToSkyPillar:
 	.string "WALLACE: Åh, min, jeg er meget ked af det!\p"
-	.string "I min hast lagde jeg ikke mærke til,\n"
-	.string "at jeg havde efterladt dig bagved!\p"
+	.string "I min hast lagde jeg ikke mærke til, at jeg\n"
+	.string "havde efterladt dig bagved!\p"
 	.string "Jeg har åbnet den låste dør til\n"
 	.string "HIMMELPILEN.\p"
 	.string "{PLAYER}{KUN}, lad os komme afsted!$"
 
 SkyPillar_Outside_Text_EarthquakeNotMomentToWaste:
 	.string "WALLACE: Det er et jordskælv!\p"
-	.string "Der er ikke et øjeblik at spilde.\n"
-	.string "Vi bliver nødt til at skynde os!$"
+	.string "Der er ikke et øjeblik at spilde. Vi bliver\n"
+	.string "nødt til at skynde os!$"
 
 SkyPillar_Outside_Text_SituationGettingWorse:
-	.string "WALLACE: Hmm…\n"
-	.string "Situationen bliver værre…$"
+	.string "WALLACE: Hmm… Situationen bliver værre…$"
 
 SkyPillar_Outside_Text_GotToGoBackForSootopolis:
 	.string "WALLACE: Det her er ikke godt…\p"
-	.string "Vejrforstyrrelsen breder sig selv\n"
-	.string "her…\p"
+	.string "Vejrforstyrrelsen breder sig selv her…\p"
 	.string "{PLAYER}{KUN}.\p"
-	.string "RAYQUAZA burde være længere oppe\n"
-	.string "herfra.\p"
-	.string "Jeg er bekymret for SOOTOPOLIS.\n"
-	.string "Jeg er nødt til at vende tilbage.\p"
-	.string "Nu ligger alt i dine hænder.\n"
-	.string "Svigt os ikke!$"
+	.string "RAYQUAZA burde være længere oppe herfra.\p"
+	.string "Jeg er bekymret for SOOTOPOLIS. Jeg er\n"
+	.string "nødt til at vende tilbage.\p"
+	.string "Nu ligger alt i dine hænder. Svigt os ikke!$"
+
+
 

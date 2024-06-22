@@ -297,87 +297,86 @@ Route113_GlassWorkshop_Text_GoCollectAshWithThis:
 	.string "Dette område er dækket af vulkansk aske,\n"
 	.string "pust-pust!\p"
 	.string "Jeg er særligt begavet, pust-pust.\p"
-	.string "Jeg laver glas af vulkansk aske\n"
-	.string "og laver ting, pust-pust.\p"
+	.string "Jeg laver glas af vulkansk aske og laver\n"
+	.string "ting, pust-pust.\p"
 	.string "Gå saml aske med dette, pust-pust.$"
 
 Route113_GlassWorkshop_Text_ExplainSootSack:
-	.string "Bare tag den SODSAK og gå\n"
-	.string "gennem askebunker, huff-puff.\p"
+	.string "Bare tag den SODSAK og gå gennem\n"
+	.string "askebunker, huff-puff.\p"
 	.string "Og den vil fylde sig med vulkansk aske,\n"
 	.string "huff-puff.\p"
-	.string "Når du synes, at du har samlet en god\n"
-	.string "mængde, så kom og se mig, huff-puff.$"
+	.string "Når du synes, at du har samlet en god mængde,\n"
+	.string "så kom og se mig, huff-puff.$"
 
 Route113_GlassWorkshop_Text_LetsSeeCollectedAshes:
-	.string "Har du samlet aske, pust-pust?\n"
-	.string "Lad mig se, pust-pust.$"
+	.string "Har du samlet aske, pust-pust? Lad mig se,\n"
+	.string "pust-pust.$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshNeedX:
-	.string "Hmm ... \n"
-	.string "Der er ikke nok aske her, pust-støn.\l"
-	.string "Jeg kan ikke lave glas med dette, pust-støn.\p"
-	.string " Lad os se ... {STR_VAR_1} er antallet af skridt,\n"
-	.string "du skal gå, for at jeg kan lave en\l"
-	.string " BLÅ FLOJT til dig, pust-støn.$"
+	.string "Hmm ...  Der er ikke nok aske her, pust-støn.\n"
+	.string "Jeg kan ikke lave glas med dette,\l"
+	.string "pust-støn.\p"
+	.string " Lad os se ... {STR_VAR_1} er antallet af\n"
+	.string "skridt, du skal gå, for at jeg kan lave en  BLÅ\l"
+	.string "FLOJT til dig, pust-støn.$"
 
 Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike:
-	.string "Åh!\n"
-	.string "Du har en masse aske, pust-pust!\p"
-	.string "Jeg laver et glasgenstand til dig, pust-pust!\n"
-	.string "Hvilken vil du gerne have, pust-pust?$"
+	.string "Åh! Du har en masse aske, pust-pust!\p"
+	.string "Jeg laver et glasgenstand til dig,\n"
+	.string "pust-pust! Hvilken vil du gerne have,\l"
+	.string "pust-pust?$"
 
 Route113_GlassWorkshop_Text_IsThatTheItemForYou:
-	.string "En {STR_VAR_1}, pust-pust?\n"
-	.string "Er det den for dig, pust-pust?$"
+	.string "En {STR_VAR_1}, pust-pust? Er det den\n"
+	.string "for dig, pust-pust?$"
 
 Route113_GlassWorkshop_Text_WhichWouldYouLike:
 .string "Hvilken vil du have, pust-pust?$"
 
 Route113_GlassWorkshop_Text_IllMakeItemForYou:
 	.string "En {STR_VAR_1} er det så, pust-støn!\p"
-	.string "Okay! Jeg laver den til dig, pust-støn.\n"
-	.string "Vent bare lidt, pust-støn.$"
+	.string "Okay! Jeg laver den til dig, pust-støn. Vent\n"
+	.string "bare lidt, pust-støn.$"
 
 Route113_GlassWorkshop_Text_NotEnoughAshToMakeItem:
 	.string "En {STR_VAR_1}, puha-pust?\p"
-	.string "Der er ikke nok aske her til at lave\n"
-	.string "det, dog, puha-pust.\p"
-	.string "Lad os se... {STR_VAR_2} er antallet af skridt\n"
-	.string "du skal gå gennem vulkansk aske\l"
-	.string "for at jeg kan lave den genstand, puha-pust.\p"
-	.string "Hvilken genstand vil du hellere have,\n"
-	.string "at jeg laver i stedet, puha-pust?$"
+	.string "Der er ikke nok aske her til at lave det, dog,\n"
+	.string "puha-pust.\p"
+	.string "Lad os se... {STR_VAR_2} er antallet af\n"
+	.string "skridt du skal gå gennem vulkansk aske for\l"
+	.string "at jeg kan lave den genstand, puha-pust.\p"
+	.string "Hvilken genstand vil du hellere have, at jeg\n"
+	.string "laver i stedet, puha-pust?$"
 
 Route113_GlassWorkshop_Text_AllThatAshButDontWantAnything:
-	.string "Du har samlet al den aske, men du\n"
-	.string "ønsker ikke noget, pust-pust?$"
+	.string "Du har samlet al den aske, men du ønsker ikke\n"
+	.string "noget, pust-pust?$"
 
 Route113_GlassWorkshop_Text_IveFinishedGlassItem:
-	.string "Åh, jeg har færdiggjort din {STR_VAR_1}.\n"
-	.string "Tag det, pust-pust.$"
+	.string "Åh, jeg har færdiggjort din\n"
+	.string "{STR_VAR_1}. Tag det, pust-pust.$"
 
 Route113_GlassWorkshop_Text_NoRoomInBag:
-	.string "Åh?\n"
-	.string "Du har ingen plads i din RYGSÆK, pustegrin.\p"
+	.string "Åh? Du har ingen plads i din RYGSÆK,\n"
+	.string "pustegrin.\p"
 	.string "Jeg vil beholde det, så kom tilbage senere,\n"
 	.string "pustegrin.$"
 
 Route113_GlassWorkshop_Text_NoRoomInPC:
-	.string "Åh?\n"
-	.string "Du har ingen plads i din PC, pust-hvæs?\p"
+	.string "Åh? Du har ingen plads i din PC, pust-hvæs?\p"
 	.string "Jeg vil holde på det, så kom tilbage senere,\n"
 	.string "pust-hvæs.$"
 
 Route113_GlassWorkshop_Text_HaventGotYourSootSack:
-	.string "Hvad? Du har ikke din SODPOSE\n"
-	.string "med dig, huff-puff.\p"
+	.string "Hvad? Du har ikke din SODPOSE med dig,\n"
+	.string "huff-puff.\p"
 	.string "Du skal have den med dig for at samle\n"
 	.string "vulkanaske, huff-puff.$"
 
 Route113_GlassWorkshop_Text_FunToBlowGlassFlute:
-	.string "Det er sjovt at spille på en glasfløjte,\n"
-	.string "mens min chef taler.\p"
+	.string "Det er sjovt at spille på en glasfløjte, mens\n"
+	.string "min chef taler.\p"
 	.string "Pust-pust! Pust-pust!$"
 
 

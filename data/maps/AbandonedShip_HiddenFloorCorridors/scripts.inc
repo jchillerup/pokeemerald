@@ -150,10 +150,8 @@ AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked:
 	.string "“RM. 6” er malet på døren.$"
 
 AbandonedShip_HiddenFloorCorridors_Text_InsertedKey:
-    .string "{PLAYER} satte nøglen i og\n"
-    .string "drejede om.\p"
-    .string "Nøglen sad fast, men døren\n"
-    .string "åbnede.$"
+	.string "{PLAYER} satte nøglen i og drejede om.\p"
+	.string "Nøglen sad fast, men døren åbnede.$"
 
 
 

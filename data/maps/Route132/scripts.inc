@@ -41,3 +41,5 @@ Route132_EventScript_Makayla::
 	msgbox Route132_Text_MakaylaPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+
+

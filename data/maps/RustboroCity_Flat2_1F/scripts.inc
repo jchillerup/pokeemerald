@@ -18,8 +18,8 @@ RustboroCity_Flat2_1F_EventScript_Skitty::
 	end
 
 RustboroCity_Flat2_1F_Text_DevonWorkersLiveHere:
-	.string "DEVON CORPORATION's arbejdere bor i\n"
-	.string "denne bygning.$"
+	.string "DEVON CORPORATION's arbejdere bor i denne\n"
+	.string "bygning.$"
 
 RustboroCity_Flat2_1F_Text_Skitty:
 .string "SKITTY: Gyaaaah!$"

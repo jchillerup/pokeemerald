@@ -30,46 +30,43 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 	end
 
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
-	.string "{PLAYER} skrev den hemmelige kode\n"
-	.string "på døren.\p"
-	.string "“TRICK MASTER, jeg elsker.”\n"
-	.string "… … … … … … … …\p"
+	.string "{PLAYER} skrev den hemmelige kode på\n"
+	.string "døren.\p"
+	.string "“TRICK MASTER, jeg elsker.” … … … … … … … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
-	.string "Ikke mange TRÆNERE er nået\n" 
-	.string "så langt.$"
+	.string "Ikke mange TRÆNERE er nået så langt.$"
 
 Route110_TrickHousePuzzle8_Text_VincentDefeat:
 .string "Det må betyde, at du også er sej…$"
 
 Route110_TrickHousePuzzle8_Text_VincentPostBattle:
-	.string "Du har slået POKéMON-LIGAEN\n"
-	.string "MESTEREN? Det er for vildt!$"
+	.string "Du har slået POKéMON-LIGAEN MESTEREN?\n"
+	.string "Det er for vildt!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Betragt dig selv som heldig for at\n"
-	.string "kæmpe mod mig!$"
+	.string "Betragt dig selv som heldig for at kæmpe mod\n"
+	.string "mig!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "Det her er ikke rigtigt!\n"
-	.string "Jeg kan ikke tabe!$"
+	.string "Det her er ikke rigtigt! Jeg kan ikke tabe!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "Det er et mirakel, at du slog mig.\n"
-	.string "Du kan prale af det.$"
+	.string "Det er et mirakel, at du slog mig. Du kan prale\n"
+	.string "af det.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
-	.string "Du har kæmpet dig gennem TRICK\n"
-	.string "HOUSE udfordringen også.$"
+	.string "Du har kæmpet dig gennem TRICK HOUSE\n"
+	.string "udfordringen også.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyDefeat:
-	.string "Jeg ser...\n"
-	.string "Du besidder en ekstraordinær stil.$"
+	.string "Jeg ser... Du besidder en ekstraordinær\n"
+	.string "stil.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyPostBattle:
-	.string "At se nogen som dig bør glæde\n"
-	.string "TRICK MASTEREN.$"
+	.string "At se nogen som dig bør glæde TRICK\n"
+	.string "MASTEREN.$"
 
 
 

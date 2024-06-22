@@ -45,42 +45,40 @@ FortreeCity_House2_EventScript_WrongGuess::
 
 FortreeCity_House2_Text_HiddenPowersArousedByNature:
 	.string "Folk… POKéMON…\p"
-	.string "Der intetanende kræfter bliver\n"
-	.string "vakt i dem, når de lever i\n"
-	.string "naturlige omgivelser…$"
+	.string "Der intetanende kræfter bliver vakt i dem,\n"
+	.string "når de lever i naturlige omgivelser…$"
 
 FortreeCity_House2_Text_CoinInWhichHand:
-	.string "Lad denne gamle kvinde se, om din\n"
-	.string "skjulte kraft er vågnet…\p"
+	.string "Lad denne gamle kvinde se, om din skjulte\n"
+	.string "kraft er vågnet…\p"
 	.string "Jeg holder en mønt i min hånd.\p"
-	.string "Nu, sig mig, har jeg den i\n"
-	.string "højre hånd? Eller i den venstre?$"
+	.string "Nu, sig mig, har jeg den i højre hånd? Eller i\n"
+	.string "den venstre?$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand:
 	.string "Åh! Ja, korrekt!\p"
 	.string "Vi skal prøve igen.\p"
-	.string "I hvilken hånd har jeg gemt mønten?\n"
-	.string "Den højre eller venstre?$"
+	.string "I hvilken hånd har jeg gemt mønten? Den\n"
+	.string "højre eller venstre?$"
 
 FortreeCity_House2_Text_CorrectTryAgainWhichHand2:
 	.string "Åh! Ja, rigtigt!\p"
 	.string "Vi prøver igen.\p"
-	.string "I hvilken hånd har jeg skjult mønten?\n"
-	.string "I højre eller venstre?$"
+	.string "I hvilken hånd har jeg skjult mønten? I\n"
+	.string "højre eller venstre?$"
 
 FortreeCity_House2_Text_YourHiddenPowerHasAwoken:
-	.string "Åh! Fremragende!\n"
-	.string "Din skjulte kraft er blevet vækket!\p"
-	.string "Her, tag dette og væk op den skjulte\n"
-	.string "kraft af din POKéMON.$"
+	.string "Åh! Fremragende! Din skjulte kraft er\n"
+	.string "blevet vækket!\p"
+	.string "Her, tag dette og væk op den skjulte kraft af\n"
+	.string "din POKéMON.$"
 
 FortreeCity_House2_Text_ExplainHiddenPower:
 	.string "SKJULT KRAFT er et angreb, der ændrer sig\n"
 	.string "sammen med POKéMON’en.$"
 
 FortreeCity_House2_Text_YouGuessedWrong:
-	.string "Nej, desværre.\n"
-	.string "Du gættede forkert.$"
+	.string "Nej, desværre. Du gættede forkert.$"
 
 
 

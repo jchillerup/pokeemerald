@@ -109,18 +109,17 @@ AquaHideout_B1F_EventScript_Grunt7::
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro:
-	.string "Hvis du vil kende hemmeligheden om\n"
-	.string "vores SKJULESTED, må du slå mig!$"
+	.string "Hvis du vil kende hemmeligheden om vores\n"
+	.string "SKJULESTED, må du slå mig!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
 	.string "Jeg kan slet ikke vinde...$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
 	.string "Vores skjulested hemmelighed?\p"
-	.string "Nå, lad os bare sige...\n"
-	.string "Der er en ubåd i den fjerneste ende!\p"
-	.string "Men nu... \n"
-	.string "Kekekeke...$"
+	.string "Nå, lad os bare sige... Der er en ubåd i den\n"
+	.string "fjerneste ende!\p"
+	.string "Men nu...  Kekekeke...$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
 	.string "Brændstof forsyning klar til afgang!\n"
@@ -132,33 +131,31 @@ AquaHideout_B1F_Text_Grunt3Defeat:
 	.string "Jeg fik virkelig bank!$"
 
 AquaHideout_B1F_Text_Grunt3PostBattle:
-	.string "Hov!\n"
-	.string "Det var meningen!\p"
+	.string "Hov! Det var meningen!\p"
 	.string "Min mission var bare at holde dig tilbage!$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
-	.string "Gaaab… At holde øje med\n"
-	.string "SKJULESTEDET keder mig. Lad os kæmpe.$"
+	.string "Gaaab… At holde øje med SKJULESTEDET\n"
+	.string "keder mig. Lad os kæmpe.$"
 
 AquaHideout_B1F_Text_Grunt5Defeat:
-	.string "Geeeeeab…\n"
-	.string "Åh, jeg tabte…$"
+	.string "Geeeeeab… Åh, jeg tabte…$"
 
 AquaHideout_B1F_Text_Grunt5PostBattle:
 	.string "Hvis du løber for meget, kan andre HOLD\n"
 	.string "AQUA-medlemmer fange dig.$"
 
 AquaHideout_B1F_Text_Grunt7Intro:
-	.string "Hey!\n"
-	.string "Du der!\p"
-	.string "Hvad synes du er sejest?\n"
-	.string "TEAM AQUA's uniform eller TEAM MAGMA's?$"
+	.string "Hey! Du der!\p"
+	.string "Hvad synes du er sejest? TEAM AQUA's\n"
+	.string "uniform eller TEAM MAGMA's?$"
 
 AquaHideout_B1F_Text_Grunt7Defeat:
-    .string "Jeg tabte på en sej måde…$"
+	.string "Jeg tabte på en sej måde…$"
 
 AquaHideout_B1F_Text_Grunt7PostBattle:
-	.string "Hvis du har en sej uniform, ser du\n"
-	.string "god ud selv i et nederlag, synes du ikke?$"
+	.string "Hvis du har en sej uniform, ser du god ud selv i\n"
+	.string "et nederlag, synes du ikke?$"
+
 
 

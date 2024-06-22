@@ -11,19 +11,17 @@ MtPyre_4F_EventScript_Tasha::
 	end
 
 MtPyre_4F_Text_TashaIntro:
-	.string "Jeg elsker alt skræmmende…\n"
-	.string "Det er ligesom en sygdom…\p"
-	.string "Når jeg er her…\n"
-	.string "Jeg ryster af skræk…$"
+	.string "Jeg elsker alt skræmmende… Det er ligesom\n"
+	.string "en sygdom…\p"
+	.string "Når jeg er her… Jeg ryster af skræk…$"
 
 MtPyre_4F_Text_TashaDefeat:
 	.string "At tabe, det bryder jeg mig ikke om...$"
 
 MtPyre_4F_Text_TashaPostBattle:
-	.string "Jeg vil gerne se frygtelige ting…\n"
-	.string "Jeg kan ikke gå…\p"
-	.string "Bliv…\n"
-	.string "Vil du ikke blive hos mig?$"
+	.string "Jeg vil gerne se frygtelige ting… Jeg kan\n"
+	.string "ikke gå…\p"
+	.string "Bliv… Vil du ikke blive hos mig?$"
 
 
 

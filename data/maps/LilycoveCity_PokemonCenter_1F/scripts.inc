@@ -53,19 +53,18 @@ LilycoveCity_PokemonCenter_1F_EventScript_ManiacBadTeamGone::
 	end
 
 LilycoveCity_PokemonCenter_1F_Text_HowManyKindsOfPokemon:
-	.string "Jeg spekulerer på, hvor mange slags POKéMONer\n"
-	.string "der findes i verdenen.\p"
+	.string "Jeg spekulerer på, hvor mange slags\n"
+	.string "POKéMONer der findes i verdenen.\p"
 	.string "Det ville være fedt at sejle over havene og\n"
 	.string "bytte POKéMON med folk langt væk.$"
 
 LilycoveCity_PokemonCenter_1F_Text_HeardAboutRottenScoundrels:
-	.string "Jeg har hørt om nogle skurke, der\n"
-	.string "stjæler POKéMON og river METEORITTER\n"
-	.string "af.$"
+	.string "Jeg har hørt om nogle skurke, der stjæler\n"
+	.string "POKéMON og river METEORITTER af.$"
 
 LilycoveCity_PokemonCenter_1F_Text_HaventSeenRottenScoundrels:
-	.string "De der slyngler, der stjæler\n"
-	.string "POKéMON og river METEORITTER væk…\p"
+	.string "De der slyngler, der stjæler POKéMON og\n"
+	.string "river METEORITTER væk…\p"
 	.string "Jeg har ikke set dem for nylig.$"
 
 

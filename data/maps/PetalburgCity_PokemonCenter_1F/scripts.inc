@@ -63,38 +63,34 @@ PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem:
 	.string "videnskabelig troldmand!$"
 
 PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP:
-	.string "Når min POKéMON spiste en\n"
-	.string "ORAN BÆR, fik den HP tilbage!$"
+	.string "Når min POKéMON spiste en ORAN BÆR, fik den\n"
+	.string "HP tilbage!$"
 
 PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon:
 	.string "Der findes mange typer af POKéMON.\p"
-	.string "Alle typer har deres styrker og\n"
-	.string "svagheder over for andre typer.\p"
-	.string "Afhængigt af POKéMONs typer,\n"
-	.string "kunne en kamp være nem eller svær.$"
+	.string "Alle typer har deres styrker og svagheder\n"
+	.string "over for andre typer.\p"
+	.string "Afhængigt af POKéMONs typer, kunne en\n"
+	.string "kamp være nem eller svær.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType:
-	.string "For eksempel, din TREECKO\n"
-	.string "er af GRÆS-typen.\p"
-	.string "Den er stærk mod VAND- og\n"
-	.string "JORD-typerne.\p"
-	.string "Men den er svag over for\n"
-	.string "ILD-typen POKéMON.$"
+	.string "For eksempel, din TREECKO er af\n"
+	.string "GRÆS-typen.\p"
+	.string "Den er stærk mod VAND- og JORD-typerne.\p"
+	.string "Men den er svag over for ILD-typen\n"
+	.string "POKéMON.$"
 
 PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType:
-	.string "For eksempel er din TORCHIC\n"
-	.string "en ILD type.\p"
-	.string "Den er stærk mod GRÆS og\n"
-	.string "INSEKT typer.\p"
-	.string "Men den er svag over for VAND-\n"
-	.string "type POKéMON.$"
+	.string "For eksempel er din TORCHIC en ILD type.\p"
+	.string "Den er stærk mod GRÆS og INSEKT typer.\p"
+	.string "Men den er svag over for VAND- type\n"
+	.string "POKéMON.$"
 
 PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType:
-	.string "For eksempel er din MUDKIP\n"
-	.string "af typen VAND.\p"
+	.string "For eksempel er din MUDKIP af typen VAND.\p"
 	.string "Det er stærkt imod Ild-typen.\p"
-	.string "Men det er svagt imod GRÆS-typen\n"
-	.string "og ELEKTRISK-typen af POKéMON.$"
+	.string "Men det er svagt imod GRÆS-typen og\n"
+	.string "ELEKTRISK-typen af POKéMON.$"
 
 
 

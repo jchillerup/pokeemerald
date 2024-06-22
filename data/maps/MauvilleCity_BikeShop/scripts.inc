@@ -177,43 +177,41 @@ MauvilleCity_BikeShop_EventScript_ExitAcroHandbook::
 	end
 
 MauvilleCity_BikeShop_Text_RydelGreeting:
-	.string "Nå, nå, hvad har vi her?\n"
-	.string "En meget energisk kunde!\p"
-	.string "Mig? Du kan kalde mig RYDEL.\n"
-	.string "Jeg er ejeren af denne cykelbutik.$"
+	.string "Nå, nå, hvad har vi her? En meget energisk\n"
+	.string "kunde!\p"
+	.string "Mig? Du kan kalde mig RYDEL. Jeg er ejeren af\n"
+	.string "denne cykelbutik.$"
 
 MauvilleCity_BikeShop_Text_DidYouComeFromFarAway:
-	.string "RYDEL: Dine LØBESKO…\n"
-	.string "De er forfærdeligt beskidte.\p"
+	.string "RYDEL: Dine LØBESKO… De er forfærdeligt\n"
+	.string "beskidte.\p"
 	.string "Kom du langvejs fra?$"
 
 MauvilleCity_BikeShop_Text_GuessYouDontNeedBike:
 	.string "RYDEL: Er det rigtigt?\p"
-	.string "Så gætter jeg på, at du ikke har\n"
-	.string "brug for nogen af mine CYKLER.$"
+	.string "Så gætter jeg på, at du ikke har brug for\n"
+	.string "nogen af mine CYKLER.$"
 
 MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne:
 	.string "RYDEL: Hm, hm… … … … …\p"
 	.string "Du siger, at du kom hele vejen fra\n"
 	.string "LITTLEROOT?\p"
-	.string "Min gode grød!\n"
-	.string "Det er vanvittigt langt!\p"
-	.string "Hvis du havde en af mine CYKLER, kunne\n"
-	.string "du nemt komme rundt overalt og\n"
-	.string "mærke den blide aircynding!\p"
-	.string "Skal jeg sige dig noget!\n"
-	.string "Jeg giver dig en CYKEL!\p"
+	.string "Min gode grød! Det er vanvittigt langt!\p"
+	.string "Hvis du havde en af mine CYKLER, kunne du\n"
+	.string "nemt komme rundt overalt og mærke den blide\l"
+	.string "aircynding!\p"
+	.string "Skal jeg sige dig noget! Jeg giver dig en\n"
+	.string "CYKEL!\p"
 	.string "Åh, vent et øjeblik!\p"
-	.string "Jeg glemte at fortælle dig, at der\n"
-	.string "er to slags CYKLER!\p"
-	.string "Det er MACH-CYKLEN og\n"
-	.string "ACRO-CYKLEN!\p"
-	.string "MACH-CYKLEN er til cyklister, der vil\n"
-	.string "mærke vinden med deres kroppe!\p"
+	.string "Jeg glemte at fortælle dig, at der er to slags\n"
+	.string "CYKLER!\p"
+	.string "Det er MACH-CYKLEN og ACRO-CYKLEN!\p"
+	.string "MACH-CYKLEN er til cyklister, der vil mærke\n"
+	.string "vinden med deres kroppe!\p"
 	.string "Og en ACRO-CYKEL er til dem, der\n"
 	.string "foretrækker tekniske ture!\p"
-	.string "Jeg er en rigtig skat, så du kan\n"
-	.string "få den, du bedst kan lide!\p"
+	.string "Jeg er en rigtig skat, så du kan få den, du\n"
+	.string "bedst kan lide!\p"
 	.string "Hvilken vil du vælge?$"
 
 MauvilleCity_BikeShop_Text_ChoseMachBike:
@@ -227,69 +225,67 @@ MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes:
 	.string "så kom bare hen til mig!$"
 
 MauvilleCity_BikeShop_Text_WantToSwitchBikes:
-	.string "RYDEL: Åh? Tænkte du på at\n"
-	.string "skifte CYKLER?$"
+	.string "RYDEL: Åh? Tænkte du på at skifte CYKLER?$"
 
 MauvilleCity_BikeShop_Text_IllSwitchBikes:
-	.string "RYDEL: Okay, intet problem!\n"
-	.string "Jeg skifter CYKLER for dig!$"
+	.string "RYDEL: Okay, intet problem! Jeg skifter\n"
+	.string "CYKLER for dig!$"
 
 MauvilleCity_BikeShop_Text_ExchangedMachForAcro:
-	.string "{PLAYER} fik udvekslet MACH BIKE'en\n"
-	.string "med en ACRO BIKE.$"
+	.string "{PLAYER} fik udvekslet MACH BIKE'en med\n"
+	.string "en ACRO BIKE.$"
 
 MauvilleCity_BikeShop_Text_ExchangedAcroForMach:
-	.string "{PLAYER} fik udvekslet ACRO-\nBIKEN\n"
-	.string "med en MACH-BIKE.$"
+	.string "{PLAYER} fik udvekslet ACRO-BIKEN med\n"
+	.string "en MACH-BIKE.$"
 
 MauvilleCity_BikeShop_Text_HappyYouLikeIt:
-	.string "RYDEL: Godt, godt!\n"
-	.string "Jeg er glad for, at du kan lide det!$"
+	.string "RYDEL: Godt, godt! Jeg er glad for, at du kan\n"
+	.string "lide det!$"
 
 MauvilleCity_BikeShop_Text_OhYourBikeIsInPC:
-	.string "Åh? Hvad skete der med den CYKEL\n"
-	.string "jeg gav dig?\p"
-	.string "Åh, jeg forstår, du gemte den ved hjælp af din PC.\p"
-	.string "Nå, tag den ud af PC-lageret,\n"
-	.string "og jeg vil med glæde bytte den tilbage!\p"
-	.string "Må vinden altid være i din favør\n"
-	.string "på dit eventyr!$"
+	.string "Åh? Hvad skete der med den CYKEL jeg gav\n"
+	.string "dig?\p"
+	.string "Åh, jeg forstår, du gemte den ved hjælp af din\n"
+	.string "PC.\p"
+	.string "Nå, tag den ud af PC-lageret, og jeg vil med\n"
+	.string "glæde bytte den tilbage!\p"
+	.string "Må vinden altid være i din favør på dit\n"
+	.string "eventyr!$"
 
 MauvilleCity_BikeShop_Text_HandbooksAreInBack:
-	.string "Jeg lærer om CYKLER mens\n"
-	.string "jeg arbejder her.\p"
-	.string "Hvis du har brug for råd om, hvordan du\n"
-	.string "kører på din CYKEL, er der et par\n"
-	.string "håndbøger bagerst.$"
+	.string "Jeg lærer om CYKLER mens jeg arbejder her.\p"
+	.string "Hvis du har brug for råd om, hvordan du kører\n"
+	.string "på din CYKEL, er der et par håndbøger\l"
+	.string "bagerst.$"
 
 MauvilleCity_BikeShop_Text_MachHandbookWhichPage:
 	.string "Det er en vejledning til MACH BIKE.\p"
 	.string "Hvilken side vil du læse?$"
 
 MauvilleCity_BikeShop_Text_HowToRideMachBike:
-.string "EN CYKEL bevæger sig i den retning,\n"
-.string "hvor + Kontrolpaden bliver trykket.\p"
-.string "Den vil accelerere, når den først ruller.\p"
-.string "For at stoppe, slip + Kontrolpaden.\n"
-.string "CYKLEN vil bremse og standse.\p"
-.string "Vil du læse en anden side?$"
+	.string "hvor + Kontrolpaden bliver trykket.\p"
+	.string "Den vil accelerere, når den først ruller.\p"
+	.string "For at stoppe, slip + Kontrolpaden. CYKLEN\n"
+	.string "vil bremse og standse.\p"
+	.string "Vil du læse en anden side?$"
 
 MauvilleCity_BikeShop_Text_HowToTurnMachBike:
 	.string "En MACH CYKEL er hurtig, men den kan ikke\n"
 	.string "stoppe meget hurtigt.\p"
-	.string "Det bliver lidt tricky at komme rundt\n"
-	.string "om et hjørne.\p"
-	.string "Lad + Kontrolpinden gå lidt\n"
-	.string "før hjørnet og sænk farten.\p"
+	.string "Det bliver lidt tricky at komme rundt om et\n"
+	.string "hjørne.\p"
+	.string "Lad + Kontrolpinden gå lidt før hjørnet og\n"
+	.string "sænk farten.\p"
 	.string "Vil du læse en anden side?$"
 
 MauvilleCity_BikeShop_Text_SandySlopes:
-	.string "Der er små sandbakker\n"
-	.string "overalt i HOENN-regionen.\p"
-	.string "Den løse, smuldrende sand gør det\n"
-	.string "umuligt at kravle op ad dem normalt.\p"
-	.string "Men hvis du har en MACH CYKEL, kan du\n"
-	.string "suse op ad en sandbakke.\p"
+	.string "Der er små sandbakker overalt i\n"
+	.string "HOENN-regionen.\p"
+	.string "Den løse, smuldrende sand gør det umuligt\n"
+	.string "at kravle op ad dem normalt.\p"
+	.string "Men hvis du har en MACH CYKEL, kan du suse op\n"
+	.string "ad en sandbakke.\p"
 	.string "Vil du læse en anden side?$"
 
 MauvilleCity_BikeShop_Text_AcroHandbookWhichPage:
@@ -297,27 +293,27 @@ MauvilleCity_BikeShop_Text_AcroHandbookWhichPage:
 	.string "Hvilken side vil du læse?$"
 
 MauvilleCity_BikeShop_Text_Wheelies:
-	.string "Tryk på B-knappen, mens du kører,\n"
-	.string "og forhjulet løftes op.\p"
-	.string "Du kan suse rundt med forhjulet\n"
-	.string "oppe ved at bruge + kontrolpaden.\p"
+	.string "Tryk på B-knappen, mens du kører, og\n"
+	.string "forhjulet løftes op.\p"
+	.string "Du kan suse rundt med forhjulet oppe ved at\n"
+	.string "bruge + kontrolpaden.\p"
 	.string "Denne teknik kaldes en wheelie.\p"
 	.string "Vil du læse en anden side?$"
 
 MauvilleCity_BikeShop_Text_BunnyHops:
-	.string "Når du holder B-knappen nede,\n"
-	.string "kan din CYKEL hoppe på stedet.\p"
+	.string "Når du holder B-knappen nede, kan din CYKEL\n"
+	.string "hoppe på stedet.\p"
 	.string "Denne teknik kaldes en bunny hop.\p"
 	.string "Du kan også ride mens du hopper.\p"
 	.string "Vil du læse en anden side?$"
 
 MauvilleCity_BikeShop_Text_Jumps:
-	.string "Tryk på B-knappen og + kontrol-\n"
-	.string "puden på samme tid for at hoppe.\p"
-	.string "Tryk på + kontrolpuden til siden\n"
-	.string "for at hoppe sidelæns.\p"
-	.string "Tryk bagud for at få CYKLEN til\n"
-	.string "at skifte retning under hop.\p"
+	.string "Tryk på B-knappen og + kontrol- puden på\n"
+	.string "samme tid for at hoppe.\p"
+	.string "Tryk på + kontrolpuden til siden for at\n"
+	.string "hoppe sidelæns.\p"
+	.string "Tryk bagud for at få CYKLEN til at skifte\n"
+	.string "retning under hop.\p"
 	.string "Vil du læse en anden side?$"
 
 

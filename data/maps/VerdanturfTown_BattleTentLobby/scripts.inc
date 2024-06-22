@@ -330,59 +330,60 @@ VerdanturfTown_BattleTentLobby_EventScript_ExitRules::
 	end
 
 VerdanturfTown_BattleTentLobby_Text_MonsReluctantToUseDislikedMoves:
-	.string "Hvis den ikke kan lide en bestemt bevægelse,\n"
-	.string "vil en POKéMON være tilbageholdende med at\n"
-	.string "anvende den.\p"
-	.string "Det betyder ikke, hvor stærk den er,\n"
-	.string "heller ikke.\p"
+	.string "Hvis den ikke kan lide en bestemt\n"
+	.string "bevægelse, vil en POKéMON være\l"
+	.string "tilbageholdende med at anvende den.\p"
+	.string "Det betyder ikke, hvor stærk den er, heller\n"
+	.string "ikke.\p"
 	.string "For eksempel vil en POKéMON med en MILD\n"
-	.string "natur sandsynligvis ikke nyde at skade\n"
+	.string "natur sandsynligvis ikke nyde at skade\l"
 	.string "sine modstandere.\p"
 	.string "Hvis den ikke synes at leve op til sit\n"
-	.string "potentiale, fejler den sandsynligvis i at\n"
-	.string "bruge en ikke-ønsket bevægelse mod sin vilje.$"
+	.string "potentiale, fejler den sandsynligvis i at\l"
+	.string "bruge en ikke-ønsket bevægelse mod sin\l"
+	.string "vilje.$"
 
 VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry:
-	.string "Min store søster er normalt venlig.\n"
-	.string "Men når hun bliver sur,\l"
-	.string "er hun virkelig, virkelig skræmmende!\p"
-	.string "Jeg satser på, at en venlig POKéMON\n"
-	.string "vil være skræmmende, hvis den bliver vred!$"
+	.string "Min store søster er normalt venlig. Men når\n"
+	.string "hun bliver sur, er hun virkelig, virkelig\l"
+	.string "skræmmende!\p"
+	.string "Jeg satser på, at en venlig POKéMON vil være\n"
+	.string "skræmmende, hvis den bliver vred!$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep:
 	.string "Mine følelser over for mine POKéMON…\n"
 	.string "Tiltrækningen er dyb…\p"
-	.string "Åh, hej, du så det ikke, gjorde du?\n"
-	.string "Nå, det betyder ikke noget.\p"
-	.string "Hvad siger du til denne TM til\n"
-	.string "din POKéMON?$"
+	.string "Åh, hej, du så det ikke, gjorde du? Nå, det\n"
+	.string "betyder ikke noget.\p"
+	.string "Hvad siger du til denne TM til din POKéMON?$"
 
 VerdanturfTown_BattleTentLobby_Text_AttractionMutual:
-	.string "Mine følelser over for mine POKéMON…\n"
-	.string "Jeg er sikker på, at tiltrækningen er gensidig!\p"
-	.string "De kæmper præcis på den måde, jeg ønsker\n"
-	.string "dem til!$"
+	.string "Mine følelser over for mine POKéMON… Jeg er\n"
+	.string "sikker på, at tiltrækningen er gensidig!\p"
+	.string "De kæmper præcis på den måde, jeg ønsker dem\n"
+	.string "til!$"
 
 VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves:
-	.string "Hvilke bevægelser har du lært\n"
-	.string "dine POKéMON?\p"
-	.string "Jeg tror, at du ville give dig selv\n"
-	.string "en fordel, hvis de vidste, hvordan\n"
-	.string "de skulle hele sig eller beskytte\n"
-	.string "sig selv.$"
+	.string "Hvilke bevægelser har du lært dine\n"
+	.string "POKéMON?\p"
+	.string "Jeg tror, at du ville give dig selv en fordel,\n"
+	.string "hvis de vidste, hvordan de skulle hele sig\l"
+	.string "eller beskytte sig selv.$"
 
 VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers:
-	.string "SCOTT: Hej, {PLAYER}{KUN}!\n"
-	.string "Jeg tænkte, at jeg måske ville se dig her.\p"
-	.string "I en KAMPPLADS er det et sted, hvor\n"
-	.string "du kan møde seje TRÆNERE.\p"
+	.string "SCOTT: Hej, {PLAYER}{KUN}! Jeg tænkte, at jeg\n"
+	.string "måske ville se dig her.\p"
+	.string "I en KAMPPLADS er det et sted, hvor du kan\n"
+	.string "møde seje TRÆNERE.\p"
 	.string "Det har ingen betydning, hvad reglerne er,\n"
 	.string "eller hvordan kampe udkæmpes.\p"
-	.string "{PLAYER}{KUN}, jeg forventer, at du gør\n"
-	.string "dit bedste!$"
+	.string "{PLAYER}{KUN}, jeg forventer, at du gør dit\n"
+	.string "bedste!$"
 
 VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly:
-	.string "SCOTT: Jeg besøger dette sted regelmæssigt i håb\n"
-	.string "om at se seje TRÆNERE i aktion,\l"
-	.string "uanset situationen.$"
+	.string "SCOTT: Jeg besøger dette sted\n"
+	.string "regelmæssigt i håb om at se seje TRÆNERE i\l"
+	.string "aktion, uanset situationen.$"
+
+
 

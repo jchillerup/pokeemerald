@@ -29,19 +29,17 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "Du kan ikke betragte dig selv som en\n"
-	.string "TRÆNER, hvis du ikke har tro på\n"
-	.string "dine POKéMON.\p"
-	.string "Kun de, der kan tro på deres\n"
-	.string "kæmpende POKéMON, kan vinde helt\n"
-	.string "til slutningen.$"
+	.string "Du kan ikke betragte dig selv som en TRÆNER,\n"
+	.string "hvis du ikke har tro på dine POKéMON.\p"
+	.string "Kun de, der kan tro på deres kæmpende\n"
+	.string "POKéMON, kan vinde helt til slutningen.$"
 
 VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent:
 	.string "Grunden til at nogen ville besøge\n"
 	.string "VERDANTURF…\p"
 	.string "Det er KAMPTALTET. Det siger sig selv.\p"
-	.string "Eller er der nogen her, som du\n"
-	.string "kom for at besøge?$"
+	.string "Eller er der nogen her, som du kom for at\n"
+	.string "besøge?$"
 
 
 

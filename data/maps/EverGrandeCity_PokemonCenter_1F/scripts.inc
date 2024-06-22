@@ -79,29 +79,28 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 	step_end
 
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
-	.string "POKéMON-LIGAEN er kun en kort\n"
-	.string "afstand efter SEJRVEJEN.\p"
-	.string "Hvis du er kommet så langt, hvad\n"
-	.string "valg har du så andet end at fortsætte?$"
+	.string "POKéMON-LIGAEN er kun en kort afstand\n"
+	.string "efter SEJRVEJEN.\p"
+	.string "Hvis du er kommet så langt, hvad valg har du\n"
+	.string "så andet end at fortsætte?$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
 	.string "Den lange og udfordrende SEJRVEJ…\p"
-	.string "Det er som at genopleve den vej, man\n"
-	.string "har gået i livet…\p"
-	.string "Tro på dine POKéMON og giv det\n"
-	.string "dit allerbedste!$"
+	.string "Det er som at genopleve den vej, man har gået\n"
+	.string "i livet…\p"
+	.string "Tro på dine POKéMON og giv det dit\n"
+	.string "allerbedste!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, du har kradset dig\n"
-	.string "op til at stå ansigt til ansigt med\n"
-	.string "POKéMON LIGAEN!\p"
-	.string "Jeg er glad på dine vegne!\n"
-	.string "Du gjorde min heppen værdifuld!\p"
-	.string "{PLAYER}{KUN}, hvis du bliver POKéMON\n"
-	.string "LIGA MESTER…\p"
+	.string "SCOTT: {PLAYER}{KUN}, du har kradset dig op til\n"
+	.string "at stå ansigt til ansigt med POKéMON\l"
+	.string "LIGAEN!\p"
+	.string "Jeg er glad på dine vegne! Du gjorde min\n"
+	.string "heppen værdifuld!\p"
+	.string "{PLAYER}{KUN}, hvis du bliver POKéMON LIGA\n"
+	.string "MESTER…\p"
 	.string "Så vil jeg kontakte dig.\p"
-	.string "Okay, {PLAYER}{KUN}.\n"
-	.string "Gå efter storheden!$"
+	.string "Okay, {PLAYER}{KUN}. Gå efter storheden!$"
 
 
 

@@ -89,8 +89,8 @@ BattleFrontier_BattleArenaCorridor_Movement_AttendantMoveOutOfWay:
 	step_end
 
 BattleFrontier_BattleArenaCorridor_Text_PleaseStepIn:
-	.string "Dine kampe skal udkæmpes i\n"
-	.string "næste rum. Vær sød at gå ind!$"
+	.string "Dine kampe skal udkæmpes i næste rum. Vær\n"
+	.string "sød at gå ind!$"
 
 
 

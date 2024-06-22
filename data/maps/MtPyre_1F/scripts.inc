@@ -28,20 +28,17 @@ MtPyre_1F_EventScript_Man::
 	end
 
 MtPyre_1F_Text_TakeThisForYourOwnGood:
-	.string "Alle slags væsner vandrer op ad\n"
-	.string "MT. PYRE…\p"
-	.string "Det er umuligt at vide, hvad der kan\n"
-	.string "ske. Tag dette. Det er til dit eget\n"
-	.string "bedste.$"
+	.string "Alle slags væsner vandrer op ad MT. PYRE…\p"
+	.string "Det er umuligt at vide, hvad der kan ske. Tag\n"
+	.string "dette. Det er til dit eget bedste.$"
 
 MtPyre_1F_Text_ExplainCleanseTag:
-	.string "Få en POKéMON til at holde\n"
-	.string "en RENSE TAG.\p"
+	.string "Få en POKéMON til at holde en RENSE TAG.\p"
 	.string "Det vil hjælpe med at skræmme vilde POKéMON.$"
 
 MtPyre_1F_Text_ComeToPayRespects:
-	.string "Kom du for at vise respekt\n"
-	.string "til ånderne af afdøde POKéMON?\p"
+	.string "Kom du for at vise respekt til ånderne af\n"
+	.string "afdøde POKéMON?\p"
 	.string "Du må virkelig passe godt på dine POKéMON.$"
 
 MtPyre_1F_Text_RestingPlaceOfZigzagoon:

@@ -496,16 +496,14 @@ BattleFrontier_BattleArenaBattleRoom_Movement_GretaWalkBackToCenter:
 	step_end
 
 BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward:
-	.string "DOMMER: TRÆNER {PLAYER}\n"
-	.string "Træd frem, tak!$"
+	.string "DOMMER: TRÆNER {PLAYER} Træd frem, tak!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward:
-	.string "DOMMER: TRÆNER {STR_VAR_1}!\n"
-	.string "Træd frem, vær så venlig!$"
+	.string "DOMMER: TRÆNER {STR_VAR_1}! Træd\n"
+	.string "frem, vær så venlig!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin:
-	.string "DOMMER: Start KO-turneringen!\n"
-	.string "Start!$"
+	.string "DOMMER: Start KO-turneringen! Start!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer:
 	.string "DOMMER: Vinderen er {PLAYER}!$"
@@ -514,107 +512,98 @@ BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent:
 	.string "DOMMER: Vinderen er {STR_VAR_1}!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored:
-	.string "Dine POKéMON vil blive genoprettet til\n"
-	.string "fuld sundhed.$"
+	.string "Dine POKéMON vil blive genoprettet til fuld\n"
+	.string "sundhed.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent:
-	.string "Næste op, din anden modstander!\n"
-	.string "Er du klar til at gå videre?$"
+	.string "Næste op, din anden modstander! Er du klar\n"
+	.string "til at gå videre?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent:
-	.string "Nu kommer din tredje modstander!\n"
-	.string "Er du klar til at gå videre?$"
+	.string "Nu kommer din tredje modstander! Er du klar\n"
+	.string "til at gå videre?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent:
-	.string "Næste op, din fjerde modstander!\n"
-	.string "Er du klar til at fortsætte?$"
+	.string "Næste op, din fjerde modstander! Er du klar\n"
+	.string "til at fortsætte?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor5thOpponent:
-	.string "Næste op, din femte modstander!\n"
-	.string "Er du klar til at fortsætte?$"
+	.string "Næste op, din femte modstander! Er du klar\n"
+	.string "til at fortsætte?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent:
-	.string "Næste, din sjette modstander!\n"
-	.string "Er du klar til at gå videre?$"
+	.string "Næste, din sjette modstander! Er du klar til\n"
+	.string "at gå videre?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent:
-	.string "Næste op, din syvende modstander!\n"
-	.string "Er du klar til at fortsætte?$"
+	.string "Næste op, din syvende modstander! Er du\n"
+	.string "klar til at fortsætte?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown:
-	.string "Vil du gemme spillet og\n"
-	.string "slukke nu?$"
+	.string "Vil du gemme spillet og slukke nu?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge:
-	.string "Vil du trække dig fra din\n"
-	.string "Set KO Tourney udfordring?\p$"
+	.string "Vil du trække dig fra din Set KO Tourney\n"
+	.string "udfordring?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait:
-	.string "Jeg gemmer dine spildata.\n"
-	.string "Vent venligst.$"
+	.string "Jeg gemmer dine spildata. Vent venligst.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle:
-	.string "Vil du optage din sidste\n"
-	.string "kamp på din FRONTIER PASS?\p$"
+	.string "Vil du optage din sidste kamp på din\n"
+	.string "FRONTIER PASS?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon:
 	.string "Kære udfordrer!\p"
 	.string "Dit færdighedsniveau er virkelig\n"
 	.string "imponerende!\p"
-	.string "Vi vil nu gerne have dig til at\n"
-	.string "møde vores leder, ARENA TYCOON!$"
+	.string "Vi vil nu gerne have dig til at møde vores\n"
+	.string "leder, ARENA TYCOON!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon:
-	.string "En kamp med ARENA-TYKONEN!\n"
-	.string "Er du klar?\p$"
+	.string "En kamp med ARENA-TYKONEN! Er du klar?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta:
-	.string "DOMMEREN: Arena-tycoon'en!\n"
-	.string "Giv plads til GRETA!$"
+	.string "DOMMEREN: Arena-tycoon'en! Giv plads til\n"
+	.string "GRETA!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger:
-	.string "GRETA: Hej!\n"
-	.string "Halløj!\p"
+	.string "GRETA: Hej! Halløj!\p"
 	.string "…Vent, er du udfordreren?$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight:
-	.string "Er det rigtigt? Hmm…\n"
-	.string "Hmhm…$"
+	.string "Er det rigtigt? Hmm… Hmhm…$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy:
-	.string "Jeg ved ikke helt, hvordan jeg skal sige det, men…\n"
-	.string "For at sige det ligeud, ser du ret svag ud.\l"
-	.string "Er du sikker på, at du er klar til mig?\p"
+	.string "Jeg ved ikke helt, hvordan jeg skal sige det,\n"
+	.string "men… For at sige det ligeud, ser du ret svag\l"
+	.string "ud. Er du sikker på, at du er klar til mig?\p"
 	.string "Hmm…\p"
-	.string "Nå, godtnok!\n"
-	.string "Vi starter stille op!$"
+	.string "Nå, godtnok! Vi starter stille op!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle:
 	.string "Okay! Lad os se dig antænde min lidenskab\n"
-	.string "for kamp!\p$"
+	.string "for kamp!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll:
-	.string "GRETA: Av, vent lige et \n sekund!\n"
-	.string "Du er sej alligevel!\p"
-	.string "Jeg kan lide dig!\n"
-	.string "Lad os se din FRONTIER PASS.$"
+	.string "GRETA: Av, vent lige et  sekund! Du er sej\n"
+	.string "alligevel!\p"
+	.string "Jeg kan lide dig! Lad os se din FRONTIER\n"
+	.string "PASS.$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol:
-	.string "Tarmprikken var præget på\n"
-	.string "FRONTIER PASS!"
+	.string "Tarmprikken var præget på FRONTIER PASS!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime:
 	.string "Hmm…\p"
-	.string "Det bliver sjovt næste gang!\n"
-	.string "Jeg glæder mig til det!$"
+	.string "Det bliver sjovt næste gang! Jeg glæder mig\n"
+	.string "til det!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain:
-	.string "GRETA: Hej! Halløj!\n"
-	.string "Du har endelig vundet din vej op til mig!\p"
-	.string "Jeg var bekymret for dig, mens jeg\n"
-	.string "ventede!\n"
-	.string "Jeg glædede mig virkelig til at se\l"
-	.string "dig igen!$"
+	.string "GRETA: Hej! Halløj! Du har endelig vundet\n"
+	.string "din vej op til mig!\p"
+	.string "Jeg var bekymret for dig, mens jeg ventede!\n"
+	.string "Jeg glædede mig virkelig til at se dig igen!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady:
 	.string "Så, er du klar?$"
@@ -624,20 +613,19 @@ BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort:
 	.string "Vær klar til at blive banket!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted:
-	.string "Kom nu, DOMMER!\n"
-	.string "Lad os komme i gang!$"
+	.string "Kom nu, DOMMER! Lad os komme i gang!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway:
-    .string "Greta: Øøøj! Blæst væk!\n"
-	.string " Lad os se din FRONTIER PAS!$"
+	.string "Greta: Øøøj! Blæst væk!  Lad os se din\n"
+	.string "FRONTIER PAS!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine:
-	.string "Tarm symbol tog på\n"
-	.string "en gylden glans!$"
+	.string "Tarm symbol tog på en gylden glans!$"
 
 BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose:
-	.string "Av mit skæg!\n"
-	.string "Det her er så irriterende!\p"
-	.string "Hvis vi nogensinde kæmper igen, vil jeg ikke tabe!\n"
-	.string "Glem det ikke! Farvel!$"
+	.string "Av mit skæg! Det her er så irriterende!\p"
+	.string "Hvis vi nogensinde kæmper igen, vil jeg ikke\n"
+	.string "tabe! Glem det ikke! Farvel!$"
+
+
 

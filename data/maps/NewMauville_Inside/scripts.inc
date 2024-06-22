@@ -248,10 +248,10 @@ NewMauville_Inside_EventScript_DefeatedVoltorb3::
 	end
 
 NewMauville_Inside_Text_GeneratorRadiatingHeat:
-	.string "Generatoren stråler varme, som kan\n"
-	.string "mærkes selv på afstand.\p"
-	.string "Det ser ud til, at den bør slukkes\n"
-	.string "så hurtigt som muligt.$"
+	.string "Generatoren stråler varme, som kan mærkes\n"
+	.string "selv på afstand.\p"
+	.string "Det ser ud til, at den bør slukkes så hurtigt\n"
+	.string "som muligt.$"
 
 NewMauville_Inside_Text_GeneratorQuietedDown:
 .string "Generator blev stille.$" 
@@ -259,8 +259,8 @@ NewMauville_Inside_Text_GeneratorQuietedDown:
 NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped:
 	.string "{PLAYER} trådte på knappen.\p"
 	.string "Klik...\p"
-	.string "… … … … … … … …\n"
-	.string "… … … … … … … …\p"
-	.string "Generatorn ser ud til at være\n"
-	.string "holdt op...$"
+	.string "… … … … … … … … … … … … … … … …\p"
+	.string "Generatorn ser ud til at være holdt op...$"
+
+
 

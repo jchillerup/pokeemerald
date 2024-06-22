@@ -79,22 +79,20 @@ Route105_EventScript_AndresRematch::
 	end
 
 Route104_Text_DadPokenavCall:
-	.string "… … … … … …\n"
-	.string "… … … … … Bip!\p"
+	.string "… … … … … … … … … … … Bip!\p"
 	.string "FAR: Åh, {PLAYER}?\p"
-	.string "… … … … … …\n"
-	.string "Hvor er du nu?\l"
-	.string "Det lyder blæsende, hvor end du er.\p"
-	.string "Jeg hørte lige fra DEVONS HR. STEN\n"
-	.string "om din POKéNAV, så jeg besluttede\l"
-	.string "mig for at ringe til dig.\p"
-	.string "Det lyder som om, du har det godt,\n"
-	.string "så det er fint med mig.\p"
+	.string "… … … … … … Hvor er du nu? Det lyder blæsende,\n"
+	.string "hvor end du er.\p"
+	.string "Jeg hørte lige fra DEVONS HR. STEN om din\n"
+	.string "POKéNAV, så jeg besluttede mig for at ringe\l"
+	.string "til dig.\p"
+	.string "Det lyder som om, du har det godt, så det er\n"
+	.string "fint med mig.\p"
 	.string "Pas nu på dig selv.\p"
-	.string "… … … … … …\n"
-	.string "… … … … … Klik!$"
+	.string "… … … … … … … … … … … Klik!$"
 
 Route104_Text_RegisteredDadInPokenav:
-	.string "Registreret FAR NORMAN\n"
-	.string "i POKéNAV.\p$"
+	.string "Registreret FAR NORMAN i POKéNAV.$"
+
+
 

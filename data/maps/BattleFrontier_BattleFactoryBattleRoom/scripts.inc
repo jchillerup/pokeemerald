@@ -253,72 +253,65 @@ BattleFrontier_BattleFactoryBattleRoom_EventScript_ScientistsFaceBattle::
 	return
 
 BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
-	.string "Hej, hej!\n"
-	.string "Skynd dig!\p$"
+	.string "Hej, hej! Skynd dig!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Hej, mit navn er NOLAND!\n"
-	.string "Jeg er stort set ansvarlig for dette sted,\l"
-	.string "derfor er jeg FABRIKSHOVED!\p"
+	.string "Hej, mit navn er NOLAND! Jeg er stort set\n"
+	.string "ansvarlig for dette sted, derfor er jeg\l"
+	.string "FABRIKSHOVED!\p"
 	.string "Jeg har set din Kampbyttedata.\p"
-	.string "Du virker til at have styr på det,\n"
-	.string "men du er stadig firkantet i hovedet!\p"
-	.string "Hør her, okay? Viden handler ikke kun om\n"
-	.string "at læse bøger eller lave skrivebordsarbejde.\p"
-	.string "Bare at gøre den slags ting…\n"
-	.string "Det kan lige så godt være ubrugeligt!\p"
-	.string "Du skal opleve ting med\n"
-	.string "dit hjerte og din krop, forstår du?\p"
+	.string "Du virker til at have styr på det, men du er\n"
+	.string "stadig firkantet i hovedet!\p"
+	.string "Hør her, okay? Viden handler ikke kun om at\n"
+	.string "læse bøger eller lave skrivebordsarbejde.\p"
+	.string "Bare at gøre den slags ting… Det kan lige så\n"
+	.string "godt være ubrugeligt!\p"
+	.string "Du skal opleve ting med dit hjerte og din\n"
+	.string "krop, forstår du?\p"
 	.string "Jeg udfordrer dig under de samme\n"
 	.string "betingelser som dig selv.\p"
 	.string "Jeg vil også bruge lejede POKéMON!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-	.string "Ryst hver eneste smule af din\n"
-	.string "viden ud og kom så an!$"
+	.string "Ryst hver eneste smule af din viden ud og\n"
+	.string "kom så an!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "Godt klaret!\n"
-	.string "Lad os se dit FRONTIER PASS.$"
+	.string "Godt klaret! Lad os se dit FRONTIER PASS.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
-	.string "Videnssymbolet blev præget\n"
-	.string "på FRONTIER PASS!$"
+	.string "Videnssymbolet blev præget på FRONTIER\n"
+	.string "PASS!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
-	.string "Heh…\n"
-	.string "Du er en ret skarp knop…\p"
-	.string "Næste gang kommer jeg efter dig ordentligt.\n"
-	.string "Ingen regler, forstår du?\p"
+	.string "Heh… Du er en ret skarp knop…\p"
+	.string "Næste gang kommer jeg efter dig\n"
+	.string "ordentligt. Ingen regler, forstår du?\p"
 	.string "Fortsæt med dine studier!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Hej, hej! Hvordan går det?\n"
-	.string "Holder du dig ajour med dine studier?\p"
+	.string "NOLAND: Hej, hej! Hvordan går det? Holder\n"
+	.string "du dig ajour med dine studier?\p"
 	.string "…Oh?\p"
-	.string "Du ser lidt mere seriøs ud end sidst\n"
-	.string "jeg så dig.\p"
-	.string "Det her blir' sjovt!\n"
-	.string "Jeg bliver helt spændt, hej!$"
+	.string "Du ser lidt mere seriøs ud end sidst jeg så\n"
+	.string "dig.\p"
+	.string "Det her blir' sjovt! Jeg bliver helt spændt,\n"
+	.string "hej!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
-	.string "Okay!\n"
-	.string "Kom så på!$"
+	.string "Okay! Kom så på!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: Hvad i...\n"
-	.string "Du er ved at blive for god til mig!\p"
-	.string "Føj!\n"
-	.string "Lad os se den FRONTIER PASS!\l$"
+	.string "NOLAND: Hvad i... Du er ved at blive for god til\n"
+	.string "mig!\p"
+	.string "Føj! Lad os se den FRONTIER PASS!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
-	.string "Viden-symbolet fik\n"
-	.string "en gylden glans!$"
+	.string "Viden-symbolet fik en gylden glans!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
 	.string "Pfft, mand!\p"
-	.string "Det er absolut sidste gang\n"
-	.string "jeg taber til dig!\p"
+	.string "Det er absolut sidste gang jeg taber til dig!\p"
 	.string "Vi skal gøre dette igen, hva'?$"
 
 

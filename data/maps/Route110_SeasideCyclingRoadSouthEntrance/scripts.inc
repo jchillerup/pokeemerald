@@ -55,14 +55,14 @@ Route110_SeasideCyclingRoadSouthEntrance_EventScript_ClearCyclingRoad::
 	end
 
 Route110_SeasideCyclingRoadSouthEntrance_Text_GoAllOutOnCyclingRoad:
-	.string "På CYKLING VEJ kan du give den gas\n"
-	.string "og cykle så hurtigt, du vil.\p"
+	.string "På CYKLING VEJ kan du give den gas og cykle\n"
+	.string "så hurtigt, du vil.\p"
 	.string "Det føles fantastisk at køre så hurtigt,\n"
 	.string "men prøv at undgå at køre ind i nogen!$"
 
 Route110_SeasideCyclingRoadSouthEntrance_Text_TooDangerousToWalk:
-	.string "Beklager, du kan ikke gå på CYKLING\n"
-	.string "VEJ. Det er for farligt.\p"
+	.string "Beklager, du kan ikke gå på CYKLING VEJ. Det\n"
+	.string "er for farligt.\p"
 	.string "Kom venligst tilbage med en CYKEL.$"
 
 

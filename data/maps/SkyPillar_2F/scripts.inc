@@ -18,3 +18,5 @@ SkyPillar_2F_SetHoleWarp:
 	setholewarp MAP_SKY_PILLAR_1F
 	end
 
+
+

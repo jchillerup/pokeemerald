@@ -30,10 +30,9 @@ Route110_TrickHousePuzzle4_EventScript_Paula::
 	end
 
 Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} skrev den hemmelige kode\n"
-	.string "på døren.\p"
-	.string "“TRICK MASTER er sej.”\n"
-	.string "… … … … … … … …\p"
+	.string "{PLAYER} skrev den hemmelige kode på\n"
+	.string "døren.\p"
+	.string "“TRICK MASTER er sej.” … … … … … … … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
@@ -41,28 +40,27 @@ Route110_TrickHousePuzzle4_Text_CoraIntro:
 	.string "Jeg ville bare kæmpe!$"
 
 Route110_TrickHousePuzzle4_Text_CoraDefeat:
-	.string "Selvom jeg tabte, kan jeg stadig lide at kæmpe\n"
-	.string "bedst!$"
+	.string "Selvom jeg tabte, kan jeg stadig lide at\n"
+	.string "kæmpe bedst!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-	.string "Ville du ikke være enig? Du ville\n"
-	.string "gå hvor som helst, hvis TRAINERS var der.$"
+	.string "Ville du ikke være enig? Du ville gå hvor som\n"
+	.string "helst, hvis TRAINERS var der.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-	.string "Hi hi! Sten som denne kan jeg skubbe\n"
-	.string "til side med en finger!$"
+	.string "Hi hi! Sten som denne kan jeg skubbe til side\n"
+	.string "med en finger!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
-	.string "Jeg kan skubbe sten, men jeg kan ikke\n"
-	.string "løse puslespillet…$"
+	.string "Jeg kan skubbe sten, men jeg kan ikke løse\n"
+	.string "puslespillet…$"
 
 Route110_TrickHousePuzzle4_Text_YujiPostBattle:
-	.string "Det er ikke godt nok at være stærk...\n"
-	.string "Du skal bruge dit hoved. Vær smart!$"
+	.string "Det er ikke godt nok at være stærk... Du skal\n"
+	.string "bruge dit hoved. Vær smart!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "Det LISTIGE HUS bliver\n"
-	.string "endnu mere snedigt,\n"
+	.string "Det LISTIGE HUS bliver endnu mere snedigt,\n"
 	.string "er det ikke?$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:

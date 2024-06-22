@@ -175,22 +175,20 @@ Route121_EventScript_RematchCristin::
 	end
 
 Route121_Text_OkayMoveOutToMtPyre:
-	.string "Okay!\n"
-	.string "Vi skal bevæge os mod Bjergtinden!$"
+	.string "Okay! Vi skal bevæge os mod Bjergtinden!$"
 
 Route121_Text_AheadLoomsMtPyre:
 	.string "Forude troner MT. PYRE…\p"
-	.string "Det er et naturligt monument for ånderne \n"
-	.string "af afdøde POKéMON…$"
+	.string "Det er et naturligt monument for ånderne  af\n"
+	.string "afdøde POKéMON…$"
 
 Route121_Text_MtPyrePierSign:
 	.string "BJERGET PYRE BRO\p"
-	.string "...Skiltet er gammelt og slidt.\n"
-	.string "Ordene er næsten ulæselige...$"
+	.string "...Skiltet er gammelt og slidt. Ordene er\n"
+	.string "næsten ulæselige...$"
 
 Route121_Text_SafariZoneSign:
-	.string "Fyldt med sjældne POKéMON!\n"
-	.string "SAFARI ZONE$"
+	.string "Fyldt med sjældne POKéMON! SAFARI ZONE$"
 
 
 

@@ -8,3 +8,5 @@ MirageTower_1F_OnTransition:
 	setflag FLAG_LANDMARK_MIRAGE_TOWER
 	end
 
+
+

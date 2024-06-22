@@ -172,3 +172,5 @@ BattleFrontier_BattleTowerMultiCorridor_Movement_ExitElevator:
 	walk_down
 	step_end
 
+
+

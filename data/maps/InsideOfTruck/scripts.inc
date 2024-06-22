@@ -54,9 +54,9 @@ InsideOfTruck_EventScript_MovingBox::
 	end
 
 InsideOfTruck_Text_BoxPrintedWithMonLogo:
-    .string "Kassen er trykt med et POKéMON-logo.\p"
-    .string "Det er en POKéMON-mærket flytte-\n"
-    .string "og leveringsservice.$"
+	.string "Kassen er trykt med et POKéMON-logo.\p"
+	.string "Det er en POKéMON-mærket flytte- og\n"
+	.string "leveringsservice.$"
 
 
 

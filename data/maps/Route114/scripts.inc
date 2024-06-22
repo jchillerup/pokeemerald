@@ -179,25 +179,24 @@ Route114_EventScript_Kai::
 	end
 
 Route114_Text_AllMyMonDoesIsRoarTakeThis:
-	.string "Alt hvad min POKéMON gør, er at BRØLE…\n"
-	.string "Ingen tør komme nær mig…\p"
-	.string "Suk… Hvis du ville, så tag gerne\n"
-	.string "denne TM med dig…$"
+	.string "Alt hvad min POKéMON gør, er at BRØLE… Ingen\n"
+	.string "tør komme nær mig…\p"
+	.string "Suk… Hvis du ville, så tag gerne denne TM med\n"
+	.string "dig…$"
 
 Route114_Text_ExplainRoar:
-	.string "TM05 indeholder BRØL.\n"
-	.string "Et BRØL får POKéMON til at løbe væk.$"
+	.string "TM05 indeholder BRØL. Et BRØL får POKéMON\n"
+	.string "til at løbe væk.$"
 
 Route114_Text_Poochyena:
 .string "Vov! Vovvov!$"
 
 Route114_Text_MeteorFallsSign:
-	.string "METEOR FALDER\n"
-	.string "RUSTBORO BY GÅR HER$"
+	.string "METEOR FALDER RUSTBORO BY GÅR HER$"
 
 Route114_Text_FossilManiacsHouseSign:
-	.string "Fossil Maniac's hus\n"
-	.string "“Fossiler modtages med tak!”$"
+	.string "Fossil Maniac's hus “Fossiler modtages med\n"
+	.string "tak!”$"
 
 Route114_Text_LanettesHouse:
 .string "LANETTES HUS$"

@@ -20,9 +20,9 @@ Route119_House_EventScript_Wingull::
 Route119_House_Text_RumorAboutCaveOfOrigin:
 	.string "Jeg har hørt om en hule kaldet\n"
 	.string "OPRINDELSENS HULE.\p"
-	.string "Folk rygter, at ånderne af\n"
-	.string "POKéMON genopstår der. Kunne\n"
-	.string "noget sådant virkelig ske?$"
+	.string "Folk rygter, at ånderne af POKéMON\n"
+	.string "genopstår der. Kunne noget sådant\l"
+	.string "virkelig ske?$"
 
 Route119_House_Text_Wingull:
 .string "WINGULL: Pihyoh!$"

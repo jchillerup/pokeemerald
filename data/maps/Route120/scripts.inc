@@ -365,25 +365,23 @@ Route120_EventScript_Callie::
 	end
 
 Route120_Text_StevenGreeting:
-	.string "STEVEN: Hm? {PLAYER}, hei.\n"
-	.string "Det er været et stykke tid.\p"
-	.string "Der er noget her, som du ikke kan\n"
-	.string "se, ikke sandt?\p"
-	.string "Nu, hvis jeg bruger denne enhed på\n"
-	.string "det usynlige forhindring…\p"
-	.string "Nej, nej. I stedet for at beskrive det,\n"
-	.string "burde jeg bare vise dig.\l"
-	.string "Det ville være sjovere.\p"
-	.string "{PLAYER}, er dine POKéMON klar til\n"
-	.string "kamp?$"
+	.string "STEVEN: Hm? {PLAYER}, hei. Det er været et\n"
+	.string "stykke tid.\p"
+	.string "Der er noget her, som du ikke kan se, ikke\n"
+	.string "sandt?\p"
+	.string "Nu, hvis jeg bruger denne enhed på det\n"
+	.string "usynlige forhindring…\p"
+	.string "Nej, nej. I stedet for at beskrive det, burde\n"
+	.string "jeg bare vise dig. Det ville være sjovere.\p"
+	.string "{PLAYER}, er dine POKéMON klar til kamp?$"
 
 Route120_Text_StevenIllWaitHere:
 	.string "Steven: Ikke?\p"
 	.string "Jeg vil vente her, så du kan gøre dig klar.$"
 
 Route120_Text_StevenReadyForBattle:
-	.string "STEVEN: {PLAYER}, er dine POKéMON\n"
-	.string "klar til kamp?$"
+	.string "STEVEN: {PLAYER}, er dine POKéMON klar\n"
+	.string "til kamp?$"
 
 Route120_Text_StevenShowMeYourPower:
 	.string "STEVEN: {PLAYER}, vis mig din sande\n"
@@ -391,24 +389,22 @@ Route120_Text_StevenShowMeYourPower:
 
 Route120_Text_StevenUsedDevonScope:
 	.string "STEVEN brugte DEVON-SKOPET.\p"
-	.string "En usynlig POKéMON blev helt\n"
-	.string "synlig!\p"
+	.string "En usynlig POKéMON blev helt synlig!\p"
 	.string "Den forskrækkede POKéMON angreb!$"
 
 Route120_Text_StevenGiveDevonScope:
-	.string "STEVEN: Jeg ser...\n"
-	.string "Din kampstil er fascinerende.\p"
-	.string "Dine POKéMON er åbenlyst vokset\n"
-	.string "siden jeg første gang mødte dig i DEWFORD.\p"
-	.string "Jeg vil gerne give dig denne\n"
-	.string "DEVON-SKOP.\p"
-	.string "Hvem ved, der kan være andre\n"
-	.string "skjulte POKéMON.$"
+	.string "STEVEN: Jeg ser... Din kampstil er\n"
+	.string "fascinerende.\p"
+	.string "Dine POKéMON er åbenlyst vokset siden jeg\n"
+	.string "første gang mødte dig i DEWFORD.\p"
+	.string "Jeg vil gerne give dig denne DEVON-SKOP.\p"
+	.string "Hvem ved, der kan være andre skjulte\n"
+	.string "POKéMON.$"
 
 Route120_Text_StevenGoodbye:
 	.string "STEVEN: {PLAYER}{KUN}.\p"
-	.string "Jeg nyder at se POKéMON og TRÆNERE\n"
-	.string "som kæmper sammen.\p"
+	.string "Jeg nyder at se POKéMON og TRÆNERE som\n"
+	.string "kæmper sammen.\p"
 	.string "Jeg synes du gør det super.\p"
 	.string "Nå, vi mødes et andet sted.$"
 
@@ -421,15 +417,14 @@ Kecleon_Text_WantToUseDevonScope:
 
 Kecleon_Text_UseDevonScopeMonAttacked:
 	.string "{PLAYER} brugte DEVON SKOPE.\p"
-	.string "En usynlig POKéMON blev helt\n"
-	.string "synlig!\p"
+	.string "En usynlig POKéMON blev helt synlig!\p"
 	.string "Den forskrækkede POKéMON angreb!$"
 
 Route120_Text_RouteSignFortree:
-	.string "RUTE 120\n"
-	.string "{LEFT_ARROW} FORTREE BY$"
+	.string "RUTE 120 {LEFT_ARROW} FORTREE BY$"
 
 Route120_Text_RouteSign121:
-	.string "{RIGHT_ARROW} RUTE 121\n"
-	.string "{LEFT_ARROW} RUTE 120$"
+	.string "{RIGHT_ARROW} RUTE 121 {LEFT_ARROW} RUTE 120$"
+
+
 

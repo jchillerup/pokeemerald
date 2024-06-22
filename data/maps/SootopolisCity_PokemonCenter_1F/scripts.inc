@@ -48,26 +48,24 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE siges at være den sejeste\n"
-	.string "TRÆNER i hele HOENN-regionen.\p"
-	.string "Denne bys GYM ledes af TRÆNEREN,\n"
-	.string "der underviste WALLACE.\p"
-	.string "Men ELITE FOUR... Siges at være\n"
-	.string "endnu stærkere end WALLACEs mentor.\p"
+	.string "WALLACE siges at være den sejeste TRÆNER i\n"
+	.string "hele HOENN-regionen.\p"
+	.string "Denne bys GYM ledes af TRÆNEREN, der\n"
+	.string "underviste WALLACE.\p"
+	.string "Men ELITE FOUR... Siges at være endnu\n"
+	.string "stærkere end WALLACEs mentor.\p"
 	.string "Hvor stærke mon de er?$"
 
 SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
-	.string "Alle i byen har søgt tilflugt\n"
-	.string "og vil ikke komme ud af deres hjem.\p"
-	.string "Selv jeg vil hellere ikke\n"
-	.string "tage udenfor.$"
+	.string "Alle i byen har søgt tilflugt og vil ikke\n"
+	.string "komme ud af deres hjem.\p"
+	.string "Selv jeg vil hellere ikke tage udenfor.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Når som helst, hvor som helst, og\n"
-	.string "hvad som helst der sker, vil jeg\n"
-	.string "altid være venner med POKéMON.\p"
-	.string "Fordi det er sjovt at være med\n"
-	.string "POKéMON!$"
+	.string "Når som helst, hvor som helst, og hvad som\n"
+	.string "helst der sker, vil jeg altid være venner med\l"
+	.string "POKéMON.\p"
+	.string "Fordi det er sjovt at være med POKéMON!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:
 	.string "Er POKéMON ikke vores venner?\p"

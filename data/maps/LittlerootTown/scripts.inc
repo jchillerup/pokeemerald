@@ -40,7 +40,6 @@ LittlerootTown_MapScripts::
 	@ 3: Met Rival
 	@ 4: Received Pokedex
 
-
 LittlerootTown_OnTransition:
 	setflag FLAG_VISITED_LITTLEROOT_TOWN
 	call Common_EventScript_SetupRivalGfxId
@@ -912,111 +911,105 @@ LittlerootTown_EventScript_GiveRunningShoes::
 	return
 
 LittlerootTown_Text_OurNewHomeLetsGoInside:
-    .string "MOR: {PLAYER}, vi er her, skat!\p"
-    .string "Det må være trættende at køre med vores ting\n"
-    .string "i flyttevognen.\p"
-    .string "Nå, det her er LITTLEROOT TOWN.\p"
-    .string "Hvad synes du om det?\n"
-    .string "Det her er vores nye hjem!\p"
-    .string "Det har en hyggelig stemning, men det ser ud til\n"
-    .string "at være et nemt sted at bo, ikke?\p"
-    .string "Og du får dit eget værelse, {PLAYER}!\n"
-    .string "Lad os gå indenfor.$"
+	.string "MOR: {PLAYER}, vi er her, skat!\p"
+	.string "Det må være trættende at køre med vores\n"
+	.string "ting i flyttevognen.\p"
+	.string "Nå, det her er LITTLEROOT TOWN.\p"
+	.string "Hvad synes du om det? Det her er vores nye\n"
+	.string "hjem!\p"
+	.string "Det har en hyggelig stemning, men det ser ud\n"
+	.string "til at være et nemt sted at bo, ikke?\p"
+	.string "Og du får dit eget værelse, {PLAYER}! Lad\n"
+	.string "os gå indenfor.$"
 
 LittlerootTown_Text_WaitPlayer:
 .string "MOR: Vent, {PLAYER}!$"
 
 LittlerootTown_Text_WearTheseRunningShoes:
-    .string "MOR: {PLAYER}! {PLAYER}! Har du\n"
-    .string "mødt PROF. BIRCH?\p"
-    .string "Åh! Hvor sødt med en POKéMON!\n"
-    .string "Den er fra PROF. BIRCH. Hvor dejligt!\p"
-    .string "Du ligner virkelig din far.\n"
-    .string "I ser så godt ud med POKéMON!\p"
-    .string "Skat, tag HER LØBESKO med på\n"
-    .string "eventyret. De giver dig ekstra fart!$"
+	.string "MOR: {PLAYER}! {PLAYER}! Har du mødt\n"
+	.string "PROF. BIRCH?\p"
+	.string "Åh! Hvor sødt med en POKéMON! Den er fra\n"
+	.string "PROF. BIRCH. Hvor dejligt!\p"
+	.string "Du ligner virkelig din far. I ser så godt ud\n"
+	.string "med POKéMON!\p"
+	.string "Skat, tag HER LØBESKO med på eventyret. De\n"
+	.string "giver dig ekstra fart!$"
 
 LittlerootTown_Text_SwitchShoesWithRunningShoes:
-    .string "{PLAYER} byttede sko ud med\n"
-    .string "LØBESKO.$"
+	.string "{PLAYER} byttede sko ud med LØBESKO.$"
 
 LittlerootTown_Text_ExplainRunningShoes:
-    .string "MOR: {PLAYER}, de sko kom med\n"
-    .string "instruktioner.\p"
-    .string "“Tryk på B-knappen, mens du har de\n"
-    .string "LØBESKO på, for at løbe ekstra\n"
-    .string "hurtigt!\p"
-    .string "“Tag disse LØBESKO på og løb\n"
-    .string "omkring i det fri!”$"
+	.string "MOR: {PLAYER}, de sko kom med\n"
+	.string "instruktioner.\p"
+	.string "“Tryk på B-knappen, mens du har de LØBESKO\n"
+	.string "på, for at løbe ekstra hurtigt!\p"
+	.string "“Tag disse LØBESKO på og løb omkring i det\n"
+	.string "fri!”$"
 
 LittlerootTown_Text_ComeHomeIfAnythingHappens:
-    .string "… … … … … … … …\n"
-    .string "… … … … … … … …\p"
-    .string "At tænke på, at du nu har din helt egen\n"
-    .string "POKéMON…\l"
-    .string "Din far vil være så glad.\p"
-    .string "…Men vær venligst forsigtig.\n"
-    .string "Hvis der sker noget, kan du altid komme hjem.\p"
-    .string "Kom nu, gå efter dem, skat!$"
+	.string "… … … … … … … … … … … … … … … …\p"
+	.string "At tænke på, at du nu har din helt egen\n"
+	.string "POKéMON… Din far vil være så glad.\p"
+	.string "…Men vær venligst forsigtig. Hvis der sker\n"
+	.string "noget, kan du altid komme hjem.\p"
+	.string "Kom nu, gå efter dem, skat!$"
 
 LittlerootTown_Text_CanUsePCToStoreItems:
-    .string "Hvis du bruger en PC,\nkan du opbevare\ngenstande og POKéMON.\p"
-    .string "Videnskabens kraft er\nforbløffende!$"
+	.string "Hvis du bruger en PC,kan du\n"
+	.string "opbevaregenstande og POKéMON.\p"
+	.string "Videnskabens kraft erforbløffende!$"
 
 LittlerootTown_Text_BirchSpendsDaysInLab:
-    .string "PROF. BIRCH tilbringer dage i sit LAB,\n"
-    .string "hvor han studerer, og så pludselig\n"
-    .string "går han ud i naturen for at forske videre…\p"
-    .string "Hvornår tilbringer PROF. BIRCH tid\n"
-    .string "hjemme?$"
+	.string "PROF. BIRCH tilbringer dage i sit LAB, hvor\n"
+	.string "han studerer, og så pludselig går han ud i\l"
+	.string "naturen for at forske videre…\p"
+	.string "Hvornår tilbringer PROF. BIRCH tid hjemme?$"
 
 LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut:
-    .string "Uh, uh, uh!\p"
-    .string "Når du går udenfor og ind i græsset,\n"
-    .string "vil vilde POKéMON hoppe frem!$"
+	.string "Uh, uh, uh!\p"
+	.string "Når du går udenfor og ind i græsset, vil vilde\n"
+	.string "POKéMON hoppe frem!$"
 
 LittlerootTown_Text_DangerousIfYouDontHavePokemon:
-    .string "Det er farligt, hvis du ikke har\n"
-    .string "din egen POKéMON.$"
+	.string "Det er farligt, hvis du ikke har din egen\n"
+	.string "POKéMON.$"
 
 LittlerootTown_Text_CanYouGoSeeWhatsHappening:
-    .string "Øh, hej!\p"
-    .string "Der er skræmmende POKéMON ude\nnfor!\n"
-    .string "Jeg kan høre deres råb!\p"
-    .string "Jeg vil gerne gå ud og se,\nhvad der sker,\nmen jeg har ingen POKéMON…\p"
-    .string "Kan du gå ud og se,\nhvad der sker,\nfor mig?$"
+	.string "Øh, hej!\p"
+	.string "Der er skræmmende POKéMON udenfor! Jeg\n"
+	.string "kan høre deres råb!\p"
+	.string "Jeg vil gerne gå ud og se,hvad der sker,men\n"
+	.string "jeg har ingen POKéMON…\p"
+	.string "Kan du gå ud og se,hvad der sker,for mig?$"
 
 LittlerootTown_Text_YouSavedBirch:
-    .string "Du reddede PROF. BIRCH!\n"
-    .string "Jeg er så glad!$"
+	.string "Du reddede PROF. BIRCH! Jeg er så glad!$"
 
 LittlerootTown_Text_GoodLuckCatchingPokemon:
-    .string "Skal du fange POKéMON? \n"
-    .string "Held og lykke!$"
+	.string "Skal du fange POKéMON?  Held og lykke!$"
 
 LittlerootTown_Text_TownSign:
-    .string "LITTLEROOT BY\n"
-    .string "“En by, der ikke har nogen gråzoner.”$"
+	.string "LITTLEROOT BY “En by, der ikke har nogen\n"
+	.string "gråzoner.”$"
 
 LittlerootTown_Text_ProfBirchsLab:
 .string "PROF. BIRCHS POKéMON LAB$"
 
 LittlerootTown_Text_PlayersHouse:
-    .string "{PLAYER}s HUS$"
+	.string "{PLAYER}s HUS$"
 
 LittlerootTown_Text_ProfBirchsHouse:
 .string "PROF. BIRCHS HUS$"
 
 LittlerootTown_Text_BirchSomethingToShowYouAtLab:
-    .string "PROF. BIRCH: Well well, {PLAYER} {KUN}!\n"
-    .string "Det var godt arbejde derude!\p"
-    .string "Jeg vidste, at der var noget specielt\n"
-    .string "ved dig, da jeg først så dig,\l"
-    .string "men jeg forventede aldrig dette.\p"
-    .string "Åh ja. Har du stadig POKéDEXEN,\n"
-    .string "jeg gav dig?\p"
-    .string "Jeg har noget at vise dig.\n"
-    .string "Lad os gå til mit LAB.$"
+	.string "PROF. BIRCH: Well well, {PLAYER} {KUN}! Det var\n"
+	.string "godt arbejde derude!\p"
+	.string "Jeg vidste, at der var noget specielt ved\n"
+	.string "dig, da jeg først så dig, men jeg forventede\l"
+	.string "aldrig dette.\p"
+	.string "Åh ja. Har du stadig POKéDEXEN, jeg gav dig?\p"
+	.string "Jeg har noget at vise dig. Lad os gå til mit\n"
+	.string "LAB.$"
 
 
 

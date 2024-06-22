@@ -1024,83 +1024,79 @@ RustboroCity_EventScript_Boy1::
 	end
 
 RustboroCity_Text_WeShortenItToDevon:
-	.string "DEVON CORPORATIONEN…\n"
-	.string "Vi kalder det bare DEVON.\p"
-	.string "Det firma laver alle slags\n"
-	.string "praktiske produkter.$"
+	.string "DEVON CORPORATIONEN… Vi kalder det bare\n"
+	.string "DEVON.\p"
+	.string "Det firma laver alle slags praktiske\n"
+	.string "produkter.$"
 
 RustboroCity_Text_SneakyLookingManWentAroundCorner:
 	.string "Hvad? En snedig udseende mand?\p"
-	.string "Nu hvor du siger det, ja, en skygge-\n"
-	.string "fuld fyr gik om hjørnet.$"
+	.string "Nu hvor du siger det, ja, en skygge- fuld fyr\n"
+	.string "gik om hjørnet.$"
 
 RustboroCity_Text_HaveYouChallengedGym:
-	.string "Har du taget POKéMON GYM\n"
-	.string "udfordringen?\p"
-	.string "Når du har den skinnende GYM-\n"
-	.string "BADGE i hånden, begynder TRÆNERE\n"
-	.string "vist at indse, hvad der kræves.$"
+	.string "Har du taget POKéMON GYM udfordringen?\p"
+	.string "Når du har den skinnende GYM- BADGE i\n"
+	.string "hånden, begynder TRÆNERE vist at indse,\l"
+	.string "hvad der kræves.$"
 
 RustboroCity_Text_HeyThatsRustborosGymBadge:
 	.string "Hey, det er RUSTBOROs GYM-BADGE!\p"
-	.string "Af alle POKéMON GYM-BADGES,\n"
-	.string "er RUSTBOROs nok den sejeste, synes jeg.$"
+	.string "Af alle POKéMON GYM-BADGES, er RUSTBOROs\n"
+	.string "nok den sejeste, synes jeg.$"
 
 RustboroCity_Text_YoureNewAroundHere:
-	.string "Åh? Hvem er du mon?\n"
-	.string "Du er et nyt ansigt heromkring.\p"
-	.string "Er du lige startet på\n"
-	.string "POKéMON TRÆNERENS SKOLE?$"
+	.string "Åh? Hvem er du mon? Du er et nyt ansigt\n"
+	.string "heromkring.\p"
+	.string "Er du lige startet på POKéMON TRÆNERENS\n"
+	.string "SKOLE?$"
 
 RustboroCity_Text_GymLeaderIsntEasyWithFire:
 	.string "Jeg udfordrede GYM LEDEREN, men…\p"
-	.string "Det bliver ikke let at vinde med\n"
-	.string "mine Ild-type POKéMON…\p"
-	.string "Ild-type POKéMON matcher ikke\n"
-	.string "godt mod KLIPPE-type POKéMON…$"
+	.string "Det bliver ikke let at vinde med mine\n"
+	.string "Ild-type POKéMON…\p"
+	.string "Ild-type POKéMON matcher ikke godt mod\n"
+	.string "KLIPPE-type POKéMON…$"
 
 RustboroCity_Text_MrBrineyWalksInTheTunnel:
-	.string "Den gamle sømand MR. BRINEY bor i\n"
-	.string "et sommerhus ved havet.\p"
-	.string "Han går ture i tunnelen en gang imellem\n"
-	.string "og så.$"
+	.string "Den gamle sømand MR. BRINEY bor i et\n"
+	.string "sommerhus ved havet.\p"
+	.string "Han går ture i tunnelen en gang imellem og så.$"
 
 RustboroCity_Text_MrBrineyLovesPeeko:
-	.string "Den gamle sømand MR. BRINEY bor i\n"
-	.string "et hus ved havet.\p"
+	.string "Den gamle sømand MR. BRINEY bor i et hus ved\n"
+	.string "havet.\p"
 	.string "Han sagde, at han skulle handle ind i\n"
 	.string "SLATEPORT til sit kæledyr, PEEKO.\p"
-	.string "Den gamle søulk, han må virkelig\n"
-	.string "elske den PEEKO.$"
+	.string "Den gamle søulk, han må virkelig elske den\n"
+	.string "PEEKO.$"
 
 RustboroCity_Text_WowYouHavePokemon:
 	.string "Wow, du har også POKéMON med dig.\p"
-	.string "Når jeg bliver større, vil jeg også\n"
-	.string "rejse rundt med POKéMON.$"
+	.string "Når jeg bliver større, vil jeg også rejse\n"
+	.string "rundt med POKéMON.$"
 
 RustboroCity_Text_CatchRarePokemonIfIGoToSchool:
 	.string "POKéMON TRÆNERSKOLE!\p"
-	.string "Hvis jeg går på denne skole, vil jeg så\n"
-	.string "let kunne fange sjældne POKéMON?$"
+	.string "Hvis jeg går på denne skole, vil jeg så let\n"
+	.string "kunne fange sjældne POKéMON?$"
 
 RustboroCity_Text_PokemonCanChangeLookFromExp:
-	.string "Hvis en POKéMON får erfaring i\n"
-	.string "kampe, kan den nogle gange\l"
-	.string "ændre sit udseende.$"
+	.string "Hvis en POKéMON får erfaring i kampe, kan\n"
+	.string "den nogle gange ændre sit udseende.$"
 
 RustboroCity_Text_PokemonChangeShape:
-	.string "En POKéMON ændrer form?\n"
-	.string "Hvis en gjorde det, ville jeg blive chokeret!$"
+	.string "En POKéMON ændrer form? Hvis en gjorde det,\n"
+	.string "ville jeg blive chokeret!$"
 
 RustboroCity_Text_TradePokemonGrowFast:
-	.string "En POKéMON, som du får i en handel fra\n"
-	.string "en anden, vokser hurtigt.\p"
-	.string "Men hvis du ikke har visse GYM\n"
-	.string "MÆRKER, vil den måske ikke adlyde dig…$"
+	.string "En POKéMON, som du får i en handel fra en\n"
+	.string "anden, vokser hurtigt.\p"
+	.string "Men hvis du ikke har visse GYM MÆRKER, vil den\n"
+	.string "måske ikke adlyde dig…$"
 
 RustboroCity_Text_OutOfTheWay:
-	.string "Kom ud!\n"
-	.string "Flyt dig!$"  
+	.string "Kom ud! Flyt dig!$"
 
 RustboroCity_Text_WaitDontTakeMyGoods:
 	.string "Vent! Veeenligst!\p"
@@ -1108,33 +1104,32 @@ RustboroCity_Text_WaitDontTakeMyGoods:
 
 RustboroCity_Text_HelpMeIWasRobbed:
 	.string "Nå, det er dig!\p"
-	.string "Du er den fantastiske TRÆNER, der\n"
-	.string "hjalp mig i PETALSKOVEN!\p"
+	.string "Du er den fantastiske TRÆNER, der hjalp mig i\n"
+	.string "PETALSKOVEN!\p"
 	.string "Hjælp mig! Jeg blev bestjålet af TEAM AQUA!\n"
-	.string "Jeg skal have DEVON-SPROGTEGENSTANDENE tilbage!\p"
-	.string "Hvis ikke jeg…\n"
-	.string "så er jeg i alvorlige problemer.$"
+	.string "Jeg skal have DEVON-SPROGTEGENSTANDENE\l"
+	.string "tilbage!\p"
+	.string "Hvis ikke jeg… så er jeg i alvorlige\n"
+	.string "problemer.$"
 
 RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel:
-	.string "Den skyggefulde karakter, jeg tror han\n"
-	.string "løb afsted mod tunnelen derovre.$"
+	.string "Den skyggefulde karakter, jeg tror han løb\n"
+	.string "afsted mod tunnelen derovre.$"
 
 RustboroCity_Text_YouGotItThankYou:
-	.string "Åh! Hvordan gik det?\n"
-	.string "VARENE FRA DEVONNEN?\p"
-	.string "Du gjorde det!\n"
-	.string "Du fik dem tilbage!\p"
+	.string "Åh! Hvordan gik det? VARENE FRA DEVONNEN?\p"
+	.string "Du gjorde det! Du fik dem tilbage!\p"
 	.string "Du er virkelig en fantastisk TRÆNER!\p"
-	.string "Jeg ved det! Som min tak, vil jeg give dig\n"
-	.string "en ANDEN FED BOLD!$"
+	.string "Jeg ved det! Som min tak, vil jeg give dig en\n"
+	.string "ANDEN FED BOLD!$"
 
 RustboroCity_Text_YoureLoadedWithItems:
-	.string "Du er fyldt med genstande.\n"
-	.string "Jeg kan ikke give dig denne FANTASTISKE BOLD.$"
+	.string "Du er fyldt med genstande. Jeg kan ikke give\n"
+	.string "dig denne FANTASTISKE BOLD.$"
 
 RustboroCity_Text_PleaseComeWithMe:
-	.string "Undskyld, vær så venlig!\n"
-	.string "Kom venligst med mig!$"
+	.string "Undskyld, vær så venlig! Kom venligst med\n"
+	.string "mig!$"
 
 RustboroCity_Text_MayHiLetsRegister:
 	.string "MAY: Hej, {PLAYER}{KUN}!\p"
@@ -1145,114 +1140,106 @@ RustboroCity_Text_MayHiLetsRegister:
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredMay:
-	.string "Registreret MAJ\n"
-	.string "i POKéNAV.\p$"
+	.string "Registreret MAJ i POKéNAV.$"
 
 RustboroCity_Text_MayPassedBrineyWantToBattle:
-	.string "MAY: Åh, forresten, jeg mødte\n"
-	.string "HR. BRINEY i PETALURG SKOVD.\p"
+	.string "MAY: Åh, forresten, jeg mødte HR. BRINEY i\n"
+	.string "PETALURG SKOVD.\p"
 	.string "Jeg gætter på, at han er på vej hjem til sin\n"
 	.string "hytte ved havet.\p"
 	.string "Hvordan går det med din POKéDEX,\n"
 	.string "{PLAYER}{KUN}? Min ser ret god ud!\p"
-	.string "Så…\n"
-	.string "Hvad siger du til en lille kamp?$"
+	.string "Så… Hvad siger du til en lille kamp?$"
 
 RustboroCity_Text_MayOhHaventRaisedPokemonEnough:
 	.string "MAY: Åh, hvad er der galt?\p"
-	.string "Har du ikke fanget eller trænet din\n"
-	.string "POKéMON meget?\p"
+	.string "Har du ikke fanget eller trænet din POKéMON\n"
+	.string "meget?\p"
 	.string "Det er ikke særlig godt for en TRÆNER!$"
 
 RustboroCity_Text_MayWantToBattle:
-    .string "MAY: Så, hvad tænker du om det?\n"
-    .string "Hvad med lidt kamp her?\p$"
+	.string "MAY: Så, hvad tænker du om det? Hvad med lidt\n"
+	.string "kamp her?$"
 
 RustboroCity_Text_MayImNotGoingToLose:
 	.string "MAY: Du er lige blevet en TRÆNER,\n"
 	.string "{PLAYER}{KUN}. Jeg vil ikke tabe!$"
 
 RustboroCity_Text_MayDefeat:
-	.string "Åh nej!\n"
-	.string "Du er bedre end jeg forventede!$"
+	.string "Åh nej! Du er bedre end jeg forventede!$"
 
 RustboroCity_Text_MayMrBrineyHint:
-	.string "MAY: Åh, forresten, HR. BRINEY, som\n"
-	.string "jeg lige passerede…\p"
-	.string "{PLAYER}{KUN}, du er lige flyttet hertil, så\n"
-	.string "du kender måske ikke til det, men HR.\n"
-	.string "BRINEY var engang en æret søfarer.$"
+	.string "MAY: Åh, forresten, HR. BRINEY, som jeg lige\n"
+	.string "passerede…\p"
+	.string "{PLAYER}{KUN}, du er lige flyttet hertil, så du\n"
+	.string "kender måske ikke til det, men HR. BRINEY var\l"
+	.string "engang en æret søfarer.$"
 
 RustboroCity_Text_BrendanHiLetsRegister:
 	.string "BRENDAN: Hej, {PLAYER}!\p"
 	.string "Du har fået en KAMPKALD-funktion\n"
 	.string "installeret på din POKéNAV! Sejt!\p"
-	.string "Lad os registrere hinanden, så vi\n"
-	.string "kan holde kontakten!\p"
+	.string "Lad os registrere hinanden, så vi kan holde\n"
+	.string "kontakten!\p"
 	.string "… … … … … …$"
 
 RustboroCity_Text_RegisteredBrendan:
-	.string "Registreret BRENDAN\n"
-	.string "i POKéNAV.\p$"
+	.string "Registreret BRENDAN i POKéNAV.$"
 
 RustboroCity_Text_BrendanPassedBrineyWantToBattle:
 	.string "BRENDAN: Forresten, {PLAYER}, jeg gik\n"
 	.string "forbi HR. BRINEY i PETALSKOVEN.\p"
-	.string "Jeg satser på, at han var på vej hjem\n"
-	.string "til sin hytte ved havet.\p"
+	.string "Jeg satser på, at han var på vej hjem til sin\n"
+	.string "hytte ved havet.\p"
 	.string "{PLAYER}, hvordan går det med din\n"
-	.string "POKéDEX?\n"
-	.string "Har du allerede udfyldt nogle\n"
+	.string "POKéDEX? Har du allerede udfyldt nogle\l"
 	.string "sider?\p"
 	.string "Min er suveræn.\p"
-	.string "Har lyst til at kæmpe for at teste,\n"
-	.string "hvor langt du er kommet?$"
+	.string "Har lyst til at kæmpe for at teste, hvor langt\n"
+	.string "du er kommet?$"
 
 RustboroCity_Text_BrendanNoConfidenceInPokemon:
-	.string "BRENDAN: Hvad er der galt? Har du\n"
-	.string "ingen tillid til dine POKéMON?$"
+	.string "BRENDAN: Hvad er der galt? Har du ingen\n"
+	.string "tillid til dine POKéMON?$"
 
 RustboroCity_Text_BrendanWantToBattle:
-	.string "BRENDAN: Hvad så?\n"
-	.string "Har lyst til at kæmpe mod mig?$"
+	.string "BRENDAN: Hvad så? Har lyst til at kæmpe mod\n"
+	.string "mig?$"
 
 RustboroCity_Text_BrendanIWontGoEasy:
-	.string "BRENDAN: Jeg ved, du lige er blevet\n"
-	.string "en TRÆNER, men jeg tager dig ikke let!$"
+	.string "BRENDAN: Jeg ved, du lige er blevet en\n"
+	.string "TRÆNER, men jeg tager dig ikke let!$"
 
 RustboroCity_Text_BrendanDefeat:
-	.string "Hmm…\n"
-	.string "Du er ret god.$"
+	.string "Hmm… Du er ret god.$"
 
 RustboroCity_Text_BrendanMrBrineyHint:
-	.string "BRENDAN: Forresten, kender du\n"
-	.string "HR. BRINEY? Ham fyren, jeg lige\n"
-	.string "passerede? Jeg ved sats og lig, at du\n"
-	.string "ikke vidste det, da du lige er flyttet\n"
-	.string "hertil, {PLAYER}, men HR. BRINEY var\n"
-	.string "engang en fantastisk sømand.$"
+	.string "BRENDAN: Forresten, kender du HR. BRINEY?\n"
+	.string "Ham fyren, jeg lige passerede? Jeg ved sats\l"
+	.string "og lig, at du ikke vidste det, da du lige er\l"
+	.string "flyttet hertil, {PLAYER}, men HR. BRINEY\l"
+	.string "var engang en fantastisk sømand.$"
 
 RustboroCity_Text_TunnelNearingCompletion:
-	.string "“Tidsbesparende tunnel nærmer\n"
-	.string "sig færdiggørelse!”\p"
-	.string "…Står der på skiltet, men der er\n"
-	.string "også et stort “X” sprøjtet\l"
-	.string "over det i rødt maling…$"
+	.string "“Tidsbesparende tunnel nærmer sig\n"
+	.string "færdiggørelse!”\p"
+	.string "…Står der på skiltet, men der er også et\n"
+	.string "stort “X” sprøjtet over det i rødt maling…$"
 
 RustboroCity_Text_DevonCorpSign:
 	.string "DEVON CORPORATION\p"
-	.string "“Til alle dine livsbehov, laver vi\n"
-	.string "det hele.”$"
+	.string "“Til alle dine livsbehov, laver vi det hele.”$"
 
 RustboroCity_Text_GymSign:
-	.string "RUSTBORO CITY POKéMON GYM\n"
-	.string "LEDER: ROXANNE\p"
-	.string "“Den stenelskende æresstuderende!”$" 
+	.string "RUSTBORO CITY POKéMON GYM LEDER:\n"
+	.string "ROXANNE\p"
+	.string "“Den stenelskende æresstuderende!”$"
 
 RustboroCity_Text_DevonCorpBranchOfficeSign:
 	.string "DEVON CORP. FILIALKONTOR\p"
-	.string "“Adgang begrænset til DEVON-medarbejdere\n"
-	.string "og autoriseret personale.”$"
+	.string "“Adgang begrænset til\n"
+	.string "DEVON-medarbejdere og autoriseret\l"
+	.string "personale.”$"
 
 RustboroCity_Text_CitySign:
 	.string "RUSTBORO CITY\p"
@@ -1261,45 +1248,45 @@ RustboroCity_Text_CitySign:
 
 RustboroCity_Text_TrainersSchoolSign:
 	.string "POKéMON TRÆNER SKOLE\p"
-	.string "“Vi lærer dig alt om\nPOKéMON!”$"
+	.string "“Vi lærer dig alt omPOKéMON!”$"
 
 RustboroCity_Text_CuttersHouse:
 .string "CUTTER'S HOUSE$"
 
 RustboroCity_Text_DevelopedNewPokenavFeature:
-	.string "Jeg har udviklet en ekstra funktion\n"
-	.string "til POKéNAV'en... \p"
+	.string "Jeg har udviklet en ekstra funktion til\n"
+	.string "POKéNAV'en... \p"
 	.string "Og den blev virkelig god!\p"
-	.string "{PLAYER}, må jeg se din POKéNAV?\n"
-	.string "Den som vores PRÆSIDENT gav dig?$"
+	.string "{PLAYER}, må jeg se din POKéNAV? Den som\n"
+	.string "vores PRÆSIDENT gav dig?$"
 
 RustboroCity_Text_AddedMatchCallPleaseCallMrStone:
 	.string "Her får du det, {PLAYER}!\p"
-	.string "Jeg har tilføjet en ny funktion\n"
-	.string "ved navn MATCH CALL til din\n"
+	.string "Jeg har tilføjet en ny funktion ved navn\n"
+	.string "MATCH CALL til din POKéNAV.\p"
+	.string "Ved hjælp af MATCH CALL-funktionen kan du\n"
+	.string "chatte med folk, der er registreret i din\l"
 	.string "POKéNAV.\p"
-	.string "Ved hjælp af MATCH CALL-funktionen\n"
-	.string "kan du chatte med folk, der er\n"
+	.string "{PLAYER}, vores PRÆSIDENT STEN bør være\n"
 	.string "registreret i din POKéNAV.\p"
-	.string "{PLAYER}, vores PRÆSIDENT STEN\n"
-	.string "bør være registreret i din POKéNAV.\p"
-	.string "Prøv det.\n"
-	.string "Ring til vores PRÆSIDENT. $"
+	.string "Prøv det. Ring til vores PRÆSIDENT. $"
 
 RustboroCity_Text_PleaseSelectPokenav:
 .string "Vælg venligst POKéNAV'en.$"
 
 RustboroCity_Text_IdBetterGetBackToWork:
-	.string "Okay, jeg må hellere komme tilbage til arbejdet.\n"
-	.string "Pas på, {PLAYER}!$"
+	.string "Okay, jeg må hellere komme tilbage til\n"
+	.string "arbejdet. Pas på, {PLAYER}!$"
 
 RustboroCity_Text_YouCanHave2On2Battle:
 	.string "Vidste du dette?\p"
-	.string "Du kan have en 2-mod-2 kamp selv\n"
-	.string "hvis du ikke er med en anden TRÆNER.\p"
-	.string "Hvis du fanger øjnene på to TRÆNERE\n"
-	.string "når du har to eller flere POKéMON,\l"
-	.string "vil de begge udfordre dig.\p"
+	.string "Du kan have en 2-mod-2 kamp selv hvis du\n"
+	.string "ikke er med en anden TRÆNER.\p"
+	.string "Hvis du fanger øjnene på to TRÆNERE når du\n"
+	.string "har to eller flere POKéMON, vil de begge\l"
+	.string "udfordre dig.\p"
 	.string "Synes du ikke det ville være sejt, hvis du\n"
 	.string "kunne slå to TRÆNERE alene?$"
+
+
 

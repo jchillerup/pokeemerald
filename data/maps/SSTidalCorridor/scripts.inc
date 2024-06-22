@@ -256,74 +256,68 @@ SSTidalCorridor_Movement_SailorReturn:
 	step_end
 
 SSTidalCorridor_Text_ScottBattleFrontierInvite:
-	.string "SCOTT: Nå, hej, hej!\n"
-	.string "{PLAYER}{KUN}, {PLAYER}{KUN}!\p"
-	.string "Der er sket noget, så jeg bliver nødt\n"
-	.string "til at gå i land, men hvor er det dejligt\n"
-	.string "at se dig!\p"
+	.string "SCOTT: Nå, hej, hej! {PLAYER}{KUN},\n"
+	.string "{PLAYER}{KUN}!\p"
+	.string "Der er sket noget, så jeg bliver nødt til at gå\n"
+	.string "i land, men hvor er det dejligt at se dig!\p"
 	.string "Tillykke, LIGA-MESTER!\p"
-	.string "Der er et sted, jeg gerne vil invitere\n"
-	.string "én som dig.\p"
-	.string "Det er…\n"
-	.string "KAMPFRONTEN!\p"
-	.string "Hvordan er stedet?\n"
-	.string "Det forstår du, når du ser det!\p"
-	.string "Jeg har talt med skibets KAPTAIN\n"
-	.string "om dette.\p"
-	.string "Næste gang du tager færgen,\n"
-	.string "burde du kunne sejle til\l"
-	.string "KAMPFRONTEN.\p"
-	.string "Okay, {PLAYER}{KUN}, jeg venter på dig\n"
-	.string "på KAMPFRONTEN!$"
+	.string "Der er et sted, jeg gerne vil invitere én som\n"
+	.string "dig.\p"
+	.string "Det er… KAMPFRONTEN!\p"
+	.string "Hvordan er stedet? Det forstår du, når du\n"
+	.string "ser det!\p"
+	.string "Jeg har talt med skibets KAPTAIN om dette.\p"
+	.string "Næste gang du tager færgen, burde du kunne\n"
+	.string "sejle til KAMPFRONTEN.\p"
+	.string "Okay, {PLAYER}{KUN}, jeg venter på dig på\n"
+	.string "KAMPFRONTEN!$"
 
 SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage:
 	.string "Denne færge er bygget til at pløje gennem\n"
 	.string "hurtigtstrømmende strømme.\p"
-	.string "Vi håber, du nyder din rejse med os.\n"
-	.string "Du er velkommen til at udforske skibet.$"
+	.string "Vi håber, du nyder din rejse med os. Du er\n"
+	.string "velkommen til at udforske skibet.$"
 
 SSTidal_Text_HopeYouEnjoyVoyage:
-	.string "Vi håber, at du nyder din rejse på\n"
-	.string "vores færge.$"
+	.string "Vi håber, at du nyder din rejse på vores\n"
+	.string "færge.$"
 
 SSTidal_Text_MadeLandInSlateport:
-	.string "Vi er nået til SLATEPORT CITY.\n"
-	.string "Tak for turen med os.$"
+	.string "Vi er nået til SLATEPORT CITY. Tak for turen\n"
+	.string "med os.$"
 
 SSTidal_Text_MadeLandInLilycove:
-	.string "Vi er nået til LILYCOVE CITY.\n"
-	.string "Tak for turen med os.$"
+	.string "Vi er nået til LILYCOVE CITY. Tak for turen\n"
+	.string "med os.$"
 
 SSTidalCorridor_Text_CanRestInCabin2:
-	.string "Der går lidt tid, før vi når land,\n"
-	.string "vil jeg tro.\p"
-	.string "Du kan slappe af på din kahyt, hvis\n"
-	.string "du har lyst. Din kahyt er nr. 2.\p"
-	.string "Sengen derinde er blød og lækker.\n"
-	.string "Jeg kan skrive under på, hvor\n"
-	.string "behagelig den er!$"
+	.string "Der går lidt tid, før vi når land, vil jeg tro.\p"
+	.string "Du kan slappe af på din kahyt, hvis du har\n"
+	.string "lyst. Din kahyt er nr. 2.\p"
+	.string "Sengen derinde er blød og lækker. Jeg kan\n"
+	.string "skrive under på, hvor behagelig den er!$"
 
 SSTidalCorridor_Text_WeveArrived:
 .string "Vi er ankommet!$"
 
 SSTidalCorridor_Text_VisitOtherCabins:
-	.string "Gå besøg andre hytter.\n"
-	.string "TRÆNERE der keder sig på bådturen\l"
-	.string "vil være ivrige efter at kæmpe.$" 
+	.string "Gå besøg andre hytter. TRÆNERE der keder\n"
+	.string "sig på bådturen vil være ivrige efter at\l"
+	.string "kæmpe.$"
 
 SSTidalCorridor_Text_EnjoyYourCruise:
 .string "God fornøjelse med din krydstogt!$"
 
 SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole:
-	.string "Horisonten strækker sig ud \n"
-	.string "forbi kighullet.$"
+	.string "Horisonten strækker sig ud  forbi\n"
+	.string "kighullet.$"
 
 SSTidalCorridor_Text_BrineyWelcomeAboard:
 	.string "MR. BRINEY: Velkommen om bord, {PLAYER}{KUN}!\p"
-	.string "De udnævnte mig til æreskaptajn af\n"
-	.string "S.S. TIDAL!\p"
+	.string "De udnævnte mig til æreskaptajn af S.S.\n"
+	.string "TIDAL!\p"
 	.string "Du kan kalde mig KAPTAIN BRINEY nu!\p"
-	.string "Ved du hvad, jeg trak mig tilbage en\ngang før,\n"
+	.string "Ved du hvad, jeg trak mig tilbage engang før,\n"
 	.string "men da jeg så dette majestætiske skib…\p"
 	.string "Lad mig bare sige, det rørte min sovende\n"
 	.string "sømandssjæl!$"
@@ -342,4 +336,6 @@ SSTidalCorridor_Text_Cabin3:
 
 SSTidalCorridor_Text_Cabin4:
 	.string "Hytte 4$"
+
+
 

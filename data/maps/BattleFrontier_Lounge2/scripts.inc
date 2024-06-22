@@ -115,18 +115,17 @@ BattleFrontier_Lounge2_EventScript_TriathleteF::
 	end
 
 BattleFrontier_Lounge2_Text_FrontierManiacIntro::
-	.string "Hej! Når det kommer til nyheder om\n"
-	.string "BATTLE FRONTIER, er jeg nr. 1.\p"
-	.string "Du kan betragte mig som\n"
-	.string "FRONTIER MANIAC.\p"
-	.string "Bare lige for at være sikker, du er en\n"
-	.string "TRÆNER, ikke sandt?\p"
+	.string "Hej! Når det kommer til nyheder om BATTLE\n"
+	.string "FRONTIER, er jeg nr. 1.\p"
+	.string "Du kan betragte mig som FRONTIER MANIAC.\p"
+	.string "Bare lige for at være sikker, du er en TRÆNER,\n"
+	.string "ikke sandt?\p"
 	.string "Jeg vil glædeligt dele de seneste nyheder\n"
 	.string "jeg har samlet om BATTLE FRONTIER.$"
 
 BattleFrontier_Lounge2_Text_SwingByForTheLatestWord::
-	.string "Hej! Kom du forbi for at grille mig\n"
-	.string "om det seneste ord? Nå, fint!$"
+	.string "Hej! Kom du forbi for at grille mig om det\n"
+	.string "seneste ord? Nå, fint!$"
 
 @ Unused
 BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight::
@@ -137,8 +136,8 @@ BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight::
 
 BattleFrontier_Lounge2_Text_FacilityIsHottest::
 	.string "Lad os se nu…\p"
-	.string "Det lyder som om {STR_VAR_1}\n"
-	.string "er det hotteste sted lige nu.$"
+	.string "Det lyder som om {STR_VAR_1} er det\n"
+	.string "hotteste sted lige nu.$"
 
 BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
 	.string "Lad os se nu…\p"
@@ -147,127 +146,123 @@ BattleFrontier_Lounge2_Text_BattleTowerIsHottest::
 
 BattleFrontier_Lounge2_Text_SalonMaidenIsThere::
 	.string "Vidste du ikke det!\p"
-	.string "En af de top TRÆNERE, som SCOTT\n"
-	.string "kalder FRONTIER BRAINS, er der.\p"
+	.string "En af de top TRÆNERE, som SCOTT kalder\n"
+	.string "FRONTIER BRAINS, er der.\p"
 	.string "Det er denne mystiske TRÆNER kaldet\n"
 	.string "SALONMAIDEN, der styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenSilverMons::
 	.string "Har du kæmpet mod SALON MAIDEN?\p"
-	.string "Når hun måler sin modstander op,\n"
-	.string "bruger hun angiveligt disse POKéMON:\p"
-	.string "En PSI POKéMON af PSYKISK type,\n"
-	.string "en VULKAN POKéMON af ILD type,\l"
-	.string "og en SOVEND POKéMON af NORMAL type.$"
+	.string "Når hun måler sin modstander op, bruger hun\n"
+	.string "angiveligt disse POKéMON:\p"
+	.string "En PSI POKéMON af PSYKISK type, en VULKAN\n"
+	.string "POKéMON af ILD type, og en SOVEND POKéMON\l"
+	.string "af NORMAL type.$"
 
 BattleFrontier_Lounge2_Text_SalonMaidenGoldMons::
-	.string "Har du kæmpet mod SALON MAIDENEN\n"
-	.string "når hun er seriøs?\p"
-	.string "Når hun kæmper for alvor,\n"
-	.string "bruger hun åbenbart disse POKéMON:\p"
-	.string "En DRAGE- & PSYCHIC-typ EON POKéMON,\n"
-	.string "en ELEKTRISK-type TORDEN POKéMON,\l"
-	.string "og en NORMAL-type SOVENDE POKéMON.$"
+	.string "Har du kæmpet mod SALON MAIDENEN når hun er\n"
+	.string "seriøs?\p"
+	.string "Når hun kæmper for alvor, bruger hun\n"
+	.string "åbenbart disse POKéMON:\p"
+	.string "En DRAGE- & PSYCHIC-typ EON POKéMON, en\n"
+	.string "ELEKTRISK-type TORDEN POKéMON, og en\l"
+	.string "NORMAL-type SOVENDE POKéMON.$"
 
 BattleFrontier_Lounge2_Text_DomeAceIsThere::
 	.string "Vidste du ikke det!\p"
-	.string "En af de bedste TRÆNERE, som SCOTT\n"
-	.string "kalder FRONTHJERNERNE, er der.\p"
-	.string "Det er denne flamboyante TRÆNER\n"
-	.string "kaldet DOME-ESS, der styrer stedet.$"
+	.string "En af de bedste TRÆNERE, som SCOTT kalder\n"
+	.string "FRONTHJERNERNE, er der.\p"
+	.string "Det er denne flamboyante TRÆNER kaldet\n"
+	.string "DOME-ESS, der styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_DomeAceSilverMons::
 	.string "Har du kæmpet mod DOME ACE?\p"
-	.string "Når han behandler modstanderen\n"
-	.string "let, bruger han disse tre POKéMON:\p"
-	.string "En DRAGE & FLYVENDE DRAGE POKéMON,\n"
-	.string "en VAND & JORD MUD FISK POKéMON,\l"
-	.string "og en ILD & FLYVENDE FLAMME POKéMON.$"
+	.string "Når han behandler modstanderen let,\n"
+	.string "bruger han disse tre POKéMON:\p"
+	.string "En DRAGE & FLYVENDE DRAGE POKéMON, en VAND\n"
+	.string "& JORD MUD FISK POKéMON, og en ILD &\l"
+	.string "FLYVENDE FLAMME POKéMON.$"
 
 BattleFrontier_Lounge2_Text_DomeAceGoldMons::
-	.string "Har du kæmpet mod DOME ACE\n"
-	.string "når han er seriøs?\p"
-	.string "Når han demonstrerer sin strategi,\n"
-	.string "bruger han disse tre POKéMON:\p"
-	.string "En DRAGE- og FLYVENDE EON POKéMON,\n"
-	.string "en VAND- og JORD MUD FISH POKéMON,\l"
-	.string "og en STÅL- og PSYKISK-type IRON LEG\l"
-	.string "POKéMON.$"
+	.string "Har du kæmpet mod DOME ACE når han er\n"
+	.string "seriøs?\p"
+	.string "Når han demonstrerer sin strategi, bruger\n"
+	.string "han disse tre POKéMON:\p"
+	.string "En DRAGE- og FLYVENDE EON POKéMON, en\n"
+	.string "VAND- og JORD MUD FISH POKéMON, og en STÅL-\l"
+	.string "og PSYKISK-type IRON LEG POKéMON.$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadIsThere::
 	.string "Vidste du ikke dette!\p"
-	.string "En af de øverste TRÆNERE, som SCOTT\n"
-	.string "kalder FRONTIER BRAINS, er der.\p"
+	.string "En af de øverste TRÆNERE, som SCOTT kalder\n"
+	.string "FRONTIER BRAINS, er der.\p"
 	.string "Det er denne mærkelige TRÆNER kaldet\n"
 	.string "FABRIKKENS LEDER, der styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadSilverMons::
-	.string "Har du allerede kæmpet mod FABRIKSDIREKTØREN\n"
-	.string "?\p"
+	.string "Har du allerede kæmpet mod\n"
+	.string "FABRIKSDIREKTØREN ?\p"
 	.string "Lad mig tænke… Når han går i kamp, får han\n"
 	.string "bare tre lejede POKéMON.\p"
 	.string "Han kæmper under stort set de samme\n"
 	.string "betingelser som dig.$"
 
 BattleFrontier_Lounge2_Text_FactoryHeadGoldMons::
-	.string "Har du kæmpet mod FABRIKSOVERHOVEDEN\n"
-	.string "når han er seriøs?\p"
-	.string "Når han går seriøst til kamp,\n"
-	.string "bruger han stadig tre lejede POKéMON.\p"
+	.string "Har du kæmpet mod FABRIKSOVERHOVEDEN når\n"
+	.string "han er seriøs?\p"
+	.string "Når han går seriøst til kamp, bruger han\n"
+	.string "stadig tre lejede POKéMON.\p"
 	.string "Han kæmper under næsten de samme\n"
 	.string "betingelser som dig.$"
 
 BattleFrontier_Lounge2_Text_PikeQueenIsThere::
 	.string "Vidste du ikke det her!\p"
-	.string "En af de bedste TRÆNERE, som SCOTT\n"
-	.string "kalder FRONTIER BRAINS, er der.\p"
+	.string "En af de bedste TRÆNERE, som SCOTT kalder\n"
+	.string "FRONTIER BRAINS, er der.\p"
 	.string "Det er denne skræmmende TRÆNER kaldet\n"
 	.string "PIKE QUEEN, som styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_PikeQueenSilverMons::
-	.string "Har du kæmpet mod PIKE DRONNINGEN\n"
-	.string "før?\p"
-	.string "Når hun er i godt humør, siges det,\n"
-	.string "at hun bruger disse tre POKéMON:\p"
-	.string "En GIFT-type FANG SNAKE POKéMON,\n"
-	.string "en BILLE & STEN MOLD POKéMON,\l"
-	.string "og en VAND-type TENDER POKéMON.$"
+	.string "Har du kæmpet mod PIKE DRONNINGEN før?\p"
+	.string "Når hun er i godt humør, siges det, at hun\n"
+	.string "bruger disse tre POKéMON:\p"
+	.string "En GIFT-type FANG SNAKE POKéMON, en BILLE\n"
+	.string "& STEN MOLD POKéMON, og en VAND-type\l"
+	.string "TENDER POKéMON.$"
 
 BattleFrontier_Lounge2_Text_PikeQueenGoldMons::
-	.string "Har du kæmpet mod PIKE QUEENEN\n"
-	.string "når hun er seriøs?\p"
-	.string "Når hun er virkelig irriteret, siger man,\n"
-	.string "at hun bruger disse tre POKéMON:\p"
-	.string "En GIFT-type GIFTSLANGE POKéMON,\n"
-	.string "en STÅL- og JORD-type JERNSLANGE POKéMON,\l"
+	.string "Har du kæmpet mod PIKE QUEENEN når hun er\n"
+	.string "seriøs?\p"
+	.string "Når hun er virkelig irriteret, siger man, at\n"
+	.string "hun bruger disse tre POKéMON:\p"
+	.string "En GIFT-type GIFTSLANGE POKéMON, en\n"
+	.string "STÅL- og JORD-type JERNSLANGE POKéMON,\l"
 	.string "og en VAND- og FLYV-type GRUEFULDT\l"
 	.string "POKéMON.$"
 
 BattleFrontier_Lounge2_Text_ArenaTycoonIsThere::
 	.string "Vidste du ikke dette!\p"
-	.string "En af de bedste TRÆNERE, som SCOTT\n"
-	.string "kalder FRONTEKSPERTERNE, er der.\p"
+	.string "En af de bedste TRÆNERE, som SCOTT kalder\n"
+	.string "FRONTEKSPERTERNE, er der.\p"
 	.string "Det er denne søde TRÆNER kaldet\n"
 	.string "ARENAEJEREN, som styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons::
-	.string "Har du kæmpet mod ARENA TYCOON'en\n"
-	.string "før?\p"
+	.string "Har du kæmpet mod ARENA TYCOON'en før?\p"
 	.string "Når hun vurderer modstanderens evne,\n"
 	.string "bruger hun angiveligt disse POKéMON:\p"
-	.string "En BUG & FIGHTING SINGLE HORN POKéMON,\n"
-	.string "en DARK-type MOONLIGHT POKéMON,\l"
-	.string "og en BUG & GHOST SHED POKéMON.$"
+	.string "En BUG & FIGHTING SINGLE HORN POKéMON, en\n"
+	.string "DARK-type MOONLIGHT POKéMON, og en BUG &\l"
+	.string "GHOST SHED POKéMON.$"
 
 BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons::
-	.string "Har du kæmpet mod ARENA TYCOONEN\n"
-	.string "når hun er seriøs?\p"
-	.string "Når hun kæmper for alvor,\n"
-	.string "bruger hun angiveligt disse POKéMON:\p"
-	.string "En MØRKE-type MÅNESKIN POKéMON,\n"
-	.string "en SPØGELSES- og GIFT SHADOW POKéMON\l"
-	.string "og en GRÆS- & KAMP-type\l"
-	.string "SVAMPE POKéMON.$"
+	.string "Har du kæmpet mod ARENA TYCOONEN når hun er\n"
+	.string "seriøs?\p"
+	.string "Når hun kæmper for alvor, bruger hun\n"
+	.string "angiveligt disse POKéMON:\p"
+	.string "En MØRKE-type MÅNESKIN POKéMON, en\n"
+	.string "SPØGELSES- og GIFT SHADOW POKéMON og en\l"
+	.string "GRÆS- & KAMP-type SVAMPE POKéMON.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "Vidste du ikke dette!\p"
@@ -277,87 +272,85 @@ BattleFrontier_Lounge2_Text_PalaceMavenIsThere::
 	.string "PALACE MAVEN, der styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenSilverMons::
-	.string "Har du tidligere kæmpet mod PALACE\n"
-	.string "MAVEN før?\p"
+	.string "Har du tidligere kæmpet mod PALACE MAVEN\n"
+	.string "før?\p"
 	.string "Når han tester modstanderens ånd, siges\n"
 	.string "han at bruge disse POKéMON:\p"
-	.string "En GIFT & FLYV-type FUGLE-POKéMON,\n"
-	.string "en NORMAL-type DOVEN POKéMON og en\n"
-	.string "VAND & IS-type TRANSPORT POKéMON.$"
+	.string "En GIFT & FLYV-type FUGLE-POKéMON, en\n"
+	.string "NORMAL-type DOVEN POKéMON og en VAND &\l"
+	.string "IS-type TRANSPORT POKéMON.$"
 
 BattleFrontier_Lounge2_Text_PalaceMavenGoldMons::
-	.string "Har du kæmpet mod PALACE MAVENEN\n"
-	.string "når han er seriøs?\p"
-	.string "Når han kaster sin fulde kraft ind i\n"
-	.string "kampen, siges det, at han bruger disse POKéMON:\p"
-	.string "En ILD-type LEGENDARISK POKéMON,\n"
-	.string "en NORMAL-type DOVEN POKéMON,\l"
-	.string "og en VAND-type AURORA POKéMON.$"
+	.string "Har du kæmpet mod PALACE MAVENEN når han er\n"
+	.string "seriøs?\p"
+	.string "Når han kaster sin fulde kraft ind i kampen,\n"
+	.string "siges det, at han bruger disse POKéMON:\p"
+	.string "En ILD-type LEGENDARISK POKéMON, en\n"
+	.string "NORMAL-type DOVEN POKéMON, og en\l"
+	.string "VAND-type AURORA POKéMON.$"
 
 BattleFrontier_Lounge2_Text_PyramidKingIsThere::
 	.string "Vidste du ikke dette!\p"
-	.string "En af de der tophold \n"
-	.string "TRÆNERE som SCOTT kalder \n"
-	.string "FRONTIER BRAINS er der.\p"
-	.string "Det er denne ildrøde TRÆNER kaldet\n"
-	.string "PYRAMID KING, der styrer stedet.$"
+	.string "En af de der tophold  TRÆNERE som SCOTT\n"
+	.string "kalder  FRONTIER BRAINS er der.\p"
+	.string "Det er denne ildrøde TRÆNER kaldet PYRAMID\n"
+	.string "KING, der styrer stedet.$"
 
 BattleFrontier_Lounge2_Text_PyramidKingSilverMons::
-	.string "Har du kæmpet mod PYRAMID KINGEN\n"
-	.string "før?\p"
+	.string "Har du kæmpet mod PYRAMID KINGEN før?\p"
 	.string "Når han tjekker modstanderens styrke,\n"
 	.string "bruger han tilsyneladende disse POKéMON:\p"
-	.string "En STEN-type STEN TOP POKéMON,\n"
-	.string "en IS-type ISBJERG POKéMON,\l"
-	.string "og en STÅL-type JERN POKéMON.$"
-
-BattleFrontier_Lounge2_Text_PyramidKingGoldMons::
-	.string "Har du kæmpet mod PYRAMID KING-en\n"
-	.string "når han er seriøs?\p"
-	.string "Når han er fyldt med varm energi,\n"
-	.string "bruger han åbenbart disse POKéMON:\p"
-	.string "En IS- OG FLYVENDE FROST POKéMON, en\n"
-	.string "ELEKTRISK OG FLYVENDE ELEKTRISK POKéMON,\l"
-	.string "og en Ild- OG FLYVENDE-type FLAMME\l"
+	.string "En STEN-type STEN TOP POKéMON, en IS-type\n"
+	.string "ISBJERG POKéMON, og en STÅL-type JERN\l"
 	.string "POKéMON.$"
 
+BattleFrontier_Lounge2_Text_PyramidKingGoldMons::
+	.string "Har du kæmpet mod PYRAMID KING-en når han\n"
+	.string "er seriøs?\p"
+	.string "Når han er fyldt med varm energi, bruger han\n"
+	.string "åbenbart disse POKéMON:\p"
+	.string "En IS- OG FLYVENDE FROST POKéMON, en\n"
+	.string "ELEKTRISK OG FLYVENDE ELEKTRISK\l"
+	.string "POKéMON, og en Ild- OG FLYVENDE-type\l"
+	.string "FLAMME POKéMON.$"
+
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice1::
-	.string "Selvfølgelig! Der er flere steder, hvor\n"
-	.string "du kan deltage i DOBBELTBATLER.\p"
-	.string "Men DOBBELTBATLE RUMMENE i\n"
-	.string "KAMPENS TOWER er ret så grundlæggende!\p"
+	.string "Selvfølgelig! Der er flere steder, hvor du\n"
+	.string "kan deltage i DOBBELTBATLER.\p"
+	.string "Men DOBBELTBATLE RUMMENE i KAMPENS TOWER\n"
+	.string "er ret så grundlæggende!\p"
 	.string "Det er her, du bør lære om, hvordan\n"
-	.string "DOBBELTBATLER spilles her\l"
-	.string "i KAMPENS FRONT.$"
+	.string "DOBBELTBATLER spilles her i KAMPENS\l"
+	.string "FRONT.$"
 
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice2::
 	.string "Pas på dig selv i kampene her.\p"
 	.string "Jeg hører, at der er TRÆNERE, der har\n"
 	.string "udviklet strategier specielt til\l"
-	.string "DOBBELTKAMPE.$"  
+	.string "DOBBELTKAMPE.$"
 
 BattleFrontier_Lounge2_Text_DoubleBattleAdvice3::
-	.string "Når du er tryg og komfortabel\n"
-	.string "med DOBBELTBATTLES her, bør du\l"
-	.string "tænke på at udfordre andre steder\l"
-	.string "som tilbyder DOBBELTBATTLES.$"
+	.string "Når du er tryg og komfortabel med\n"
+	.string "DOBBELTBATTLES her, bør du tænke på at\l"
+	.string "udfordre andre steder som tilbyder\l"
+	.string "DOBBELTBATTLES.$"
 
 BattleFrontier_Lounge2_Text_MultiBattleAdvice::
-	.string "Alle slags TRÆNERE samles i\n"
-	.string "KAMP SALONEN.\p"
-	.string "Forestil dig bare--du kunne støde\n"
-	.string "på dine venner eller følgere!\l"
-	.string "Du bør kigge godt efter!$"
+	.string "Alle slags TRÆNERE samles i KAMP SALONEN.\p"
+	.string "Forestil dig bare--du kunne støde på dine\n"
+	.string "venner eller følgere! Du bør kigge godt\l"
+	.string "efter!$"
 
 BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice::
-	.string "Hvis du er sammen med en ven, så gå til\n"
-	.string "LINK MULTI BATTLE ROOM.\p"
-	.string "Hvis du spiller med en stærk ven,\n"
-	.string "kan du forvente at møde svære modstandere!$"
+	.string "Hvis du er sammen med en ven, så gå til LINK\n"
+	.string "MULTI BATTLE ROOM.\p"
+	.string "Hvis du spiller med en stærk ven, kan du\n"
+	.string "forvente at møde svære modstandere!$"
 
 BattleFrontier_Lounge2_Text_NewsGatheringPower::
-	.string "Hvilken fantastisk nyhedsindsamlingskraft!\n"
-	.string "Min mentor er som ingen anden!$"
+	.string "Hvilken fantastisk\n"
+	.string "nyhedsindsamlingskraft! Min mentor er\l"
+	.string "som ingen anden!$"
 
 BattleFrontier_Lounge2_Text_AmazingPowersOfObservation::
 	.string "Hvilke fantastiske observationsevner!\n"
@@ -368,8 +361,7 @@ BattleFrontier_Lounge2_Text_AmazingPowerOfPersuasion::
 	.string "Min mentor er helt unik!$"
 
 BattleFrontier_Lounge2_Text_ThisPlaceIsScaringMe::
-	.string "Hvad er dette sted?\n"
-	.string "Det skræmmer mig…$"
+	.string "Hvad er dette sted? Det skræmmer mig…$"
 
 
 

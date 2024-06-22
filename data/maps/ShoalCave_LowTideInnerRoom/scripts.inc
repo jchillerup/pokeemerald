@@ -134,3 +134,5 @@ ShoalCave_LowTideInnerRoom_EventScript_ShoalSalt2::
 	setflag FLAG_RECEIVED_SHOAL_SALT_2
 	releaseall
 	end
+
+

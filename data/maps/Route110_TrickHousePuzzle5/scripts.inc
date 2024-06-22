@@ -904,104 +904,96 @@ Route110_TrickHousePuzzle5_Movement_MechadollShake:
 	step_end
 
 Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} skrev den hemmelige kode\n"
-	.string "på døren.\p"
-	.string "“TRICK MASTER er en geni.”\n"
-	.string "… … … … … … … …\p"
+	.string "{PLAYER} skrev den hemmelige kode på\n"
+	.string "døren.\p"
+	.string "“TRICK MASTER er en geni.” … … … … … … … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Intro:
-	.string "KLIKKE-KLAK…\n"
-	.string "MEKADUKKE 1 ER JEG!\p"
-	.string "HVIS DU SVARER PÅ SPØRGSMÅL KORREKT,\n"
-	.string "VIL DU KOMME TIL MEKADUKKE 5.\l"
-	.string "HERFRA KAN DU FÅ DEN HEMMELIGE KODE.$"
+	.string "KLIKKE-KLAK… MEKADUKKE 1 ER JEG!\p"
+	.string "HVIS DU SVARER PÅ SPØRGSMÅL KORREKT, VIL\n"
+	.string "DU KOMME TIL MEKADUKKE 5. HERFRA KAN DU FÅ\l"
+	.string "DEN HEMMELIGE KODE.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1:
 	.string "MEKADUKKE 1 QUIZ.\p"
-	.string "En af disse POKéMON findes ikke\n"
-	.string "på RUTE 110. Hvilken er det?$"
+	.string "En af disse POKéMON findes ikke på RUTE 110.\n"
+	.string "Hvilken er det?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2:
 	.string "MEKADUKKE 1 QUIZ.\p"
-	.string "En af disse POKéMON er ikke af\n"
-	.string "VAND-typen. Hvilken er det?$"
+	.string "En af disse POKéMON er ikke af VAND-typen.\n"
+	.string "Hvilken er det?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3:
 	.string "MECHADOLL 1 QUIZ.\p"
-	.string "En af disse POKéMON bruger ikke\n"
-	.string "LEECH LIFE. Hvilken er det?$"
+	.string "En af disse POKéMON bruger ikke LEECH LIFE.\n"
+	.string "Hvilken er det?$"
 
 Route110_TrickHousePuzzle5_Text_CorrectGoThrough:
-	.string "Tillykke. Korrekt svar.\n"
-	.string "Gå videre. Venligst.$"
+	.string "Tillykke. Korrekt svar. Gå videre. Venligst.$"
 
 Route110_TrickHousePuzzle5_Text_DisappointmentError:
-	.string "BZZZT. Skuffelse.\n"
-	.string "FEJL.$"
+	.string "BZZZT. Skuffelse. FEJL.$"
 
 Route110_TrickHousePuzzle5_Text_Wahahahaha:
-	.string "HIHIHIHI! HIHIHIHI!\n"
-	.string "KLASKETY-KLASK!$"
+	.string "HIHIHIHI! HIHIHIHI! KLASKETY-KLASK!$"
 
 Route110_TrickHousePuzzle5_Text_WaitForNextChallenge:
 .string "DIT NÆSTE UDFORDRING VENTER VI PÅ.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Intro:
-	.string "KLIKKE-KLIK…\n"
-	.string "MEKADUKKE 2 ER JEG!\p"
-	.string "MEKADUKKE 1'S SPØRGSMÅL SVÆRHEDS\n"
-	.string "ER SAT FOR LAVT.$"
+	.string "KLIKKE-KLIK… MEKADUKKE 2 ER JEG!\p"
+	.string "MEKADUKKE 1'S SPØRGSMÅL SVÆRHEDS ER SAT\n"
+	.string "FOR LAVT.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1:
 	.string "MECHADUKKE 2 QUIZ.\p"
-	.string "Hvilken af disse POKéMON lånte WALLY\n"
-	.string "fra din far?$"
+	.string "Hvilken af disse POKéMON lånte WALLY fra\n"
+	.string "din far?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2:
 	.string "MEKADUKKE 2 QUIZ.\p"
-	.string "Hvilken af disse POKéMON jagtede\n"
-	.string "PROF. BIRCH?$"
+	.string "Hvilken af disse POKéMON jagtede PROF.\n"
+	.string "BIRCH?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3:
 	.string "MECHADOLL 2 QUIZ.\p"
-	.string "Hvilken af disse POKéMON brugte TEAM AQUA\n"
-	.string "i PETALBURG SKOV?$"
+	.string "Hvilken af disse POKéMON brugte TEAM AQUA i\n"
+	.string "PETALBURG SKOV?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Intro:
-	.string "KLAPRE-KLAP…\n"
-	.string "MEKADUKKE 3 ER JEG!\p"
+	.string "KLAPRE-KLAP… MEKADUKKE 3 ER JEG!\p"
 	.string "PENGETEMAER ER MIT ENESTE FOKUS.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1:
 	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Hvad koster mere?\n"
-	.string "Tre HARBOR MAILS eller en BURN HEAL?$"
+	.string "Hvad koster mere? Tre HARBOR MAILS eller en\n"
+	.string "BURN HEAL?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2:
 	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Sælg en FANTASTISK BOLD og køb\n"
-	.string "en POTION. Hvor mange penge er der tilbage?$"
+	.string "Sælg en FANTASTISK BOLD og køb en POTION.\n"
+	.string "Hvor mange penge er der tilbage?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3:
 	.string "MECHADOLL 3 QUIZ.\p"
-	.string "Koster ét REPEL og SODA POP\n"
-	.string "mere end én SUPER POTION?$"
+	.string "Koster ét REPEL og SODA POP mere end én\n"
+	.string "SUPER POTION?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Intro:
-	.string "KLIKKETY-KLAK…\n"
-	.string "MEKADUKKE 4, DET ER MIG!\p"
+	.string "KLIKKETY-KLAK… MEKADUKKE 4, DET ER MIG!\p"
 	.string "MIN QUIZ ER EN SKØNHEDS GENSTAND.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1:
 	.string "MECHADOLL 4 QUIZ.\p"
-	.string "I SEASHORE HOUSE, var der flere mænd\n"
-	.string "eller kvinder?$"
+	.string "I SEASHORE HOUSE, var der flere mænd eller\n"
+	.string "kvinder?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2:
 	.string "MEKADUKKE 4 QUIZ.\p"
-	.string "I LAVARIDGE BY, var der flere\n"
-	.string "ældre mænd eller ældre kvinder?$"
+	.string "I LAVARIDGE BY, var der flere ældre mænd\n"
+	.string "eller ældre kvinder?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
 	.string "MECHADOLL 4 QUIZ.\p"
@@ -1009,23 +1001,24 @@ Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3:
 	.string "pige-elever var der?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Intro:
-	.string "KLASK-KLASK…\n"
-	.string "MEKADUKKE 5 ER JEG!\p"
-	.string "MESTERENS BEDSTE OG STOLT\n"
-	.string "PRÆSTATION ER JEG.$"
+	.string "KLASK-KLASK… MEKADUKKE 5 ER JEG!\p"
+	.string "MESTERENS BEDSTE OG STOLT PRÆSTATION ER\n"
+	.string "JEG.$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1:
 	.string "MECHADOLL 5 QUIZ.\p"
-	.string "I SLATEPORTs POKéMON FAN CLUB,\n"
-	.string "hvor mange POKéMON var der?$"
+	.string "I SLATEPORTs POKéMON FAN CLUB, hvor mange\n"
+	.string "POKéMON var der?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2:
 	.string "MEKADUKKE 5 QUIZ.\p"
-	.string "I FORTREE CITY, hvor mange\n"
-	.string "træhuse var der?$"
+	.string "I FORTREE CITY, hvor mange træhuse var\n"
+	.string "der?$"
 
 Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3:
 	.string "MECHADOLL 5 QUIZ.\p"
-	.string "På CYCLING ROAD, hvor mange\n"
-	.string "TRIATHLETER var der?$"
+	.string "På CYCLING ROAD, hvor mange TRIATHLETER\n"
+	.string "var der?$"
+
+
 

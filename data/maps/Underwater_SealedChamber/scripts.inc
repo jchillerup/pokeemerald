@@ -22,3 +22,5 @@ Underwater_SealedChamber_EventScript_Braille::
 	releaseall
 	end
 
+
+

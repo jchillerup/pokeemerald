@@ -702,63 +702,61 @@ Route110_TrickHouseEntrance_Text_YoureBeingWatched:
 	.string "Du bliver overvåget…$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk:
-	.string "Hvad?\nGrrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "under dette skrivebord? Du er skarp!$"
+	.string "Hvad?Grrr…\p"
+	.string "Hvordan vidste du, at jeg gemte mig under\n"
+	.string "dette skrivebord? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindTree:
 	.string "Hvad? Grrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "bag dette træ? Du er skarp!$"
+	.string "Hvordan vidste du, at jeg gemte mig bag\n"
+	.string "dette træ? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInDresser:
 	.string "Hvad? Grrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "i dette skab? Du er skarp!$"
+	.string "Hvordan vidste du, at jeg gemte mig i dette\n"
+	.string "skab? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConealedBeyondWindow:
 	.string "Hvad? Grrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "bag dette vindue? Du er skarp!$"
+	.string "Hvordan vidste du, at jeg gemte mig bag\n"
+	.string "dette vindue? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInPlanter:
 	.string "Hvad? Grrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "i denne plantekasse? Du er skarp!$"
+	.string "Hvordan vidste du, at jeg gemte mig i denne\n"
+	.string "plantekasse? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedInCupboard:
 	.string "Hvad? Grrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "i dette skab? Du er skarp!$"
+	.string "Hvordan vidste du, at jeg gemte mig i dette\n"
+	.string "skab? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBehindWindow:
 	.string "Hvad? Grrr…\p"
-	.string "Hvordan vidste du, at jeg gemte mig\n"
-	.string "bag dette vindue? Du er skarp!$"
+	.string "Hvordan vidste du, at jeg gemte mig bag\n"
+	.string "dette vindue? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion:
-	.string "Hvad? Grrr…\p"
+	.string "Hvad? Grrr…$"
 
 	.string "Hvordan vidste du, at jeg gemte mig\n"
 	.string "under denne pude? Du er skarp!$"
 
 Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster:
 	.string "Se her!\p"
-	.string "For jeg er den største levende mysterie\n"
-	.string "af en mand i hele HOENN!\l"
-	.string "De kalder mig...\p"
-	.string "TRICK MASTEREN!\n"
-	.string "Wahahaha! Rart at møde dig!$"
+	.string "For jeg er den største levende mysterie af\n"
+	.string "en mand i hele HOENN! De kalder mig...\p"
+	.string "TRICK MASTEREN! Wahahaha! Rart at møde\n"
+	.string "dig!$"
 
 Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse:
-	.string "Du, du er kommet for at udfordre\n"
-	.string "mit TRICK HOUSE, ikke sandt?\p"
-	.string "Det er derfor, du er her, ikke\n"
-	.string "sandt?\n"
-	.string "Ja, det er det!\p"
+	.string "Du, du er kommet for at udfordre mit TRICK\n"
+	.string "HOUSE, ikke sandt?\p"
+	.string "Det er derfor, du er her, ikke sandt? Ja, det\n"
+	.string "er det!\p"
 	.string "Betragt din udfordring accepteret!\p"
-	.string "Gå ind gennem rullen der,\n"
-	.string "og lad din udfordring begynde!\p"
+	.string "Gå ind gennem rullen der, og lad din\n"
+	.string "udfordring begynde!\p"
 	.string "Jeg venter bagest!$"
 
 Route110_TrickHouseEntrance_Text_ItsAScroll:
@@ -769,50 +767,46 @@ Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll:
 	.string "Vil du gå ind?$"
 
 Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote:
-	.string "Der er en seddel fastgjort til pergamentet…\p"
-	.string "“Jeg er på vej ud på en rejse.\n"
-	.string "Søg ikke efter mig. TRICK MASTER”$"
+	.string "Der er en seddel fastgjort til\n"
+	.string "pergamentet…\p"
+	.string "“Jeg er på vej ud på en rejse. Søg ikke efter\n"
+	.string "mig. TRICK MASTER”$"
 
 Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick:
-	.string "Til næste gang vil jeg bruge denne\n"
-	.string "fidus,\nog den plan, og de kneb…\p"
-	.string "Mufufufu… Hvis jeg må sige det\n" 
-	.string "selv, er det strålende svært, selv for mig!$"
+	.string "Til næste gang vil jeg bruge denne fidus,og\n"
+	.string "den plan, og de kneb…\p"
+	.string "Mufufufu… Hvis jeg må sige det selv, er det\n"
+	.string "strålende svært, selv for mig!$"
 
 Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges:
-	.string "Hvad? Hvad?!\n"
-	.string "Åh, det er dig!\p"
-	.string "Jeg er midt i at sammensætte nye\n"
-	.string "snedige udfordringer!\p"
-	.string "Det er vel ikke for meget at bede om lidt\n"
-	.string "mere tid til at tænke, vel?\l"
-	.string "Du ville vel ikke nægte mig det?\l"
-	.string "Kom tilbage om lidt!$"
+	.string "Hvad? Hvad?! Åh, det er dig!\p"
+	.string "Jeg er midt i at sammensætte nye snedige\n"
+	.string "udfordringer!\p"
+	.string "Det er vel ikke for meget at bede om lidt mere\n"
+	.string "tid til at tænke, vel? Du ville vel ikke nægte\l"
+	.string "mig det? Kom tilbage om lidt!$"
 
 Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward:
 	.string "Åh, det er dig! Du er her for at modtage\n"
-	.string "belønningen fra før, er det ikke rigtigt?\l"
-	.string "Ja, det er rigtigt!\p"
-	.string "Her!\n"
-	.string "Jeg vil give det til dig nu!$"
+	.string "belønningen fra før, er det ikke rigtigt? Ja,\l"
+	.string "det er rigtigt!\p"
+	.string "Her! Jeg vil give det til dig nu!$"
 
 Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward:
-	.string "Hvad?\n"
-	.string "Kom du ikke for at få din belønning?$"
+	.string "Hvad? Kom du ikke for at få din belønning?$"
 
 Route110_TrickHouseEntrance_Text_MechadollWhichTent:
-	.string "MEKADUKKE 5 ER JEG!\n"
-	.string "HVIS BELØNNINGEN IKKE TAGES AF DIG,\l"
-	.string "SÅ KAN DU IKKE FØLGE TRICKMASTEREN.\p"
-	.string "RØDT TELT ELLER BLÅT TELT,\n"
-	.string "HVAD FORETRÆKKER DU?$"
+	.string "MEKADUKKE 5 ER JEG! HVIS BELØNNINGEN IKKE\n"
+	.string "TAGES AF DIG, SÅ KAN DU IKKE FØLGE\l"
+	.string "TRICKMASTEREN.\p"
+	.string "RØDT TELT ELLER BLÅT TELT, HVAD\n"
+	.string "FORETRÆKKER DU?$"
 
 Route110_TrickHouseEntrance_Text_ThenFarewell:
 	.string "Så farvel.$"
 
 Route110_TrickHouseEntrance_Text_PCFullAgain:
-	.string "DIN PC STATUS: FULD IGEN.\n"
-	.string "ÆV, DU ER.$"
+	.string "DIN PC STATUS: FULD IGEN. ÆV, DU ER.$"
 
 Route110_TrickHousePuzzle_Text_FoundAScroll:
 	.string "{PLAYER} fandt en pergamentrulle.$"
@@ -826,6 +820,8 @@ Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt:
 
 Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere:
 	.string "Døren er låst.\p"
-	.string "…Ved nærmere eftersyn\n"
-	.string "ser man: “Skriv den hemmelige kode her.”$"
+	.string "…Ved nærmere eftersyn ser man: “Skriv den\n"
+	.string "hemmelige kode her.”$"
+
+
 

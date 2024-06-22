@@ -64,14 +64,14 @@ EverGrandeCity_DrakesRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_DrakesRoom_Text_IntroSpeech:
-	.string "Jeg er den sidste af POKéMON LIGAENS\n"
-	.string "ELITE FIRE, DRAKE, DRAGE-mesteren!\p"
-	.string "I deres naturlige tilstand er POKéMON\n"
-	.string "vilde skabninger. De er frie.\p"
-	.string "Nogle gange hindrer de os.\n"
-	.string "Andre gange hjælper de os.\p"
-	.string "For os at kæmpe med POKéMON som\n"
-	.string "partnere, ved du hvad der kræves?\p"
+	.string "Jeg er den sidste af POKéMON LIGAENS ELITE\n"
+	.string "FIRE, DRAKE, DRAGE-mesteren!\p"
+	.string "I deres naturlige tilstand er POKéMON vilde\n"
+	.string "skabninger. De er frie.\p"
+	.string "Nogle gange hindrer de os. Andre gange\n"
+	.string "hjælper de os.\p"
+	.string "For os at kæmpe med POKéMON som partnere,\n"
+	.string "ved du hvad der kræves?\p"
 	.string "Ved du, hvad der er nødvendigt?\p"
 	.string "Hvis ikke, vil du aldrig besejre mig!$"
 
@@ -79,18 +79,17 @@ EverGrandeCity_DrakesRoom_Text_Defeat:
 	.string "Fantastisk, det skal siges.$"
 
 EverGrandeCity_DrakesRoom_Text_PostBattleSpeech:
-	.string "Du fortjener al ære for at\n"
-	.string "være nået så langt som EN TRÆNER\naf POKéMON.\p"
-	.string "Du synes virkelig at vide, hvad der\nskal til.\p"
-	.string "Ja, det, som en TRÆNER har brug\nfor, er et\n"
+	.string "Du fortjener al ære for at være nået så langt\n"
+	.string "som EN TRÆNERaf POKéMON.\p"
+	.string "Du synes virkelig at vide, hvad derskal til.\p"
+	.string "Ja, det, som en TRÆNER har brugfor, er et\n"
 	.string "dydigt hjerte.\p"
 	.string "POKéMON berører de gode hjerter af\n"
-	.string "TRÆNERE og lærer forskellen mellem\n"
-	.string "godt og ondt.\p"
-	.string "De berører de gode hjerter af\n"
-	.string "TRÆNERE og bliver stærkere.\p"
-	.string "Go! Go videre!\n"
-	.string "MESTEREN venter!$"
+	.string "TRÆNERE og lærer forskellen mellem godt og\l"
+	.string "ondt.\p"
+	.string "De berører de gode hjerter af TRÆNERE og\n"
+	.string "bliver stærkere.\p"
+	.string "Go! Go videre! MESTEREN venter!$"
 
 
 

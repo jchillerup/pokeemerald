@@ -25,22 +25,21 @@ AbandonedShip_CaptainsOffice_EventScript_ThisIsSSCactus::
 	end
 
 AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner:
-	.string "Jeg undersøger dette skib på vegne\n"
-	.string "af KAPT. STERN.\p"
-	.string "Han bad mig også om at finde en\n"
-	.string "SKANNER, men jeg har ikke haft\n"
-	.string "nogen succes…$"
+	.string "Jeg undersøger dette skib på vegne af\n"
+	.string "KAPT. STERN.\p"
+	.string "Han bad mig også om at finde en SKANNER, men\n"
+	.string "jeg har ikke haft nogen succes…$"
 
 AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner:
 	.string "Åh! Det er en SCANNER!\p"
-	.string "Hør her, kan jeg få dig til at\n"
-	.string "levere den til KAPT. STERN?\p"
-	.string "Jeg vil gerne undersøge dette skib\n"
-	.string "lidt nærmere.$"
+	.string "Hør her, kan jeg få dig til at levere den til\n"
+	.string "KAPT. STERN?\p"
+	.string "Jeg vil gerne undersøge dette skib lidt\n"
+	.string "nærmere.$"
 
 AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus:
-	.string "Denne skib hedder S.S. KAKTUS.\n"
-	.string "Det ser ud til at være fra en tidligere æra.$"
+	.string "Denne skib hedder S.S. KAKTUS. Det ser ud til\n"
+	.string "at være fra en tidligere æra.$"
 
 
 

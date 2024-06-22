@@ -60,3 +60,5 @@ TrainerHill_Roof_EventScript_AlreadyReceivedPrize::
 	release
 	end
 
+
+

@@ -14,11 +14,9 @@ AbandonedShip_Rooms_B1F_EventScript_FatMan::
 
 AbandonedShip_Rooms_B1F_Text_GettingQueasy:
 	.string "Buuuuurp…\p"
-	.string "Jeg føler mig lidt dårlig,\n"
-	.string "bare ved at være ombord på dette\n"
-	.string "skib…\p"
-	.string "Det bevæger sig ikke engang,\n"
-	.string "men…$"
+	.string "Jeg føler mig lidt dårlig, bare ved at være\n"
+	.string "ombord på dette skib…\p"
+	.string "Det bevæger sig ikke engang, men…$"
 
 
 

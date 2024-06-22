@@ -51,23 +51,23 @@ BattleFrontier_Mart_EventScript_Boy::
 	end
 
 BattleFrontier_Mart_Text_ChaperonGrandson:
-	.string "Vi kom her for at være forsigtige med\n"
-	.string "vores barnebarn.\p"
-	.string "Men siden vi er her, tænkte vi, at vi\n"
-	.string "burde få nogle souvenirs.$"
+	.string "Vi kom her for at være forsigtige med vores\n"
+	.string "barnebarn.\p"
+	.string "Men siden vi er her, tænkte vi, at vi burde få\n"
+	.string "nogle souvenirs.$"
 
 BattleFrontier_Mart_Text_ProteinMakeNiceGift:
-	.string "Kære, hvad synes du om dette?\n"
-	.string "Ville dette ikke være en fin gave?\p"
-	.string "Det er…PRO…TE…IN?\n"
-	.string "Det lyder lækkert, gør det ikke?$"
+	.string "Kære, hvad synes du om dette? Ville dette\n"
+	.string "ikke være en fin gave?\p"
+	.string "Det er…PRO…TE…IN? Det lyder lækkert, gør\n"
+	.string "det ikke?$"
 
 BattleFrontier_Mart_Text_FacilitiesDontAllowItems:
 	.string "En stor del af SLAGETS FRONTIER's\n"
-	.string "faciliteter tillader ikke brugen af\n"
+	.string "faciliteter tillader ikke brugen af\l"
 	.string "genstande under kampe.\p"
-	.string "Den regel gør tingene sværere\n"
-	.string "end de allerede er!$"
+	.string "Den regel gør tingene sværere end de\n"
+	.string "allerede er!$"
 
 
 

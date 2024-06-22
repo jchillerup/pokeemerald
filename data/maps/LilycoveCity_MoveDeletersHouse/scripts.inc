@@ -71,8 +71,7 @@ LilycoveCity_MoveDeletersHouse_EventScript_LastMonWithSurf::
 	end
 
 LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove:
-	.string "Øh...\n"
-	.string "Åh, ja, jeg er FLYTTEFORGLEMMEREN.\p"
+	.string "Øh... Åh, ja, jeg er FLYTTEFORGLEMMEREN.\p"
 	.string "Jeg kan få POKéMON til at glemme deres træk.\p"
 	.string "Skal jeg gøre det?$"
 
@@ -83,8 +82,8 @@ LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten:
 	.string "Hvilket træk skal glemmes?$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove:
-	.string "{STR_VAR_1} kender kun et træk\n"
-	.string "så det kan ikke glemmes…$"
+	.string "{STR_VAR_1} kender kun et træk så det\n"
+	.string "kan ikke glemmes…$"
 
 LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
 	.string "Hm! {STR_VAR_1}'s {STR_VAR_2}?\n"
@@ -92,21 +91,21 @@ LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten:
 
 LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove:
 	.string "Det fungerede perfekt!\p"
-	.string "{STR_VAR_1} har glemt\n"
-	.string "{STR_VAR_2} helt.$"
+	.string "{STR_VAR_1} har glemt {STR_VAR_2}\n"
+	.string "helt.$"
 
 LilycoveCity_MoveDeletersHouse_Text_ComeAgain:
-	.string "Kom tilbage, hvis der er træk, der\n"
-	.string "skal glemmes.$"
+	.string "Kom tilbage, hvis der er træk, der skal\n"
+	.string "glemmes.$"
 
 LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves:
-	.string "Hvad?\n"
-	.string "Ingen ÆG skal kende nogen bevægelser.$"
+	.string "Hvad? Ingen ÆG skal kende nogen\n"
+	.string "bevægelser.$"
 
 LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf:
 	.string "Hm!\p"
-	.string "Din {STR_VAR_1} virker ikke villig \n"
-	.string "til at glemme SURF.$"
+	.string "Din {STR_VAR_1} virker ikke villig  til at\n"
+	.string "glemme SURF.$"
 
 
 

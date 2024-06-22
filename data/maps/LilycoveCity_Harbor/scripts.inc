@@ -544,20 +544,20 @@ LilycoveCity_Harbor_Movement_SailorBoardWithBrineyEast:
 	step_end
 
 LilycoveCity_Harbor_Text_FerryUnavailable:
-	.string "Undskyld, hvad sagde du?\n"
-	.string "Er du på udkig efter et skib?\p"
+	.string "Undskyld, hvad sagde du? Er du på udkig\n"
+	.string "efter et skib?\p"
 	.string "Beklager, færgeservicen er ikke\n"
 	.string "tilgængelig i øjeblikket...$"
 
 LilycoveCity_Harbor_Text_MayISeeYourTicket:
-	.string "Hej, er du her for færgen?\n"
-	.string "Må jeg se din BILLET?$"
+	.string "Hej, er du her for færgen? Må jeg se din\n"
+	.string "BILLET?$"
 
 LilycoveCity_Harbor_Text_NoTicket:
 	.string "{PLAYER} har ikke BILLETEN…\p"
 	.string "Jeg er virkelig ked af det.\p"
-	.string "Du skal have en BILLET for at\n"
-	.string "komme ombord på færgen.$"
+	.string "Du skal have en BILLET for at komme ombord\n"
+	.string "på færgen.$"
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
 	.string "{PLAYER} viste billetten frem.\p"
@@ -574,22 +574,23 @@ LilycoveCity_Harbor_Text_BattleFrontierItIs:
 	.string "BATTLE FRONTIER det bliver!$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
-	.string "Venligst gå om bord på færgen og\n"
-	.string "vent på afgang.$"
+	.string "Venligst gå om bord på færgen og vent på\n"
+	.string "afgang.$"
 
 LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo:
 	.string "Hvor vil du gerne gå hen?$"
 
 LilycoveCity_Harbor_Text_SailorFerryUnavailable:
-	.string "Indtil de er færdige med at lave færgen,\n"
-	.string "har vi søfolk intet at lave...\p"
+	.string "Indtil de er færdige med at lave færgen, har\n"
+	.string "vi søfolk intet at lave...\p"
 	.string "Jeg ønsker, at de snart kommer i gang,\n"
 	.string "folket på VÆRFTET i SLATEPORT.$"
 
 LilycoveCity_Harbor_Text_SailorFerryAvailable:
-	.string "Færgen S.S. TIDAL er endelig i\n"
-	.string "funktion.\p"
-	.string "Folkene på VÆRFTET i SLATEPORT\n"
-	.string "har nok arbejdet ekstra hårdt.\p"
+	.string "Færgen S.S. TIDAL er endelig i funktion.\p"
+	.string "Folkene på VÆRFTET i SLATEPORT har nok\n"
+	.string "arbejdet ekstra hårdt.\p"
 	.string "Nå, det er min tur til at komme i gang!$"
+
+
 

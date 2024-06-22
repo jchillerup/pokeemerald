@@ -55,3 +55,5 @@ Route131_EventScript_Kevin::
 	msgbox Route131_Text_KevinPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+
+

@@ -31,24 +31,22 @@ Route111_OldLadysRestStop_EventScript_DeclineRest::
 	end
 
 Route111_OldLadysRestStop_Text_RestUpHere:
-	.string "Åh, kære, kære.\n"
-	.string "Er dine POKéMON udmattede?\p"
-	.string "Hvis du vil, kan du hvile dig her.\n"
-	.string "Det er en god idé! Det burde du gøre.$"
+	.string "Åh, kære, kære. Er dine POKéMON udmattede?\p"
+	.string "Hvis du vil, kan du hvile dig her. Det er en god\n"
+	.string "idé! Det burde du gøre.$"
 
 Route111_OldLadysRestStop_Text_TakeYourTimeRestUp:
-	.string "Det er korrekt.\n"
-	.string "Tag dig god tid og hvil dig!$"
+	.string "Det er korrekt. Tag dig god tid og hvil dig!$"
 
 Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest:
-	.string "Åh, kære, kære.\n"
-	.string "Er dine POKéMON stadig trætte?\p"
-	.string "Du burde tage en anden pause her.\n"
-	.string "Det er en god idé. Du burde gøre det.$"
+	.string "Åh, kære, kære. Er dine POKéMON stadig\n"
+	.string "trætte?\p"
+	.string "Du burde tage en anden pause her. Det er en\n"
+	.string "god idé. Du burde gøre det.$"
 
 Route111_OldLadysRestStop_Text_DontNeedToBeShy:
-	.string "Er det sandt?\n"
-	.string "Du behøver ikke at være genert om det.$"
+	.string "Er det sandt? Du behøver ikke at være\n"
+	.string "genert om det.$"
 
 
 

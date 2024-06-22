@@ -61,19 +61,19 @@ EverGrandeCity_GlaciasRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_GlaciasRoom_Text_IntroSpeech:
-	.string "Velkommen, jeg hedder GLACIA\n"
-	.string "fra DE FIRE STÆRKESTE.\p"
-	.string "Jeg er rejst langvejs fra til HOENN\n"
-	.string "for at forfine mine is-færdigheder.\p"
-	.string "Men alt, jeg har set, er udfordringer\n"
-	.string "fra svage TRÆNERE og deres POKéMON.\p"
+	.string "Velkommen, jeg hedder GLACIA fra DE FIRE\n"
+	.string "STÆRKESTE.\p"
+	.string "Jeg er rejst langvejs fra til HOENN for at\n"
+	.string "forfine mine is-færdigheder.\p"
+	.string "Men alt, jeg har set, er udfordringer fra\n"
+	.string "svage TRÆNERE og deres POKéMON.\p"
 	.string "Hvad med dig?\p"
-	.string "Det ville glæde mig ubeskriveligt,\n"
-	.string "hvis jeg kunne kæmpe mod dig!$"
+	.string "Det ville glæde mig ubeskriveligt, hvis jeg\n"
+	.string "kunne kæmpe mod dig!$"
 
 EverGrandeCity_GlaciasRoom_Text_Defeat:
-	.string "Du og din POKéMON…\n"
-	.string "Hvor brænder jeres ånder!\p"
+	.string "Du og din POKéMON… Hvor brænder jeres\n"
+	.string "ånder!\p"
 	.string "Den altfortærende varme overvælder.\p"
 	.string "Det er ingen overraskelse, at mine\n"
 	.string "isfærdigheder ikke kunne skade dig.$"

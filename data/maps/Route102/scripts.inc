@@ -76,38 +76,35 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "WALLY: {PLAYER}…\n"
-	.string "POKéMON gemmer sig i højt græs som dette,\l"
-	.string "gør de ikke?\p"
-	.string "Vær sød at se på, om jeg kan\n"
-	.string "fange en ordentligt.\p"
+	.string "WALLY: {PLAYER}… POKéMON gemmer sig i\n"
+	.string "højt græs som dette, gør de ikke?\p"
+	.string "Vær sød at se på, om jeg kan fange en\n"
+	.string "ordentligt.\p"
 	.string "…Whoa!$"
 
 Route102_Text_WallyIDidIt:
-	.string "WALLY: Jeg gjorde det… Det er min…\n"
-	.string "Min POKéMON!$"
+	.string "WALLY: Jeg gjorde det… Det er min… Min\n"
+	.string "POKéMON!$"
 
 Route102_Text_LetsGoBack:
-	.string "{PLAYER}, tak!\n"
-	.string "Lad os gå tilbage til GYMMET!$"
+	.string "{PLAYER}, tak! Lad os gå tilbage til\n"
+	.string "GYMMET!$"
 
 Route102_Text_ImNotVeryTall:
-	.string "Jeg er...ikke så høj, så jeg synker\n"
-	.string "ned i højt græs.\p"
+	.string "Jeg er...ikke så høj, så jeg synker ned i højt\n"
+	.string "græs.\p"
 	.string "Græsset går op i min næse og...\n"
 	.string "Fwafwafwafwafwa...\p"
 	.string "Fvætsjo!$"
 
 Route102_Text_CatchWholeBunchOfPokemon:
-	.string "Jeg vil fange en hel masse\n"
-	.string "POKéMON!$"
+	.string "Jeg vil fange en hel masse POKéMON!$"
 
 Route102_Text_RouteSignOldale:
-	.string "RUTE 102\n"
-	.string "{RIGHT_ARROW} OLDALE BY$"
+	.string "RUTE 102 {RIGHT_ARROW} OLDALE BY$"
 
 Route102_Text_RouteSignPetalburg:
-	.string "RUTE 102\n"
-	.string "{LEFT_ARROW} PETALBURG BY$"
+	.string "RUTE 102 {LEFT_ARROW} PETALBURG BY$"
+
 
 

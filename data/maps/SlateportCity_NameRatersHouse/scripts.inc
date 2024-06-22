@@ -64,52 +64,49 @@ SlateportCity_NameRatersHouse_EventScript_NewNameDifferent::
 	end
 
 SlateportCity_NameRatersHouse_Text_PleasedToRateMonNickname:
-	.string "Hej, hej! Jeg er NAVNEVURDEREN!\n"
-	.string "Jeg er navne-spåmanden!\p"
-	.string "Jeg vil med glæde vurdere dit\n"
-	.string "POKéMONs kaldenavn.$"
+	.string "Hej, hej! Jeg er NAVNEVURDEREN! Jeg er\n"
+	.string "navne-spåmanden!\p"
+	.string "Jeg vil med glæde vurdere dit POKéMONs\n"
+	.string "kaldenavn.$"
 
 SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname:
-	.string "Hvilket POKéMON's kælenavn skal\n"
-	.string "jeg kritisere?$"
+	.string "Hvilket POKéMON's kælenavn skal jeg\n"
+	.string "kritisere?$"
 
 SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne:
-	.string "Hmmm… {STR_VAR_1}, er det? Det er\n"
-	.string "et ganske fint navn du har valgt.\p"
-	.string "Men! Hvad siger du til, hvis jeg\n"
-	.string "foreslår et lidt bedre navn?$"
+	.string "Hmmm… {STR_VAR_1}, er det? Det er et\n"
+	.string "ganske fint navn du har valgt.\p"
+	.string "Men! Hvad siger du til, hvis jeg foreslår et\n"
+	.string "lidt bedre navn?$"
 
 SlateportCity_NameRatersHouse_Text_WhatShallNewNameBe:
-	.string "Åh, godt. Hvad skal det nye\n"
-	.string "kaldenavn være?$"
+	.string "Åh, godt. Hvad skal det nye kaldenavn være?$"
 
 SlateportCity_NameRatersHouse_Text_MonShallBeKnownAsName:
-	.string "Færdig! Fra nu af vil denne POKéMON\n"
-	.string "blive kendt som {STR_VAR_1}!\p"
-	.string "Det er et bedre navn end før!\n"
-	.string "Hvor heldig du er!$"
+	.string "Færdig! Fra nu af vil denne POKéMON blive\n"
+	.string "kendt som {STR_VAR_1}!\p"
+	.string "Det er et bedre navn end før! Hvor heldig du\n"
+	.string "er!$"
 
 SlateportCity_NameRatersHouse_Text_DoVisitAgain:
-	.string "Jeg forstår.\n"
-	.string "Kom gerne og besøg igen.$"
+	.string "Jeg forstår. Kom gerne og besøg igen.$"
 
 SlateportCity_NameRatersHouse_Text_NameNoDifferentYetSuperior:
-	.string "Færdig! Fra nu af skal denne POKéMON\n"
-	.string "være kendt som {STR_VAR_1}!\p"
-	.string "Den ser ikke anderledes ud end før,\n"
-	.string "og dog er den markant bedre!\p"
+	.string "Færdig! Fra nu af skal denne POKéMON være\n"
+	.string "kendt som {STR_VAR_1}!\p"
+	.string "Den ser ikke anderledes ud end før, og dog er\n"
+	.string "den markant bedre!\p"
 	.string "Hvor heldig for dig!$"
 
 SlateportCity_NameRatersHouse_Text_MagnificentName:
 	.string "Hmm ... {STR_VAR_1} det er!\p"
-	.string "Dette er et pragtfuldt kælenavn!\n"
-	.string "Det er utroligt ud over enhver kritik!\p"
+	.string "Dette er et pragtfuldt kælenavn! Det er\n"
+	.string "utroligt ud over enhver kritik!\p"
 	.string "Du vil gøre klogt i at værdsætte dit\n"
 	.string "{STR_VAR_1} nu og i fremtiden.$"
 
 SlateportCity_NameRatersHouse_Text_ThatIsMerelyAnEgg:
-	.string "Nu, nu.\n"
-	.string "Det er bare et ÆG!$"
+	.string "Nu, nu. Det er bare et ÆG!$"
 
 
 

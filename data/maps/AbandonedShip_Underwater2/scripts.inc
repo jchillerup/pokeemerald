@@ -6,3 +6,5 @@ AbandonedShip_Underwater2_OnResume:
 	setdivewarp MAP_ABANDONED_SHIP_ROOMS_B1F, 13, 7
 	end
 
+
+

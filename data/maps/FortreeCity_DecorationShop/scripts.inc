@@ -60,18 +60,17 @@ FortreeCity_DecorationShop_PokemartDecor_Chairs:
 	end
 
 FortreeCity_DecorationShop_Text_MerchandiseSentToPC:
-	.string "Varerne, du køber her, sendes til\n"
-	.string "din egen PC.\p"
+	.string "Varerne, du køber her, sendes til din egen\n"
+	.string "PC.\p"
 	.string "Det er fantastisk! Jeg ønsker, de også\n"
 	.string "kunne levere mig hjem på den måde.$"
 
 FortreeCity_DecorationShop_Text_BuyingDeskForDolls:
-	.string "Jeg køber et fint skrivebord og\n"
-	.string "sætter mine søde DUKKER på det.\p"
-	.string "Hvis jeg ikke gør det, når jeg\n"
-	.string "indretter min HEMMELIGE BASE,\n"
-	.string "vil mine DUKKER blive beskidte\n"
-	.string "eller få splinter.\p$"
+	.string "Jeg køber et fint skrivebord og sætter mine\n"
+	.string "søde DUKKER på det.\p"
+	.string "Hvis jeg ikke gør det, når jeg indretter min\n"
+	.string "HEMMELIGE BASE, vil mine DUKKER blive\l"
+	.string "beskidte eller få splinter.$"
 
 
 

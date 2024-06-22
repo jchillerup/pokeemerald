@@ -447,28 +447,25 @@ BattleFrontier_BattleTowerMultiBattleRoom_Movement_WalkInPlaceLeft:
 	step_end
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet:
-	.string "Det 2. sæt af modstandere er næste.\n"
-	.string "Er du klar?\p$"
+	.string "Det 2. sæt af modstandere er næste. Er du\n"
+	.string "klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet:
-	.string "Det 3. hold af modstandere er næste.\n"
-	.string "Er du klar?$"
+	.string "Det 3. hold af modstandere er næste. Er du\n"
+	.string "klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet:
-	.string "Den 4. sæt modstandere er næste.\n"
-	.string "Er du klar?$"
+	.string "Den 4. sæt modstandere er næste. Er du klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet:
-	.string "Den 5. hold modstandere er næste.\n"
-	.string "Er du klar?$"
+	.string "Den 5. hold modstandere er næste. Er du klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet:
-	.string "Den 6. hold af modstandere er næste.\n"
-	.string "Er du klar?$"
+	.string "Den 6. hold af modstandere er næste. Er du\n"
+	.string "klar?$"
 
 BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet:
-	.string "Den 7. sæt modstandere er næste.\n"
-	.string "Er du klar?$"
+	.string "Den 7. sæt modstandere er næste. Er du klar?$"
 
 @ Unused
 BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext:
@@ -505,6 +502,8 @@ gText_LinkStandby3::
 
 gText_YourPartnerHasRetired::
 	.string "Din partner er gået på pension.\p"
-	.string "Din KAMPLOKALE udfordring\n"
-	.string "vil blive aflyst.$"
+	.string "Din KAMPLOKALE udfordring vil blive\n"
+	.string "aflyst.$"
+
+
 

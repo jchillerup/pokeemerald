@@ -6,3 +6,5 @@ Route117_PokemonDayCare_OnTransition:
 	setflag FLAG_LANDMARK_POKEMON_DAYCARE
 	end
 
+
+

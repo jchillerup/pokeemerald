@@ -649,24 +649,22 @@ BattleFrontier_BattlePikeRoomNormal_Movement_CameraPanDown:
 	step_end
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth:
-	.string "Velkommen…\n"
-	.string "Du må roses for din held…\p"
-	.string "Dit POKéMON vil blive genoprettet\n"
-	.string "til fuldt helbred…$"
+	.string "Velkommen… Du må roses for din held…\p"
+	.string "Dit POKéMON vil blive genoprettet til fuldt\n"
+	.string "helbred…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge:
 	.string "Jeg opfordrer dig til at nyde resten af din\n"
 	.string "Kampvalg-udfordring...$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon:
-	.string "Åh, du er en heldig en.\n"
-	.string "Jeg er i lidt godt humør nu.\p"
-	.string "Jeg vil genskabe en af dine POKéMON\n"
-	.string "til fuld sundhed.$"
+	.string "Åh, du er en heldig en. Jeg er i lidt godt humør\n"
+	.string "nu.\p"
+	.string "Jeg vil genskabe en af dine POKéMON til fuld\n"
+	.string "sundhed.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell:
-	.string "Alt held og lykke til dig.\n"
-	.string "Farvel.$"
+	.string "Alt held og lykke til dig. Farvel.$"
 
 @ Seems there was a planned room type where the player could choose to battle and would be healed if they won
 @ Muligvis erstattet/suppleret af det hårde kamplokale, som er det samme, men kampen er ikke valgfri
@@ -702,15 +700,13 @@ BattleFrontier_BattlePikeRoomNormal_Text_WatchOut:
 	.string "Pas på!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop:
-	.string "Nu, nu!\n"
-	.string "KIRLIA, stop det!$"
+	.string "Nu, nu! KIRLIA, stop det!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop:
-	.string "Rolig nu!\n"
-	.string "DUSCLOPS, stop!$"
+	.string "Rolig nu! DUSCLOPS, stop!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic:
-	.string "KIRLIA brugte GIFT!\p$"
+	.string "KIRLIA brugte GIFT!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis:
 .string "KIRLIA brugte HYPNOSE!$"
@@ -728,8 +724,7 @@ BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam:
 .string "DUSCLOPS brugte ISTRÅLE!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough:
-	.string "Se her!\n"
-	.string "Det er nok!$"
+	.string "Se her! Det er nok!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia:
 	.string "Jeg må undskylde overfor dig…\p"
@@ -740,90 +735,79 @@ BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops:
 	.string "Min DUSCLOPS har en FRYGTSOM natur…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled:
-	.string "Den angriber uden varsel, hvis den\n"
-	.string "bliver forskrækket af en anden person…\p"
+	.string "Den angriber uden varsel, hvis den bliver\n"
+	.string "forskrækket af en anden person…\p"
 	.string "Er du og din POKéMON okay?$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine:
-	.string "Jeg beklager meget, hvad der skete…\n"
-	.string "Jeg håber, at dine POKéMON har det godt.$"
+	.string "Jeg beklager meget, hvad der skete… Jeg\n"
+	.string "håber, at dine POKéMON har det godt.$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_Silence:
-	.string "… … … … … …\n"
-	.string "… … … … … …$"
+	.string "… … … … … … … … … … … …$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer:
 	.string "Velkommen…\p"
-	.string "Her vil vi have dig kæmpe\n"
-	.string "mod en lidt sej TRÆNER…$" 
+	.string "Her vil vi have dig kæmpe mod en lidt sej\n"
+	.string "TRÆNER…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth:
 	.string "Hvor fantastisk…\p"
-	.string "For at hylde din sejr, vil dine POKéMON\n"
-	.string "blive genoprettet til fuldt helbred…$"
+	.string "For at hylde din sejr, vil dine POKéMON blive\n"
+	.string "genoprettet til fuldt helbred…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2:
 	.string "Jeg opfordrer dig til at nyde resten af din\n"
 	.string "Kampvalg udfordring...$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen:
-	.string "Jeg er LUCY…\n"
-	.string "Jeg bestemmer her…\l"
-	.string "For jeg er PIKE QUEEN…\p"
+	.string "Jeg er LUCY… Jeg bestemmer her… For jeg er\n"
+	.string "PIKE QUEEN…\p"
 	.string "Du ved det allerede, men for at komme videre,\n"
 	.string "skal du besejre mig…\p"
-	.string "…Jeg er ikke til tom snak.\n"
-	.string "Skynd dig. Kom nu…$"
+	.string "…Jeg er ikke til tom snak. Skynd dig. Kom nu…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck:
-	.string "Dit held...\n"
-	.string "Jeg håber, du ikke brugte det hele her...$"
+	.string "Dit held... Jeg håber, du ikke brugte det hele\n"
+	.string "her...$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass:
-	.string "LUCY: … … … … … …\n"
-	.string "Vis mig dit FRONTIER PASS…$"
+	.string "LUCY: … … … … … … Vis mig dit FRONTIER PASS…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol:
-	.string "Heldsymbol blev præget på\n"
-	.string "FRONTIER PASS!\p$"
+	.string "Heldsymbol blev præget på FRONTIER PASS!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear:
-	.string "…Det er alt, hvad der er…\n"
-	.string "Forsvind allerede…$"
+	.string "…Det er alt, hvad der er… Forsvind allerede…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain:
 	.string "LUCY: …Dig igen…\p"
 	.string "… … … … … …\p"
-	.string "…Jeg har trådt på blomster og\n"
-	.string "gennemstået storme for at komme\n"
-	.string "hertil…\p"
-	.string "Jeg føler ingen trang til at blive ved\n"
-	.string "med at tabe til den samme modstander…\p"
-	.string "… … … … … …\n"
-	.string "Okay… Jeg gør det…$"
+	.string "…Jeg har trådt på blomster og gennemstået\n"
+	.string "storme for at komme hertil…\p"
+	.string "Jeg føler ingen trang til at blive ved med at\n"
+	.string "tabe til den samme modstander…\p"
+	.string "… … … … … … Okay… Jeg gør det…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn:
-	.string "Nu!\n"
-	.string "Kom så!$"
+	.string "Nu! Kom så!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass:
 	.string "LUCY: … … … … … …\p"
 	.string "…FRONTIER PASS…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine:
-.string "Lykke Symbolet antog\n"
-.string "en gylden glans!$"
+	.string "en gylden glans!$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_IWontForget:
-	.string "…Dig, glemmer jeg ikke…\n"
-	.string "…Nogensinde…$"
+	.string "…Dig, glemmer jeg ikke… …Nogensinde…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal:
 	.string "Jeg byder dig velkommen…\p"
-	.string "Hihi…\n"
-	.string "Du ser ud til at mangle held…\p"
+	.string "Hihi… Du ser ud til at mangle held…\p"
 	.string "Hvis bare du ikke havde valgt dette rum,\n"
-	.string "ville dine POKéMON have kunnet blive healet…$"
+	.string "ville dine POKéMON have kunnet blive\l"
+	.string "healet…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
 	.string "Jeg byder dig velkommen…\p"
@@ -832,8 +816,8 @@ BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne:
 
 BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo:
 	.string "Jeg byder dig velkommen…\p"
-	.string "Da du har valgt dette rum, vil jeg\n"
-	.string "genskabe to POKéMON til fuld health…$"
+	.string "Da du har valgt dette rum, vil jeg genskabe\n"
+	.string "to POKéMON til fuld health…$"
 
 @ Unused
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons:
@@ -847,10 +831,9 @@ BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster:
 .string "Jeg går hen og henter vores mester…$"
 
 BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons:
-	.string "Åh, du er en heldig en!\n"
-	.string "Jeg er i godt humør nu.\p"
-	.string "Jeg vil genoprette to af dine POKéMON\n"
-	.string "til fuld sundhed!$"
+	.string "Åh, du er en heldig en! Jeg er i godt humør nu.\p"
+	.string "Jeg vil genoprette to af dine POKéMON til\n"
+	.string "fuld sundhed!$"
 
 
 

@@ -270,74 +270,66 @@ BattleFrontier_BattlePike_EventScript_CloseCurtain::
 	return
 
 BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike:
-	.string "Hvor TRÆNERES held\n"
-	.string "sættes på prøve…\p"
+	.string "Hvor TRÆNERES held sættes på prøve…\p"
 	.string "Velkommen til KAMPPIKEN…\p"
 	.string "Jeg er din guide til KAMPPIKEN…$"
 
 BattleFrontier_BattlePikeLobby_Text_TakeChallenge:
-	.string "Vil du tage Kampen\n"
-	.string "Valg udfordringen?$"
+	.string "Vil du tage Kampen Valg udfordringen?$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike:
 	.string "Her udfører vi en begivenhed vi kalder\n"
 	.string "Valget om Slag. \p"
-	.string "Reglerne for Valget om Slag er meget\n"
-	.string "enkle... \p"
-	.string "Vælg en af tre stier og kæmp dig\n"
-	.string "vejen til målrumsen i enden af\n"
-	.string "KAMPPIKEN. Så simpelt er det. \p"
-	.string "Dog afhænger det, der sker på den\n"
-	.string "valgte sti, helt og holdent af\n"
-	.string "udfordrerens held... \p"
-	.string "Hvis du når målet, vil du blive\n"
-	.string "belønnet med Kamp Point. \p"
-	.string "Hvis du ønsker at afbryde din\n"
-	.string "udfordring, så tag en snak med\n"
-	.string "vores personale i de store rum på\n"
-	.string "vejen. \p"
-	.string "Hvis du ikke gemmer inden du\n"
-	.string "afbryder, vil du blive diskvalificeret.$"
+	.string "Reglerne for Valget om Slag er meget enkle... \p"
+	.string "Vælg en af tre stier og kæmp dig vejen til\n"
+	.string "målrumsen i enden af KAMPPIKEN. Så simpelt\l"
+	.string "er det. \p"
+	.string "Dog afhænger det, der sker på den valgte\n"
+	.string "sti, helt og holdent af udfordrerens held... \p"
+	.string "Hvis du når målet, vil du blive belønnet med\n"
+	.string "Kamp Point. \p"
+	.string "Hvis du ønsker at afbryde din udfordring,\n"
+	.string "så tag en snak med vores personale i de\l"
+	.string "store rum på vejen. \p"
+	.string "Hvis du ikke gemmer inden du afbryder, vil du\n"
+	.string "blive diskvalificeret.$"
 
 BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou:
-	.string "Vi glæder os til at se dig\n"
-	.string "en anden gang…$"
+	.string "Vi glæder os til at se dig en anden gang…$"
 
 BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode:
-	.string "Du har valget mellem to baner,\n"
-	.string "Niveau 50 og Åben Niveau.\l"
-	.string "Hvem vil du udfordre?$"
+	.string "Du har valget mellem to baner, Niveau 50 og\n"
+	.string "Åben Niveau. Hvem vil du udfordre?$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50:
 	.string "Undskyld, men…\p"
-	.string "Du har ikke tre kvalificerede\n"
-	.string "POKéMON til Kampvalgsbegivenheden.\p"
-	.string "Du skal have tre forskellige POKéMON\n"
-	.string " på level 50 eller mindre for at deltage.\p"
-	.string "De skal også holde forskellige\n"
-	.string "typer af genstande.\p"
+	.string "Du har ikke tre kvalificerede POKéMON til\n"
+	.string "Kampvalgsbegivenheden.\p"
+	.string "Du skal have tre forskellige POKéMON  på\n"
+	.string "level 50 eller mindre for at deltage.\p"
+	.string "De skal også holde forskellige typer af\n"
+	.string "genstande.\p"
 	.string "ÆGG{STR_VAR_1} er diskvalificerede.\p"
 	.string "Kom tilbage, når du er klar…$"
 
 BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Undskyld, men…\p"
-	.string "Du har ikke tre egnede\n"
-	.string "POKéMON til Kampvalget.\p"
-	.string "Du skal have tre forskellige\n"
-	.string "POKéMON for at deltage.\p"
-	.string "De skal også holde forskellige\n"
-	.string "typer genstande.\p"
-	.string "ÆG{STR_VAR_1} er ikke\n"
-	.string "berettiget.\p"
+	.string "Du har ikke tre egnede POKéMON til\n"
+	.string "Kampvalget.\p"
+	.string "Du skal have tre forskellige POKéMON for at\n"
+	.string "deltage.\p"
+	.string "De skal også holde forskellige typer\n"
+	.string "genstande.\p"
+	.string "ÆG{STR_VAR_1} er ikke berettiget.\p"
 	.string "Kom tilbage, når du er klar…$"
 
 BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons:
-	.string "Vælg de tre POKéMON,\n"
-	.string "du gerne vil have med i udfordringen…$"
+	.string "Vælg de tre POKéMON, du gerne vil have med i\n"
+	.string "udfordringen…$"
 
 BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge:
-	.string "Før vi starter din Kampvalg\n"
-	.string "udfordring, skal jeg gemme spillet.\p"
+	.string "Før vi starter din Kampvalg udfordring,\n"
+	.string "skal jeg gemme spillet.\p"
 	.string "Er det acceptabelt?$"
 
 BattleFrontier_BattlePikeLobby_Text_StepThisWay:
@@ -345,8 +337,8 @@ BattleFrontier_BattlePikeLobby_Text_StepThisWay:
 
 BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults:
 	.string "Din udfordring er ovre…\p"
-	.string "Jeg vil registrere dine resultater.\n"
-	.string "Vær venlig at vente…$"
+	.string "Jeg vil registrere dine resultater. Vær\n"
+	.string "venlig at vente…$"
 
 BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
 	.string "Du har gennemført udfordringen…\p"
@@ -354,8 +346,8 @@ BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance:
 	.string "mængde held…$"
 
 BattleFrontier_BattlePikeLobby_Text_ShallRecordResults:
-	.string "Jeg vil registrere dine resultater.\n"
-	.string "Vær venlig at vente…$"
+	.string "Jeg vil registrere dine resultater. Vær\n"
+	.string "venlig at vente…$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2:
@@ -371,35 +363,35 @@ BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit:
 	.string "for præmier, og vend tilbage…$"
 
 BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting:
-    .string "Undskyld, men…\p"
-	.string "Du glemte at gemme, før du stoppede\n"
-	.string "sidst.\p"
-	.string "På grund af det er din udfordring\n"
-	.string "indtil videre diskvalificeret. Undskyld…$"
+	.string "Undskyld, men…\p"
+	.string "Du glemte at gemme, før du stoppede sidst.\p"
+	.string "På grund af det er din udfordring indtil\n"
+	.string "videre diskvalificeret. Undskyld…$"
 
 BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen:
 	.string "Tillykke…\p"
-	.string "Du har hevet sejren hjem fra\n"
-	.string "PIKE QUEEN og klaret eventet…$"
+	.string "Du har hevet sejren hjem fra PIKE QUEEN og\n"
+	.string "klaret eventet…$"
 
 BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints:
 	.string "Som anerkendelse af din fantastiske held,\n"
 	.string "tildeles vi dig disse Kamp Point…$"
 
 BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal:
-	.string "Åh nej! Jeg spildte min chance!\n"
-	.string "Jeg manglede kun ét rum fra målet!\p"
-	.string "Her skal du passe på\n"
-	.string "for gift, frost, og meget mere.$"
+	.string "Åh nej! Jeg spildte min chance! Jeg\n"
+	.string "manglede kun ét rum fra målet!\p"
+	.string "Her skal du passe på for gift, frost, og\n"
+	.string "meget mere.$"
 
 BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer:
-	.string "Jeg har nu klaret udfordringen 10\ngange, men jeg har aldrig skullet\nkæmpe mod en TRÆNER én gang.$"
+	.string "Jeg har nu klaret udfordringen 10gange,\n"
+	.string "men jeg har aldrig skulletkæmpe mod en\l"
+	.string "TRÆNER én gang.$"
 
 BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere:
 	.string "Lyt! Lyt!\p"
-	.string "Synes du ikke, at de særlige\n"
-	.string "evner hos POKéMON vil være nyttige\n"
-	.string "her?$"
+	.string "Synes du ikke, at de særlige evner hos\n"
+	.string "POKéMON vil være nyttige her?$"
 
 @ Unused
 BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose:
@@ -416,20 +408,19 @@ BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading:
 .string "Hvilken overskrift vil du læse?\p$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules:
-	.string "RYGSÆKKEN og POKéNAV må ikke bruges\n"
-	.string "under en Kampvalgsudfordring.$"
+	.string "RYGSÆKKEN og POKéNAV må ikke bruges under\n"
+	.string "en Kampvalgsudfordring.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules:
-	.string "Under et Kampvalgsudfordring,\n"
-	.string "vil enhver BÆR eller URTE\l"
-	.string "holdt af en POKéMON kun være effektiv én gang.$"
+	.string "Under et Kampvalgsudfordring, vil enhver\n"
+	.string "BÆR eller URTE holdt af en POKéMON kun være\l"
+	.string "effektiv én gang.$"
 
 BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules:
-	.string "Under en Kampvalg-udfordring,\n"
-	.string "kan rækkefølgen af POKéMON ikke\l"
-	.string "ændres.\p"
-	.string "Rækkefølgen skal være sat før\n"
-	.string "du starter din udfordring.$"
+	.string "Under en Kampvalg-udfordring, kan\n"
+	.string "rækkefølgen af POKéMON ikke ændres.\p"
+	.string "Rækkefølgen skal være sat før du starter\n"
+	.string "din udfordring.$"
 
 
 

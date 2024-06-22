@@ -23,16 +23,16 @@ RustboroCity_House3_EventScript_Pekachu::
 	end
 
 RustboroCity_House3_Text_IGivePerfectlySuitedNicknames:
-	.string "For mine POKéMON giver jeg dem\n"
-	.string "perfekt passende kælenavne!\p"
-	.string "Det er udtryk for min, øh…\n"
-	.string "originalitet, ja, dét er det!$"
+	.string "For mine POKéMON giver jeg dem perfekt\n"
+	.string "passende kælenavne!\p"
+	.string "Det er udtryk for min, øh… originalitet, ja,\n"
+	.string "dét er det!$"
 
 RustboroCity_House3_Text_NamingPikachuPekachu:
-	.string "Men at give navnet POKEMON til\n"
-	.string "en PIKACHU? Det virker pointløst.\p"
-	.string "Jeg antager, det er godt at bruge et\n"
-	.string "navn, der er let at forstå, men…$"
+	.string "Men at give navnet POKEMON til en PIKACHU?\n"
+	.string "Det virker pointløst.\p"
+	.string "Jeg antager, det er godt at bruge et navn,\n"
+	.string "der er let at forstå, men…$"
 
 RustboroCity_House3_Text_Pekachu:
 	.string "PEKACHU: Pika!$"

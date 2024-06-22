@@ -266,41 +266,36 @@ Route101_Text_HelpMe:
 	.string "H-hjælp mig!$"
 
 Route101_Text_PleaseHelp:
-	.string "Hej! Dig derovre!\n"
-	.string "Vær så venlig at hjælpe!\p"
-	.string "I min RYGSÆK!\n"
-	.string "Der er en POKé BALL!$"
+	.string "Hej! Dig derovre! Vær så venlig at hjælpe!\p"
+	.string "I min RYGSÆK! Der er en POKé BALL!$"
 
 Route101_Text_DontLeaveMe:
-	.string "H-Hvor skal du hen?!\n"
-	.string "Forlad mig ikke sådan!$"
+	.string "H-Hvor skal du hen?! Forlad mig ikke sådan!$"
 
 Route101_Text_YouSavedMe:
 	.string "PROF. BIRCH: Puha... \p"
-	.string "Jeg var i det høje græs og studerede\n"
-	.string "vilde POKéMON, da jeg blev overfaldet.\p"
-	.string "Du reddede mig.\n"
-	.string "Mange tak!\p"
+	.string "Jeg var i det høje græs og studerede vilde\n"
+	.string "POKéMON, da jeg blev overfaldet.\p"
+	.string "Du reddede mig. Mange tak!\p"
 	.string "Åh?\p"
 	.string "Hej, du er {PLAYER}{KUN}!\p"
-	.string "Dette er ikke stedet at snakke, så kom\n"
-	.string "forbi mit POKéMON LAB senere, okay?$"
+	.string "Dette er ikke stedet at snakke, så kom forbi\n"
+	.string "mit POKéMON LAB senere, okay?$"
 
 Route101_Text_TakeTiredPokemonToPokeCenter:
-	.string "Hvis POKéMON bliver trætte, så tag dem til\n"
-	.string "en POKéMON CENTER.\p"
-	.string "Der er en POKéMON CENTER i OLDALE\n"
-	.string "BY lige i nærheden.$"
+	.string "Hvis POKéMON bliver trætte, så tag dem til en\n"
+	.string "POKéMON CENTER.\p"
+	.string "Der er en POKéMON CENTER i OLDALE BY lige i\n"
+	.string "nærheden.$"
 
 Route101_Text_WildPokemonInTallGrass:
-	.string "Vilde POKéMON vil springe frem mod dig\n"
-	.string "i det høje græs.\p"
-	.string "Hvis du vil fange POKéMON, skal du gå\n"
-	.string "ind i det høje græs og lede.$"
+	.string "Vilde POKéMON vil springe frem mod dig i det\n"
+	.string "høje græs.\p"
+	.string "Hvis du vil fange POKéMON, skal du gå ind i det\n"
+	.string "høje græs og lede.$"
 
 Route101_Text_RouteSign:
-	.string "RUTE 101\n"
-	.string "{UP_ARROW} OLDALE BY$"
+	.string "RUTE 101 {UP_ARROW} OLDALE BY$"
 
 
 

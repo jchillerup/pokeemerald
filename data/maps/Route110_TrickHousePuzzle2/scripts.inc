@@ -102,22 +102,19 @@ Route110_TrickHousePuzzle2_EventScript_Georgia::
 	end
 
 Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened:
-	.string "{PLAYER} skrev den hemmelige kode\n"
-	.string "på døren.\p"
-	.string "“TRICK MASTER er smart.”\n"
-	.string "… … … … … … … …\p"
+	.string "{PLAYER} skrev den hemmelige kode på\n"
+	.string "døren.\p"
+	.string "“TRICK MASTER er smart.” … … … … … … … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle2_Text_TedIntro:
 .string "Hvilket skift lukker hvilket hul?$" 
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "Efter den kamp er jeg endnu\n"
-	.string "mere forvirret!$"
+	.string "Efter den kamp er jeg endnu mere forvirret!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Kan du trykke på alle knapperne\n"
-	.string "for mig?$"
+	.string "Kan du trykke på alle knapperne for mig?$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
 	.string "Åh! Du er på din anden TRICK HOUSE\n"
@@ -127,19 +124,19 @@ Route110_TrickHousePuzzle2_Text_PaulDefeat:
 	.string "Du er også god til at kæmpe?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "TRICK MASTER har snydt med alle triksene\n"
-	.string "i dette huset helt alene.$"
+	.string "TRICK MASTER har snydt med alle triksene i\n"
+	.string "dette huset helt alene.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "Jeg vil gerne lave mit eget GYM en dag.\n"
-	.string "Så jeg studerer, hvordan man sætter fælder.$"
+	.string "Jeg vil gerne lave mit eget GYM en dag. Så jeg\n"
+	.string "studerer, hvordan man sætter fælder.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
 	.string "Jeg har ikke studeret nok!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "Du er stærk, er du ikke?\n"
-	.string "Måske endda stærk nok til at være en GYM LEADER!$"
+	.string "Du er stærk, er du ikke? Måske endda stærk\n"
+	.string "nok til at være en GYM LEADER!$"
 
 
 

@@ -30,28 +30,27 @@ PacifidlogTown_EventScript_TownSign::
 	end
 
 PacifidlogTown_Text_FastRunningCurrent:
-	.string "Havet mellem PACIFIDLOG og\n"
-	.string "SLATEPORT har en hurtigt løbende tidevand.\p"
-	.string "Hvis du beslutter dig for at SURFE, kan du ende\n"
-	.string "et helt andet sted.$"
+	.string "Havet mellem PACIFIDLOG og SLATEPORT har\n"
+	.string "en hurtigt løbende tidevand.\p"
+	.string "Hvis du beslutter dig for at SURFE, kan du\n"
+	.string "ende et helt andet sted.$"
 
 PacifidlogTown_Text_NeatHousesOnWater:
-	.string "Se, er det ikke skønt?\n"
-	.string "Disse huse er på vandet!\p"
+	.string "Se, er det ikke skønt? Disse huse er på\n"
+	.string "vandet!\p"
 	.string "Jeg blev født her!$"
 
 PacifidlogTown_Text_SkyPillarTooScary:
 	.string "Himlens PILLE?\p"
-	.string "…Åh, du mener nok den høje, høje\n"
-	.string "tårn lidt længere væk.\p"
-	.string "Hvis du spørger mig, ville jeg ikke\n"
-	.string "bestige det. Det er alt for uhyggeligt\n"
-	.string "at komme så højt op.$"
+	.string "…Åh, du mener nok den høje, høje tårn lidt\n"
+	.string "længere væk.\p"
+	.string "Hvis du spørger mig, ville jeg ikke bestige\n"
+	.string "det. Det er alt for uhyggeligt at komme så\l"
+	.string "højt op.$"
 
 PacifidlogTown_Text_TownSign:
 	.string "PACIFIDLOG BY\p"
-	.string "“Hvor morgensolen smiler ned\n"
-	.string "på vandene.”$"
+	.string "“Hvor morgensolen smiler ned på vandene.”$"
 
 
 

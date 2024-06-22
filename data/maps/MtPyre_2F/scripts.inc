@@ -45,25 +45,24 @@ MtPyre_2F_EventScript_Zander::
 	end
 
 MtPyre_2F_Text_MemoriesOfSkitty:
-	.string "Mindet om min skønne SKITTY…\n"
-	.string "Tårerne strømmer, når jeg tænker på det.$"
+	.string "Mindet om min skønne SKITTY… Tårerne\n"
+	.string "strømmer, når jeg tænker på det.$"
 
 MtPyre_2F_Text_TumbledFromFloorAbove:
-	.string "Av, av,... Der er huller i\ngulvet her og der.\p" 
-	.string "Jeg lagde ikke mærke til dem og faldt ned\n"
-	.string "fra etage over.$"
+	.string "Av, av,... Der er huller igulvet her og der.\p"
+	.string "Jeg lagde ikke mærke til dem og faldt ned fra\n"
+	.string "etage over.$"
 
 MtPyre_2F_Text_MarkIntro:
-	.string "Hej! Leder du efter POKéMON?\n"
-	.string "Du kom efter mig! Du er uforskammet!$"
+	.string "Hej! Leder du efter POKéMON? Du kom efter\n"
+	.string "mig! Du er uforskammet!$"
 
 MtPyre_2F_Text_MarkDefeat:
-	.string "Åååh!\n"
-	.string "Undskyld, tilgiv mig, vær sød!$"
+	.string "Åååh! Undskyld, tilgiv mig, vær sød!$"
 
 MtPyre_2F_Text_MarkPostBattle:
-	.string "Folk kommer ikke her så tit, så\n"
-	.string "jeg troede, der ville være sjældne POKéMON.$"
+	.string "Folk kommer ikke her så tit, så jeg troede,\n"
+	.string "der ville være sjældne POKéMON.$"
 
 MtPyre_2F_Text_LukeIntro:
 	.string "LUKE: Vi er her på en udfordring.\p"
@@ -76,63 +75,60 @@ MtPyre_2F_Text_LukeDefeat:
 	.string "LUKE: Upsadaisy!$"
 
 MtPyre_2F_Text_LukePostBattle:
-	.string "LUKE: Nå, vi tabte, men det er okay!\n"
-	.string "Jeg er lige her ved din side.\p"
+	.string "LUKE: Nå, vi tabte, men det er okay! Jeg er\n"
+	.string "lige her ved din side.\p"
 	.string "Vi klarer denne udfordring sammen!$"
 
 MtPyre_2F_Text_LukeNotEnoughMons:
-	.string "LUKE: Hvis du vil udfordre mig,\n"
-	.string "så tag flere POKéMON med.\p"
-	.string "Hvis ikke, kan jeg ikke vise\n"
-	.string "min pige, hvor sej jeg er!$"
+	.string "LUKE: Hvis du vil udfordre mig, så tag flere\n"
+	.string "POKéMON med.\p"
+	.string "Hvis ikke, kan jeg ikke vise min pige, hvor sej\n"
+	.string "jeg er!$"
 
 MtPyre_2F_Text_DezIntro:
 	.string "DEZ: Jeg kom her på en udfordring med min\n"
 	.string "kæreste.\p"
 	.string "Det er virkelig skræmmende, men jeg er\n"
 	.string "sammen med min kæreste. Det er okay.\p"
-	.string "Jeg ved det! Jeg vil få min kæreste til at\n"
-	.string "se sej ud ved at slå dig!\p$"
+	.string "Jeg ved det! Jeg vil få min kæreste til at se\n"
+	.string "sej ud ved at slå dig!$"
 
 MtPyre_2F_Text_DezDefeat:
 	.string "DEZ: Åh nej! Jeg er bange!$"
 
 MtPyre_2F_Text_DezPostBattle:
-	.string "DEZ: Vi er kærlige og kælen, så vi\n"
-	.string "bekymrer os ikke, hvis vi taber!$"
+	.string "DEZ: Vi er kærlige og kælen, så vi bekymrer os\n"
+	.string "ikke, hvis vi taber!$"
 
 MtPyre_2F_Text_DezNotEnoughMons:
-	.string "DEZ: Hvis du vil udfordre os, skal du\n"
-	.string "have mindst to POKéMON med.\p"
-	.string "Min kæreste er stærk.\n"
-	.string "Bare en POKéMON er slet ikke nok.$"
+	.string "DEZ: Hvis du vil udfordre os, skal du have\n"
+	.string "mindst to POKéMON med.\p"
+	.string "Min kæreste er stærk. Bare en POKéMON er\n"
+	.string "slet ikke nok.$"
 
 MtPyre_2F_Text_LeahIntro:
-	.string "Du er et ukendt syn…\n"
-	.string "Forsvind før der sker dig noget!$"
+	.string "Du er et ukendt syn… Forsvind før der sker\n"
+	.string "dig noget!$"
 
 MtPyre_2F_Text_LeahDefeat:
-	.string "Hmm…\n"
-	.string "Du er sej.$"
+	.string "Hmm… Du er sej.$"
 
 MtPyre_2F_Text_LeahPostBattle:
-	.string "Vores familie har været TRÆNERE her\n"
-	.string "siden min oldemors tid…\p"
-	.string "Det er min pligt at beskytte dette\n"
-	.string "bjerg…$"
+	.string "Vores familie har været TRÆNERE her siden\n"
+	.string "min oldemors tid…\p"
+	.string "Det er min pligt at beskytte dette bjerg…$"
 
 MtPyre_2F_Text_ZanderIntro:
-	.string "Åh nej!\n"
-	.string "Jeg er skræmt!$" 
+	.string "Åh nej! Jeg er skræmt!$"
 
 MtPyre_2F_Text_ZanderDefeat:
-	.string "Neeeej!\n"
-	.string "Jeg har mistet fatningen!$"
+	.string "Neeeej! Jeg har mistet fatningen!$"
 
 MtPyre_2F_Text_ZanderPostBattle:
-	.string "Jeg bliver skræmt hver gang jeg ser\n"
-	.string "noget bevæge sig…\p"
-	.string "Jeg skulle ikke have taget herhen for at træne…$"
+	.string "Jeg bliver skræmt hver gang jeg ser noget\n"
+	.string "bevæge sig…\p"
+	.string "Jeg skulle ikke have taget herhen for at\n"
+	.string "træne…$"
 
 
 

@@ -47,3 +47,5 @@ LavaridgeTown_Gym_B1F_EventScript_CheckBuryEli::
 LavaridgeTown_Gym_B1F_EventScript_EndCheckBuryTrainers::
 	return
 
+
+

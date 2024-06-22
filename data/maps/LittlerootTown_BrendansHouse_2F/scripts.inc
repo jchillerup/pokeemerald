@@ -275,32 +275,32 @@ PlayersHouse_2F_EventScript_GameCube::
 	end
 
 PlayersHouse_2F_Text_ClockIsStopped:
-    .string "Uret går ikke...\p"
-    .string "Du må hellere stille det!$"
+	.string "Uret går ikke...\p"
+	.string "Du må hellere stille det!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-    .string "MOR: {PLAYER}, hvordan syn's du om din\n"
-    .string "nye værelse?\p"
-    .string "Super! Alt er ryddeligt nu!\p"
-    .string "De har også flyttet alt nedenunder.\p"
-    .string "POKéMON-flyttefolk er så praktiske!\p"
-    .string "Åh, husk at checke dit skrivebord.\p$"
+	.string "MOR: {PLAYER}, hvordan syn's du om din nye\n"
+	.string "værelse?\p"
+	.string "Super! Alt er ryddeligt nu!\p"
+	.string "De har også flyttet alt nedenunder.\p"
+	.string "POKéMON-flyttefolk er så praktiske!\p"
+	.string "Åh, husk at checke dit skrivebord.$"
 
 PlayersHouse_2F_Text_Notebook:
-    .string "{PLAYER} åbnede notesbogen.\p"
-    .string "EVENTYRREGEL NR. 1\n"
-    .string "Åbn MENUEN med START.\p"
-    .string "EVENTYRREGEL NR. 2\n"
-    .string "Gem din fremgang med GEM.\p"
-    .string "De resterende sider er tomme…$"
+	.string "{PLAYER} åbnede notesbogen.\p"
+	.string "EVENTYRREGEL NR. 1 Åbn MENUEN med START.\p"
+	.string "EVENTYRREGEL NR. 2 Gem din fremgang med\n"
+	.string "GEM.\p"
+	.string "De resterende sider er tomme…$"
 
 Common_Text_LookCloserAtMap:
-    .string "{PLAYER} tog et nærmere kig\n"
-    .string "på\n"
-    .string "HOENN-regionens kort.$"
+	.string "{PLAYER} tog et nærmere kig på\n"
+	.string "HOENN-regionens kort.$"
 
 PlayersHouse_2F_Text_ItsAGameCube:
-    .string "Det er en Nintendo GameCube.\p"
-    .string "En Game Boy Advance er tilsluttet\n"
-    .string "for at fungere som kontroller.$"
+	.string "Det er en Nintendo GameCube.\p"
+	.string "En Game Boy Advance er tilsluttet for at\n"
+	.string "fungere som kontroller.$"
+
+
 

@@ -10,3 +10,5 @@ SkyPillar_3F_EventScript_CleanFloor::
 	setmaplayoutindex LAYOUT_SKY_PILLAR_3F_CLEAN
 	return
 
+
+

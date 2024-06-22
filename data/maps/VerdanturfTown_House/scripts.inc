@@ -18,12 +18,11 @@ VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague:
 	.string "skræmmende veltrænede.$"
 
 VerdanturfTown_House_Text_DefeatEliteFourInARow:
-	.string "I POKéMON LIGAEN, tror jeg, at\n"
-	.string "reglerne siger, at du skal kæmpe mod\l"
-	.string "DE FIRE SUPER TRÆNERE i træk.\p"
-	.string "Hvis du taber til en af dem, skal du\n"
-	.string "starte din udfordring forfra fra\l"
-	.string "den første.$" 
+	.string "I POKéMON LIGAEN, tror jeg, at reglerne\n"
+	.string "siger, at du skal kæmpe mod DE FIRE SUPER\l"
+	.string "TRÆNERE i træk.\p"
+	.string "Hvis du taber til en af dem, skal du starte din\n"
+	.string "udfordring forfra fra den første.$"
 
 
 

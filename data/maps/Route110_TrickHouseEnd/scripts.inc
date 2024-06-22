@@ -252,38 +252,36 @@ Route110_TrickHouseEnd_Movement_TrickMasterSurprise:
 	step_end
 
 Route110_TrickHouseEnd_Text_YouveMadeItToMe:
-	.string "Åh!\n"
-	.string "Du har fundet vej til mig?\p"
+	.string "Åh! Du har fundet vej til mig?\p"
 	.string "Hmm... Du er skarp!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPlantTrees:
-	.string "Det tog mig hele natten at plante alle\n"
-	.string "disse træer…\p"
-	.string "Du er næsten min lige i storhed med\n"
-	.string "et, to, tre, fire, fem, seks steder!$"
+	.string "Det tog mig hele natten at plante alle disse\n"
+	.string "træer…\p"
+	.string "Du er næsten min lige i storhed med et, to, tre,\n"
+	.string "fire, fem, seks steder!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMaze:
 	.string "Det tog mig hele natten at lave labyrinten...\p"
-	.string "Du er næsten min ligeværdige i storhed på\n"
-	.string "én, to, tre, fire, fem pladser!$"
+	.string "Du er næsten min ligeværdige i storhed på én,\n"
+	.string "to, tre, fire, fem pladser!$"
 
 Route110_TrickHouseEnd_Text_AllNightToPreparePanels:
 	.string "Det tog mig hele natten at forberede\n"
 	.string "vægpanelerne...\p"
-	.string "Du er næsten min ligemand i storhed på\n"
-	.string "én, to, tre, fire pladser!$"
+	.string "Du er næsten min ligemand i storhed på én, to,\n"
+	.string "tre, fire pladser!$"
 
 Route110_TrickHouseEnd_Text_AllNightToShoveBoulders:
-	.string "Det tog mig hele natten at skubbe de\n"
-	.string "sten…\p"
-	.string "Du er næsten min ligemand i storhed i\n"
-	.string "én, to, tre områder!$"
+	.string "Det tog mig hele natten at skubbe de sten…\p"
+	.string "Du er næsten min ligemand i storhed i én, to,\n"
+	.string "tre områder!$"
 
 Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls:
 	.string "Det tog mig hele natten at lave MECHADOLLS\n"
 	.string "og en anden til at tænke på quizzen…\p"
-	.string "Du er næsten min ligemand, kun med en,\n"
-	.string "to pladser!$"
+	.string "Du er næsten min ligemand, kun med en, to\n"
+	.string "pladser!$"
 
 Route110_TrickHouseEnd_Text_AllNightToInstallDoors:
 	.string "Det tog mig hele natten at installere\n"
@@ -296,68 +294,64 @@ Route110_TrickHouseEnd_Text_AllNightSettingUpArrows:
 
 Route110_TrickHouseEnd_Text_AllNightPolishingFloors:
 	.string "Det tog mig hele natten at polere gulve…\p"
-	.string "Du er højere i storhed end mig!\n"
-	.string "Måske…$"
+	.string "Du er højere i storhed end mig! Måske…$"
 
 Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry:
-	.string "Hvad skal jeg gøre?\n"
-	.string "Mit springvand af ideer til tricks er\l"
-	.string "tørlagt…\p"
-	.string "Måske er det på tide, at jeg tager\n"
-	.string "på tur i landet for at udtænke nye\n"
-	.string "tricks…$"
+	.string "Hvad skal jeg gøre? Mit springvand af ideer\n"
+	.string "til tricks er tørlagt…\p"
+	.string "Måske er det på tide, at jeg tager på tur i\n"
+	.string "landet for at udtænke nye tricks…$"
 
 Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent:
-	.string "Jeg hader at indrømme nederlag, men\n"
-	.string "du har overgået mig!\p"
-	.string "Alligevel må du have været tiltrukket\n"
-	.string "af min karisma, for at du besøger mig\n"
-	.string "igen og igen. Ja, det må du!\p"
-	.string "Men det har intet at gøre med mit\n"
-	.string "tab!\p"
-	.string "Som anerkendelse af venskabet\n"
-	.string "mellem dig, den driftige, og geniet\l"
-	.string "som jeg, kræver jeg, at du tager\l"
-	.string "dette minde!\p"
-	.string "Faktisk er der to--\n"
-	.string "en RØD TELT og et BLÅT TELT.\l"
-	.string "Hvilken foretrækker du?$"
+	.string "Jeg hader at indrømme nederlag, men du har\n"
+	.string "overgået mig!\p"
+	.string "Alligevel må du have været tiltrukket af min\n"
+	.string "karisma, for at du besøger mig igen og igen.\l"
+	.string "Ja, det må du!\p"
+	.string "Men det har intet at gøre med mit tab!\p"
+	.string "Som anerkendelse af venskabet mellem dig,\n"
+	.string "den driftige, og geniet som jeg, kræver jeg,\l"
+	.string "at du tager dette minde!\p"
+	.string "Faktisk er der to-- en RØD TELT og et BLÅT\n"
+	.string "TELT. Hvilken foretrækker du?$"
 
 Route110_TrickHouseEnd_Text_NoRoomInPC:
-	.string "Hvad? Ingen plads på din PC?\n"
-	.string "Hvad skal jeg dog gøre ved det?\p"
-	.string "Jeg ville ønske, at jeg kunne sige det,\n"
-	.string "men jeg er alt for venlig og omsorgsfuld,\nså kom tilbage senere!$"
+	.string "Hvad? Ingen plads på din PC? Hvad skal jeg\n"
+	.string "dog gøre ved det?\p"
+	.string "Jeg ville ønske, at jeg kunne sige det, men\n"
+	.string "jeg er alt for venlig og omsorgsfuld,så kom\l"
+	.string "tilbage senere!$"
 
 Route110_TrickHouseEnd_Text_LeavingOnJourney:
 	.string "… … … … … …\p"
-	.string "Jeg drager ud på opdagelsesrejse.\n"
-	.string "En mission for at finde nye tricks.\p"
+	.string "Jeg drager ud på opdagelsesrejse. En\n"
+	.string "mission for at finde nye tricks.\p"
 	.string "Jeg håber, at du en dag vil besøge og\n"
 	.string "underholde mig igen.\p"
 	.string "Og nu, farvel!$"
 
 Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward:
-	.string "Fint!\n"
-	.string "Du har fortjent denne belønning!$"
+	.string "Fint! Du har fortjent denne belønning!$"
 
 Route110_TrickHouseEnd_Text_NoRoomForThis:
-	.string "Hvad? Har du ikke plads til dette?\n"
-	.string "Hvilken slags ting bærer du på?\p"
-	.string "Men fint, når du har nået mig,\n"
-	.string "vil din belønning være hos mig indtil senere.$"
+	.string "Hvad? Har du ikke plads til dette? Hvilken\n"
+	.string "slags ting bærer du på?\p"
+	.string "Men fint, når du har nået mig, vil din\n"
+	.string "belønning være hos mig indtil senere.$"
 
 Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou:
-	.string "Skru den der selvtilfredse mine af dit ansigt!\n"
-	.string "Det er alt for tidligt at tro, at du har vundet!\p"
-	.string "Jeg vil finde på nye tricks for at forvirre dig, det vil jeg.\n"
-	.string "Du kan bare gøre nar af mig, når du er færdig.\p"
+	.string "Skru den der selvtilfredse mine af dit\n"
+	.string "ansigt! Det er alt for tidligt at tro, at du\l"
+	.string "har vundet!\p"
+	.string "Jeg vil finde på nye tricks for at forvirre\n"
+	.string "dig, det vil jeg. Du kan bare gøre nar af mig,\l"
+	.string "når du er færdig.\p"
 	.string "Kom tilbage til den næste spændende\n"
 	.string "episode!$"
 
 Route110_TrickHouseEnd_Text_YoureIgnoringMe:
-	.string "Nu, nu! Ignorerer du mig nu?\n"
-	.string "Det synes jeg er hjerteskærende!$"
+	.string "Nu, nu! Ignorerer du mig nu? Det synes jeg er\n"
+	.string "hjerteskærende!$"
 
 
 

@@ -132,18 +132,16 @@ Route115_EventScript_Marlene::
 	end
 
 Route115_Text_NeverKnowWhenCavePokemonWillAppear:
-	.string "At udforske en hule er ikke som at gå\n"
-	.string "på en vej.\p"
-	.string "Du ved aldrig, hvornår vilde POKéMON vil\n"
-	.string "vise sig. Det er fyldt med spænding.$"
+	.string "At udforske en hule er ikke som at gå på en\n"
+	.string "vej.\p"
+	.string "Du ved aldrig, hvornår vilde POKéMON vil vise\n"
+	.string "sig. Det er fyldt med spænding.$"
 
 Route115_Text_RouteSignRustboro:
-	.string "RUTE 115\n"
-	.string "{DOWN_ARROW} RUSTBORO CITY$"
+	.string "RUTE 115 {DOWN_ARROW} RUSTBORO CITY$"
 
 Route115_Text_MeteorFallsSign:
-	.string "METEOR FALLS\n"
-	.string "FALLARBOR TOWN GENNEM HER$"
+	.string "METEOR FALLS FALLARBOR TOWN GENNEM HER$"
 
 
 

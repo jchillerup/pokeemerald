@@ -32,15 +32,15 @@ SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon:
 	.string "Vil du have et tip til kampene?\p"
 	.string "Jeg vil sige, at det er at træne forskellige\n"
 	.string "typer af POKéMON på en balanceret måde.\p"
-	.string "Det er ikke godt kun at gøre én\n"
-	.string "POKéMON stærk.\p"
-	.string "Hvis den har en typemæssig ulempe,\n"
-	.string "har den måske ikke en chance.$"
+	.string "Det er ikke godt kun at gøre én POKéMON\n"
+	.string "stærk.\p"
+	.string "Hvis den har en typemæssig ulempe, har den\n"
+	.string "måske ikke en chance.$"
 
 SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend:
 	.string "Jeg bytter POKéMON med mine venner.\p"
-	.string "Hvis en byttet POKéMON holder et\n"
-	.string "item, gør det mig dobbelt så glad!$"  
+	.string "Hvis en byttet POKéMON holder et item, gør\n"
+	.string "det mig dobbelt så glad!$"
 
 
 

@@ -577,43 +577,42 @@ Route111_EventScript_TrainerHillSign::
 
 Route111_Text_BattleOurFamily:
 	.string "Hej! Jeg gætter på, at du er en rejsende.\p"
-	.string "Hvad siger du til at tage\n"
-	.string "kampen op mod vores familie på fire i en række af\l"
+	.string "Hvad siger du til at tage kampen op mod vores\n"
+	.string "familie på fire i en række af\l"
 	.string "POKéMON-kampe?$"
 
 Route111_Text_IsThatSo:
-	.string "Er det sådan?\n"
-	.string "Kom forbi, hvis du ombestemmer dig!$"
+	.string "Er det sådan? Kom forbi, hvis du\n"
+	.string "ombestemmer dig!$"
 
 Route111_Text_VictorIntro:
 	.string "Det var da en god ånd! Jeg kan li' dig!$"
 
 Route111_Text_VictorDefeat:
-	.string "Åh nej!\n"
-	.string "Du er meget sejere end jeg forventede!$"
+	.string "Åh nej! Du er meget sejere end jeg\n"
+	.string "forventede!$"
 
 Route111_Text_VictorPostBattle:
-	.string "Hej allesammen!\n"
-	.string "Jeg har fundet en ret stærk TRÆNER!$"
+	.string "Hej allesammen! Jeg har fundet en ret stærk\n"
+	.string "TRÆNER!$"
 
 Route111_Text_VictoriaIntro:
 	.string "Åh, min gode! Er du ikke ung?\p"
-	.string "Du må være en ganske dygtig TRÆNER for at slå\n"
-	.string "min mand, dog.\p"
+	.string "Du må være en ganske dygtig TRÆNER for at\n"
+	.string "slå min mand, dog.\p"
 	.string "Det er min tur til kamp nu!$"
 
 Route111_Text_VictoriaDefeat:
-	.string "Åh, hvor er du stærk!\n"
-	.string "Jeg kan ikke komme over, hvor stærk du er!$"
+	.string "Åh, hvor er du stærk! Jeg kan ikke komme over,\n"
+	.string "hvor stærk du er!$"
 
 Route111_Text_VictoriaPostBattle:
-	.string "Der er en stærk TRÆNER her!\n"
-	.string "Denne her er virkelig stærk!$"
+	.string "Der er en stærk TRÆNER her! Denne her er\n"
+	.string "virkelig stærk!$"
 
 Route111_Text_ViviIntro:
 	.string "Er du stærkere end Mor? Wow!\p"
-	.string "Men jeg er også stærk!\n"
-	.string "Seriøst! Ærligt!$"
+	.string "Men jeg er også stærk! Seriøst! Ærligt!$"
 
 Route111_Text_ViviDefeat:
 .string "Hvad? Tabte jeg lige?$"
@@ -623,107 +622,93 @@ Route111_Text_ViviPostBattle:
 	.string "…Snøft… Bedstemor!$"
 
 Route111_Text_VickyIntro:
-	.string "Hvordan tør du få min barnebarn\n"
-	.string "til at græde!\p"
-	.string "Jeg vil slå dig!\n"
-	.string "Gør dig klar til at tabe!$"
+	.string "Hvordan tør du få min barnebarn til at\n"
+	.string "græde!\p"
+	.string "Jeg vil slå dig! Gør dig klar til at tabe!$"
 
 Route111_Text_VickyDefeat:
-	.string "Kwah! Du er stærk…\n"
-	.string "Min barnebarn havde ret…$"
+	.string "Kwah! Du er stærk… Min barnebarn havde ret…$"
 
 Route111_Text_VickyPostBattle:
-	.string "Hvis du ikke har travlt,\n"
-	.string "så besøg os et øjeblik.$"
+	.string "Hvis du ikke har travlt, så besøg os et\n"
+	.string "øjeblik.$"
 
 Route111_Text_ToughToKeepWinningUpTheRanks:
-	.string "Hvis du ikke træner dine POKéMON\n"
-	.string "lidt mere, kan det blive svært at\l"
-	.string "fortsætte med at vinde igennem\n"
-	.string "rækkerne.\p"
-	.string "Jeg har hørt, at POKéMON LIGAENS\n"
-	.string "TOP FIRE er langt stærkere end\l"
-	.string "nogen GYM LEDER.$"
+	.string "Hvis du ikke træner dine POKéMON lidt mere,\n"
+	.string "kan det blive svært at fortsætte med at\l"
+	.string "vinde igennem rækkerne.\p"
+	.string "Jeg har hørt, at POKéMON LIGAENS TOP FIRE\n"
+	.string "er langt stærkere end nogen GYM LEDER.$"
 
 Route111_Text_WinstrateFamilyDestroyedMe:
-	.string "Jeg udfordrede WINSTRATE familien,\n"
-	.string "men fire kampe i træk er hårdt\n"
-	.string "arbejde... De knuste mig.$"
+	.string "Jeg udfordrede WINSTRATE familien, men\n"
+	.string "fire kampe i træk er hårdt arbejde... De\l"
+	.string "knuste mig.$"
 
 Route111_Text_RouteSignMauville:
-	.string "RUTE 111\n"
-	.string "{DOWN_ARROW} MAUVILLE CITY$"
+	.string "RUTE 111 {DOWN_ARROW} MAUVILLE CITY$"
 
 Route111_Text_WinstrateHouseSign:
 	.string "“Vores families hjerter slår som én!”\n"
 	.string "WINSTRATE-HUSET$"
 
 Route111_Text_RouteSign112:
-	.string "RUTE 111\n"
-	.string "{LEFT_ARROW} RUTE 112$"
+	.string "RUTE 111 {LEFT_ARROW} RUTE 112$"
 
 Route111_Text_RouteSign113:
-	.string "RUTE 111\n"
-	.string "{LEFT_ARROW} RUTE 113$"
+	.string "RUTE 111 {LEFT_ARROW} RUTE 113$"
 
 Route111_Text_OldLadysRestStopSign:
-	.string "GAMLE DAMES HVILESTED\n"
-	.string "“Kom ind og hvil dine trætte knogler.”$"
+	.string "GAMLE DAMES HVILESTED “Kom ind og hvil dine\n"
+	.string "trætte knogler.”$"
 
 Route111_Text_TrainerTipsSpAtkSpDef:
 	.string "TRÆNER-TIPS\p"
-	.string "En af indikatorerne for en POKÉMONs\n"
-	.string "kraft er SP. ATK. Det står for\l"
-	.string "“SPECIAL ATTACK.”\p"
+	.string "En af indikatorerne for en POKÉMONs kraft\n"
+	.string "er SP. ATK. Det står for “SPECIAL ATTACK.”\p"
 	.string "På samme måde står SP. DEF for “SPECIAL\n"
 	.string "DEFENSE.”$"
 
 Route111_Text_ShouldBeMirageTowerAroundHere:
-	.string "Der burde være et tårn lavet af sand\n"
-	.string "et sted i nærheden.\p"
-	.string "Men af en eller anden grund kan det ses\n"
-	.string "nogle gange, og andre gange ikke.\p"
+	.string "Der burde være et tårn lavet af sand et sted i\n"
+	.string "nærheden.\p"
+	.string "Men af en eller anden grund kan det ses nogle\n"
+	.string "gange, og andre gange ikke.\p"
 	.string "Det er derfor, jeg kalder det MIRAGE TOWER.$"
 
 Route111_Text_MirageTowerClearlyVisible:
-	.string "Jeg ser den!\n"
-	.string "Sandtårnet!\p"
-	.string "Sandtårnet, de kaldte en ønskedrøm,\n"
-	.string "er tydeligt synligt!\p"
-	.string "Men det ser så skrøbeligt ud...\n"
-	.string "Det kunne kollapse når som helst...\p"
-	.string "Jeg vil gerne ind i det, men jeg kan\n"
-	.string "ikke samle mod til det...$"
+	.string "Jeg ser den! Sandtårnet!\p"
+	.string "Sandtårnet, de kaldte en ønskedrøm, er\n"
+	.string "tydeligt synligt!\p"
+	.string "Men det ser så skrøbeligt ud... Det kunne\n"
+	.string "kollapse når som helst...\p"
+	.string "Jeg vil gerne ind i det, men jeg kan ikke samle\n"
+	.string "mod til det...$"
 
 Route111_Text_ThatWasShockingSandRainedDown:
-	.string "Whoa…\n"
-	.string "Det var chokerende.\p"
-	.string "Sandet regnede ned i klumper\n"
-	.string "pludselig.\p"
-	.string "Hvordan var det indeni?\n"
-	.string "Var der sandspøgelser og lignende?$"
+	.string "Whoa… Det var chokerende.\p"
+	.string "Sandet regnede ned i klumper pludselig.\p"
+	.string "Hvordan var det indeni? Var der\n"
+	.string "sandspøgelser og lignende?$"
 
 Route111_Text_MirageTowerHasntBeenSeenSince:
 	.string "Siden jeg sidst talte med dig, er sandtårnet\n"
 	.string "ikke blevet set.\p"
-	.string "Måske var det virkelig\n"
-	.string "MIRAGE TOWER...$"
+	.string "Måske var det virkelig MIRAGE TOWER...$"
 
 Route111_Text_ClawFossilDisappeared:
-	.string "KLOENDE FOSIL forsvandt ned\n"
-	.string "i sandet…$"
+	.string "KLOENDE FOSIL forsvandt ned i sandet…$"
 
 Route111_Text_RootFossilDisappeared:
-	.string "RODFOSSILET forsvandt ned i\n"
-	.string "sandet...$"
+	.string "RODFOSSILET forsvandt ned i sandet...$"
 
 Route111_Text_MauvilleUncleToldMeToTakeRockSmash:
 	.string "Åh nej!\p"
 	.string "Min onkel i MAUVILLE fortalte mig at tage\n"
-	.string "KNUS STEN med mig, hvis jeg skulle til\n"
-	.string "RUTE 111!\p"
-	.string "Min onkel? Han bor overfor\l"
-	.string "cykelbutikken i MAUVILLE.$"
+	.string "KNUS STEN med mig, hvis jeg skulle til RUTE\l"
+	.string "111!\p"
+	.string "Min onkel? Han bor overfor cykelbutikken i\n"
+	.string "MAUVILLE.$"
 
 Route111_Text_TrainerHillSign:
 	.string "{RIGHT_ARROW} INDGANG TIL TRÆNERBAKKEN\p"

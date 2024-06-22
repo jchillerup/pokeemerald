@@ -73,27 +73,23 @@ Route119_WeatherInstitute_1F_EventScript_Grunt4::
 	end
 
 Route119_WeatherInstitute_1F_Text_Grunt1Intro:
-	.string "BOSSen blev interesseret i\n"
-	.string "forskningen, de har gang i her,\l"
-	.string "så han sendte os ud.\p"
+	.string "BOSSen blev interesseret i forskningen, de\n"
+	.string "har gang i her, så han sendte os ud.\p"
 	.string "Hold dig udenfor!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1Defeat:
-	.string "Pokkers…\n"
-	.string "Blevet slået af et barn…$"
+	.string "Pokkers… Blevet slået af et barn…$"
 
 Route119_WeatherInstitute_1F_Text_Grunt1PostBattle:
 	.string "Vores CHEF ved alt.\p"
-	.string "Men jeg er bare en FODTROPS. Hvad skulle\n"
-	.string "jeg vide om, hvad han tænker?$"
+	.string "Men jeg er bare en FODTROPS. Hvad skulle jeg\n"
+	.string "vide om, hvad han tænker?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Intro:
-	.string "Hov?\n"
-	.string "Hvad laver en unge her?$"
+	.string "Hov? Hvad laver en unge her?$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4Defeat:
-	.string "Hvad?\n"
-	.string "Jeg tabte?!$"
+	.string "Hvad? Jeg tabte?!$"
 
 Route119_WeatherInstitute_1F_Text_Grunt4PostBattle:
 
@@ -106,35 +102,32 @@ Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs:
 
 Route119_WeatherInstitute_1F_Text_WowYoureStrong:
 	.string "Wow, du er virkelig stærk!\p"
-	.string "Jeg ønsker, at jeg kunne være en POKéMON TRÆNER\n"
-	.string "ligesom dig!$"
+	.string "Jeg ønsker, at jeg kunne være en POKéMON\n"
+	.string "TRÆNER ligesom dig!$"
 
 Route119_WeatherInstitute_1F_Text_ProfStudyingRain:
-	.string "PROFESSOREN elsker regn.\n"
-	.string "Det er en kendsgerning.\p"
+	.string "PROFESSOREN elsker regn. Det er en\n"
+	.string "kendsgerning.\p"
 	.string "Men hvis det bliver ved med at regne, vil\n"
-	.string "mennesker have problemer. Det er en anden\n"
+	.string "mennesker have problemer. Det er en anden\l"
 	.string "kendsgerning.\p"
 	.string "Og derfor undersøger PROFESSOREN, om\n"
 	.string "regnen kan bruges på en god måde.$"
 
 Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather:
-	.string "På 2. sal af INSTITUTET,\n"
-	.string "studerer vi vejrmønstrene over\l"
-	.string "HOENN-regionen.\p"
-	.string "Vi har bemærket midlertidige og\n"
-	.string "isolerede tilfælde af tørke og\l"
-	.string "kraftig regn på det seneste…$"
+	.string "På 2. sal af INSTITUTET, studerer vi\n"
+	.string "vejrmønstrene over HOENN-regionen.\p"
+	.string "Vi har bemærket midlertidige og isolerede\n"
+	.string "tilfælde af tørke og kraftig regn på det\l"
+	.string "seneste…$"
 
 Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo:
-	.string "Hej!\n"
-	.string "Vi er blevet reddet af dine handlinger!\p"
-	.string "Det jeg ikke forstår er, hvad i\n"
-	.string "al verden AQUAS lavede.$"
+	.string "Hej! Vi er blevet reddet af dine handlinger!\p"
+	.string "Det jeg ikke forstår er, hvad i al verden\n"
+	.string "AQUAS lavede.$"
 
 Route119_WeatherInstitute_1F_Text_TakeRestInBed:
-	.string "Der er en seng…\n"
-	.string "Lad os hvile.$"
+	.string "Der er en seng… Lad os hvile.$"
 
 
 

@@ -240,3 +240,5 @@ FallarborTown_BattleTentBattleRoom_EventScript_SetUpObjects::
 	setvar VAR_TEMP_1, 1
 	end
 
+
+

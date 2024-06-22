@@ -527,137 +527,128 @@ BattleFrontier_BattlePyramidLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid:
-	.string "Hvor modet hos TRÆNERE\n"
-	.string "bliver sat på prøve!\p"
+	.string "Hvor modet hos TRÆNERE bliver sat på prøve!\p"
 	.string "Velkommen til KAMPPIRAMIDEN!\p"
-	.string "Jeg er din guide til\n"
-	.string "Kampmissionen.$"
+	.string "Jeg er din guide til Kampmissionen.$"
 
 BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge:
-	.string "Har du modet til at påtage dig\n"
-	.string "Battle Quest udfordringen?$"
+	.string "Har du modet til at påtage dig Battle Quest\n"
+	.string "udfordringen?$"
 
 BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge:
-	.string "Vi venter spændt på din udfordring i fremtiden!$"
+	.string "Vi venter spændt på din udfordring i\n"
+	.string "fremtiden!$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid:
-	.string "Kamp Quest er en kampbegivenhed,\n"
-	.string "hvor du skal udforske PYRAMIDEN\n"
-	.string "og forsøge at nå toppen.\p"
-	.string "I PYRAMIDEN er der syv etager\n"
-	.string "med labyrinter, alle fyldt med\n"
-	.string "dygtige TRÆNERE samt vilde POKéMON.\p"
-	.string "Du skal gå ind med tre POKéMONs,\n"
-	.string "ingen af dem holder en genstand.\p"
-	.string "På din opstigning vil du få\n"
-	.string "en KAMPRYGSÆK til genstande.\p"
+	.string "Kamp Quest er en kampbegivenhed, hvor du\n"
+	.string "skal udforske PYRAMIDEN og forsøge at nå\l"
+	.string "toppen.\p"
+	.string "I PYRAMIDEN er der syv etager med\n"
+	.string "labyrinter, alle fyldt med dygtige TRÆNERE\l"
+	.string "samt vilde POKéMON.\p"
+	.string "Du skal gå ind med tre POKéMONs, ingen af dem\n"
+	.string "holder en genstand.\p"
+	.string "På din opstigning vil du få en KAMPRYGSÆK til\n"
+	.string "genstande.\p"
 	.string "Hvis du mislykkes i din udfordring,\n"
-	.string "forsvinder alle genstande i KAMPRYGSÆKKEN.\p"
-	.string "Hvis du ønsker at afbryde din\n"
-	.string "udfordring, skal du vælge “HVILE”\n"
-	.string "og gemme spillet.\p"
-	.string "Hvis du ikke gemmer inden afbrydelse,\n"
-	.string "vil du blive diskvalificeret.$"
+	.string "forsvinder alle genstande i\l"
+	.string "KAMPRYGSÆKKEN.\p"
+	.string "Hvis du ønsker at afbryde din udfordring,\n"
+	.string "skal du vælge “HVILE” og gemme spillet.\p"
+	.string "Hvis du ikke gemmer inden afbrydelse, vil du\n"
+	.string "blive diskvalificeret.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode:
-	.string "PYRAMIDEN tilbyder to kurser,\n"
-	.string "Niveau 50 og Åben Niveau.\l"
-	.string "Hvilket vil du vælge?$"
+	.string "PYRAMIDEN tilbyder to kurser, Niveau 50 og\n"
+	.string "Åben Niveau. Hvilket vil du vælge?$"
 
 BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons:
-	.string "Rigtig godt. Vælg nu de tre\n"
-    .string "POKéMON, som du gerne vil have med dig.$"
+	.string "Rigtig godt. Vælg nu de tre POKéMON, som du\n"
+	.string "gerne vil have med dig.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen:
 	.string "Et lille problem, eventyrer!\p"
-	.string "Du ser ud til ikke at have de tre\n"
-	.string "POKéMON, der er kvalificeret til\n"
-	.string "udfordringen.\p"
-	.string "Husk også at fjerne alle\n"
-	.string "genstande fra dine POKéMON.\p"
-	.string "ÆG{STR_VAR_1} er ikke kvalificere\ntil deltagelse.\p"
-	.string "Når du er klar, så tal venligst\n"
-	.string "med mig.$"
+	.string "Du ser ud til ikke at have de tre POKéMON, der\n"
+	.string "er kvalificeret til udfordringen.\p"
+	.string "Husk også at fjerne alle genstande fra dine\n"
+	.string "POKéMON.\p"
+	.string "ÆG{STR_VAR_1} er ikke kvalificeretil\n"
+	.string "deltagelse.\p"
+	.string "Når du er klar, så tal venligst med mig.$"
 
 BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50:
 	.string "Et lille problem, eventyrer!\p"
-	.string "Du ser ud til ikke at have de tre\n"
-	.string "POKéMON, der er kvalificeret til\n"
-	.string "udfordringen.\p"
-	.string "De tre POKéMON skal være\n"
-	.string "forskellige og hver især højst\n"
-	.string "niveau 50.\p"
-	.string "Husk også at fjerne alle genstande\n"
-	.string "fra dine POKéMON.\p"
+	.string "Du ser ud til ikke at have de tre POKéMON, der\n"
+	.string "er kvalificeret til udfordringen.\p"
+	.string "De tre POKéMON skal være forskellige og\n"
+	.string "hver især højst niveau 50.\p"
+	.string "Husk også at fjerne alle genstande fra dine\n"
+	.string "POKéMON.\p"
 	.string "ÆG{STR_VAR_1} er ugyldige.\p"
 	.string "Når du er klar, så snak med mig.$"
 
 BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge:
-	.string "Inden du går ind i KAMP-PYRAMIDEN,\n"
-	.string "skal spillet gemmes. Er det okay?$"
+	.string "Inden du går ind i KAMP-PYRAMIDEN, skal\n"
+	.string "spillet gemmes. Er det okay?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid:
-	.string "Meget godt. Jeg vil nu vise dig ind\n"
-	.string "i KAMP-PIRAMIDEN.$"
+	.string "Meget godt. Jeg vil nu vise dig ind i\n"
+	.string "KAMP-PIRAMIDEN.$"
 
 BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping:
-	.string "Vi passer på din RYGSÆK mens\n"
-	.string "du udforsker, {PLAYER}.$"
+	.string "Vi passer på din RYGSÆK mens du udforsker,\n"
+	.string "{PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag:
-	.string "Til gengæld, tag KAMPRYGSÆKKEN\n"
-	.string "som du brugte tidligere.$"
+	.string "Til gengæld, tag KAMPRYGSÆKKEN som du\n"
+	.string "brugte tidligere.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag:
-	.string "Som tak, tag venligst denne\n"
-	.string "KAMPRYGSÆK.$"
+	.string "Som tak, tag venligst denne KAMPRYGSÆK.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag:
-	.string "{PLAYER} byttede RYGSÆKKEN ud\n"
-	.string "med KAMPRYGSÆKKEN.$"
+	.string "{PLAYER} byttede RYGSÆKKEN ud med\n"
+	.string "KAMPRYGSÆKKEN.$"
 
 BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel:
-	.string "Når du træder på dette gulvpanel,\n"
-	.string "vil du blive transporteret til et højere\l"
-	.string "etage i PYRAMIDEN.\p"
-	.string "Jeg håber for din skyld, at din\n"
-	.string "mission går godt!$"
+	.string "Når du træder på dette gulvpanel, vil du\n"
+	.string "blive transporteret til et højere etage i\l"
+	.string "PYRAMIDEN.\p"
+	.string "Jeg håber for din skyld, at din mission går\n"
+	.string "godt!$"
 
 BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag:
 	.string "Et stort problem, opdagelsesrejsende!\p"
-	.string "Du gemte ikke, før du afsluttede\n"
-	.string "din udfordring sidste gang.\p"
-	.string "Som følge heraf er din udfordring\n"
-	.string "blevet diskvalificeret, må jeg sige.\p"
-	.string "Her er POSER vi har holdt\n"
-	.string "for dig.\p"
+	.string "Du gemte ikke, før du afsluttede din\n"
+	.string "udfordring sidste gang.\p"
+	.string "Som følge heraf er din udfordring blevet\n"
+	.string "diskvalificeret, må jeg sige.\p"
+	.string "Her er POSER vi har holdt for dig.\p"
 	.string "{PLAYER} fik POSERNE tilbage.$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid:
 	.string "Dejligt at se dig tilbage!\p"
-	.string "Du har erobret PYRAMIDEN!\n"
-	.string "Hvor skønt!$"
+	.string "Du har erobret PYRAMIDEN! Hvor skønt!$"
 
 BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake:
 	.string "Åh, et lille problem.\p"
-	.string "Mindst én POKéMON holder\n"
-	.string "en genstand.\p"
-	.string "Jeg beklager at sige, genstande\n"
-	.string "obtained i PYRAMIDEN kan ikke fjernes.$"
+	.string "Mindst én POKéMON holder en genstand.\p"
+	.string "Jeg beklager at sige, genstande obtained i\n"
+	.string "PYRAMIDEN kan ikke fjernes.$"
 
 BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag:
-	.string "Alle genstande holdt af din POKéMON vil blive\n"
-	.string "flyttet til din KAMPRYGSÆK, {PLAYER}.$"
+	.string "Alle genstande holdt af din POKéMON vil\n"
+	.string "blive flyttet til din KAMPRYGSÆK,\l"
+	.string "{PLAYER}.$"
 
 BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep:
 	.string "KAMPRYGSÆKKEN har ikke plads alle dine\n"
 	.string "genstande, det må jeg desværre sige.\p"
-	.string "Vælg venligst de genstande, du vil\n"
-	.string "gemme i KAMPRYGSÆKKEN, og med dine POKéMON.$"
+	.string "Vælg venligst de genstande, du vil gemme i\n"
+	.string "KAMPRYGSÆKKEN, og med dine POKéMON.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem:
-	.string "Mindst én POKéMON har stadig\n"
-	.string "en genstand.$"
+	.string "Mindst én POKéMON har stadig en genstand.$"
 
 BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep:
 	.string "Vælg venligst de ting, du vil opbevare i\n"
@@ -671,12 +662,12 @@ BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld:
 BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept:
 	.string "KAMPRYGSÆKKEN, du brugte, vil blive gemt\n"
 	.string "klar til din næste udfordring.\p"
-	.string "{PLAYER} vendte KAMPRYGSÆKKEN\n"
-	.string "for at få rygsækken tilbage.$"
+	.string "{PLAYER} vendte KAMPRYGSÆKKEN for at\n"
+	.string "få rygsækken tilbage.$"
 
 BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait:
-	.string "Jeg skal registrere dine resultater.\n"
-	.string "Vent venligst.$"
+	.string "Jeg skal registrere dine resultater. Vent\n"
+	.string "venligst.$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis:
@@ -697,13 +688,11 @@ BattleFrontier_BattlePyramidLobby_Text_BagIsFull:
 
 BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag:
 	.string "Hvor skuffende for dig…\p"
-	.string "Her er RYGSÆKKEN, vi har holdt på\n"
-	.string "til dig.\p"
+	.string "Her er RYGSÆKKEN, vi har holdt på til dig.\p"
 	.string "{PLAYER} fik RYGSÆKKEN tilbage.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge:
-	.string "Vi glæder os til din\n"
-	.string "næste udfordring!$"
+	.string "Vi glæder os til din næste udfordring!$"
 
 @ Unused
 BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
@@ -712,157 +701,153 @@ BattleFrontier_BattlePyramidLobby_Text_HereIsPrize:
 
 BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait:
 	.string "Velkommen…\p"
-	.string "Jeg vil med glæde fortælle dig, hvad der\n"
-	.string "af uheld venter i PYRAMIDEN…$"
+	.string "Jeg vil med glæde fortælle dig, hvad der af\n"
+	.string "uheld venter i PYRAMIDEN…$"
 
 BattleFrontier_BattlePyramidLobby_Text_Aah:
-	.string "… … … … … …\n"
-	.string "… … … … … …\p"
-	.string "… … … … … …\n"
-	.string "Aah!$"
+	.string "… … … … … … … … … … … …\p"
+	.string "… … … … … … Aah!$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintParalysis:
 	.string "Jeg ser en bruser af gnister…\p"
-	.string "…Og i den ser jeg din POKéMON\n"
-	.string "kæmpe med lammelse…$"
+	.string "…Og i den ser jeg din POKéMON kæmpe med\n"
+	.string "lammelse…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPoison:
 	.string "Jeg ser gift…\p"
-	.string "…Og jeg ser dine POKéMON lide\n"
-	.string "under virkningerne af gift…$"
+	.string "…Og jeg ser dine POKéMON lide under\n"
+	.string "virkningerne af gift…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBurn:
 	.string "Jeg ser lyse røde flammer…\p"
-	.string "…Og jeg ser din POKéMON lide\n"
-	.string "af forbrændinger…$"
+	.string "…Og jeg ser din POKéMON lide af\n"
+	.string "forbrændinger…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPPWaste:
-	.string "Jeg fornemmer det enorme pres af\n"
-	.string "ubevaret vrede... \p"
+	.string "Jeg fornemmer det enorme pres af ubevaret\n"
+	.string "vrede... \p"
 	.string "Det er en forbandelse... \p"
-	.string "...Og jeg ser dine POKéMON tømt for\n"
-	.string "Power Points og uden nogen mulighed\n"
-	.string "for at gøre andet end at kæmpe...$"
+	.string "...Og jeg ser dine POKéMON tømt for Power\n"
+	.string "Points og uden nogen mulighed for at gøre\l"
+	.string "andet end at kæmpe...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintLevitate:
 	.string "Jeg ser POKéMON svæve højt…\p"
-	.string "…Og, jeg ser dit POKéMON frustreret\n"
-	.string "af magtesløse JORD-typer bevægelser…$"
+	.string "…Og, jeg ser dit POKéMON frustreret af\n"
+	.string "magtesløse JORD-typer bevægelser…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility:
 	.string "Jeg mærker en fantastisk energi stige op\n"
 	.string "fra jorden under os…\p"
-	.string "...Og jeg ser dine POKéMON\n"
-	.string "ikke kan undslippe kraftens greb…$"
+	.string "...Og jeg ser dine POKéMON ikke kan\n"
+	.string "undslippe kraftens greb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintIce:
 	.string "Jeg ser IS-type POKéMON…\p"
-	.string "…Og jeg ser dine POKéMON kæmper\n"
-	.string "mod isens frysende effekter…$"
+	.string "…Og jeg ser dine POKéMON kæmper mod isens\n"
+	.string "frysende effekter…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintExplosion:
-	.string "Jeg ser en storm af bevægelser, der\n"
-	.string "truer brugeren…\p"
-	.string "…Og, jeg ser din POKéMON falde\n"
-	.string "til dem…$"
+	.string "Jeg ser en storm af bevægelser, der truer\n"
+	.string "brugeren…\p"
+	.string "…Og, jeg ser din POKéMON falde til dem…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintPsychic:
 	.string "Jeg ser PSYCHIC-type POKéMON…\p"
-	.string "…Og jeg ser dine POKéMON i lidelse\n"
-	.string "fra PSYCHIC-moves…$"
+	.string "…Og jeg ser dine POKéMON i lidelse fra\n"
+	.string "PSYCHIC-moves…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintRock:
 	.string "Jeg ser ROCK-type POKéMON…\p"
-	.string "…Og jeg ser, at dine POKéMON lider\n"
-	.string "af ROCK moves…$"
+	.string "…Og jeg ser, at dine POKéMON lider af ROCK\n"
+	.string "moves…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFighting:
 	.string "Jeg ser KAMP-type POKéMON…\p"
-	.string "…Og jeg ser dit POKéMON blive banket\n"
-	.string "af KAMP-moves…$"
+	.string "…Og jeg ser dit POKéMON blive banket af\n"
+	.string "KAMP-moves…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWeather:
-	.string "REGNDANS… SOLSKINSDAG…\n"
-	.string "SANDESTORM… SNEFYG…\p"
-	.string "Jeg ser POKéMON, der bliver stærkere\n"
-	.string "med vejret…\p"
-	.string "…Og jeg ser dine POKéMON forvirret\n"
-	.string "af forskellige typer af angreb…$"
+	.string "REGNDANS… SOLSKINSDAG… SANDESTORM…\n"
+	.string "SNEFYG…\p"
+	.string "Jeg ser POKéMON, der bliver stærkere med\n"
+	.string "vejret…\p"
+	.string "…Og jeg ser dine POKéMON forvirret af\n"
+	.string "forskellige typer af angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintBug:
 	.string "Jeg ser INSEKT-type POKéMON…\p"
-	.string "…Og jeg ser din POKéMON lide\n"
-	.string "under forskellige former for angreb…$"
+	.string "…Og jeg ser din POKéMON lide under\n"
+	.string "forskellige former for angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintDark:
 	.string "Jeg ser MØRKE-type POKéMON…\p"
-	.string "…Og jeg ser dit POKéMON lide\n"
-	.string "fra MØRKE-type angreb…$"
+	.string "…Og jeg ser dit POKéMON lide fra MØRKE-type\n"
+	.string "angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintWater:
 	.string "Jeg ser VAND-type POKéMON…\p"
-	.string "…Og jeg ser dit POKéMON lide\n"
-	.string "af VAND-type angreb…$"
+	.string "…Og jeg ser dit POKéMON lide af VAND-type\n"
+	.string "angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintGhost:
 	.string "Jeg ser GHOST-type POKéMON…\p"
-	.string "…Og jeg ser din POKéMON lide\n"
-	.string "under GHOST-type angreb…$"
+	.string "…Og jeg ser din POKéMON lide under\n"
+	.string "GHOST-type angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintSteel:
 	.string "Jeg ser STÅL-typen POKéMON...\p"
-	.string "...Og jeg ser din POKéMON lide\n"
-	.string "under enormt kraftfulde angreb...$"
+	.string "...Og jeg ser din POKéMON lide under enormt\n"
+	.string "kraftfulde angreb...$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon:
 	.string "Jeg ser flyvende POKéMON…\p"
-	.string "…Og, jeg ser dit POKéMON lide\n"
-	.string "under enormt kraftfulde angreb…$"
+	.string "…Og, jeg ser dit POKéMON lide under enormt\n"
+	.string "kraftfulde angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve:
-	.string "Jeg ser dem, der har udviklet sig fra\n"
-	.string "kraften fra sten…\p"
-	.string "Jeg fornemmer også ild, vand,\n"
-	.string "og elektricitet…\p"
-	.string "…Og jeg ser dine POKéMON lide\n"
-	.string "under disse tre kræfter…$"
+	.string "Jeg ser dem, der har udviklet sig fra kraften\n"
+	.string "fra sten…\p"
+	.string "Jeg fornemmer også ild, vand, og\n"
+	.string "elektricitet…\p"
+	.string "…Og jeg ser dine POKéMON lide under disse\n"
+	.string "tre kræfter…$"
 
 BattleFrontier_BattlePyramidLobby_Text_HintNormal:
 	.string "Jeg ser NORMAL-type POKéMON…\p"
-	.string "…Og jeg ser dit POKéMON lide\n"
-	.string "under enormt kraftfulde angreb…$"
+	.string "…Og jeg ser dit POKéMON lide under enormt\n"
+	.string "kraftfulde angreb…$"
 
 BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot:
 	.string "Uanset om du tror på mine forudsigelser\n"
 	.string "eller ej, valget er dit…\p"
-	.string "Fremtiden kan ændres når som helst…\n"
-	.string "Jeg ønsker dig en sikker rejse…$"
+	.string "Fremtiden kan ændres når som helst… Jeg\n"
+	.string "ønsker dig en sikker rejse…$"
 
 BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning:
 	.string "Vidste du det?\p"
-	.string "Hvis du løber hurtigt, kan TRÆNERE\n"
-	.string "bemærke det og konfrontere dig til\n"
-	.string "en kamp.\p"
-	.string "Så hvis du vil undgå TRÆNERE,\n"
-	.string "så fang ikke deres blik, men snig\l"
-	.string "diskret og stille forbi dem.$"
+	.string "Hvis du løber hurtigt, kan TRÆNERE bemærke\n"
+	.string "det og konfrontere dig til en kamp.\p"
+	.string "Så hvis du vil undgå TRÆNERE, så fang ikke\n"
+	.string "deres blik, men snig diskret og stille forbi\l"
+	.string "dem.$"
 
 BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems:
 	.string "Åååååååååh!\p"
-	.string "Jeg havde en hel masse ting, men jeg\n"
-	.string "mistede dem alle, da jeg tabte!\p"
+	.string "Jeg havde en hel masse ting, men jeg mistede\n"
+	.string "dem alle, da jeg tabte!\p"
 	.string "Åååååååååh!$"
 
 BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing:
-	.string "Velkommen tilbage!\n"
-	.string "Du har gjort det utænkelige!\p"
-	.string "Du har besejret PYRAMIDEKONGEN\n"
-	.string "og erobret KAMP-PYRAMIDEN!$"
+	.string "Velkommen tilbage! Du har gjort det\n"
+	.string "utænkelige!\p"
+	.string "Du har besejret PYRAMIDEKONGEN og\n"
+	.string "erobret KAMP-PYRAMIDEN!$"
 
 BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints:
-	.string "Ung udforsker!\n"
-	.string "Som belønning for din tapperhed,\l"
-	.string "giver vi dig disse Kamp Point(er)!$"
+	.string "Ung udforsker! Som belønning for din\n"
+	.string "tapperhed, giver vi dig disse Kamp\l"
+	.string "Point(er)!$"
 
 BattleFrontier_BattlePyramidLobby_Text_RulesAreListed:
 .string "Reglerne for Battle Quest er angivet.$"
@@ -871,39 +856,35 @@ BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading:
 	.string "Hvilken overskrift vil du læse?$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules:
-	.string "Når PYRAMIDEN er erobret,\n"
-	.string "er de vilde POKéMON, der vises i den\l"
-	.string "er erstattet af forskellige typer.\p"
-	.string "Udforsk, iagttage, og lær hvilke typer\n"
-	.string "af vilde POKéMON du kan møde.$"
+	.string "Når PYRAMIDEN er erobret, er de vilde\n"
+	.string "POKéMON, der vises i den er erstattet af\l"
+	.string "forskellige typer.\p"
+	.string "Udforsk, iagttage, og lær hvilke typer af\n"
+	.string "vilde POKéMON du kan møde.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules:
-	.string "TRÆNERE ligger på lur efter dig\n"
-	.string "i PYRAMIDEN.\p"
-	.string "På hver etage er der op til\n"
-	.string "otte TRÆNERE.\p"
-	.string "Når du besejrer en TRÆNER, vil du\n"
-	.string "få et nyttigt tip til dit eventyr.$"
+	.string "TRÆNERE ligger på lur efter dig i PYRAMIDEN.\p"
+	.string "På hver etage er der op til otte TRÆNERE.\p"
+	.string "Når du besejrer en TRÆNER, vil du få et\n"
+	.string "nyttigt tip til dit eventyr.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules:
-	.string "Mazerne i PYRAMIDEN omarrangerer\n"
-	.string "sig hver gang du går ind i den.\p"
-	.string "Mazerne er dårligt oplyste.\n"
-	.string "Du skal fortsætte forsigtigt.\p"
+	.string "Mazerne i PYRAMIDEN omarrangerer sig hver\n"
+	.string "gang du går ind i den.\p"
+	.string "Mazerne er dårligt oplyste. Du skal\n"
+	.string "fortsætte forsigtigt.\p"
 	.string "Lyset bliver stærkere hver gang du\n"
 	.string "besejrer en vild POKéMON eller en TRÆNER.$"
 
 BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules:
 	.string "BATTLE BAG'en fungerer som din RYGSÆK\n"
 	.string "mens du er i PYRAMIDEN.\p"
-	.string "Der er to separate BATTLE BAGS--\n"
-	.string "en til hvert Level 50 og\l"
-	.string "Åbent Level eventyr.\p"
-	.string "De kan hver indeholde op til 99\n"
-	.string "stykker af ti forskellige typer\n"
-	.string "genstande.\p"
-	.string "Indholdet af BATTLE BAG'en går tabt,\n"
-	.string "hvis du mislykkes i din quest.$"
+	.string "Der er to separate BATTLE BAGS-- en til\n"
+	.string "hvert Level 50 og Åbent Level eventyr.\p"
+	.string "De kan hver indeholde op til 99 stykker af ti\n"
+	.string "forskellige typer genstande.\p"
+	.string "Indholdet af BATTLE BAG'en går tabt, hvis\n"
+	.string "du mislykkes i din quest.$"
 
 
 

@@ -104,35 +104,35 @@ BattleFrontier_RankingHall_EventScript_Boy::
 
 BattleFrontier_RankingHall_Text_ExplainRankingHall:
 	.string "Dette er RANGHALLLEN.\p"
-	.string "Her hylder vi de udødelige\n"
-	.string "TRENERE, der satte fantastiske rekorder\n"
-	.string "i SLÅSKAMPFRONTEN-begivenheder.$"
+	.string "Her hylder vi de udødelige TRENERE, der\n"
+	.string "satte fantastiske rekorder i\l"
+	.string "SLÅSKAMPFRONTEN-begivenheder.$"
 
 BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
-	.string "KAMPDOM, KAMPPIK,\n"
-	.string "og KAMPFABRIKENS optegnelser$"
+	.string "KAMPDOM, KAMPPIK, og KAMPFABRIKENS\n"
+	.string "optegnelser$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "KAMP PALADS, KAMP ARENA,\n"
-	.string "og KAMP PYRAMIDE Optegnelser$"
+	.string "KAMP PALADS, KAMP ARENA, og KAMP PYRAMIDE\n"
+	.string "Optegnelser$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
 .string "Hej, står dit navn på denne liste?$"
 
 BattleFrontier_RankingHall_Text_WowThatsSuper:
-	.string "Wow, det er super!\n"
-	.string "Jeg bliver nødt til at prøve hårdere, også!$"
+	.string "Wow, det er super! Jeg bliver nødt til at\n"
+	.string "prøve hårdere, også!$"
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
 	.string "Åh, er det sandt?\p"
-	.string "Hvis du så din vens navn heroppe,\n"
-	.string "Vil jeg vædde på, at det ville\nfå dig til at arbejde hårdere!$"
+	.string "Hvis du så din vens navn heroppe, Vil jeg\n"
+	.string "vædde på, at det villefå dig til at arbejde\l"
+	.string "hårdere!$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
-	.string "Hmm…\n"
-	.string "Mit navn er ikke deroppe…\p"
-	.string "Det er helt naturligt, da jeg endnu ikke\n"
-	.string "har taget udfordringer endnu.$"
+	.string "Hmm… Mit navn er ikke deroppe…\p"
+	.string "Det er helt naturligt, da jeg endnu ikke har\n"
+	.string "taget udfordringer endnu.$"
 
 
 

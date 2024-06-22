@@ -30,44 +30,44 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "Når jeg er her…\n"
-	.string "En nysgerrig kraft strømmer ind i mig…$"
+	.string "Når jeg er her… En nysgerrig kraft strømmer\n"
+	.string "ind i mig…$"
 
 MtPyre_6F_Text_ValerieDefeat:
 .string "Kraften ebber væk...$"
 
 MtPyre_6F_Text_ValeriePostBattle:
-	.string "Måske kommer kraften fra ånderne\n"
-	.string "af POKéMON, der sover uroligt her…$"
+	.string "Måske kommer kraften fra ånderne af\n"
+	.string "POKéMON, der sover uroligt her…$"
 
 MtPyre_6F_Text_ValerieRegister:
-	.string "Haha... Jeg tabte kampen, men...\n"
-	.string "Jeg har denne lille evne... \p"
-	.string "Uden nogensinde at røre ved\n"
-	.string "din POKéNAV... Hiyah!$"
+	.string "Haha... Jeg tabte kampen, men... Jeg har\n"
+	.string "denne lille evne... \p"
+	.string "Uden nogensinde at røre ved din POKéNAV...\n"
+	.string "Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
-	.string "Bag dig…\n"
-	.string "Hvad er det…$"
+	.string "Bag dig… Hvad er det…$"
 
 MtPyre_6F_Text_ValerieRematchDefeat:
 .string "Noget forsvandt…$"
 
 MtPyre_6F_Text_ValeriePostRematch:
-	.string "De POKéMON, der hviler her…\n"
-	.string "Nogle gange leger de…$"
+	.string "De POKéMON, der hviler her… Nogle gange\n"
+	.string "leger de…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Har du mistet din retning?\n"
-	.string "Frygt ej, for jeg er her!$"
+	.string "Har du mistet din retning? Frygt ej, for jeg\n"
+	.string "er her!$"
 
 MtPyre_6F_Text_CedricDefeat:
 	.string "Var du ikke lost?$"
 
 MtPyre_6F_Text_CedricPostBattle:
-	.string "Jeg havde en fornemmelse af, at en tabt TRÆNER\n"
-	.string "ville være panikslagen og nem at slå.\p"
-	.string "Det er uretfærdigt, og jeg vil ikke prøve det igen...$"
+	.string "Jeg havde en fornemmelse af, at en tabt\n"
+	.string "TRÆNER ville være panikslagen og nem at slå.\p"
+	.string "Det er uretfærdigt, og jeg vil ikke prøve det\n"
+	.string "igen...$"
 
 
 

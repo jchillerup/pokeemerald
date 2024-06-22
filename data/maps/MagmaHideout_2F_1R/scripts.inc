@@ -27,14 +27,12 @@ MagmaHideout_2F_1R_Text_Grunt14Intro:
 	.string "Hvad, hvad, hvad?\p"
 	.string "Kun TEAM MAGMA medlemmer skulle være\n"
 	.string "herinde!\p"
-	.string "Men du er ikke iført TEAM MAGMA's\n"
-	.string "uniform…\p"
-	.string "Du vækker min mistanke!\n"
-	.string "Kæmp med mig!$"
+	.string "Men du er ikke iført TEAM MAGMA's uniform…\p"
+	.string "Du vækker min mistanke! Kæmp med mig!$"
 
 MagmaHideout_2F_1R_Text_Grunt14Defeat:
-	.string "Aiyiyi…\n"
-	.string "Min stolthed som et TEAM MAGMA medlem…$"
+	.string "Aiyiyi… Min stolthed som et TEAM MAGMA\n"
+	.string "medlem…$"
 
 MagmaHideout_2F_1R_Text_Grunt14PostBattle:
 	.string "Hvis du lider af kuldegysninger, bør du\n"
@@ -42,32 +40,29 @@ MagmaHideout_2F_1R_Text_Grunt14PostBattle:
 
 MagmaHideout_2F_1R_Text_Grunt3Intro:
 	.string "Stop lige der!\p"
-	.string "Du forventer vel ikke,\n"
-	.string "at jeg bare lukker og lader dig gå forbi?$"
+	.string "Du forventer vel ikke, at jeg bare lukker og\n"
+	.string "lader dig gå forbi?$"
 
 MagmaHideout_2F_1R_Text_Grunt3Defeat:
-	.string "Åh wow!\n"
-	.string "Jeg giver op!$"
+	.string "Åh wow! Jeg giver op!$"
 
 MagmaHideout_2F_1R_Text_Grunt3PostBattle:
 	.string "Måske det ville have været bedre, hvis jeg\n"
 	.string "bare lod dig gå udfordringsløs…$"
 
 MagmaHideout_2F_1R_Text_Grunt4Intro:
-	.string "Ahah!\n"
-	.string "En indtrænger!$"
+	.string "Ahah! En indtrænger!$"
 
 MagmaHideout_2F_1R_Text_Grunt4Defeat:
 .string "Graaah!$"
 
 MagmaHideout_2F_1R_Text_Grunt4PostBattle:
 	.string "Jeg har allerede tabt.\p"
-	.string "Skal jeg virkelig blive ved med at\n"
-	.string "løbe rundt i en cirkel?$"
+	.string "Skal jeg virkelig blive ved med at løbe rundt\n"
+	.string "i en cirkel?$"
 
 MagmaHideout_2F_1R_Text_Grunt5Intro:
-	.string "Åh, åh!\n"
-	.string "En indtrænger!$"
+	.string "Åh, åh! En indtrænger!$"
 
 MagmaHideout_2F_1R_Text_Grunt5Defeat:
 .string "Mor...$"

@@ -30,3 +30,5 @@ ShoalCave_LowTideStairsRoom_EventScript_ReceivedShoalSalt::
 	releaseall
 	end
 
+
+

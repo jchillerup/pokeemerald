@@ -220,10 +220,10 @@ SlateportCity_ContestHall_Text_ItsAppealTime:
 @ Unused
 
 SlateportCity_ContestHall_Text_DidntPayAttentionToAppeal:
-	.string "De lagde ikke meget mærke til\n"
-	.string "min POKéMONs tiltrækningskraft…\p"
-	.string "Hmm, den dommer kender ikke en\n"
-	.string "god ting, når han ser det.$"
+	.string "De lagde ikke meget mærke til min POKéMONs\n"
+	.string "tiltrækningskraft…\p"
+	.string "Hmm, den dommer kender ikke en god ting, når\n"
+	.string "han ser det.$"
 
 @ Unused
 SlateportCity_ContestHall_Text_RewardWithSageAdvice:

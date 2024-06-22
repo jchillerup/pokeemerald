@@ -63,38 +63,37 @@ MeteorFalls_1F_2R_EventScript_RematchJay::
 	end
 
 MeteorFalls_1F_2R_Text_NicolasIntro:
-	.string "Her træner vi DRAGE-brugere.\n"
-	.string "Selveste MESTEREN kommer endda på besøg.\n"
-	.string "Kan du se, hvor specielt det er her?$"
+	.string "Her træner vi DRAGE-brugere. Selveste\n"
+	.string "MESTEREN kommer endda på besøg. Kan du se,\l"
+	.string "hvor specielt det er her?$"
 
 MeteorFalls_1F_2R_Text_NicolasDefeat:
-	.string "Åh!\n"
-	.string "Jeg havde ikke forventet, at du var så stærk!$"
+	.string "Åh! Jeg havde ikke forventet, at du var så\n"
+	.string "stærk!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostBattle:
 	.string "Vejen frem forbliver lang og barsk.\p"
-	.string "Hvornår vil min POKéMON og jeg\n"
-	.string "blive de bedste?$"
+	.string "Hvornår vil min POKéMON og jeg blive de\n"
+	.string "bedste?$"
 
 MeteorFalls_1F_2R_Text_NicolasRegister:
-	.string "Jeg vil gerne vide mere om din kraft.\n"
-	.string "Lad mig registrere dig i min POKéNAV.$"
+	.string "Jeg vil gerne vide mere om din kraft. Lad mig\n"
+	.string "registrere dig i min POKéNAV.$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchIntro:
-	.string "Siden vi mødtes, har vi trænet hårdt\n"
-	.string "med vores øjne rettet mod førstepladsen.\p"
+	.string "Siden vi mødtes, har vi trænet hårdt med\n"
+	.string "vores øjne rettet mod førstepladsen.\p"
 	.string "Hjælp os med at se, hvor meget stærkere vi er\n"
 	.string "blevet!$"
 
 MeteorFalls_1F_2R_Text_NicolasRematchDefeat:
-	.string "Åh!\n"
-	.string "Jeg forventede ikke, at du var så stærk!$"
+	.string "Åh! Jeg forventede ikke, at du var så stærk!$"
 
 MeteorFalls_1F_2R_Text_NicolasPostRematch:
-	.string "Du har tydeligvis holdt dig opdateret\n"
-	.string "med din POKéMON-træning.\p"
-	.string "Så længe du forbliver stærk, kan jeg\n"
-	.string "også blive stærkere!$"
+	.string "Du har tydeligvis holdt dig opdateret med\n"
+	.string "din POKéMON-træning.\p"
+	.string "Så længe du forbliver stærk, kan jeg også\n"
+	.string "blive stærkere!$"
 
 MeteorFalls_1F_2R_Text_JohnIntro:
 	.string "JOHN: Vi har altid kæmpet med POKéMON\n"
@@ -102,55 +101,46 @@ MeteorFalls_1F_2R_Text_JohnIntro:
 	.string "Vi har tillid til os selv.$"
 
 MeteorFalls_1F_2R_Text_JohnDefeat:
-	.string "JOHN: Åh, nej.\n"
-	.string "Vi har tabt, kære kone.$"
+	.string "JOHN: Åh, nej. Vi har tabt, kære kone.$"
 
 MeteorFalls_1F_2R_Text_JohnPostBattle:
-	.string "JOHN: Vi har været gift i\n"
-	.string "halvtreds år.\p"
-	.string "Nu da jeg tænker over det, har jeg\n"
-	.string "endnu ikke slået min kære kone i en\n"
-	.string "kamp.$"
+	.string "JOHN: Vi har været gift i halvtreds år.\p"
+	.string "Nu da jeg tænker over det, har jeg endnu ikke\n"
+	.string "slået min kære kone i en kamp.$"
 
 MeteorFalls_1F_2R_Text_JohnNotEnoughMons:
 	.string "JOHN: Nåh, nåh, en ung TRÆNER!\p"
-	.string "Vil du kæmpe med os? Hvis du gør, så\n"
-	.string "er du nødt til at komme tilbage med flere\n"
-	.string "POKéMON.$"
+	.string "Vil du kæmpe med os? Hvis du gør, så er du nødt\n"
+	.string "til at komme tilbage med flere POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRegister:
-	.string "JOHN: Ung TRÆNER, hvis muligheden\n"
-	.string "opstår, vil du kæmpe med os igen?$"
+	.string "JOHN: Ung TRÆNER, hvis muligheden opstår,\n"
+	.string "vil du kæmpe med os igen?$"
 
 MeteorFalls_1F_2R_Text_JayIntro:
-	.string "JAY: Vi har været gift i\n"
-	.string "halvtreds år.\p"
-	.string "Båndet vi deler som et par kan\n"
-	.string "aldrig brydes.$"
+	.string "JAY: Vi har været gift i halvtreds år.\p"
+	.string "Båndet vi deler som et par kan aldrig brydes.$"
 
 MeteorFalls_1F_2R_Text_JayDefeat:
-	.string "JAY: Åh, nej.\n"
-	.string "Vi har tabt, min kære mand.$"
+	.string "JAY: Åh, nej. Vi har tabt, min kære mand.$"
 
 MeteorFalls_1F_2R_Text_JayPostBattle:
 	.string "JAY: Halvtreds års ægteskab…\p"
-	.string "Hvis vi nogensinde skændtes, løste\n"
-	.string "vi det med en POKéMON-kamp…$"
+	.string "Hvis vi nogensinde skændtes, løste vi det\n"
+	.string "med en POKéMON-kamp…$"
 
 MeteorFalls_1F_2R_Text_JayNotEnoughMons:
-	.string "JAY: Nåh, nåh, er du ikke en ung\n"
-	.string "TRÆNER?\p"
-	.string "Hvis du har lyst til at kæmpe med os, skal\n"
-	.string "du komme tilbage med flere POKéMON.$"
+	.string "JAY: Nåh, nåh, er du ikke en ung TRÆNER?\p"
+	.string "Hvis du har lyst til at kæmpe med os, skal du\n"
+	.string "komme tilbage med flere POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchIntro:
 	.string "JOHN: Vi har altid kæmpet med POKéMON\n"
-	.string "sammen som et dynamisk duo.\l"
-	.string "Vi har tillid til os selv.$"
+	.string "sammen som et dynamisk duo. Vi har tillid til\l"
+	.string "os selv.$"
 
 MeteorFalls_1F_2R_Text_JohnRematchDefeat:
-	.string "John: Åh, nej.\n"
-	.string "Vi har tabt, kære kone.$"
+	.string "John: Åh, nej. Vi har tabt, kære kone.$"
 
 MeteorFalls_1F_2R_Text_JohnPostRematch:
 	.string "JOHN: Gift i halvtreds år…\p"
@@ -159,31 +149,27 @@ MeteorFalls_1F_2R_Text_JohnPostRematch:
 
 MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons:
 	.string "JOHN: Nå, nå, en ung TRÆNER!\p"
-	.string "Vil du kæmpe med os? Hvis du vil,\n"
-	.string "skal du vende tilbage med flere POKéMON.$"
+	.string "Vil du kæmpe med os? Hvis du vil, skal du vende\n"
+	.string "tilbage med flere POKéMON.$"
 
 MeteorFalls_1F_2R_Text_JayRematchIntro:
-	.string "JAY: Vi har været gift i\n"
-	.string "halvtreds år.\p"
-	.string "Vi har støttet hinanden hele\n"
-	.string "den tid. Vi har gjort os stærke.$"
+	.string "JAY: Vi har været gift i halvtreds år.\p"
+	.string "Vi har støttet hinanden hele den tid. Vi har\n"
+	.string "gjort os stærke.$"
 
 MeteorFalls_1F_2R_Text_JayRematchDefeat:
-	.string "JAY: Åh, nej.\n"
-	.string "Vi har tabt, min kære mand.$"
+	.string "JAY: Åh, nej. Vi har tabt, min kære mand.$"
 
 MeteorFalls_1F_2R_Text_JayPostRematch:
-	.string "JAY: Halvtreds års ægteskab...\n"
-	.string "Der er sket mange ting.\p"
-	.string "Jeg håber, at vi vil fortsætte med at\n"
-	.string "skabe glade minder sammen.$"
+	.string "JAY: Halvtreds års ægteskab... Der er sket\n"
+	.string "mange ting.\p"
+	.string "Jeg håber, at vi vil fortsætte med at skabe\n"
+	.string "glade minder sammen.$"
 
 MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons:
-	.string "JAY: Nå, nå, er du ikke en ung\n"
-	.string "TRÆNER?\p"
-	.string "Hvis du har lyst til at kæmpe med os,\n"
-	.string "bliver du nødt til at komme tilbage\n"
-	.string "med flere POKéMON.$"
+	.string "JAY: Nå, nå, er du ikke en ung TRÆNER?\p"
+	.string "Hvis du har lyst til at kæmpe med os, bliver du\n"
+	.string "nødt til at komme tilbage med flere POKéMON.$"
 
 
 

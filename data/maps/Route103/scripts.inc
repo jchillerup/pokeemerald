@@ -296,65 +296,60 @@ Route103_Text_MayRoute103Pokemon:
 
 Route103_Text_MayLetsBattle:
 	.string "Hej, {PLAYER}{KUN}!\p"
-	.string "…Åh, jeg ser, min far gav dig\n"
-	.string "en POKéMON som gave.\p"
-	.string "Siden vi er her, lad os have en hurtig\n"
-	.string "kamp!\p"
+	.string "…Åh, jeg ser, min far gav dig en POKéMON som\n"
+	.string "gave.\p"
+	.string "Siden vi er her, lad os have en hurtig kamp!\p"
 	.string "Jeg vil give dig en smagsprøve på, hvad det\n"
 	.string "vil sige at være en TRÆNER.$"
 
 Route103_Text_MayDefeated:
-	.string "Wow! Det er fedt!\n"
-	.string "{PLAYER}{KUN}, du er ret god!$"
+	.string "Wow! Det er fedt! {PLAYER}{KUN}, du er ret god!$"
 
 Route103_Text_MayTimeToHeadBack:
 	.string "MAY: Jeg tror, jeg ved hvorfor min far holder\n"
 	.string "øje med dig nu.\p"
-	.string "Jeg mener, du har lige fået den POKéMON,\n"
-	.string "men den kan allerede lide dig.\p"
-	.string "Du kan måske let blive ven med enhver\n"
-	.string "type POKéMON.\p"
-	.string "Nå, det er tid til at vende tilbage til\n"
-	.string "LABBET.$"
+	.string "Jeg mener, du har lige fået den POKéMON, men\n"
+	.string "den kan allerede lide dig.\p"
+	.string "Du kan måske let blive ven med enhver type\n"
+	.string "POKéMON.\p"
+	.string "Nå, det er tid til at vende tilbage til LABBET.$"
 
 Route103_Text_BrendanRoute103Pokemon:
-	.string "BRENDAN: Okay, så det er denne her og\n"
-	.string "den der, der bor på RUTE 103...\p$"
+	.string "BRENDAN: Okay, så det er denne her og den\n"
+	.string "der, der bor på RUTE 103...$"
 
 Route103_Text_BrendanLetsBattle:
 	.string "Hey, det er {PLAYER}!\p"
 	.string "…Åh, ja, Far gav dig en POKéMON.\p"
-	.string "Siden vi er her, hvad med lidt\n"
-	.string "kamp?\p"
-	.string "Jeg vil lære dig, hvad det vil sige\n"
-	.string "at være en TRÆNER!$"
+	.string "Siden vi er her, hvad med lidt kamp?\p"
+	.string "Jeg vil lære dig, hvad det vil sige at være en\n"
+	.string "TRÆNER!$"
 
 Route103_Text_BrendanDefeated:
 .string "Hov, {PLAYER}, du er ikke helt dum.$"
 
 Route103_Text_BrendanTimeToHeadBack:
-	.string "BRENDAN: Jeg tror, jeg forstår det.\n"
-	.string "Jeg tror, jeg ved, hvorfor min far\n"
-	.string "holder øje med dig nu.\p"
-	.string "Se, din POKéMON kan allerede lide dig,\n"
-	.string "selvom du lige har fået den.\p"
-	.string "{PLAYER}, jeg har en fornemmelse af,\n"
-	.string "at du kunne blive ven med enhver\n"
-	.string "POKéMON med lethed.\p"
+	.string "BRENDAN: Jeg tror, jeg forstår det. Jeg\n"
+	.string "tror, jeg ved, hvorfor min far holder øje med\l"
+	.string "dig nu.\p"
+	.string "Se, din POKéMON kan allerede lide dig, selvom\n"
+	.string "du lige har fået den.\p"
+	.string "{PLAYER}, jeg har en fornemmelse af, at du\n"
+	.string "kunne blive ven med enhver POKéMON med\l"
+	.string "lethed.\p"
 	.string "Vi bør vende tilbage til LAB'et.$"
 
 Route103_Text_ShouldHaveBroughtPotion:
-	.string "Min POKéMON er forfærdeligt træt…\n"
-	.string "Jeg burde have medbragt en POTION…$"
+	.string "Min POKéMON er forfærdeligt træt… Jeg\n"
+	.string "burde have medbragt en POTION…$"
 
 Route103_Text_ShortcutToOldale:
-	.string "Hvis du krydser havet herfra,\n"
-	.string "bliver det en genvej til OLDALE BY.\p"
+	.string "Hvis du krydser havet herfra, bliver det en\n"
+	.string "genvej til OLDALE BY.\p"
 	.string "Fufufu, det er nyttigt, ikke sandt?$"
 
 Route103_Text_RouteSign:
-	.string "RUTE 103\n"
-	.string "{DOWN_ARROW} OLDALE BY$"
+	.string "RUTE 103 {DOWN_ARROW} OLDALE BY$"
 
 
 

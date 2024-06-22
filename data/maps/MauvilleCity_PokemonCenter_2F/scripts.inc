@@ -25,12 +25,11 @@ MauvilleCity_PokemonCenter_2F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_2F_Text_Youngster:
-	.string "Vidste du, at du kan kæmpe\n"
-	.string "i COLOSSEUM her?\p"
-	.string "De hænger din rekord op på væggen\n"
-	.string "så alle kan se den.\p"
-	.string "Det er pinligt, hvis du taber\n"
-	.string "mere end du vinder…$"
+	.string "Vidste du, at du kan kæmpe i COLOSSEUM her?\p"
+	.string "De hænger din rekord op på væggen så alle kan\n"
+	.string "se den.\p"
+	.string "Det er pinligt, hvis du taber mere end du\n"
+	.string "vinder…$"
 
 
 

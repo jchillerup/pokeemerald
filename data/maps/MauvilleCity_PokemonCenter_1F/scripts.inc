@@ -38,16 +38,15 @@ MauvilleCity_PokemonCenter_1F_EventScript_Youngster::
 	end
 
 MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings:
-	.string "Den mand derovre, han siger mærkelige\n"
-	.string "ting!\p"
-	.string "Han er sjov på en underlig måde.\n"
-	.string "Jeg tvivler på, at jeg glemmer ham!$"
+	.string "Den mand derovre, han siger mærkelige ting!\p"
+	.string "Han er sjov på en underlig måde. Jeg tvivler\n"
+	.string "på, at jeg glemmer ham!$"
 
 MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner:
-	.string "Da jeg fik adgang til REGISTRERINGSKROGEN,\n"
-	.string "opdateredes dataene for hvad der er hot i DEWFORD\l"
-	.string "Nu er den information den samme\n"
-	.string "som min vens!$"
+	.string "Da jeg fik adgang til\n"
+	.string "REGISTRERINGSKROGEN, opdateredes\l"
+	.string "dataene for hvad der er hot i DEWFORD Nu er\l"
+	.string "den information den samme som min vens!$"
 
 MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun:
 	.string "En PLADEKROG åbnede ovenpå i\n"

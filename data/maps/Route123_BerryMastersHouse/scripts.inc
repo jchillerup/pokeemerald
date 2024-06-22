@@ -128,3 +128,5 @@ Route123_BerryMastersHouse_EventScript_GaveBerry::
 	release
 	end
 
+
+

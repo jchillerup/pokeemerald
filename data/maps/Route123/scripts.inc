@@ -178,22 +178,20 @@ Route123_Text_LoveGrassMonsHaveAny:
 
 Route123_Text_YouLikeGrassMonsTooHaveThis:
 	.string "Åh?\p"
-	.string "Du kan også lide GRÆS-type POKéMON,\n"
-	.string "ikke sandt?\p"
-	.string "Jeg er så glad, du kan få denne!\n"
-	.string "Det er et tegn på vores venskab.$"
+	.string "Du kan også lide GRÆS-type POKéMON, ikke\n"
+	.string "sandt?\p"
+	.string "Jeg er så glad, du kan få denne! Det er et tegn\n"
+	.string "på vores venskab.$"
 
 Route123_Text_CheckTreesWithMyGrassMon:
 	.string "Jeg undersøger træer med min GRÆS-type\n"
 	.string "POKéMON. Jeg er ligesom en trælæge.$"
 
 Route123_Text_RouteSign:
-.string "{RIGHT_ARROW} RUTE 123\n"
-.string "{LEFT_ARROW} RUTE 118$"
+	.string "{LEFT_ARROW} RUTE 118$"
 
 Route123_Text_RouteSignMtPyre:
-	.string "{UP_ARROW} MT. PYRE\n"
-	.string "“Forbudt for sarte sjæle.”$"
+	.string "{UP_ARROW} MT. PYRE “Forbudt for sarte sjæle.”$"
 
 Route123_Text_BerryMastersHouse:
 .string "BÆRMASTERENS HUS$"

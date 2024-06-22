@@ -24,52 +24,50 @@ MagmaHideout_2F_2R_EventScript_Grunt8::
 	end
 
 MagmaHideout_2F_2R_Text_Grunt15Intro:
-	.string "Jeg har ikke noget at udsætte på dig.\n"
-	.string "Jeg følger bare ordrer!$"
+	.string "Jeg har ikke noget at udsætte på dig. Jeg\n"
+	.string "følger bare ordrer!$"
 
 MagmaHideout_2F_2R_Text_Grunt15Defeat:
 .string "Jeg har måske tabt, men…$"
 
 MagmaHideout_2F_2R_Text_Grunt15PostBattle:
-	.string "Vi har gravet noget op ud over tro!\n"
-	.string "Og vi fik DEN BLÅ ORB!\p"
-	.string "Alt hvad der nu mangler er for vores leder at…\n"
-	.string "Fufufu… Fwahahaha!$"
+	.string "Vi har gravet noget op ud over tro! Og vi fik\n"
+	.string "DEN BLÅ ORB!\p"
+	.string "Alt hvad der nu mangler er for vores leder\n"
+	.string "at… Fufufu… Fwahahaha!$"
 
 MagmaHideout_2F_2R_Text_Grunt6Intro:
-	.string "Jeg kan ikke klare varmen. Måske\n"
-	.string "skulle jeg have valgt TEAM AQUA i stedet...$"
+	.string "Jeg kan ikke klare varmen. Måske skulle jeg\n"
+	.string "have valgt TEAM AQUA i stedet...$"
 
 MagmaHideout_2F_2R_Text_Grunt6Defeat:
 	.string "Ja, jeg er måske virkelig ikke den rette for\n"
 	.string "TEAM MAGMA...$"
 
 MagmaHideout_2F_2R_Text_Grunt6PostBattle:
-	.string "Bliver du ikke ensom efter havet\n"
-	.string "når du er et sted som dette?$"
+	.string "Bliver du ikke ensom efter havet når du er et\n"
+	.string "sted som dette?$"
 
 MagmaHideout_2F_2R_Text_Grunt7Intro:
 	.string "Nogle gange kan du høre rystelser her.\p"
-	.string "Kunne det være vulkanen, der skælver?\n"
-	.string "Eller er det GRUPPE…\p"
-	.string "Ups!\n"
-	.string "Nå, glem det!$"
+	.string "Kunne det være vulkanen, der skælver? Eller\n"
+	.string "er det GRUPPE…\p"
+	.string "Ups! Nå, glem det!$"
 
 MagmaHideout_2F_2R_Text_Grunt7Defeat:
-	.string "Du er en ildfuld kæmper.\n"
-	.string "Præcis som en vulkan!$"
+	.string "Du er en ildfuld kæmper. Præcis som en\n"
+	.string "vulkan!$"
 
 MagmaHideout_2F_2R_Text_Grunt7PostBattle:
-	.string "Du vandt tilfældigvis denne gang,\n"
-	.string "men det gør ikke noget.\p"
-	.string "Hold MAGMA er ved at nå deres\n"
-	.string "mål!$"
+	.string "Du vandt tilfældigvis denne gang, men det\n"
+	.string "gør ikke noget.\p"
+	.string "Hold MAGMA er ved at nå deres mål!$"
 
 MagmaHideout_2F_2R_Text_Grunt8Intro:
-	.string "En af vores fyre var helt ude af den,\n"
-	.string "fordi han havde tabt sit MAGMA-EMBLEM…\p"
-	.string "Vent lige et øjeblik!\n"
-	.string "Var det dig, der fandt det?$"
+	.string "En af vores fyre var helt ude af den, fordi\n"
+	.string "han havde tabt sit MAGMA-EMBLEM…\p"
+	.string "Vent lige et øjeblik! Var det dig, der fandt\n"
+	.string "det?$"
 
 MagmaHideout_2F_2R_Text_Grunt8Defeat:
 	.string "Jeg har svært ved at tro på dette...$"

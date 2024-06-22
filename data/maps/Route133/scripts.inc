@@ -36,3 +36,5 @@ Route133_EventScript_Conor::
 	msgbox Route133_Text_ConorPostBattle, MSGBOX_AUTOCLOSE
 	end
 
+
+

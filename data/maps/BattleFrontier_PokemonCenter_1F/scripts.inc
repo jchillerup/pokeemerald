@@ -42,21 +42,21 @@ BattleFrontier_PokemonCenter_1F_EventScript_Skitty::
 	end
 
 BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon:
-	.string "Der var nogen her, der brugte en \n"
-	.string "POKéMON, jeg aldrig har set før.\p"
-	.string "Jeg lærte i hvert fald aldrig om den\n"
-	.string "på TRÆNER SKOLEN.\p"
+	.string "Der var nogen her, der brugte en  POKéMON,\n"
+	.string "jeg aldrig har set før.\p"
+	.string "Jeg lærte i hvert fald aldrig om den på\n"
+	.string "TRÆNER SKOLEN.\p"
 	.string "Jeg spekulerer på, hvor man kan fange\n"
 	.string "POKéMON som den.$"
 
 BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena:
-	.string "Okay! Næste stop, KAMPARENAEN!\n"
-	.string "Jeg må hellere få den rette POKéMON fra\l"
+	.string "Okay! Næste stop, KAMPARENAEN! Jeg må\n"
+	.string "hellere få den rette POKéMON fra\l"
 	.string "PC-opbevaringssystemet.$"
 
 BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge:
-	.string "Hihi... Jeg vil klare enhver\n"
-	.string "udfordring med bare denne baby!$"
+	.string "Hihi... Jeg vil klare enhver udfordring med\n"
+	.string "bare denne baby!$"
 
 BattleFrontier_PokemonCenter_1F_Text_Skitty:
 	.string "SKITTY: Mya myaaah!$"

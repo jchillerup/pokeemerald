@@ -72,3 +72,5 @@ MarineCave_End_Movement_KyogreApproach:
 	walk_down_affine
 	step_end
 
+
+

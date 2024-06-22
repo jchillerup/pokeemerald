@@ -59,8 +59,7 @@ BattleFrontier_BattlePikeCorridor_Movement_AttendantEnterCorridor:
 	step_end
 
 BattleFrontier_BattlePikeCorridor_Text_YourChallengeHasBegun:
-	.string "Dit Kampvalgsudfordring\n"
-	.string "er nu begyndt…$"
+	.string "Dit Kampvalgsudfordring er nu begyndt…$"
 
 
 

@@ -22,16 +22,15 @@ DewfordTown_House1_EventScript_Zigzagoon::
 	end
 
 DewfordTown_House1_Text_LotToBeSaidForLivingOnIsland:
-	.string "Der er meget at sige om at bo på\n"
-	.string "en lille ø som denne i harmoni med\l"
-	.string "POKéMON og familien.$"
+	.string "Der er meget at sige om at bo på en lille ø som\n"
+	.string "denne i harmoni med POKéMON og familien.$"
 
 DewfordTown_House1_Text_LifeGoesSlowlyOnIsland:
-	.string "Jeg forlod den store havn i SLATEPORT\n"
-	.string "CITY da jeg giftede mig med min mand her.\p"
-	.string "Livet går langsomt her på denne lille\n"
-	.string "ø. Men at være omgivet af det smukke\n"
-	.string "hav - det er også lykke.$"
+	.string "Jeg forlod den store havn i SLATEPORT CITY\n"
+	.string "da jeg giftede mig med min mand her.\p"
+	.string "Livet går langsomt her på denne lille ø. Men\n"
+	.string "at være omgivet af det smukke hav - det er\l"
+	.string "også lykke.$"
 
 DewfordTown_House1_Text_Zigzagoon:
 .string "ZIGZAGOON: Guguuh!$"

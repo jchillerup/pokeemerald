@@ -24,18 +24,17 @@ MossdeepCity_House1_EventScript_Woman::
 	end
 
 MossdeepCity_House1_Text_HmmYourPokemon:
-	.string "Hmm!\n"
-	.string "Din {STR_VAR_1}…$"
+	.string "Hmm! Din {STR_VAR_1}…$"
 
 MossdeepCity_House1_Text_ItLikesXPokeblocks:
-	.string "Den kan lide {STR_VAR_1}ER,\n"
-	.string "ikke sandt?\p"
+	.string "Den kan lide {STR_VAR_1}ER, ikke\n"
+	.string "sandt?\p"
 	.string "Nej, jeg er helt sikker på det! Den kan\n"
 	.string "absolut lide {STR_VAR_1}ER!$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "Det ser ikke ud til at kunne lide eller\n"
-	.string "lide af nogen {POKEBLOCK}S.$"
+	.string "Det ser ikke ud til at kunne lide eller lide af\n"
+	.string "nogen {POKEBLOCK}S.$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
 	.string "Min mand kan straks se, hvilken slags\n"
