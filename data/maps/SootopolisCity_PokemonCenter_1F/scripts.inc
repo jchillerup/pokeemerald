@@ -48,8 +48,8 @@ SootopolisCity_PokemonCenter_1F_EventScript_WomanNoLegendaries::
 	end
 
 SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn:
-	.string "WALLACE siges at være den sejeste TRÆNER i\n"
-	.string "hele HOENN-regionen.\p"
+	.string "WALLACE siges at være den sejeste\n"
+	.string "TRÆNER i hele HOENN-regionen.\p"
 	.string "Denne bys GYM ledes af TRÆNEREN, der\n"
 	.string "underviste WALLACE.\p"
 	.string "Men ELITE FOUR... Siges at være endnu\n"
@@ -62,9 +62,9 @@ SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge:
 	.string "Selv jeg vil hellere ikke tage udenfor.$"
 
 SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon:
-	.string "Når som helst, hvor som helst, og hvad som\n"
-	.string "helst der sker, vil jeg altid være venner med\l"
-	.string "POKéMON.\p"
+	.string "Når som helst, hvor som helst, og hvad\n"
+	.string "som helst der sker, vil jeg altid være\l"
+	.string "venner med POKéMON.\p"
 	.string "Fordi det er sjovt at være med POKéMON!$"
 
 SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends:

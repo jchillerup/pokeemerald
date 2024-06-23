@@ -231,14 +231,15 @@ SeafloorCavern_Room9_Text_ArchieHoldItRightThere:
 .string "ARCHIE: Hold lige der.$"
 
 SeafloorCavern_Room9_Text_ArchieSoItWasYou:
-	.string "ARCHIE: Hi hi hi… Det var altså dig til sidst.$"
+	.string "ARCHIE: Hi hi hi… Det var altså dig til\n"
+	.string "sidst.$"
 
 SeafloorCavern_Room9_Text_ArchieBeholdKyogre:
 	.string "ARCHIE: Se her!\p"
-	.string "Se hvor smukt det er, den sovende form af\n"
-	.string "den ældgamle POKéMON KYOGRE!\p"
-	.string "Jeg har ventet så længe på denne dag skulle\n"
-	.string "komme…$"
+	.string "Se hvor smukt det er, den sovende form\n"
+	.string "af den ældgamle POKéMON KYOGRE!\p"
+	.string "Jeg har ventet så længe på denne dag\n"
+	.string "skulle komme…$"
 
 SeafloorCavern_Room9_Text_ArchieYouMustDisappear:
 	.string "ARCHIE: Det overrasker mig, hvordan du\n"
@@ -265,8 +266,8 @@ SeafloorCavern_Room9_Text_RedOrbShinesByItself:
 
 SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo:
 	.string "ARCHIE: Hvad?!\p"
-	.string "Jeg gjorde ikke noget. Hvorfor gjorde den\n"
-	.string "RØDE ORB... \p"
+	.string "Jeg gjorde ikke noget. Hvorfor gjorde\n"
+	.string "den RØDE ORB... \p"
 	.string "Hvor er KYOGRE blevet af?$"
 
 SeafloorCavern_Room9_Text_ArchieAMessageFromOutside:
@@ -282,16 +283,17 @@ SeafloorCavern_Room9_Text_ArchieWhatRainingTooHard:
 	.string "Hvad?!\p"
 	.string "Det regner langt kraftigere end vi\n"
 	.string "forestillede os? Du er i fare?\p"
-	.string "Det kan ikke være rigtigt… Det er bare ikke\n"
-	.string "muligt…\p"
+	.string "Det kan ikke være rigtigt… Det er bare\n"
+	.string "ikke muligt…\p"
 	.string "Hold din position og monitorér\n"
 	.string "situationen!$"
 
 SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear:
 	.string "ARCHIE: Der er noget galt…\p"
-	.string "Den RØDE KUGLE skulle vække og kontrollere\n"
-	.string "KYOGRE…\p"
-	.string "Men… Hvorfor? Hvorfor forsvandt KYOGRE?\p"
+	.string "Den RØDE KUGLE skulle vække og\n"
+	.string "kontrollere KYOGRE…\p"
+	.string "Men… Hvorfor? Hvorfor forsvandt\n"
+	.string "KYOGRE?\p"
 	.string "Hvorfor? $"
 
 SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
@@ -306,18 +308,18 @@ SeafloorCavern_Room9_Text_MaxieWhatHaveYouWrought:
 SeafloorCavern_Room9_Text_ArchieDontGetAllHighAndMighty:
 	.string "ARCHIE: Hvad?! Du skal ikke opføre dig\n"
 	.string "hovmodigt overfor mig!\p"
-	.string "Var det ikke jer, TEAM MAGMA, der fik GROUDON\n"
-	.string "til at blive rasende?\p"
+	.string "Var det ikke jer, TEAM MAGMA, der fik\n"
+	.string "GROUDON til at blive rasende?\p"
 	.string "Så længe jeg har denne RØDE ORB, bør jeg\n"
 	.string "kunne kontrollere KYOGRE…\p"
 	.string "Jeg bør kunne kontrollere det…$"
 
 SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue:
-	.string "MAXIE: Vi har ikke tid til at diskutere det\n"
-	.string "her!\p"
+	.string "MAXIE: Vi har ikke tid til at diskutere\n"
+	.string "det her!\p"
 	.string "Gå udenfor og se selv!\p"
-	.string "Se om det, du har skabt, er den verden, vi\n"
-	.string "ønskede!$"
+	.string "Se om det, du har skabt, er den verden,\n"
+	.string "vi ønskede!$"
 
 SeafloorCavern_Room9_Text_MaxieComeOnPlayer:
 	.string "MAXIE: {PLAYER}, kom nu, du skal også\n"

@@ -248,10 +248,10 @@ NewMauville_Inside_EventScript_DefeatedVoltorb3::
 	end
 
 NewMauville_Inside_Text_GeneratorRadiatingHeat:
-	.string "Generatoren stråler varme, som kan mærkes\n"
-	.string "selv på afstand.\p"
-	.string "Det ser ud til, at den bør slukkes så hurtigt\n"
-	.string "som muligt.$"
+	.string "Generatoren stråler varme, som kan\n"
+	.string "mærkes selv på afstand.\p"
+	.string "Det ser ud til, at den bør slukkes så\n"
+	.string "hurtigt som muligt.$"
 
 NewMauville_Inside_Text_GeneratorQuietedDown:
 .string "Generator blev stille.$" 

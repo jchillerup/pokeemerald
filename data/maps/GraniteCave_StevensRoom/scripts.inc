@@ -85,8 +85,8 @@ GraniteCave_StevensRoom_Movement_StevenExitSouth:
 
 GraniteCave_StevensRoom_Text_ImStevenLetterForMe:
 	.string "Mit navn er STEVEN.\p"
-	.string "Jeg er interesseret i sjældne sten, så jeg\n"
-	.string "rejser rundt.\p"
+	.string "Jeg er interesseret i sjældne sten, så\n"
+	.string "jeg rejser rundt.\p"
 	.string "Åh? ET BREV til mig?$"
 
 GraniteCave_StevensRoom_Text_ThankYouTakeThis:
@@ -94,17 +94,18 @@ GraniteCave_StevensRoom_Text_ThankYouTakeThis:
 	.string "Du gik igennem alt dette besvær for at\n"
 	.string "levere det. Jeg er nødt til at takke dig.\p"
 	.string "Lad mig se... Jeg vil give dig denne TM.\p"
-	.string "Den indeholder mit yndlingsangreb, STEEL\n"
-	.string "WING.$"
+	.string "Den indeholder mit yndlingsangreb,\n"
+	.string "STEEL WING.$"
 
 GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister:
-	.string "STEVEN: Dine POKéMON virker ret dygtige.\p"
-	.string "Hvis du bliver ved med at træne, kan du endda\n"
-	.string "blive MESTEREN af POKéMON- LIGAEN en dag.\l"
-	.string "Det er hvad jeg tror.\p"
-	.string "Jeg ved det, siden vi har lært hinanden at\n"
-	.string "kende, lad os registrere hinanden i vores\l"
-	.string "POKéNAVS.\p"
+	.string "STEVEN: Dine POKéMON virker ret\n"
+	.string "dygtige.\p"
+	.string "Hvis du bliver ved med at træne, kan du\n"
+	.string "endda blive MESTEREN af POKéMON-\l"
+	.string "LIGAEN en dag. Det er hvad jeg tror.\p"
+	.string "Jeg ved det, siden vi har lært hinanden\n"
+	.string "at kende, lad os registrere hinanden i\l"
+	.string "vores POKéNAVS.\p"
 	.string "… … … … … …$"
 
 GraniteCave_StevensRoom_Text_RegisteredSteven:
@@ -114,7 +115,8 @@ GraniteCave_StevensRoom_Text_IveGotToHurryAlong:
 	.string "Nu er jeg nødt til at skynde mig videre.$"
 
 GraniteCave_StevensRoom_Text_OhBagIsFull:
-	.string "Åh, din RYGSÆK er fuld... Det er ærgerligt. Så.$"
+	.string "Åh, din RYGSÆK er fuld... Det er\n"
+	.string "ærgerligt. Så.$"
 
 
 

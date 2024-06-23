@@ -64,14 +64,14 @@ EverGrandeCity_DrakesRoom_EventScript_Defeated::
 	end
 
 EverGrandeCity_DrakesRoom_Text_IntroSpeech:
-	.string "Jeg er den sidste af POKéMON LIGAENS ELITE\n"
-	.string "FIRE, DRAKE, DRAGE-mesteren!\p"
-	.string "I deres naturlige tilstand er POKéMON vilde\n"
-	.string "skabninger. De er frie.\p"
+	.string "Jeg er den sidste af POKéMON LIGAENS\n"
+	.string "ELITE FIRE, DRAKE, DRAGE-mesteren!\p"
+	.string "I deres naturlige tilstand er POKéMON\n"
+	.string "vilde skabninger. De er frie.\p"
 	.string "Nogle gange hindrer de os. Andre gange\n"
 	.string "hjælper de os.\p"
-	.string "For os at kæmpe med POKéMON som partnere,\n"
-	.string "ved du hvad der kræves?\p"
+	.string "For os at kæmpe med POKéMON som\n"
+	.string "partnere, ved du hvad der kræves?\p"
 	.string "Ved du, hvad der er nødvendigt?\p"
 	.string "Hvis ikke, vil du aldrig besejre mig!$"
 
@@ -79,16 +79,17 @@ EverGrandeCity_DrakesRoom_Text_Defeat:
 	.string "Fantastisk, det skal siges.$"
 
 EverGrandeCity_DrakesRoom_Text_PostBattleSpeech:
-	.string "Du fortjener al ære for at være nået så langt\n"
-	.string "som EN TRÆNERaf POKéMON.\p"
-	.string "Du synes virkelig at vide, hvad derskal til.\p"
-	.string "Ja, det, som en TRÆNER har brugfor, er et\n"
-	.string "dydigt hjerte.\p"
+	.string "Du fortjener al ære for at være nået så\n"
+	.string "langt som EN TRÆNERaf POKéMON.\p"
+	.string "Du synes virkelig at vide, hvad derskal\n"
+	.string "til.\p"
+	.string "Ja, det, som en TRÆNER har brugfor, er\n"
+	.string "et dydigt hjerte.\p"
 	.string "POKéMON berører de gode hjerter af\n"
-	.string "TRÆNERE og lærer forskellen mellem godt og\l"
-	.string "ondt.\p"
-	.string "De berører de gode hjerter af TRÆNERE og\n"
-	.string "bliver stærkere.\p"
+	.string "TRÆNERE og lærer forskellen mellem godt\l"
+	.string "og ondt.\p"
+	.string "De berører de gode hjerter af TRÆNERE\n"
+	.string "og bliver stærkere.\p"
 	.string "Go! Go videre! MESTEREN venter!$"
 
 

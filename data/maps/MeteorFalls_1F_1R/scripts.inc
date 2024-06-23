@@ -246,35 +246,36 @@ MeteorFalls_1F_1R_Text_WithThisMeteorite:
 
 MeteorFalls_1F_1R_Text_DontExpectMercyFromMagma:
 	.string "Hvad?\p"
-	.string "Jeg ved ikke, hvem du er, men hvis du kommer i\n"
-	.string "vejen for TEAM MAGMA, så forvent ikke nogen\l"
-	.string "nåde!$"
+	.string "Jeg ved ikke, hvem du er, men hvis du\n"
+	.string "kommer i vejen for TEAM MAGMA, så\l"
+	.string "forvent ikke nogen nåde!$"
 
 MeteorFalls_1F_1R_Text_HoldItRightThereMagma:
 	.string "Stå stille der, TEAM MAGMA!\p"
-	.string "Du tager fejl, hvis du tror, du kan have din\n"
-	.string "vilje med verdenen!$"
+	.string "Du tager fejl, hvis du tror, du kan have\n"
+	.string "din vilje med verdenen!$"
 
 MeteorFalls_1F_1R_Text_BeSeeingYouTeamAqua:
-	.string "Hihihi! Selv TEAM AQUA slutter sig til os!\p"
-	.string "Men det er alt for meget besvær at tage sig\n"
-	.string "af jer alle sammen…\p"
+	.string "Hihihi! Selv TEAM AQUA slutter sig til\n"
+	.string "os!\p"
+	.string "Men det er alt for meget besvær at tage\n"
+	.string "sig af jer alle sammen…\p"
 	.string "Heh, det gør ikke noget!\p"
-	.string "Vi har METEORITTEN, så afsted til BJERGET\n"
-	.string "CHIMNEY drager vi!\p"
+	.string "Vi har METEORITTEN, så afsted til\n"
+	.string "BJERGET CHIMNEY drager vi!\p"
 	.string "Hihihi! Vi ses, I TEAM AQUA fjolser!$"
 
 MeteorFalls_1F_1R_Text_ArchieSeenYouBefore:
 	.string "ARCHIE: Har jeg ikke set dig før? På\n"
 	.string "SLATEPORT's MUSEUM?\p"
 	.string "Åh, så dit navn er {PLAYER}.\p"
-	.string "Dengang troede jeg, at du var en af TEAM\n"
-	.string "MAGMA's håndlangere.\p"
+	.string "Dengang troede jeg, at du var en af\n"
+	.string "TEAM MAGMA's håndlangere.\p"
 	.string "Humph… Du er en mærkelig knægt.\p"
-	.string "TEAM MAGMA er en farlig gruppe af totalt\n"
-	.string "fanatikere.\p"
-	.string "De ødelægger ting og påstår, at de udvider\n"
-	.string "landmassen.\p"
+	.string "TEAM MAGMA er en farlig gruppe af\n"
+	.string "totalt fanatikere.\p"
+	.string "De ødelægger ting og påstår, at de\n"
+	.string "udvider landmassen.\p"
 	.string "De er vores rivaler, vi, de havglade TEAM\n"
 	.string "AQUA!$"
 
@@ -282,33 +283,34 @@ MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma:
 	.string "BOSS, vi burde tage efter TEAM MAGMA…$"
 
 MeteorFalls_1F_1R_Text_ArchieYesNoTellingWhatMagmaWillDo:
-	.string "ARCHIE: Ja, ja, det skal vi! Vi er nødt til at\n"
-	.string "skynde os.\p"
-	.string "Man kan ikke vide, hvad TEAM MAGMA vil gøre\n"
-	.string "ved MT. CHIMNEY!$"
+	.string "ARCHIE: Ja, ja, det skal vi! Vi er nødt\n"
+	.string "til at skynde os.\p"
+	.string "Man kan ikke vide, hvad TEAM MAGMA vil\n"
+	.string "gøre ved MT. CHIMNEY!$"
 
 MeteorFalls_1F_1R_Text_ArchieFarewell:
-	.string "ARCHIE: {PLAYER}, du skal holde øje med\n"
-	.string "TEAM MAGMA også.\p"
+	.string "ARCHIE: {PLAYER}, du skal holde øje\n"
+	.string "med TEAM MAGMA også.\p"
 	.string "Farvel!$"
 
 MeteorFalls_1F_1R_Text_MeetProfCozmo:
-	.string "Jeg… Jeg er COZMO… Jeg er en PROFESSOR…\p"
+	.string "Jeg… Jeg er COZMO… Jeg er en\n"
+	.string "PROFESSOR…\p"
 	.string "Holdet MAGMA bad mig om at guide dem til\n"
 	.string "METEOR FALLS…\p"
 	.string "Men de narrede mig. De tog endda min\n"
 	.string "METEORIT væk…\p"
-	.string "Og så dukkede en anden lignende gruppe op,\n"
-	.string "Holdet AQUA.\p"
+	.string "Og så dukkede en anden lignende gruppe\n"
+	.string "op, Holdet AQUA.\p"
 	.string "Efter det… Jeg forstår ingenting.\p"
 	.string "Men det hold MAGMA…\p"
-	.string "Hvad skal de gøre med den METEORIT på MT.\n"
-	.string "CHIMNEY?$"
+	.string "Hvad skal de gøre med den METEORIT på\n"
+	.string "MT. CHIMNEY?$"
 
 MeteorFalls_1F_1R_Text_WhatsTeamMagmaDoingAtMtChimney:
 	.string "PROF. COZMO: Men hold nu lige - det hold \n"
-	.string "MAGMA... Hvad har de tænkt sig at gøre med\l"
-	.string "den METEORIT på MT. CHIMNEY?$"
+	.string "MAGMA... Hvad har de tænkt sig at gøre\l"
+	.string "med den METEORIT på MT. CHIMNEY?$"
 
 
 

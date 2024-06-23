@@ -255,8 +255,8 @@ SlateportCity_PokemonFanClub_EventScript_Azumarill::
 	end
 
 SlateportCity_PokemonFanClub_Text_MeetChairman:
-	.string "Er-hem! Jeg er formanden for POKéMON FAN\n"
-	.string "CLUB!\p"
+	.string "Er-hem! Jeg er formanden for POKéMON\n"
+	.string "FAN CLUB!\p"
 	.string "Som formand er jeg naturligvis den\n"
 	.string "vigtigste!\p"
 	.string "Ingen kan slå mig, når det kommer til at\n"
@@ -265,8 +265,8 @@ SlateportCity_PokemonFanClub_Text_MeetChairman:
 	.string "POKéMON-KONKURRENCER.\p"
 	.string "Det er begivenheder, hvor man kan vise\n"
 	.string "POKéMON frem for verden!\p"
-	.string "Dog afholdes de i fjerne byer, så jeg kan\n"
-	.string "ikke deltage ofte nok.\p"
+	.string "Dog afholdes de i fjerne byer, så jeg\n"
+	.string "kan ikke deltage ofte nok.\p"
 	.string "Derfor samles vi her for at vise vores\n"
 	.string "POKéMON frem og se andres vise os deres.$"
 
@@ -275,22 +275,23 @@ SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon:
 	.string "Det vil jeg gerne se.$"
 
 SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon:
-	.string "Er-hem! Jeg kan se, at du har deltaget i en\n"
-	.string "POKéMON-KONKURRENCE!\p"
-	.string "Må jeg bede om at undersøge, hvordan du har\n"
-	.string "opdrættet din POKéMON?\p"
-	.string "Det glæder mig enormt at se POKéMON, der er\n"
-	.string "opdrættet af andre TRÆNERE.\p"
+	.string "Er-hem! Jeg kan se, at du har deltaget i\n"
+	.string "en POKéMON-KONKURRENCE!\p"
+	.string "Må jeg bede om at undersøge, hvordan du\n"
+	.string "har opdrættet din POKéMON?\p"
+	.string "Det glæder mig enormt at se POKéMON,\n"
+	.string "der er opdrættet af andre TRÆNERE.\p"
 	.string "De glade udtryk hos POKéMON, der er\n"
 	.string "opdrættet med ordentlig pleje…\p"
 	.string "TRÆNERENS venlige øjne, der nærede og\n"
 	.string "opdrættede POKéMON'en…\p"
 	.string "Tanken alene fylder mit hjerte med\n"
 	.string "overvældende glæde.\p"
-	.string "Åh! Jeg beder mange gange om undskyldning!\n"
-	.string "Tilgiv mig for at snakke så meget!\p"
-	.string "Må jeg bede om at undersøge, hvor meget din\n"
-	.string "POKéMON er vokset!$"
+	.string "Åh! Jeg beder mange gange om\n"
+	.string "undskyldning! Tilgiv mig for at snakke\l"
+	.string "så meget!\p"
+	.string "Må jeg bede om at undersøge, hvor meget\n"
+	.string "din POKéMON er vokset!$"
 
 SlateportCity_PokemonFanClub_Text_HowIsYourPokemonGrowing:
 	.string "Hvordan vokser din POKéMON? Lad mig\n"
@@ -300,29 +301,30 @@ SlateportCity_PokemonFanClub_Text_HmHmISee:
 	.string "Hm, hm… Jeg forstår...$"
 
 SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks:
-	.string "Hmm ... Det er ikke dårligt, men det er heller\n"
-	.string "ikke godt ... \p"
-	.string "Du, TRÆNEREN, skal lægge mere indsats i at\n"
-	.string "opdrage denne POKéMON!\p"
-	.string "For eksempel, må jeg foreslå, at du giver den\n"
-	.string "flere {POKEBLOCK}S?$"
+	.string "Hmm ... Det er ikke dårligt, men det er\n"
+	.string "heller ikke godt ... \p"
+	.string "Du, TRÆNEREN, skal lægge mere indsats i\n"
+	.string "at opdrage denne POKéMON!\p"
+	.string "For eksempel, må jeg foreslå, at du\n"
+	.string "giver den flere {POKEBLOCK}S?$"
 
 SlateportCity_PokemonFanClub_Text_NoSpaceForReward:
 	.string "Åh, min…\p"
 	.string "Din POKéMON vokser ganske godt, så du\n"
 	.string "fortjener en belønning.\p"
-	.string "Desværre har du ikke plads til dette i din\n"
-	.string "RYGSÆK.$"
+	.string "Desværre har du ikke plads til dette i\n"
+	.string "din RYGSÆK.$"
 
 SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis:
-	.string "Din {STR_VAR_1}, den vokser på en mest\n"
-	.string "imponerende måde! Det er et fint\l"
+	.string "Din {STR_VAR_1}, den vokser på en\n"
+	.string "mest imponerende måde! Det er et fint\l"
 	.string "eksemplar!\p"
-	.string "Men! Hvis du giver den dette, ville den vokse\n"
-	.string "endnu bedre! Ja!$"
+	.string "Men! Hvis du giver den dette, ville den\n"
+	.string "vokse endnu bedre! Ja!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainRedScarf:
-	.string "Lad en POKéMON holde den RØDE TØRKLÆDE.\p"
+	.string "Lad en POKéMON holde den RØDE\n"
+	.string "TØRKLÆDE.\p"
 	.string "Alle vil genkende sejheden hos den\n"
 	.string "POKéMON!$"
 
@@ -334,62 +336,64 @@ SlateportCity_PokemonFanClub_Text_ExplainBlueScarf:
 SlateportCity_PokemonFanClub_Text_ExplainPinkScarf:
 	.string "Lad en POKéMON bære det ROSA\n"
 	.string "HALSTØRKLÆDE.\p"
-	.string "Det vil fremhæve sødigheden af POKéMON'en\n"
-	.string "endnu mere!$"
+	.string "Det vil fremhæve sødigheden af\n"
+	.string "POKéMON'en endnu mere!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainGreenScarf:
-	.string "Lad en POKéMON holde den GRØNNE TØRKLÆDE.\p"
+	.string "Lad en POKéMON holde den GRØNNE\n"
+	.string "TØRKLÆDE.\p"
 	.string "Det vil forbedre POKéMONs intelligens!$"
 
 SlateportCity_PokemonFanClub_Text_ExplainYellowScarf:
-	.string "Lad en POKéMON holde den GULE TØRKLÆDE.\p"
-	.string "Det vil styrke din POKéMONs udholdenhed\n"
-	.string "endnu mere!$"
+	.string "Lad en POKéMON holde den GULE\n"
+	.string "TØRKLÆDE.\p"
+	.string "Det vil styrke din POKéMONs\n"
+	.string "udholdenhed endnu mere!$"
 
 SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou:
-	.string "Jeg er ked af det, men jeg har intet mere at\n"
-	.string "give dig! Slet ingenting!\p"
-	.string "Trods alt er du velsignet med evnen til at\n"
-	.string "opdrage POKéMON uden at ty til nogen\l"
+	.string "Jeg er ked af det, men jeg har intet\n"
+	.string "mere at give dig! Slet ingenting!\p"
+	.string "Trods alt er du velsignet med evnen til\n"
+	.string "at opdrage POKéMON uden at ty til nogen\l"
 	.string "genstande!$"
 
 SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou:
-	.string "Jeg elsker at se POKéMON, der elsker deres\n"
-	.string "TRÆNERE.\p"
-	.string "POKéMON er meget følsomme over for deres\n"
-	.string "TRÆNERES følelser.\p"
+	.string "Jeg elsker at se POKéMON, der elsker\n"
+	.string "deres TRÆNERE.\p"
+	.string "POKéMON er meget følsomme over for\n"
+	.string "deres TRÆNERES følelser.\p"
 	.string "Hvis du behandler dine POKéMON med\n"
 	.string "kærlighed og omsorg, vil de elske dig\l"
 	.string "tilbage.\p"
-	.string "Når dine POKéMON vokser sig til at elske dig,\n"
-	.string "så kom og vis mig det.$"
+	.string "Når dine POKéMON vokser sig til at elske\n"
+	.string "dig, så kom og vis mig det.$"
 
 SlateportCity_PokemonFanClub_Text_PokemonAdoresYou:
 	.string "Dit POKéMON holder virkelig af dig.\p"
-	.string "Til dig, en meget medfølende TRÆNER, en gave\n"
-	.string "fra FANKLUBBEN!$"
+	.string "Til dig, en meget medfølende TRÆNER, en\n"
+	.string "gave fra FANKLUBBEN!$"
 
 SlateportCity_PokemonFanClub_Text_TreatPokemonWithLove:
-	.string "POKéMON er meget følsomme overfor deres\n"
-	.string "TRÆNERES følelser.\p"
+	.string "POKéMON er meget følsomme overfor\n"
+	.string "deres TRÆNERES følelser.\p"
 	.string "Hvis du behandler dine POKéMON med\n"
 	.string "kærlighed og omsorg, vil de elske dig\l"
 	.string "tilbage.$"
 
 SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting:
-	.string "Hvis du bliver ved med at lade en POKéMON \n"
-	.string "besvime i kampen, vil den komme til at\l"
-	.string "bebrejde det.\p"
-	.string "Snart vil den blive mindre tillidsfuld over\n"
-	.string "for TRÆNEREN.\p"
+	.string "Hvis du bliver ved med at lade en\n"
+	.string "POKéMON  besvime i kampen, vil den komme\l"
+	.string "til at bebrejde det.\p"
+	.string "Snart vil den blive mindre tillidsfuld\n"
+	.string "over for TRÆNEREN.\p"
 	.string "Med andre ord, den vil helt sikkert ikke\n"
 	.string "synes særlig godt om dig.$"
 
 SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein:
 	.string "Nyder POKéMON at få brugt genstande på\n"
 	.string "dem?\p"
-	.string "Min blev virkelig glad, da jeg gav den lidt\n"
-	.string "PROTEIN.$"
+	.string "Min blev virkelig glad, da jeg gav den\n"
+	.string "lidt PROTEIN.$"
 
 SlateportCity_PokemonFanClub_Text_Skitty:
 .string "SKITTY: Fffnyaaaah…$"

@@ -76,8 +76,8 @@ Route102_EventScript_Allen::
 	end
 
 Route102_Text_WatchMeCatchPokemon:
-	.string "WALLY: {PLAYER}… POKéMON gemmer sig i\n"
-	.string "højt græs som dette, gør de ikke?\p"
+	.string "WALLY: {PLAYER}… POKéMON gemmer sig\n"
+	.string "i højt græs som dette, gør de ikke?\p"
 	.string "Vær sød at se på, om jeg kan fange en\n"
 	.string "ordentligt.\p"
 	.string "…Whoa!$"
@@ -91,8 +91,8 @@ Route102_Text_LetsGoBack:
 	.string "GYMMET!$"
 
 Route102_Text_ImNotVeryTall:
-	.string "Jeg er...ikke så høj, så jeg synker ned i højt\n"
-	.string "græs.\p"
+	.string "Jeg er...ikke så høj, så jeg synker ned i\n"
+	.string "højt græs.\p"
 	.string "Græsset går op i min næse og...\n"
 	.string "Fwafwafwafwafwa...\p"
 	.string "Fvætsjo!$"

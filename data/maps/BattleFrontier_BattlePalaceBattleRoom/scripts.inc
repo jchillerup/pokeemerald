@@ -492,35 +492,36 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven:
 	.string "PALADSGURUEN…$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven:
-	.string "Jeg skal sende efter PALACE MAVEN. Er du\n"
-	.string "klar?$"
+	.string "Jeg skal sende efter PALACE MAVEN. Er\n"
+	.string "du klar?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser:
-	.string "Lad stor fanfare annoncere ankomsten af\n"
-	.string "PALADS MAVEN, SPENSER!$"
+	.string "Lad stor fanfare annoncere ankomsten\n"
+	.string "af PALADS MAVEN, SPENSER!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro:
-	.string "SPENSER: Mit fysiske væsen er altid sammen\n"
-	.string "med POKéMON!\p"
-	.string "Mit hjerte slår i takt med POKéMON altid!\p"
+	.string "SPENSER: Mit fysiske væsen er altid\n"
+	.string "sammen med POKéMON!\p"
+	.string "Mit hjerte slår i takt med POKéMON\n"
+	.string "altid!\p"
 	.string "Unge TRÆNER! Tror du på dine POKéMON?\p"
 	.string "Kan du stole på dem fuldt og helt?\p"
-	.string "Er dine bånd af tillid svage, vil du aldrig\n"
-	.string "besejre mine brødre!$"
+	.string "Er dine bånd af tillid svage, vil du\n"
+	.string "aldrig besejre mine brødre!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons:
-	.string "Den bånd du deler med din POKéMON! Bevis det\n"
-	.string "for mig her!$"
+	.string "Den bånd du deler med din POKéMON!\n"
+	.string "Bevis det for mig her!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle:
 	.string "SPENSER: Gwahahah!\p"
-	.string "Hah, du faldt aldrig for min pral! Undskyld\n"
-	.string "for det stunt!\p"
+	.string "Hah, du faldt aldrig for min pral!\n"
+	.string "Undskyld for det stunt!\p"
 	.string "Her! Bring mig tinget!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass:
-	.string "Åh, så, hvis du bare kunne opretholde den\n"
-	.string "facade af distingeret autoritet…\p"
+	.string "Åh, så, hvis du bare kunne opretholde\n"
+	.string "den facade af distingeret autoritet…\p"
 	.string "Her! Lad os se dit FRONTIER PASS!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
@@ -530,17 +531,17 @@ BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol:
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime:
 	.string "SPENSER: Din POKéMONs øjne er virkelig\n"
 	.string "klare og uklare.\p"
-	.string "Jeg vil ivrigt se frem til næste mulighed for\n"
-	.string "at se dig.$"
+	.string "Jeg vil ivrigt se frem til næste mulighed\n"
+	.string "for at se dig.$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack:
-	.string "SPENSER: Gwahahah! Du har kæmpet dig vej\n"
-	.string "op igen?\p"
-	.string "Du må have udviklet et virkelig formidabelt\n"
-	.string "bånd med dine POKéMON.\p"
+	.string "SPENSER: Gwahahah! Du har kæmpet dig\n"
+	.string "vej op igen?\p"
+	.string "Du må have udviklet et virkelig\n"
+	.string "formidabelt bånd med dine POKéMON.\p"
 	.string "Så lad det ske!\p"
-	.string "Denne gang vil jeg ikke pruste eller holde\n"
-	.string "mig tilbage.\p"
+	.string "Denne gang vil jeg ikke pruste eller\n"
+	.string "holde mig tilbage.\p"
 	.string "Denne gang er der ingen narren rundt.\p"
 	.string "Klar nu? Gør dig klar til at tabe!$"
 
@@ -548,25 +549,26 @@ BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah:
 .string "… … …Kaaah!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable:
-	.string "SPENSER: Nå, det var da en opvisning! Selv\n"
-	.string "fuldt udløst, kunne mine brødre ikke\l"
-	.string "overmande dig.\p"
-	.string "Dit holds ånd er virkelig beundringsværdig!\p"
+	.string "SPENSER: Nå, det var da en opvisning!\n"
+	.string "Selv fuldt udløst, kunne mine brødre\l"
+	.string "ikke overmande dig.\p"
+	.string "Dit holds ånd er virkelig\n"
+	.string "beundringsværdig!\p"
 	.string "Her! Vil du ikke lige række mig den ting?$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass:
-	.string "Åh, hvis du dog bare kunne opretholde en vis\n"
-	.string "form for anstand…\p"
-	.string "Aarh, her! Skynd dig med det FRONTIER PASS,\n"
-	.string "du!$"
+	.string "Åh, hvis du dog bare kunne opretholde\n"
+	.string "en vis form for anstand…\p"
+	.string "Aarh, her! Skynd dig med det FRONTIER\n"
+	.string "PASS, du!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine:
 	.string "Åndens Symbol tog på en gylden glans!$"
 
 BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain:
 	.string "SPENSER: Gwahahah!\p"
-	.string "Kom og besøg mig igen og igen! Mine brødre og\n"
-	.string "jeg venter på dig!$"
+	.string "Kom og besøg mig igen og igen! Mine\n"
+	.string "brødre og jeg venter på dig!$"
 
 
 

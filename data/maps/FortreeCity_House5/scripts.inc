@@ -29,8 +29,9 @@ FortreeCity_House5_Text_TreeHousesAreGreat:
 FortreeCity_House5_Text_AdaptedToNature:
 	.string "POKéMON og mennesker har tilpasset sig\n"
 	.string "naturen for at overleve.\p"
-	.string "Der er ingen grund til at få naturen til at\n"
-	.string "tilpasse sig den måde, vi ønsker at leve på.$"
+	.string "Der er ingen grund til at få naturen til\n"
+	.string "at tilpasse sig den måde, vi ønsker at\l"
+	.string "leve på.$"
 
 FortreeCity_House5_Text_Zigzagoon:
 .string "ZIGZAGOON: Bufuu!$"

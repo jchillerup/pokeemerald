@@ -99,33 +99,33 @@ Route109_SeashoreHouse_EventScript_TrainersNotCompleted::
 	end
 
 Route109_SeashoreHouse_Text_SeashoreHouseIntro:
-	.string "Jeg er ejeren af STRANDHUSET. Men du kan\n"
-	.string "kalde mig HR. HAV!\p"
+	.string "Jeg er ejeren af STRANDHUSET. Men du\n"
+	.string "kan kalde mig HR. HAV!\p"
 	.string "Hvad jeg elsker mest er at se varme\n"
 	.string "POKéMON-kampe.\p"
 	.string "Lad mig se, at dit hjerte brænder!\p"
-	.string "Hvis du kan besejre alle TRÆNERENE her, vil\n"
-	.string "jeg belønne dine anstrengelser.$"
+	.string "Hvis du kan besejre alle TRÆNERENE her,\n"
+	.string "vil jeg belønne dine anstrengelser.$"
 
 Route109_SeashoreHouse_Text_ShowMeSomeHotMatches:
 	.string "Vis mig nogle spændende kampe!\p"
-	.string "Jeg driver dette STRANDHUS kun for den ene\n"
-	.string "grund alene!$"
+	.string "Jeg driver dette STRANDHUS kun for den\n"
+	.string "ene grund alene!$"
 
 Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles:
-	.string "Du er brændende varm! De kampe blussede!\n"
-	.string "Jeg er mere end bare tilfreds!\p"
-	.string "Som tak for at vise mig din varme stribe, vil\n"
-	.string "jeg have dig til at tage disse.\p"
+	.string "Du er brændende varm! De kampe\n"
+	.string "blussede! Jeg er mere end bare tilfreds!\p"
+	.string "Som tak for at vise mig din varme stribe,\n"
+	.string "vil jeg have dig til at tage disse.\p"
 	.string "Det er et halvt dusin flasker SODAVAND!$"
 
 Route109_SeashoreHouse_Text_BagFull:
-	.string "Åh, men hey, din TASCHE er proppet fuld. Jeg\n"
-	.string "vil hænge på disse for dig.$"
+	.string "Åh, men hey, din TASCHE er proppet fuld.\n"
+	.string "Jeg vil hænge på disse for dig.$"
 
 Route109_SeashoreHouse_Text_WantToBuySodaPop:
-	.string "Vil du købe lidt SODAVAND? POKéMON elsker\n"
-	.string "det!\p"
+	.string "Vil du købe lidt SODAVAND? POKéMON\n"
+	.string "elsker det!\p"
 	.string "Kun ¥300 pr. flaske! Køb noget!$"
 
 Route109_SeashoreHouse_Text_HereYouGo:
@@ -138,9 +138,9 @@ Route109_SeashoreHouse_Text_ThatsTooBad:
 	.string "Nå? Det er ærgerligt.$"
 
 Route109_SeashoreHouse_Text_DwayneIntro:
-	.string "Hvis du leder efter en kamp på ØSTERSØENS\n"
-	.string "HUS, så finder du ingen sejere TRÆNER end\l"
-	.string "mig, makker!$"
+	.string "Hvis du leder efter en kamp på\n"
+	.string "ØSTERSØENS HUS, så finder du ingen\l"
+	.string "sejere TRÆNER end mig, makker!$"
 
 Route109_SeashoreHouse_Text_DwayneDefeated:
 	.string "Det var en varm kamp! Jeg kan godt\n"
@@ -159,8 +159,8 @@ Route109_SeashoreHouse_Text_JohannaDefeated:
 	.string "Det er varmt!$"
 
 Route109_SeashoreHouse_Text_JohannaPostBattle:
-	.string "Puha, jeg er helt tørstig. Måske jeg vil have\n"
-	.string "en SODAVAND.$"
+	.string "Puha, jeg er helt tørstig. Måske jeg vil\n"
+	.string "have en SODAVAND.$"
 
 Route109_SeashoreHouse_Text_SimonIntro:
 	.string "Jeg vil vise dig, hvor fantastiske mine\n"
@@ -170,9 +170,10 @@ Route109_SeashoreHouse_Text_SimonDefeated:
 	.string "Jeg tabte, men jeg vil ikke græde…$"
 
 Route109_SeashoreHouse_Text_SimonPostBattle:
-	.string "Hvis en af mine POKéMON kendte angrebet\n"
-	.string "for at bære mig over vandet på sin ryg, kunne\l"
-	.string "jeg komme af med denne badering.$"
+	.string "Hvis en af mine POKéMON kendte\n"
+	.string "angrebet for at bære mig over vandet på\l"
+	.string "sin ryg, kunne jeg komme af med denne\l"
+	.string "badering.$"
 
 
 

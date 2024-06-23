@@ -22,8 +22,8 @@ SootopolisCity_House2_EventScript_DontKnowAboutOrbs::
 
 SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs:
 	.string "MT. PYRE…\p"
-	.string "På toppen er der to kugler, der er placeret\n"
-	.string "side om side. Vidste du det?$"
+	.string "På toppen er der to kugler, der er\n"
+	.string "placeret side om side. Vidste du det?$"
 
 SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
 	.string "Ja, to kugler ved siden af hinanden…\p"
@@ -31,7 +31,8 @@ SootopolisCity_House2_Text_YesTwoOrbsSideBySide:
 	.string "anden måde beroligende…$"
 
 SootopolisCity_House2_Text_OughtToVisitAndSee:
-	.string "Er det sådan? Måske skulle du besøge og se...$"
+	.string "Er det sådan? Måske skulle du besøge og\n"
+	.string "se...$"
 
 
 

@@ -142,9 +142,10 @@ Route113_Text_AshCanBeFashionedIntoGlass:
 	.string "formes til glas.$"
 
 Route113_Text_FunWalkingThroughAsh:
-	.string "Det er sjovt at gå gennem vulkanens aske på\n"
-	.string "jorden og græsset.\p"
-	.string "Du kan se, hvor du gik - det er virkelig fedt!$"
+	.string "Det er sjovt at gå gennem vulkanens\n"
+	.string "aske på jorden og græsset.\p"
+	.string "Du kan se, hvor du gik - det er virkelig\n"
+	.string "fedt!$"
 
 Route113_Text_RouteSign111:
 	.string "RUTE 113 {RIGHT_ARROW} RUTE 111$"
@@ -154,8 +155,8 @@ Route113_Text_RouteSignFallarbor:
 
 Route113_Text_TrainerTipsRegisterKeyItems:
 	.string "TRÆNER TIPS\p"
-	.string "Du kan registrere en af de VIGTIGE TING i din\n"
-	.string "RYGSÆK som VÆLG.\p"
+	.string "Du kan registrere en af de VIGTIGE TING\n"
+	.string "i din RYGSÆK som VÆLG.\p"
 	.string "Tryk blot på VÆLG for at bruge den\n"
 	.string "registrerede genstand praktisk.$"
 

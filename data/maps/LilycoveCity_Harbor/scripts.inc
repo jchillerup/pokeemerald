@@ -556,8 +556,8 @@ LilycoveCity_Harbor_Text_MayISeeYourTicket:
 LilycoveCity_Harbor_Text_NoTicket:
 	.string "{PLAYER} har ikke BILLETEN…\p"
 	.string "Jeg er virkelig ked af det.\p"
-	.string "Du skal have en BILLET for at komme ombord\n"
-	.string "på færgen.$"
+	.string "Du skal have en BILLET for at komme\n"
+	.string "ombord på færgen.$"
 
 LilycoveCity_Harbor_Text_FlashTicketWhereTo:
 	.string "{PLAYER} viste billetten frem.\p"
@@ -574,15 +574,15 @@ LilycoveCity_Harbor_Text_BattleFrontierItIs:
 	.string "BATTLE FRONTIER det bliver!$"
 
 LilycoveCity_Harbor_Text_PleaseBoard:
-	.string "Venligst gå om bord på færgen og vent på\n"
-	.string "afgang.$"
+	.string "Venligst gå om bord på færgen og vent\n"
+	.string "på afgang.$"
 
 LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo:
 	.string "Hvor vil du gerne gå hen?$"
 
 LilycoveCity_Harbor_Text_SailorFerryUnavailable:
-	.string "Indtil de er færdige med at lave færgen, har\n"
-	.string "vi søfolk intet at lave...\p"
+	.string "Indtil de er færdige med at lave færgen,\n"
+	.string "har vi søfolk intet at lave...\p"
 	.string "Jeg ønsker, at de snart kommer i gang,\n"
 	.string "folket på VÆRFTET i SLATEPORT.$"
 

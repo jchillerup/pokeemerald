@@ -51,39 +51,40 @@ Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened:
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaIntro:
-	.string "Da jeg hørte, at der var et mærkeligt hus, var\n"
-	.string "jeg nødt til at undersøge det.$"
+	.string "Da jeg hørte, at der var et mærkeligt\n"
+	.string "hus, var jeg nødt til at undersøge det.$"
 
 Route110_TrickHousePuzzle6_Text_SophiaDefeat:
 .string "Jeg har opdaget en sej TRÆNER!$"
 
 Route110_TrickHousePuzzle6_Text_SophiaPostBattle:
-	.string "Jeg er sikker på, at jeg har det sjovt med at\n"
-	.string "udforske dette sted.\p"
-	.string "Det er en udfordring, som jeg har fundet\n"
-	.string "værd at gentage!$"
+	.string "Jeg er sikker på, at jeg har det sjovt\n"
+	.string "med at udforske dette sted.\p"
+	.string "Det er en udfordring, som jeg har\n"
+	.string "fundet værd at gentage!$"
 
 Route110_TrickHousePuzzle6_Text_BennyIntro:
-	.string "Måske kan jeg få min FUGL POKéMON til at\n"
-	.string "flyve over muren…$"
+	.string "Måske kan jeg få min FUGL POKéMON til\n"
+	.string "at flyve over muren…$"
 
 Route110_TrickHousePuzzle6_Text_BennyDefeat:
 .string "Gwaaah! Jeg floppede!$"
 
 Route110_TrickHousePuzzle6_Text_BennyPostBattle:
-	.string "Hihihi... Jeg gætter på, at jeg tabte, fordi\n"
-	.string "jeg prøvede at snyde.$"
+	.string "Hihihi... Jeg gætter på, at jeg tabte,\n"
+	.string "fordi jeg prøvede at snyde.$"
 
 Route110_TrickHousePuzzle6_Text_SebastianIntro:
-	.string "Jeg bliver svimmel af disse roterende døre…$"
+	.string "Jeg bliver svimmel af disse roterende\n"
+	.string "døre…$"
 
 Route110_TrickHousePuzzle6_Text_SebastianDefeat:
-	.string "Alting snurrer rundt og rundt. Jeg kan ikke\n"
-	.string "klare det her mere...$"
+	.string "Alting snurrer rundt og rundt. Jeg kan\n"
+	.string "ikke klare det her mere...$"
 
 Route110_TrickHousePuzzle6_Text_SebastianPostBattle:
-	.string "Du virker overhovedet ikke påvirket. Eller\n"
-	.string "har du bare din poker face på?$"
+	.string "Du virker overhovedet ikke påvirket.\n"
+	.string "Eller har du bare din poker face på?$"
 
 
 

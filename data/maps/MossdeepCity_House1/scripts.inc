@@ -33,8 +33,8 @@ MossdeepCity_House1_Text_ItLikesXPokeblocks:
 	.string "absolut lide {STR_VAR_1}ER!$"
 
 MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks:
-	.string "Det ser ikke ud til at kunne lide eller lide af\n"
-	.string "nogen {POKEBLOCK}S.$"
+	.string "Det ser ikke ud til at kunne lide eller\n"
+	.string "lide af nogen {POKEBLOCK}S.$"
 
 MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes:
 	.string "Min mand kan straks se, hvilken slags\n"

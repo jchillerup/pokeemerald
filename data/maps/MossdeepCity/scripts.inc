@@ -313,65 +313,69 @@ MossdeepCity_Movement_ScottExitEast:
 	step_end
 
 MossdeepCity_Text_WantKingsRockStevenGaveMe:
-	.string "Jeg fik dette fra STEVEN, men jeg ved ikke,\n"
-	.string "hvad det er godt for.\p"
-	.string "Jeg tror, det hedder KONGENS STEN. Vil du\n"
-	.string "have den?$"
+	.string "Jeg fik dette fra STEVEN, men jeg ved\n"
+	.string "ikke, hvad det er godt for.\p"
+	.string "Jeg tror, det hedder KONGENS STEN. Vil\n"
+	.string "du have den?$"
 
 MossdeepCity_Text_YouCanKeepIt:
 	.string "Hvorfor vil du have det? Du er mærkelig.\p"
-	.string "Du kan beholde det, men hold det hemmeligt\n"
-	.string "for STEVEN.$"
+	.string "Du kan beholde det, men hold det\n"
+	.string "hemmeligt for STEVEN.$"
 
 MossdeepCity_Text_StevensHouseOverThere:
 	.string "STEVENS hus er lige derovre!$"
 
 MossdeepCity_Text_WhatToDoWithWeirdRock:
-	.string "Ja, det tror du også! Hvad er du meningen at\n"
-	.string "gøre med en underlig sten?$"
+	.string "Ja, det tror du også! Hvad er du\n"
+	.string "meningen at gøre med en underlig sten?$"
 
 MossdeepCity_Text_WailmerWatching:
-	.string "Omkring MOSSDEEP kan du se vilde WAILMER.\p"
+	.string "Omkring MOSSDEEP kan du se vilde\n"
+	.string "WAILMER.\p"
 	.string "Det kaldes, øh... Hvad var det nu...?\p"
 	.string "WAI, WAI, WAI...\p"
 	.string "WAILMER-observation!$"
 
 MossdeepCity_Text_SpaceCenterReceivedLetter:
-	.string "Øens RUMCENTER har sendt store raketter\n"
-	.string "til afsted.\p"
-	.string "Der har været en form for tumult over et brev\n"
-	.string "de modtog for nylig.$"
+	.string "Øens RUMCENTER har sendt store\n"
+	.string "raketter til afsted.\p"
+	.string "Der har været en form for tumult over et\n"
+	.string "brev de modtog for nylig.$"
 
 MossdeepCity_Text_SpaceCenterLaunchingRockets:
 	.string "Øens RUMCENTER har været i gang med at\n"
 	.string "sende store raketter.$"
 
 MossdeepCity_Text_MossdeepTargetedByMagma:
-	.string "Jeg hørte fra en SØMANDskammerat, at HOLD\n"
-	.string "AQUA har slået sig ned i LILYCOVE.\p"
+	.string "Jeg hørte fra en SØMANDskammerat, at\n"
+	.string "HOLD AQUA har slået sig ned i LILYCOVE.\p"
 	.string "Jeg hørte også, at nogen kom og fejede\n"
 	.string "gulvet med dem!\p"
-	.string "Men her i MOSSDEEP har HOLD MAGMA sat deres\n"
-	.string "øjne på os.\p"
+	.string "Men her i MOSSDEEP har HOLD MAGMA sat\n"
+	.string "deres øjne på os.\p"
 	.string "Hvis du vil vide, hvad de går og laver, så\n"
 	.string "besøg RUMCENTRET.$"
 
 MossdeepCity_Text_FeelReliefOnLand:
-	.string "Jeg er en SØMAND, så havet er selvfølgelig\n"
-	.string "vigtigere for mig.\p"
-	.string "Men ved du hvad? Når jeg kommer tilbage på\n"
-	.string "land efter en lang rejse, føler jeg lettelse!$"
+	.string "Jeg er en SØMAND, så havet er\n"
+	.string "selvfølgelig vigtigere for mig.\p"
+	.string "Men ved du hvad? Når jeg kommer tilbage\n"
+	.string "på land efter en lang rejse, føler jeg\l"
+	.string "lettelse!$"
 
 MossdeepCity_Text_NiceIfWorldCoveredByFlowers:
 	.string "Ville det ikke være dejligt?\p"
-	.string "Hvis hele verden var dækket af planter og\n"
-	.string "blomster som denne ø?$"
+	.string "Hvis hele verden var dækket af planter\n"
+	.string "og blomster som denne ø?$"
 
 MossdeepCity_Text_LifeNeedsSeaToLive:
-	.string "Alt liv har brug for havet for at overleve,\n"
-	.string "selvom det har sit hjem på landjorden.\p"
-	.string "Livet, når det har nået sin ende, bliver til\n"
-	.string "jord og vender tilbage til landjorden.\p"
+	.string "Alt liv har brug for havet for at\n"
+	.string "overleve, selvom det har sit hjem på\l"
+	.string "landjorden.\p"
+	.string "Livet, når det har nået sin ende, bliver\n"
+	.string "til jord og vender tilbage til\l"
+	.string "landjorden.\p"
 	.string "Og havet er altid forbundet med\n"
 	.string "landjorden.\p"
 	.string "Ja, ligesom kystlinjen lige her.$"
@@ -380,26 +384,26 @@ MossdeepCity_Text_SurfExhilarating:
 	.string "En rejse på et skib er fint.\p"
 	.string "Men at krydse havet med POKéMON ved at\n"
 	.string "bruge SURF…\p"
-	.string "Det er virkelig en spændende tur! Er du ikke\n"
-	.string "enig, knægt?$"
+	.string "Det er virkelig en spændende tur! Er du\n"
+	.string "ikke enig, knægt?$"
 
 MossdeepCity_Text_SpecialSpaceCenterRock:
 	.string "Denne sten har en særlig betydning for\n"
 	.string "folkene på RUMCENTERET.\p"
-	.string "De har sat den her som en ønskesten om, at\n"
-	.string "deres raketter vil flyve sikkert.\p"
-	.string "Når du ønsker dig noget, hvad bruger du?\n"
-	.string "Ønsker du på en stjerne?\p"
-	.string "Jeg bruger en ønske-seddel til at gøre det\n"
-	.string "sket.\p"
+	.string "De har sat den her som en ønskesten om,\n"
+	.string "at deres raketter vil flyve sikkert.\p"
+	.string "Når du ønsker dig noget, hvad bruger\n"
+	.string "du? Ønsker du på en stjerne?\p"
+	.string "Jeg bruger en ønske-seddel til at gøre\n"
+	.string "det sket.\p"
 	.string "Det er min måde at gøre det på.$"
 
 MossdeepCity_Text_ItsAWhiteRock:
 .string "Det er en hvid sten.$"
 
 MossdeepCity_Text_GymSign:
-	.string "MOSSDEEP CITY POKéMON GYM LEADERS: LIZA\n"
-	.string "& TATE\p"
+	.string "MOSSDEEP CITY POKéMON GYM LEADERS:\n"
+	.string "LIZA & TATE\p"
 	.string "“Den mystiske kombination!”$"
 
 MossdeepCity_Text_CitySign:
@@ -407,29 +411,31 @@ MossdeepCity_Text_CitySign:
 	.string "POKéMON!”$"
 
 MossdeepCity_Text_SpaceCenterSign:
-	.string "Mossdeep Space Center Det nærmeste sted\n"
-	.string "til rummet.$"
+	.string "Mossdeep Space Center Det nærmeste\n"
+	.string "sted til rummet.$"
 
 MossdeepCity_Text_ScottSomethingWrongWithTown:
 	.string "SCOTT: {PLAYER}{KUN}, føler du dig godt\n"
 	.string "tilpas? Jeg har det strålende!\p"
-	.string "Jeg havde hørt, at GYMLEDEREN i MOSSDEEP\n"
-	.string "er ret stærk, så jeg besluttede mig for at\l"
-	.string "tage et kig selv.\p"
-	.string "Men der er noget underligt ved denne by.\p"
+	.string "Jeg havde hørt, at GYMLEDEREN i\n"
+	.string "MOSSDEEP er ret stærk, så jeg\l"
+	.string "besluttede mig for at tage et kig selv.\p"
+	.string "Men der er noget underligt ved denne\n"
+	.string "by.\p"
 	.string "Folk snakker om et advarselsbrev og\n"
 	.string "RUMCENTRET…\p"
-	.string "Jeg tror dog ikke, det vedrører mig på nogen\n"
-	.string "måde.$"
+	.string "Jeg tror dog ikke, det vedrører mig på\n"
+	.string "nogen måde.$"
 
 MossdeepCity_Text_SootopolisNewGymLeader:
-	.string "Åh… Det føles fantastisk at lade bølgerne\n"
-	.string "vaske over mine fødder…\p"
-	.string "Når vi taler om bølgerne, ved du at øbyen\n"
-	.string "SOOTOPOLIS?\p"
-	.string "Jeg tror, at GYMMET der har fået en ny LEDER.\p"
-	.string "Folk fortæller mig, at den nye LEDER engang\n"
-	.string "var mentor for WALLACE.$"
+	.string "Åh… Det føles fantastisk at lade\n"
+	.string "bølgerne vaske over mine fødder…\p"
+	.string "Når vi taler om bølgerne, ved du at\n"
+	.string "øbyen SOOTOPOLIS?\p"
+	.string "Jeg tror, at GYMMET der har fået en ny\n"
+	.string "LEDER.\p"
+	.string "Folk fortæller mig, at den nye LEDER\n"
+	.string "engang var mentor for WALLACE.$"
 
 
 

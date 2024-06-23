@@ -42,22 +42,23 @@ MossdeepCity_Mart_EventScript_Sailor::
 
 MossdeepCity_Mart_Text_ReviveIsFantastic:
 	.string "REVIVE er fantastisk!\p"
-	.string "Giv det til en besvimet POKéMON, og POKéMON\n"
-	.string "vil genopstå.\p"
+	.string "Giv det til en besvimet POKéMON, og\n"
+	.string "POKéMON vil genopstå.\p"
 	.string "Men vær forsigtig, REVIVE genopretter\n"
 	.string "ikke de brugte PP af angrebene.$"
 
 MossdeepCity_Mart_Text_MaxRepelLastsLongest:
-	.string "MAX REPEL holder alle svage POKéMON væk.\p"
+	.string "MAX REPEL holder alle svage POKéMON\n"
+	.string "væk.\p"
 	.string "Af alle REPEL-sprays varer den længst.$"
 
 MossdeepCity_Mart_Text_NetAndDiveBallsRare:
 	.string "NET- og DYKKERKUGLERNE er sjældne\n"
 	.string "POKéKUGLER, som kun laves i MOSSDEEP.\p"
-	.string "En NETKUGLE er effektiv mod BUG-type og\n"
-	.string "VAND-type POKéMON.\p"
-	.string "En DYKKERKUGLE fungerer bedst på POKéMON\n"
-	.string "på havets bund.$"
+	.string "En NETKUGLE er effektiv mod BUG-type\n"
+	.string "og VAND-type POKéMON.\p"
+	.string "En DYKKERKUGLE fungerer bedst på\n"
+	.string "POKéMON på havets bund.$"
 
 
 

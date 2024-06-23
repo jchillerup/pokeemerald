@@ -68,8 +68,8 @@ FallarborTown_CozmosHouse_EventScript_CozmoIsHappy::
 
 FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow:
 	.string "PROF. COZMO: Åh… Jeg burde aldrig have\n"
-	.string "ladet mig snyde til at fortælle TEAM MAGMA,\l"
-	.string "hvor du kan finde METEORITTER…\p"
+	.string "ladet mig snyde til at fortælle TEAM\l"
+	.string "MAGMA, hvor du kan finde METEORITTER…\p"
 	.string "Den METEORIT fra METEOR FALLS… Den vil\n"
 	.string "aldrig blive min nu…$"
 
@@ -77,20 +77,20 @@ FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt:
 	.string "Åh! Hva?\p"
 	.string "Det objekt…\p"
 	.string "Kan det være?\p"
-	.string "Er det METEORITEN som TEAM MAGMA tog fra\n"
-	.string "METEOR FALLS?\p"
+	.string "Er det METEORITEN som TEAM MAGMA tog\n"
+	.string "fra METEOR FALLS?\p"
 	.string "Må jeg få det, tak?\p"
-	.string "Jeg beder ikke om det gratis. Hvad siger du\n"
-	.string "til en byttehandel med denne TM?$"
+	.string "Jeg beder ikke om det gratis. Hvad siger\n"
+	.string "du til en byttehandel med denne TM?$"
 
 FallarborTown_CozmosHouse_Text_PleaseUseThisTM:
-	.string "PROF. COZMO: Denne TM repræsenterer min\n"
-	.string "følelse af taknemmelighed. Brug den\l"
+	.string "PROF. COZMO: Denne TM repræsenterer\n"
+	.string "min følelse af taknemmelighed. Brug den\l"
 	.string "venligst!$"
 
 FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch:
-	.string "PROF. COZMO: Åh, jeg kan ikke tro det. Det her\n"
-	.string "er virkelig, virkelig fantastisk!\p"
+	.string "PROF. COZMO: Åh, jeg kan ikke tro det.\n"
+	.string "Det her er virkelig, virkelig fantastisk!\p"
 	.string "Det her vil virkelig hjælpe med min\n"
 	.string "forskning!$"
 
@@ -99,14 +99,15 @@ FallarborTown_CozmosHouse_Text_CrushedWithDisappointment:
 	.string "skuffelse...$"
 
 FallarborTown_CozmosHouse_Text_MayIHaveMeteorite:
-	.string "PROF. COZMO: Må jeg bede om den METEORIT?\p"
+	.string "PROF. COZMO: Må jeg bede om den\n"
+	.string "METEORIT?\p"
 	.string "Jeg beder ikke om den gratis. Hvad med i\n"
 	.string "bytte for denne TM?$"
 
 FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls:
-	.string "PROF. COZMO tog afsted til METEOR FALLS på\n"
-	.string "RUTE 114 med nogle mennesker fra TEAM\l"
-	.string "MAGMA.$"
+	.string "PROF. COZMO tog afsted til METEOR\n"
+	.string "FALLS på RUTE 114 med nogle mennesker\l"
+	.string "fra TEAM MAGMA.$"
 
 FallarborTown_CozmosHouse_Text_FeelSorryForCozmo:
 	.string "Stakkels Prof. COZMO... Han er så\n"

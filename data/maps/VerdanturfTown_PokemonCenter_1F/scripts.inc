@@ -29,8 +29,9 @@ VerdanturfTown_PokemonCenter_1F_EventScript_ExpertM::
 	end
 
 VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon:
-	.string "Du kan ikke betragte dig selv som en TRÆNER,\n"
-	.string "hvis du ikke har tro på dine POKéMON.\p"
+	.string "Du kan ikke betragte dig selv som en\n"
+	.string "TRÆNER, hvis du ikke har tro på dine\l"
+	.string "POKéMON.\p"
 	.string "Kun de, der kan tro på deres kæmpende\n"
 	.string "POKéMON, kan vinde helt til slutningen.$"
 

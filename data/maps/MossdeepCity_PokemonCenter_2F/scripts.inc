@@ -25,9 +25,9 @@ MossdeepCity_PokemonCenter_2F_EventScript_Woman5::
 	end
 
 MossdeepCity_PokemonCenter_2F_Text_Woman5:
-	.string "Hvis jeg vinder en hel masse link-kampe og\n"
-	.string "viser alle, hvor god jeg er, kan det være, at\l"
-	.string "jeg får en fanskare!$"
+	.string "Hvis jeg vinder en hel masse link-kampe\n"
+	.string "og viser alle, hvor god jeg er, kan det\l"
+	.string "være, at jeg får en fanskare!$"
 
 
 

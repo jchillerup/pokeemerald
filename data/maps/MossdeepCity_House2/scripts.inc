@@ -61,9 +61,9 @@ MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree:
 	.string "Jeg misunder hende slet ikke.$"
 
 MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth:
-	.string "Selvom jeg ikke kan se min ven i FORTREE,\n"
-	.string "bærer min POKéMON POST frem og tilbage for\l"
-	.string "os.\p"
+	.string "Selvom jeg ikke kan se min ven i\n"
+	.string "FORTREE, bærer min POKéMON POST frem og\l"
+	.string "tilbage for os.\p"
 	.string "Jeg er ikke ensom, selvom vi er adskilt.$"
 
 MossdeepCity_House2_Text_Wingull:

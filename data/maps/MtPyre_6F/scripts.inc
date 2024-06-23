@@ -30,8 +30,8 @@ MtPyre_6F_EventScript_Cedric::
 	end
 
 MtPyre_6F_Text_ValerieIntro:
-	.string "Når jeg er her… En nysgerrig kraft strømmer\n"
-	.string "ind i mig…$"
+	.string "Når jeg er her… En nysgerrig kraft\n"
+	.string "strømmer ind i mig…$"
 
 MtPyre_6F_Text_ValerieDefeat:
 .string "Kraften ebber væk...$"
@@ -43,8 +43,8 @@ MtPyre_6F_Text_ValeriePostBattle:
 MtPyre_6F_Text_ValerieRegister:
 	.string "Haha... Jeg tabte kampen, men... Jeg har\n"
 	.string "denne lille evne... \p"
-	.string "Uden nogensinde at røre ved din POKéNAV...\n"
-	.string "Hiyah!$"
+	.string "Uden nogensinde at røre ved din\n"
+	.string "POKéNAV... Hiyah!$"
 
 MtPyre_6F_Text_ValerieRematchIntro:
 	.string "Bag dig… Hvad er det…$"
@@ -57,17 +57,18 @@ MtPyre_6F_Text_ValeriePostRematch:
 	.string "leger de…$"
 
 MtPyre_6F_Text_CedricIntro:
-	.string "Har du mistet din retning? Frygt ej, for jeg\n"
-	.string "er her!$"
+	.string "Har du mistet din retning? Frygt ej, for\n"
+	.string "jeg er her!$"
 
 MtPyre_6F_Text_CedricDefeat:
 	.string "Var du ikke lost?$"
 
 MtPyre_6F_Text_CedricPostBattle:
 	.string "Jeg havde en fornemmelse af, at en tabt\n"
-	.string "TRÆNER ville være panikslagen og nem at slå.\p"
-	.string "Det er uretfærdigt, og jeg vil ikke prøve det\n"
-	.string "igen...$"
+	.string "TRÆNER ville være panikslagen og nem at\l"
+	.string "slå.\p"
+	.string "Det er uretfærdigt, og jeg vil ikke\n"
+	.string "prøve det igen...$"
 
 
 

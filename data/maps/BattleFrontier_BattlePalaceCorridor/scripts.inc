@@ -126,21 +126,23 @@ BattleFrontier_BattlePalaceCorridor_Movement_AttendantEnterBattleRoom:
 BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame:
 	.string "Mennesker og POKéMON, de er ens, men\n"
 	.string "alligevel forskellige…\p"
-	.string "Deres individuelle natur gør dem gode til\n"
-	.string "visse ting og ikke så gode til andre ting.$"
+	.string "Deres individuelle natur gør dem gode\n"
+	.string "til visse ting og ikke så gode til andre\l"
+	.string "ting.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes:
-	.string "I stedet for at prøve at få en POKéMON til at\n"
-	.string "gøre noget, den ikke kan lide, så prøv at lade\l"
-	.string "den gøre, hvad den godt kan lide og er god til. \p"
+	.string "I stedet for at prøve at få en POKéMON\n"
+	.string "til at gøre noget, den ikke kan lide, så\l"
+	.string "prøv at lade den gøre, hvad den godt kan\l"
+	.string "lide og er god til. \p"
 	.string "Sæt dig selv i POKéMONs sted og overvej,\n"
 	.string "hvilke træk den ville kunne lide. $"
 
 BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered:
-	.string "En POKéMONs natur er en bemærkelsesværdig\n"
-	.string "ting…\p"
-	.string "Nogle POKéMON opfører sig på en helt anden\n"
-	.string "måde, når de er pressede.$"
+	.string "En POKéMONs natur er en\n"
+	.string "bemærkelsesværdig ting…\p"
+	.string "Nogle POKéMON opfører sig på en helt\n"
+	.string "anden måde, når de er pressede.$"
 
 BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature:
 	.string "Er du begyndt at forstå hvordan en\n"

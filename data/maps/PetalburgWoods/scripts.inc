@@ -329,9 +329,9 @@ PetalburgWoods_Text_HaveYouSeenShroomish:
 	.string "Jeg er virkelig vild med den POKéMON.$"
 
 PetalburgWoods_Text_IWasGoingToAmbushYou:
-	.string "Jeg var ved at lægge en baghold til dig, men du\n"
-	.string "skulle slæbe rundt i PETALBURG SKOV for\l"
-	.string "evigt, gjorde du ikke?\p"
+	.string "Jeg var ved at lægge en baghold til dig,\n"
+	.string "men du skulle slæbe rundt i PETALBURG\l"
+	.string "SKOV for evigt, gjorde du ikke?\p"
 	.string "Jeg blev træt af at vente, så her er jeg!$"
 
 PetalburgWoods_Text_HandOverThosePapers:
@@ -340,8 +340,8 @@ PetalburgWoods_Text_HandOverThosePapers:
 
 PetalburgWoods_Text_YouHaveToHelpMe:
 	.string "Aiyeeeh!\p"
-	.string "Du er en POKéMON TRÆNER, ikke sandt? Du er\n"
-	.string "nødt til at hjælpe mig, vær sød!$"
+	.string "Du er en POKéMON TRÆNER, ikke sandt? Du\n"
+	.string "er nødt til at hjælpe mig, vær sød!$"
 
 PetalburgWoods_Text_NoOneCrossesTeamAqua:
 
@@ -355,50 +355,50 @@ PetalburgWoods_Text_YoureKiddingMe:
 .string "Du må da tage mig! Du er sej!$"
 
 PetalburgWoods_Text_YouveGotSomeNerve:
-	.string "Grrr… Du har godt nok noget nervøsitet ved\n"
-	.string "at blande dig med TEAM AQUA! Kom så og kæmp\l"
-	.string "mod mig igen!\p"
-	.string "Jeg ville ønske, jeg kunne sige det, men jeg\n"
-	.string "er ude af POKéMON…\p"
-	.string "Og hey, vi fra TEAM AQUA er også ude efter\n"
-	.string "noget i RUSTBORO.\p"
+	.string "Grrr… Du har godt nok noget nervøsitet\n"
+	.string "ved at blande dig med TEAM AQUA! Kom så\l"
+	.string "og kæmp mod mig igen!\p"
+	.string "Jeg ville ønske, jeg kunne sige det, men\n"
+	.string "jeg er ude af POKéMON…\p"
+	.string "Og hey, vi fra TEAM AQUA er også ude\n"
+	.string "efter noget i RUSTBORO.\p"
 	.string "Jeg lader dig gå i dag!$"
 
 PetalburgWoods_Text_ThatWasAwfullyClose:
 	.string "Puha...  Det var godt nok tæt på!\p"
 	.string "Takket være dig, stjal han ikke disse\n"
 	.string "vigtige papirer fra mig.\p"
-	.string "Jeg ved det! Jeg vil give dig en FANTASTISK\n"
-	.string "BOLD som tak!$"
+	.string "Jeg ved det! Jeg vil give dig en\n"
+	.string "FANTASTISK BOLD som tak!$"
 
 PetalburgWoods_Text_TeamAquaAfterSomethingInRustboro:
-	.string "Sagde den TEAM AQUA skurk ikke, at de var\n"
-	.string "ude efter noget i RUSTBORO også?$"
+	.string "Sagde den TEAM AQUA skurk ikke, at de\n"
+	.string "var ude efter noget i RUSTBORO også?$"
 
 PetalburgWoods_Text_ICantBeWastingTime:
-	.string "Åh nej! Det er en krise! Jeg kan ikke spilde\n"
-	.string "tid!$"
+	.string "Åh nej! Det er en krise! Jeg kan ikke\n"
+	.string "spilde tid!$"
 
 PetalburgWoods_Text_YoureLoadedWithItems:
-	.string "Du er fyldt med genstande. Jeg kan ikke give\n"
-	.string "dig denne STORE BOLD.$"
+	.string "Du er fyldt med genstande. Jeg kan ikke\n"
+	.string "give dig denne STORE BOLD.$"
 
 PetalburgWoods_Text_GoBugPokemonTeam:
 	.string "Jeg har fanget en hel flok POKéMON! \p"
-	.string "Kom så, kom så, kom så!  Mit INSEKT-POKéMON\n"
-	.string "hold!$"
+	.string "Kom så, kom så, kom så!  Mit\n"
+	.string "INSEKT-POKéMON hold!$"
 
 PetalburgWoods_Text_ICouldntWin:
-	.string "Jeg har alle disse POKéMON, men jeg kunne\n"
-	.string "ikke vinde…$"
+	.string "Jeg har alle disse POKéMON, men jeg\n"
+	.string "kunne ikke vinde…$"
 
 PetalburgWoods_Text_ImOutOfPokeBalls:
-	.string "Jeg har fanget en masse POKéMON. Nu er jeg\n"
-	.string "løbet tør for POKé BALLS.$"
+	.string "Jeg har fanget en masse POKéMON. Nu er\n"
+	.string "jeg løbet tør for POKé BALLS.$"
 
 PetalburgWoods_Text_InstantlyPopularWithBugPokemon:
-	.string "Hvis du tager en BUG POKéMON med til skole,\n"
-	.string "bliver du øjeblikkeligt populær!$"
+	.string "Hvis du tager en BUG POKéMON med til\n"
+	.string "skole, bliver du øjeblikkeligt populær!$"
 
 PetalburgWoods_Text_CantBePopularIfILose:
 .string "Jeg kan ikke være populær, hvis jeg taber.$"
@@ -408,8 +408,8 @@ PetalburgWoods_Text_PeopleRespectYou:
 	.string "respekterer folk dig for det.$"
 
 PetalburgWoods_Text_IWantRematch1:
-	.string "Jeg vil have en revanche, når min POKéMON\n"
-	.string "vokser op!\p"
+	.string "Jeg vil have en revanche, når min\n"
+	.string "POKéMON vokser op!\p"
 	.string "Jeg registrerer dig i min POKéNAV!$"
 
 PetalburgWoods_Text_IWantRematch2:
@@ -418,8 +418,8 @@ PetalburgWoods_Text_IWantRematch2:
 	.string "Jeg registrerer dig i min POKéNAV!$"
 
 PetalburgWoods_Text_MyPokemonHaveGrown:
-	.string "Mine BILLEDPAR POKéMON er vokset. Jeg vil\n"
-	.string "være populær igen.$"
+	.string "Mine BILLEDPAR POKéMON er vokset. Jeg\n"
+	.string "vil være populær igen.$"
 
 PetalburgWoods_Text_CantBePopularIfLose:
 .string "Jeg kan ikke være populær, hvis jeg taber.$"
@@ -431,25 +431,28 @@ PetalburgWoods_Text_IveBeenTrainingHard:
 
 PetalburgWoods_Text_StayOutOfTallGrass:
 	.string "Hej med dig! Er dine POKéMON okay?\p"
-	.string "Hvis dine POKéMON er svage og du vil undgå\n"
-	.string "kampe, bør du blive ude af højt græs.$"
+	.string "Hvis dine POKéMON er svage og du vil\n"
+	.string "undgå kampe, bør du blive ude af højt\l"
+	.string "græs.$"
 
 PetalburgWoods_Text_HiddenItemsExplanation:
-	.string "Nogle gange er der ting på jorden, selvom du\n"
-	.string "ikke kan se dem.\p"
+	.string "Nogle gange er der ting på jorden,\n"
+	.string "selvom du ikke kan se dem.\p"
 	.string "Derfor checker jeg altid, hvor jeg går.$"
 
 PetalburgWoods_Text_TryUsingThisItem:
-	.string "Åh, sejt! Det er BADGET fra RUSTBORO GYM!\p"
+	.string "Åh, sejt! Det er BADGET fra RUSTBORO\n"
+	.string "GYM!\p"
 	.string "Du må være en TRÆNER. Du burde prøve at\n"
 	.string "bruge dette item.$"
 
 PetalburgWoods_Text_MiracleSeedExplanation:
-	.string "Det er et MIRAKELFRØ. Hvis en POKéMON har\n"
-	.string "det item, bliver dens GRÆS-type angreb\l"
-	.string "stærkere.\p"
-	.string "Udover MIRAKELFRØ, tror jeg der er andre\n"
-	.string "praktiske items for POKéMON at holde.$"
+	.string "Det er et MIRAKELFRØ. Hvis en POKéMON\n"
+	.string "har det item, bliver dens GRÆS-type\l"
+	.string "angreb stærkere.\p"
+	.string "Udover MIRAKELFRØ, tror jeg der er\n"
+	.string "andre praktiske items for POKéMON at\l"
+	.string "holde.$"
 
 PetalburgWoods_Text_TrainerTipsExperience:
 	.string "TRÆNER TIPS\p"
@@ -460,15 +463,16 @@ PetalburgWoods_Text_TrainerTipsExperience:
 	.string "holdsammensætningen.\p"
 	.string "Så snart kampen begynder, skal du\p"
 	.string "skifte den ud. Den vil optjene EXP\p"
-	.string "Point uden at blive udsat for nogen skade.$"
+	.string "Point uden at blive udsat for nogen\n"
+	.string "skade.$"
 
 PetalburgWoods_Text_TrainerTipsPP:
 	.string "TRÆNERTIPS\p"
 	.string "Udover Hit Points (HP) har POKéMON også\n"
-	.string "Power Points (PP), der bruges til at udføre\l"
-	.string "angreb under slaget.\p"
-	.string "Hvis en POKéMON løber tør for PP, skal den\n"
-	.string "tages til et POKéMON CENTER.$"
+	.string "Power Points (PP), der bruges til at\l"
+	.string "udføre angreb under slaget.\p"
+	.string "Hvis en POKéMON løber tør for PP, skal\n"
+	.string "den tages til et POKéMON CENTER.$"
 
 
 

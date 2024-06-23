@@ -81,20 +81,20 @@ EverGrandeCity_PokemonCenter_1F_Movement_ScottExit:
 EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad:
 	.string "POKéMON-LIGAEN er kun en kort afstand\n"
 	.string "efter SEJRVEJEN.\p"
-	.string "Hvis du er kommet så langt, hvad valg har du\n"
-	.string "så andet end at fortsætte?$"
+	.string "Hvis du er kommet så langt, hvad valg\n"
+	.string "har du så andet end at fortsætte?$"
 
 EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon:
 	.string "Den lange og udfordrende SEJRVEJ…\p"
-	.string "Det er som at genopleve den vej, man har gået\n"
-	.string "i livet…\p"
+	.string "Det er som at genopleve den vej, man har\n"
+	.string "gået i livet…\p"
 	.string "Tro på dine POKéMON og giv det dit\n"
 	.string "allerbedste!$"
 
 EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou:
-	.string "SCOTT: {PLAYER}{KUN}, du har kradset dig op til\n"
-	.string "at stå ansigt til ansigt med POKéMON\l"
-	.string "LIGAEN!\p"
+	.string "SCOTT: {PLAYER}{KUN}, du har kradset dig\n"
+	.string "op til at stå ansigt til ansigt med\l"
+	.string "POKéMON LIGAEN!\p"
 	.string "Jeg er glad på dine vegne! Du gjorde min\n"
 	.string "heppen værdifuld!\p"
 	.string "{PLAYER}{KUN}, hvis du bliver POKéMON LIGA\n"

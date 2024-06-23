@@ -184,9 +184,9 @@ Route117_EventScript_Aisha::
 
 Route117_Text_DayCarePokemonHadNewMove:
 	.string "Jeg lod min POKéMON være i DAGPLEJEN.\p"
-	.string "Da jeg fik den tilbage, havde den en ny move,\n"
-	.string "som jeg ikke lærte den. Jeg blev virkelig,\l"
-	.string "virkelig overrasket.$"
+	.string "Da jeg fik den tilbage, havde den en ny\n"
+	.string "move, som jeg ikke lærte den. Jeg blev\l"
+	.string "virkelig, virkelig overrasket.$"
 
 Route117_Text_ArentTheseFlowersPretty:
 	.string "Hvad synes du? Er disse blomster ikke\n"
@@ -203,8 +203,8 @@ Route117_Text_RouteSignMauville:
 	.string "Rute 117 {RIGHT_ARROW} Mauville City$"
 
 Route117_Text_DayCareSign:
-	.string "POKéMON DAGPLEJE “Lad os opfostre dine\n"
-	.string "POKéMON.”$"
+	.string "POKéMON DAGPLEJE “Lad os opfostre\n"
+	.string "dine POKéMON.”$"
 
 
 

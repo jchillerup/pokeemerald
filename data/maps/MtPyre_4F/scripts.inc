@@ -18,8 +18,8 @@ MtPyre_5F_Text_AtsushiDefeat:
 	.string "Lærer… Vil du tilgive mig?$"
 
 MtPyre_5F_Text_AtsushiPostBattle:
-	.string "Indtil jeg bliver bedre, vil min lærer, som\n"
-	.string "hviler her, aldrig finde sand fred…$"
+	.string "Indtil jeg bliver bedre, vil min lærer,\n"
+	.string "som hviler her, aldrig finde sand fred…$"
 
 
 

@@ -54,8 +54,8 @@ SootopolisCity_Gym_B1F_EventScript_Daphne::
 	end
 
 SootopolisCity_Gym_B1F_Text_AndreaIntro:
-	.string "Jeg vil vise dig de sublime teknikker jeg har\n"
-	.string "lært af vores LEADER JUAN!$"
+	.string "Jeg vil vise dig de sublime teknikker\n"
+	.string "jeg har lært af vores LEADER JUAN!$"
 
 SootopolisCity_Gym_B1F_Text_AndreaDefeat:
 	.string "Please forgive me, JUAN…$"
@@ -65,8 +65,8 @@ SootopolisCity_Gym_B1F_Text_AndreaPostBattle:
 	.string "gulvfliserne.$"
 
 SootopolisCity_Gym_B1F_Text_CrissyIntro:
-	.string "Du kom hele vejen hertil, men du får ikke lov\n"
-	.string "til at se JUAN.\p"
+	.string "Du kom hele vejen hertil, men du får ikke\n"
+	.string "lov til at se JUAN.\p"
 	.string "Ikke hvis du taber til mig!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyDefeat:
@@ -74,17 +74,17 @@ SootopolisCity_Gym_B1F_Text_CrissyDefeat:
 	.string "udseende!$"
 
 SootopolisCity_Gym_B1F_Text_CrissyPostBattle:
-	.string "Du er måske god nok til at undgå at blive\n"
-	.string "udslettet med ét slag af JUAN.$"
+	.string "Du er måske god nok til at undgå at\n"
+	.string "blive udslettet med ét slag af JUAN.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneIntro:
 	.string "Synet af JUAN i gang med en kamp…\p"
-	.string "Skønheden i det tvang mig til at blive en\n"
-	.string "TRÆNER.$"
+	.string "Skønheden i det tvang mig til at blive\n"
+	.string "en TRÆNER.$"
 
 SootopolisCity_Gym_B1F_Text_DaphneDefeat:
-	.string "Du kæmpede med mere skønhed end jeg kunne\n"
-	.string "samle…$"
+	.string "Du kæmpede med mere skønhed end jeg\n"
+	.string "kunne samle…$"
 
 SootopolisCity_Gym_B1F_Text_DaphnePostBattle:
 	.string "Den elegance, du bringer til kampen, er\n"
@@ -93,7 +93,8 @@ SootopolisCity_Gym_B1F_Text_DaphnePostBattle:
 	.string "POKéMON.$"
 
 SootopolisCity_Gym_B1F_Text_ConnieIntro:
-	.string "Jeg bør lære dig, hvor barske kampe kan være.$"
+	.string "Jeg bør lære dig, hvor barske kampe kan\n"
+	.string "være.$"
 
 SootopolisCity_Gym_B1F_Text_ConnieDefeat:
 	.string "Åh. Du er stærk.$"
@@ -112,21 +113,23 @@ SootopolisCity_Gym_B1F_Text_BridgetDefeat:
 .string "Hvor er du på et højt niveau!$"
 
 SootopolisCity_Gym_B1F_Text_BridgetPostBattle:
-	.string "I stedet for at være tilfreds med at være i et\n"
-	.string "stærkt GYM, forestiller jeg mig, at træning\l"
-	.string "andre steder vil gøre dig stærkere. Men frem\l"
-	.string "for alt ser det sjovere ud.$"
+	.string "I stedet for at være tilfreds med at\n"
+	.string "være i et stærkt GYM, forestiller jeg mig,\l"
+	.string "at træning andre steder vil gøre dig\l"
+	.string "stærkere. Men frem for alt ser det\l"
+	.string "sjovere ud.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaIntro:
-	.string "Jeg træner mine POKéMON sammen med JUAN.\p"
+	.string "Jeg træner mine POKéMON sammen med\n"
+	.string "JUAN.\p"
 	.string "Tro ikke, jeg er en letvægter.$"
 
 SootopolisCity_Gym_B1F_Text_OliviaDefeat:
 	.string "Jeg blev slået…$"
 
 SootopolisCity_Gym_B1F_Text_OliviaPostBattle:
-	.string "Jeg tror, du har potentiale. Hvorfor bliver\n"
-	.string "du ikke og træner med os?$"
+	.string "Jeg tror, du har potentiale. Hvorfor\n"
+	.string "bliver du ikke og træner med os?$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyIntro:
 	.string "En elegant glide hen over isen uden at\n"
@@ -138,32 +141,33 @@ SootopolisCity_Gym_B1F_Text_TiffanyDefeat:
 	.string "Nå, undskyld mig?!$"
 
 SootopolisCity_Gym_B1F_Text_TiffanyPostBattle:
-	.string "Det her er virkelig åbenlyst, men hvor stærk\n"
-	.string "du er som EN TRÆNER har intet at gøre med\l"
-	.string "hvor ung eller gammel du er.$"
+	.string "Det her er virkelig åbenlyst, men hvor\n"
+	.string "stærk du er som EN TRÆNER har intet at\l"
+	.string "gøre med hvor ung eller gammel du er.$"
 
 SootopolisCity_Gym_B1F_Text_BethanyIntro:
 	.string "Når jeg er sammen med mine POKéMON, så\n"
-	.string "flyver tiden afsted før du kan sige “Ups!”$"
+	.string "flyver tiden afsted før du kan sige\l"
+	.string "“Ups!”$"
 
 SootopolisCity_Gym_B1F_Text_BethanyDefeat:
 	.string "Ups!$"
 
 SootopolisCity_Gym_B1F_Text_BethanyPostBattle:
-	.string "Jeg ønsker, at jeg kunne glemme om tabte\n"
-	.string "sager, før jeg kan klare et “Ups!”$"
+	.string "Jeg ønsker, at jeg kunne glemme om\n"
+	.string "tabte sager, før jeg kan klare et “Ups!”$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaIntro:
-	.string "Jeg kan kæmpe med virkelig sjældne POKéMON\n"
-	.string "hvis du har lyst.$"
+	.string "Jeg kan kæmpe med virkelig sjældne\n"
+	.string "POKéMON hvis du har lyst.$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaDefeat:
 	.string "Åh, der er du! Fik du et godt kig på mine\n"
 	.string "POKéMON?$"
 
 SootopolisCity_Gym_B1F_Text_AnnikaPostBattle:
-	.string "Jeg kom til dette GYM, fordi JUAN roste mig\n"
-	.string "for mine skønne POKéMON.\p"
+	.string "Jeg kom til dette GYM, fordi JUAN roste\n"
+	.string "mig for mine skønne POKéMON.\p"
 	.string "Åh, hvis bare jeg havde mødt JUAN for år\n"
 	.string "tilbage, da jeg var yngre…$"
 
@@ -175,8 +179,8 @@ SootopolisCity_Gym_B1F_Text_BriannaDefeat:
 	.string "Åh, duh. Jeg tog alt for let på dig.$"
 
 SootopolisCity_Gym_B1F_Text_BriannaPostBattle:
-	.string "Du kunne ikke engang røre ved JUAN, er jeg\n"
-	.string "sikker på. Grin…$"
+	.string "Du kunne ikke engang røre ved JUAN, er\n"
+	.string "jeg sikker på. Grin…$"
 
 
 

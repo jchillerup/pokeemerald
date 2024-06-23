@@ -986,44 +986,44 @@ LilycoveCity_ContestLobby_EventScript_LittleGirlHaveCase::
 
 LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase:
 	.string "Jubii!\p"
-	.string "Damen ved receptionsskranken gav mig en\n"
-	.string "kasse til {POKEBLOCK}S!$"
+	.string "Damen ved receptionsskranken gav mig\n"
+	.string "en kasse til {POKEBLOCK}S!$"
 
 LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries:
 	.string "Lav {POKEBLOCK}S og put dem deri.\p"
-	.string "Når du laver en {POKEBLOCK}, skal alle putte en\n"
-	.string "forskellig BÆR.$"
+	.string "Når du laver en {POKEBLOCK}, skal alle putte\n"
+	.string "en forskellig BÆR.$"
 
 LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint:
 	.string "Tillykke!\p"
-	.string "Jeg lavede et maleri af din POKéMON for at\n"
-	.string "fejre dens sejr…\p"
-	.string "Dine POKéMONs optræden var så fantastisk,\n"
-	.string "det inspirerede mig til at male bedre end jeg\l"
-	.string "plejer. Se, så?$"
+	.string "Jeg lavede et maleri af din POKéMON for\n"
+	.string "at fejre dens sejr…\p"
+	.string "Dine POKéMONs optræden var så\n"
+	.string "fantastisk, det inspirerede mig til at\l"
+	.string "male bedre end jeg plejer. Se, så?$"
 
 LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum:
-	.string "Hvad synes du? Jeg er sikker på, at det jeg\n"
-	.string "har lavet, men kan du lide det?\p"
-	.string "Et arbejde af denne kaliber ville ikke være\n"
-	.string "malplaceret på et kunstmuseum.\p"
-	.string "Hva'? Et kunstmuseum leder virkelig efter\n"
-	.string "malerier?\p"
+	.string "Hvad synes du? Jeg er sikker på, at det\n"
+	.string "jeg har lavet, men kan du lide det?\p"
+	.string "Et arbejde af denne kaliber ville ikke\n"
+	.string "være malplaceret på et kunstmuseum.\p"
+	.string "Hva'? Et kunstmuseum leder virkelig\n"
+	.string "efter malerier?\p"
 	.string "Tror du, jeg burde tage det derhen?$"
 
 LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum:
 	.string "Hvad, virkelig? Så vil jeg da tage dette\n"
 	.string "maleri der lige nu.\p"
 	.string "Jeg vil også give det et passende navn.\p"
-	.string "Jeg håber, de vil kunne lide det og overveje\n"
-	.string "at udstille det.\p"
-	.string "Vær venlig at tjekke om de har accepteret\n"
-	.string "det. Tak!$"
+	.string "Jeg håber, de vil kunne lide det og\n"
+	.string "overveje at udstille det.\p"
+	.string "Vær venlig at tjekke om de har\n"
+	.string "accepteret det. Tak!$"
 
 LilycoveCity_ContestLobby_Text_TakeMementoOfPainting:
 	.string "Åh, det er rigtigt!\p"
-	.string "Som et minde fra mig, der malede din POKéMON,\n"
-	.string "så tag dette.$"
+	.string "Som et minde fra mig, der malede din\n"
+	.string "POKéMON, så tag dette.$"
 
 LilycoveCity_ContestLobby_Text_ReceivedARibbon:
 .string "{PLAYER} modtog et BÅND.$"
@@ -1036,40 +1036,41 @@ LilycoveCity_ContestLobby_Text_OkaySeeYou:
 	.string "Okay, vi ses!$"
 
 LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum:
-	.string "Åh... Så tager jeg nok bare denne med hjem til\n"
-	.string "mig selv...\p"
-	.string "Men, ved du hvad, jeg vil faktisk gerne tage\n"
-	.string "denne til kunstmuseet... Okay?$"
+	.string "Åh... Så tager jeg nok bare denne med\n"
+	.string "hjem til mig selv...\p"
+	.string "Men, ved du hvad, jeg vil faktisk gerne\n"
+	.string "tage denne til kunstmuseet... Okay?$"
 
 LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs:
-	.string "Nå, fint, sådan er det. Jeg vil hænge dette op\n"
-	.string "i mit eget hus.\p"
-	.string "Jeg bliver nødt til at prøve hårdere næste\n"
-	.string "gang. Nå, vi ses.$"
+	.string "Nå, fint, sådan er det. Jeg vil hænge\n"
+	.string "dette op i mit eget hus.\p"
+	.string "Jeg bliver nødt til at prøve hårdere\n"
+	.string "næste gang. Nå, vi ses.$"
 
 LilycoveCity_ContestLobby_Text_MasterRankHereICome:
 	.string "Hovsa, mesterklasse KONKURRENCER, her\n"
 	.string "kommer jeg.\p"
-	.string "Verden vil vide, at min kæreste POKéMON er\n"
-	.string "den sødeste skabning i hele eksistensen.\l"
-	.string "Tiden er kommet! Hihihi.$"
+	.string "Verden vil vide, at min kæreste POKéMON\n"
+	.string "er den sødeste skabning i hele\l"
+	.string "eksistensen. Tiden er kommet! Hihihi.$"
 
 LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere:
-	.string "Du kan se en hel variation af POKéMON her.\p"
-	.string "Derfor gør jeg dette sted til en fast del af\n"
-	.string "min daglige tur.$"
+	.string "Du kan se en hel variation af POKéMON\n"
+	.string "her.\p"
+	.string "Derfor gør jeg dette sted til en fast\n"
+	.string "del af min daglige tur.$"
 
 LilycoveCity_ContestLobby_Text_ContestFeastForEyes:
-	.string "Wow, at komme frem til en KONKURRENCE er en\n"
-	.string "fest for disse øjne!\p"
+	.string "Wow, at komme frem til en KONKURRENCE\n"
+	.string "er en fest for disse øjne!\p"
 	.string "Vil du kigge på alle de POKéMON, som bare\n"
 	.string "skriger på at blive malet?$"
 
 LilycoveCity_ContestLobby_Text_ToughContestIsExtreme:
-	.string "TOUGHNESS KONKURRENCEN er som ekstremt,\n"
-	.string "mand!\p"
-	.string "Disse muskuløse appeller… Cascaderende\n"
-	.string "sved… Jeg besvimer!$"
+	.string "TOUGHNESS KONKURRENCEN er som\n"
+	.string "ekstremt, mand!\p"
+	.string "Disse muskuløse appeller…\n"
+	.string "Cascaderende sved… Jeg besvimer!$"
 
 LilycoveCity_ContestLobby_Text_LavishedCareOnMon:
 	.string "Dag ind og dag ud, jeg forkælede denne\n"

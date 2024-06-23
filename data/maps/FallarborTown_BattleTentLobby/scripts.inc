@@ -306,9 +306,10 @@ FallarborTown_BattleTentLobby_EventScript_ExitRules::
 
 FallarborTown_BattleTentLobby_Text_MakeThinkImJustKid:
 	.string "Fufufufufu.\p"
-	.string "Jeg vil få alle til at tro, at jeg bare er en lille\n"
-	.string "én,\p"
-	.string "og så vil jeg chokere dem og tage titlen!$"
+	.string "Jeg vil få alle til at tro, at jeg bare er\n"
+	.string "en lille én,\p"
+	.string "og så vil jeg chokere dem og tage\n"
+	.string "titlen!$"
 
 FallarborTown_BattleTentLobby_Text_FallarborTentMyFavorite:
 	.string "Du ved hvordan KAMPTELTE tilbyder\n"
@@ -317,34 +318,35 @@ FallarborTown_BattleTentLobby_Text_FallarborTentMyFavorite:
 	.string "Min favorit er helt klart KAMPTELTET i\n"
 	.string "FALLARBOR BY.\p"
 	.string "Jeg synes det er fantastisk, hvordan\n"
-	.string "TRÆNERE prøver at vinde med al deres tro på\l"
-	.string "deres POKéMON.$"
+	.string "TRÆNERE prøver at vinde med al deres tro\l"
+	.string "på deres POKéMON.$"
 
 FallarborTown_BattleTentLobby_Text_CameToCampOut:
-	.string "Jeg hørte noget om et telt, så jeg kom for at\n"
-	.string "campe.\p"
-	.string "Jeg vidste ikke, at telte disse dage er så\n"
-	.string "luksuriøse!\p"
-	.string "Siden jeg er her, kan jeg lige så godt prøve\n"
-	.string "kræfter med at kæmpe!$"
+	.string "Jeg hørte noget om et telt, så jeg kom\n"
+	.string "for at campe.\p"
+	.string "Jeg vidste ikke, at telte disse dage er\n"
+	.string "så luksuriøse!\p"
+	.string "Siden jeg er her, kan jeg lige så godt\n"
+	.string "prøve kræfter med at kæmpe!$"
 
 FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone:
 	.string "SCOTT: Hej, {PLAYER}{KUN}! Så kom du ud til\n"
 	.string "dette KAMP TELT!\p"
 	.string "Folkene i disse egne plejer at være\n"
 	.string "afslappede og cool.\p"
-	.string "Men, ser du, hvad jeg leder efter er folk med…\p"
+	.string "Men, ser du, hvad jeg leder efter er folk\n"
+	.string "med…\p"
 	.string "Hvordan skal jeg sige det?\p"
-	.string "Nogen der sprudler af lyst og viljen til at\n"
-	.string "vinde.\p"
+	.string "Nogen der sprudler af lyst og viljen til\n"
+	.string "at vinde.\p"
 	.string "Hvis der var en TRÆNER som det, ville jeg\n"
 	.string "straks…\p"
 	.string "Ups! Glem det! Bliv ved med at øve dig!$"
 
 FallarborTown_BattleTentLobby_Text_ScottMakeChallenge:
-	.string "SCOTT: I stedet for at spilde din tid med en\n"
-	.string "som mig, hvorfor ikke tage en udfordring\l"
-	.string "op?$"
+	.string "SCOTT: I stedet for at spilde din tid\n"
+	.string "med en som mig, hvorfor ikke tage en\l"
+	.string "udfordring op?$"
 
 
 

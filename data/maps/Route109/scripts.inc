@@ -479,9 +479,10 @@ Route109_EventScript_Elijah::
 	end
 
 DewfordTown_Text_BrineyLandedInSlateportDeliverGoods:
-	.string "HR. BRINEY: Hej! Vi har landet i SLATEPORT!\p"
-	.string "Jeg antager, at du skal besøge KAPT. STERN\n"
-	.string "og levere DEVON-GODTERNE?$"
+	.string "HR. BRINEY: Hej! Vi har landet i\n"
+	.string "SLATEPORT!\p"
+	.string "Jeg antager, at du skal besøge KAPT.\n"
+	.string "STERN og levere DEVON-GODTERNE?$"
 
 Route109_Text_BrineySailToDewfordQuestion:
 	.string "HR. BRINEY: Jeg troede, du skulle levere\n"
@@ -499,28 +500,29 @@ Route109_Text_BrineyDeliverDevonGoods:
 DewfordTown_Text_BrineyLandedInSlateport:
 	.string "HR. BRINEY: Hej og velkommen til\n"
 	.string "SLATEPORT!\p"
-	.string "Bare sig til, når du er klar til at sejle igen!$"
+	.string "Bare sig til, når du er klar til at sejle\n"
+	.string "igen!$"
 
 Route109_Text_BrineyWhereAreWeBound:
-	.string "Hr. BRINEY: Hej! Jeg sejler ud på havet når\n"
-	.string "som helst for dig!\p"
+	.string "Hr. BRINEY: Hej! Jeg sejler ud på havet\n"
+	.string "når som helst for dig!\p"
 	.string "Nå, min ven, hvor skal vi hen?$"
 
 Route109_Text_BrineyTellMeWhenYouNeedToSail:
-	.string "HR. BRINEY: Du skal bare fortælle mig, når du\n"
-	.string "har brug for at sætte sejl igen!$"
+	.string "HR. BRINEY: Du skal bare fortælle mig,\n"
+	.string "når du har brug for at sætte sejl igen!$"
 
 Route109_Text_ChillAtMyPapasSpot:
 	.string "Hej, TRÆNERE! Uanset om du er klar til at\n"
-	.string "træde til, eller er en cool kat, så slap af på\l"
-	.string "min fars sted!$"
+	.string "træde til, eller er en cool kat, så slap af\l"
+	.string "på min fars sted!$"
 
 Route109_Text_LittleKidsDartAround:
 	.string "Små børn kan dart rundt så hurtigt…\p"
-	.string "Du tør ikke tage øjnene fra dem et øjeblik.\n"
-	.string "Det er meget krævende.\p"
-	.string "Mine er med mine POKéMON, så de burde være\n"
-	.string "okay, men…$"
+	.string "Du tør ikke tage øjnene fra dem et\n"
+	.string "øjeblik. Det er meget krævende.\p"
+	.string "Mine er med mine POKéMON, så de burde\n"
+	.string "være okay, men…$"
 
 Route109_Text_SandCastleTakingLongTime:
 	.string "Vores sandslot tager lang tid at bygge.$"
@@ -529,8 +531,8 @@ Route109_Text_YouCanHaveThis:
 .string "Du kan få dette!$"
 
 Route109_Text_WereGoingToMakeBigCastle:
-	.string "Vi skal have al sandet fra stranden og bygge\n"
-	.string "et stort slot!\p"
+	.string "Vi skal have al sandet fra stranden og\n"
+	.string "bygge et stort slot!\p"
 	.string "Og så skal vi være konge og dronning.\p"
 	.string "Vi lader dig være en tjener.$"
 
@@ -538,8 +540,8 @@ Route109_Text_ZigzagoonPicksUpLitter:
 	.string "Vandet omkring disse dele er rent.\p"
 	.string "Men jeg får min ZIGZAGOON til at samle\n"
 	.string "affald op fra kysten fra tid til anden.\p"
-	.string "Snavset vand bliver til regn og blander sig\n"
-	.string "med vores floder, som vi drikker fra…\p"
+	.string "Snavset vand bliver til regn og blander\n"
+	.string "sig med vores floder, som vi drikker fra…\p"
 	.string "Hvis vi forurener havet, kommer det\n"
 	.string "allesammen tilbage og hjemsøger os før\l"
 	.string "eller siden.$"
@@ -549,8 +551,8 @@ Route109_Text_ZigzagoonCry:
 
 Route109_Text_SeashoreHouseSign:
 	.string "STRANDHUS\p"
-	.string "“Må varme kampe rase på varme sand! Stedet\n"
-	.string "for varme TRÆNERE!”$"
+	.string "“Må varme kampe rase på varme sand!\n"
+	.string "Stedet for varme TRÆNERE!”$"
 
 Route109_Text_TrainerTipsSign:
 	.string "TRÆNER TIPS\p"

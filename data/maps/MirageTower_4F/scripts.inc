@@ -64,8 +64,9 @@ MirageTower_4F_EventScript_CollapseMirageTower::
 
 MirageTower_4F_Text_TakeRootFossil:
 	.string "Du har fundet RODFOSSILET.\p"
-	.string "Hvis denne FOSIL bliver taget, vil jorden\n"
-	.string "omkring den sandsynligvis smuldre væk…\p"
+	.string "Hvis denne FOSIL bliver taget, vil\n"
+	.string "jorden omkring den sandsynligvis\l"
+	.string "smuldre væk…\p"
 	.string "Skal du tage RODFOSSILET alligevel?$"
 
 MirageTower_4F_Text_LeftRootFossilAlone:
@@ -73,8 +74,9 @@ MirageTower_4F_Text_LeftRootFossilAlone:
 
 MirageTower_4F_Text_TakeClawFossil:
 	.string "Du har fundet KLOFOSSILET.\p"
-	.string "Hvis dette FOSIL bliver taget, vil jorden\n"
-	.string "omkring det sandsynligvis smuldre…\p"
+	.string "Hvis dette FOSIL bliver taget, vil\n"
+	.string "jorden omkring det sandsynligvis\l"
+	.string "smuldre…\p"
 	.string "Vil du tage KLOFOSSILET alligevel?$"
 
 MirageTower_4F_Text_LeaveClawFossilAlone:

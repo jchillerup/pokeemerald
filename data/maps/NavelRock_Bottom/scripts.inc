@@ -78,3 +78,4 @@ NavelRock_Bottom_EventScript_RanFromLugia::
 	end
 
 
+

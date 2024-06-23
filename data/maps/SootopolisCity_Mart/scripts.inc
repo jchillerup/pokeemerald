@@ -63,13 +63,13 @@ SootopolisCity_Mart_Text_PPUpIsGreat:
 
 SootopolisCity_Mart_Text_TooScaryOutside:
 	.string "Hvad… Hvad sker der?\p"
-	.string "Jeg vil virkelig gerne vide det, men det er\n"
-	.string "for skræmmende at gå udenfor.$"
+	.string "Jeg vil virkelig gerne vide det, men det\n"
+	.string "er for skræmmende at gå udenfor.$"
 
 SootopolisCity_Mart_Text_FullRestoreItemOfDreams:
 	.string "Kender du til FULD GENOPRET?\p"
-	.string "Fuld genopretning af HP! Udryddelse af alle\n"
-	.string "statusproblemer!\p"
+	.string "Fuld genopretning af HP! Udryddelse af\n"
+	.string "alle statusproblemer!\p"
 	.string "Det er virkelig et item fra dine drømme!$"
 
 SootopolisCity_Mart_Text_DidSomethingAwaken:

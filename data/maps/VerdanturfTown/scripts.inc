@@ -67,10 +67,10 @@ VerdanturfTown_EventScript_RusturfTunnelSign::
 
 VerdanturfTown_Text_ManTryingToDigTunnel:
 	.string "Min far fortalte mig.\p"
-	.string "Han siger, at denne tunnel er fuld af bange\n"
-	.string "POKéMON.\p"
-	.string "De bliver skræmte af høje lyde og laver en\n"
-	.string "stor ballade.\p"
+	.string "Han siger, at denne tunnel er fuld af\n"
+	.string "bange POKéMON.\p"
+	.string "De bliver skræmte af høje lyde og laver\n"
+	.string "en stor ballade.\p"
 	.string "Så de måtte stoppe det store tunnel-\n"
 	.string "projekt.\p"
 	.string "Men der er en mand. Han prøver at grave\n"
@@ -84,27 +84,29 @@ VerdanturfTown_Text_ManDugTunnelForLove:
 VerdanturfTown_Text_AirCleanHere:
 	.string "Vejret blæser, og vulkansk aske blæses\n"
 	.string "aldrig i denne retning.\p"
-	.string "Luften er ren og lækker her. At bo her burde\n"
-	.string "gavne selv skrøbelige og sygelige\l"
+	.string "Luften er ren og lækker her. At bo her\n"
+	.string "burde gavne selv skrøbelige og sygelige\l"
 	.string "personer.$"
 
 VerdanturfTown_Text_MakeBattleTentDebut:
-	.string "Min POKéMON og jeg har været på en vindende\n"
-	.string "stime.\p"
-	.string "Så jeg besluttede mig for at gøre min debut i\n"
-	.string "BATTLE TENTEN i denne by.$"
+	.string "Min POKéMON og jeg har været på en\n"
+	.string "vindende stime.\p"
+	.string "Så jeg besluttede mig for at gøre min\n"
+	.string "debut i BATTLE TENTEN i denne by.$"
 
 VerdanturfTown_Text_GuyTryingToBustThroughCave:
-	.string "Har du set hulen ved siden af POKéMON MART?\p"
-	.string "Der er en fyr derinde, der prøver at knuse\n"
-	.string "sten for at komme ud på den anden side.\p"
+	.string "Har du set hulen ved siden af POKéMON\n"
+	.string "MART?\p"
+	.string "Der er en fyr derinde, der prøver at\n"
+	.string "knuse sten for at komme ud på den anden\l"
+	.string "side.\p"
 	.string "Det ville være dejligt, hvis vi kunne gå\n"
 	.string "igennem... Det gør det nemt at besøge\l"
 	.string "RUSTBORO.$"
 
 VerdanturfTown_Text_EasyToGetToRustboroNow:
-	.string "Den grotte ved siden af POKéMON-MARTE er\n"
-	.string "nu en tunnel til den anden side.\p"
+	.string "Den grotte ved siden af POKéMON-MARTE\n"
+	.string "er nu en tunnel til den anden side.\p"
 	.string "Det er fantastisk--det er nemt at gå\n"
 	.string "shoppe efter nye DEVON-produkter i\l"
 	.string "RUSTBORO nu.$"
@@ -118,8 +120,8 @@ VerdanturfTown_Text_WandasHouse:
 .string "WANDAS HUS$"
 
 VerdanturfTown_Text_BattleTentSign:
-	.string "KAMP TELT GRØNSKÆRM PLADS “Mæsk dine øjne\n"
-	.string "i kampe!”$"
+	.string "KAMP TELT GRØNSKÆRM PLADS “Mæsk dine\n"
+	.string "øjne i kampe!”$"
 
 VerdanturfTown_Text_RusturfTunnelSign:
 	.string "RUSTURF TUNNEL “Forbinder RUSTBORO og\n"

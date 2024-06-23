@@ -306,21 +306,21 @@ Route110_TrickHousePuzzle3_EventScript_Alan::
 Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened:
 	.string "{PLAYER} skrev den hemmelige kode på\n"
 	.string "døren.\p"
-	.string "“TRICK MASTER er eftertragtet.” … … … … … … …\n"
-	.string "…\p"
+	.string "“TRICK MASTER er eftertragtet.” … … … …\n"
+	.string "… … … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle3_Text_JustinIntro:
-	.string "Jeg bliver ved med at komme tilbage til det\n"
-	.string "samme sted!$"
+	.string "Jeg bliver ved med at komme tilbage til\n"
+	.string "det samme sted!$"
 
 Route110_TrickHousePuzzle3_Text_JustinDefeat:
-	.string "Jeg har allerede problemer, og så skal du slå\n"
-	.string "mig? Det er ikke fair!$"
+	.string "Jeg har allerede problemer, og så skal\n"
+	.string "du slå mig? Det er ikke fair!$"
 
 Route110_TrickHousePuzzle3_Text_JustinPostBattle:
-	.string "Der er fyldt med døre her! Det er for lille og\n"
-	.string "mørkt herinde! Hjælp!$"
+	.string "Der er fyldt med døre her! Det er for\n"
+	.string "lille og mørkt herinde! Hjælp!$"
 
 Route110_TrickHousePuzzle3_Text_MarthaIntro:
 	.string "Jeg ved ikke, hvad der foregår her. Jeg\n"
@@ -341,8 +341,8 @@ Route110_TrickHousePuzzle3_Text_AlanDefeat:
 	.string "Jeg fatter det ikke. Hvordan tabte jeg?$"
 
 Route110_TrickHousePuzzle3_Text_AlanPostBattle:
-	.string "Jeg fatter det ikke. Hvor mange fælder er\n"
-	.string "der i dette hus?\p"
+	.string "Jeg fatter det ikke. Hvor mange fælder\n"
+	.string "er der i dette hus?\p"
 	.string "Du kan være den, der løser det.$"
 
 

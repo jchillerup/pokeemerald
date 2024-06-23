@@ -45,20 +45,20 @@ VerdanturfTown_Mart_EventScript_Lass::
 VerdanturfTown_Mart_Text_XSpecialIsCrucial:
 	.string "For enhver POKéMON kamp er X SPECIAL\n"
 	.string "afgørende.\p"
-	.string "Det øger styrken af visse angreb selvom\n"
-	.string "det kun gælder for én kamp.$"
+	.string "Det øger styrken af visse angreb\n"
+	.string "selvom det kun gælder for én kamp.$"
 
 VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent:
 	.string "Det ser ud til, at de ikke sælger nogen\n"
 	.string "vinderstrategiguider til KAMP- TALTET…\p"
-	.string "Det ser ud til, at man må stole på sin egen\n"
-	.string "kløgt alligevel…$"
+	.string "Det ser ud til, at man må stole på sin\n"
+	.string "egen kløgt alligevel…$"
 
 VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon:
 	.string "NESTE BOLD virker bedre på svækkede\n"
 	.string "POKéMON.\p"
-	.string "VERDANTURF er det eneste sted, du kan købe\n"
-	.string "den.$"
+	.string "VERDANTURF er det eneste sted, du kan\n"
+	.string "købe den.$"
 
 
 

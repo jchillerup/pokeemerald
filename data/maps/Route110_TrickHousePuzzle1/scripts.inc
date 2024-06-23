@@ -41,30 +41,32 @@ Route110_TrickHousePuzzle1_EventScript_Robin::
 Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened::
 	.string "{PLAYER} skrev den hemmelige kode på\n"
 	.string "døren.\p"
-	.string "“TRICK MASTER er fantastisk.” … … … … … … … …\p"
+	.string "“TRICK MASTER er fantastisk.” … … … … …\n"
+	.string "… … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle1_Text_SallyIntro:
-	.string "Jeg vil hakke og skære mig vej til sejr med\n"
-	.string "KLIPPET vi lige har lært!$"
+	.string "Jeg vil hakke og skære mig vej til sejr\n"
+	.string "med KLIPPET vi lige har lært!$"
 
 Route110_TrickHousePuzzle1_Text_SallyDefeat:
 	.string "Hvorfor er du så seriøs?$"
 
 Route110_TrickHousePuzzle1_Text_SallyPostBattle:
-	.string "Jeg bliver aldrig træt af at hacke og skære!$"
+	.string "Jeg bliver aldrig træt af at hacke og\n"
+	.string "skære!$"
 
 Route110_TrickHousePuzzle1_Text_EddieIntro:
-	.string "Jeg vandrede ind i dette mærkelige hus ved\n"
-	.string "et uheld…$"
+	.string "Jeg vandrede ind i dette mærkelige hus\n"
+	.string "ved et uheld…$"
 
 Route110_TrickHousePuzzle1_Text_EddieDefeat:
 	.string "Og nu har jeg tabt...$"
 
 Route110_TrickHousePuzzle1_Text_EddiePostBattle:
-	.string "Jeg har mistet min vej, jeg har tabt et slag,\n"
-	.string "og nu er jeg endnu mere forvirret… Jeg kan\l"
-	.string "ikke komme ud…$"
+	.string "Jeg har mistet min vej, jeg har tabt et\n"
+	.string "slag, og nu er jeg endnu mere forvirret…\l"
+	.string "Jeg kan ikke komme ud…$"
 
 Route110_TrickHousePuzzle1_Text_RobinIntro:
 .string "Hvem er bare SJOVE MESTER?$"

@@ -257,21 +257,22 @@ Route128_Text_ArchieIOnlyWanted:
 
 Route128_Text_MaxieDoYouUnderstandNow:
 	.string "MAXIE: Forstår du det nu, ARCHIE?\p"
-	.string "Ser du endelig, hvor katastrofal din drøm er\n"
-	.string "blevet til?\p"
-	.string "Vi skal skynde os! Vi skal gøre noget, før\n"
-	.string "situationen løber helt af sporet!$"
+	.string "Ser du endelig, hvor katastrofal din\n"
+	.string "drøm er blevet til?\p"
+	.string "Vi skal skynde os! Vi skal gøre noget,\n"
+	.string "før situationen løber helt af sporet!$"
 
 Route128_Text_MaxieResposibilityFallsToArchieAndMe:
 	.string "MAXIE: {PLAYER}, sig ikke noget.\p"
 	.string "Jeg ved, at jeg ikke har ret til at være\n"
 	.string "kritisk overfor ARCHIE…\p"
-	.string "Men på den måde tingene er nu, tvivler jeg på,\n"
-	.string "at vi mennesker vil være i stand til at gøre\l"
-	.string "noget ved det.\p"
-	.string "Men vi kan heller ikke bare se hjælpeløst til.\p"
-	.string "Ansvaret for at sætte en stopper for dette\n"
-	.string "ligger hos ARCHIE og mig…$"
+	.string "Men på den måde tingene er nu, tvivler\n"
+	.string "jeg på, at vi mennesker vil være i stand\l"
+	.string "til at gøre noget ved det.\p"
+	.string "Men vi kan heller ikke bare se\n"
+	.string "hjælpeløst til.\p"
+	.string "Ansvaret for at sætte en stopper for\n"
+	.string "dette ligger hos ARCHIE og mig…$"
 
 Route128_Text_MaxieThisDefiesBelief:
 	.string "MAXIE: Dette er ubegribeligt…\p"
@@ -284,12 +285,12 @@ Route128_Text_StevenWhatIsHappening:
 
 Route128_Text_StevenWholeWorldWillDrown:
 	.string "Det her er forfærdeligt…\p"
-	.string "Efter varmebølgen endte, begyndte dette\n"
-	.string "skybrud.\p"
-	.string "Hvis det her ikke stopper, vil hele HOENN…\n"
-	.string "Nej, hele verden drukne.\p"
-	.string "Denne store regnsky breder sig fra oven\n"
-	.string "over SOOTOPOLIS…\p"
+	.string "Efter varmebølgen endte, begyndte\n"
+	.string "dette skybrud.\p"
+	.string "Hvis det her ikke stopper, vil hele\n"
+	.string "HOENN… Nej, hele verden drukne.\p"
+	.string "Denne store regnsky breder sig fra\n"
+	.string "oven over SOOTOPOLIS…\p"
 	.string "Hvad i alverden foregår der?\p"
 	.string "Der er ingen pointe i at diskutere her…\n"
 	.string "SOOTOPOLIS kan måske give svar…$"

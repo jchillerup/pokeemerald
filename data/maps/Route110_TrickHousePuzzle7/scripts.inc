@@ -319,45 +319,47 @@ Route110_TrickHousePuzzle7_EventScript_Everett::
 Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened::
 	.string "{PLAYER} skrev den hemmelige kode på\n"
 	.string "døren.\p"
-	.string "“TRICK MASTER er krammevenlig.” … … … … … … … …\p"
+	.string "“TRICK MASTER er krammevenlig.” … … … …\n"
+	.string "… … … …\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaIntro:
-	.string "Den SNYDE MASTER forsvinder altid som røg.\n"
-	.string "Hvordan gør han det?$"
+	.string "Den SNYDE MASTER forsvinder altid som\n"
+	.string "røg. Hvordan gør han det?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaDefeat:
-	.string "Aiyeeeh! Du er alt for stærk! Hvordan gør du\n"
-	.string "det?$"
+	.string "Aiyeeeh! Du er alt for stærk! Hvordan\n"
+	.string "gør du det?$"
 
 Route110_TrickHousePuzzle7_Text_JoshuaPostBattle:
-	.string "Jeg ønsker, jeg kunne dukke op og forsvinde\n"
-	.string "som røg også.$"
+	.string "Jeg ønsker, jeg kunne dukke op og\n"
+	.string "forsvinde som røg også.$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaIntro:
-	.string "At gå rundt om det samme sted... Det bringer\n"
-	.string "ulykke...$"
+	.string "At gå rundt om det samme sted... Det\n"
+	.string "bringer ulykke...$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaDefeat:
 	.string "Nedkæmpet! Det er et dårligt tegn…$"
 
 Route110_TrickHousePuzzle7_Text_PatriciaPostBattle:
-	.string "Jeg har gået rundt om det samme sted over ti\n"
-	.string "gange nu... Det er uheldigt...$"
+	.string "Jeg har gået rundt om det samme sted\n"
+	.string "over ti gange nu... Det er uheldigt...$"
 
 Route110_TrickHousePuzzle7_Text_AlexisIntro:
-	.string "Den, der vinder, kommer gennem her først.\n"
-	.string "Sådan er følelsen, jeg får.$"
+	.string "Den, der vinder, kommer gennem her\n"
+	.string "først. Sådan er følelsen, jeg får.$"
 
 Route110_TrickHousePuzzle7_Text_AlexisDefeat:
 	.string "Åh! Nå, så kom nu bare frem!$"
 
 Route110_TrickHousePuzzle7_Text_AlexisPostBattle:
-	.string "Du løser alle gåderne i TRICK HOUSE. Sådan\n"
-	.string "føles det.$"
+	.string "Du løser alle gåderne i TRICK HOUSE.\n"
+	.string "Sådan føles det.$"
 
 Route110_TrickHousePuzzle7_Text_MarielaIntro:
-	.string "Nufufufu, endelig her! Lad os komme i gang!$"
+	.string "Nufufufu, endelig her! Lad os komme i\n"
+	.string "gang!$"
 
 Route110_TrickHousePuzzle7_Text_MarielaDefeat:
 	.string "Du er så afslappet med at vinde!$"
@@ -374,8 +376,8 @@ Route110_TrickHousePuzzle7_Text_AlvaroDefeat:
 Route110_TrickHousePuzzle7_Text_AlvaroPostBattle:
 	.string "Nå, uanset, vi valgte begge et mærkeligt\n"
 	.string "sted at lære hinanden at kende.\p"
-	.string "Som en mærkelig person til en anden, lad os\n"
-	.string "gøre vores bedste!$"
+	.string "Som en mærkelig person til en anden, lad\n"
+	.string "os gøre vores bedste!$"
 
 Route110_TrickHousePuzzle7_Text_EverettIntro:
 	.string "Det er noget trangt herinde…$"
@@ -384,8 +386,8 @@ Route110_TrickHousePuzzle7_Text_EverettDefeat:
 	.string "Åh, ja, stærk du er.$"
 
 Route110_TrickHousePuzzle7_Text_EverettPostBattle:
-	.string "Jeg håbede at bytte plads med dig når jeg\n"
-	.string "slog dig, men…$"
+	.string "Jeg håbede at bytte plads med dig når\n"
+	.string "jeg slog dig, men…$"
 
 
 

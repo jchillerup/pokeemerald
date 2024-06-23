@@ -33,16 +33,17 @@ Route114_FossilManiacsHouse_EventScript_Bookshelf::
 	end
 
 Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother:
-	.string "Min storebror er Fossilentusiasten… Han\n"
-	.string "er en rar fyr, som elsker FOSSILER…\p"
+	.string "Min storebror er Fossilentusiasten…\n"
+	.string "Han er en rar fyr, som elsker FOSSILER…\p"
 	.string "Han elsker også at grave huller… Han\n"
 	.string "gravede dette hul selv…\p"
 	.string "Du kan få dette, så du kan GRAVE huller\n"
 	.string "ligesom min storebror…$"
 
 Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance:
-	.string "Hvis du laver en POKéMON GRAVE inde i en hule,\n"
-	.string "så bliver du sendt tilbage til indgangen…$"
+	.string "Hvis du laver en POKéMON GRAVE inde i en\n"
+	.string "hule, så bliver du sendt tilbage til\l"
+	.string "indgangen…$"
 
 Route114_FossilManiacsHouse_Text_RocksFillDisplayCase:
 	.string "Sten i sælsomme former fylder\n"

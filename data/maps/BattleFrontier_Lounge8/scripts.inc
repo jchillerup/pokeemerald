@@ -17,10 +17,10 @@ BattleFrontier_Lounge8_EventScript_NinjaBoy::
 
 BattleFrontier_Lounge8_Text_WhatATrainerNeeds:
 	.string "Hvad en TRÆNER har brug for…\p"
-	.string "Viden… Strategi… Lyd… Tarmene… Ånd… Mod…\n"
-	.string "Og evne…\p"
-	.string "Nå, jeg er klar på alle måder! Jeg vil være\n"
-	.string "ustoppelig på ethvert bygning!\p"
+	.string "Viden… Strategi… Lyd… Tarmene… Ånd…\n"
+	.string "Mod… Og evne…\p"
+	.string "Nå, jeg er klar på alle måder! Jeg vil\n"
+	.string "være ustoppelig på ethvert bygning!\p"
 	.string "Hva'? POKéMON? Hvad er det?$"
 
 BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains:
@@ -31,8 +31,10 @@ BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains:
 
 BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling:
 	.string "Ved KAMPENS TÅRN fortalte en ældre pige\n"
-	.string "mig, at jeg har masser af talent til at kæmpe!\p"
-	.string "Jeg foretrækker POKéMON-KONKURRENCER!\p"
+	.string "mig, at jeg har masser af talent til at\l"
+	.string "kæmpe!\p"
+	.string "Jeg foretrækker\n"
+	.string "POKéMON-KONKURRENCER!\p"
 	.string "Men jeg er ikke god til KONKURRENCER!\p"
 	.string "Jeg antager, at talent og at kunne lide\n"
 	.string "noget ikke er det samme.$"

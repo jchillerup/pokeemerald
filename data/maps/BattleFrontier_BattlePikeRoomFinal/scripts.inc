@@ -39,7 +39,8 @@ BattleFrontier_BattlePikeRoomFinal_EventScript_TurnPlayerNorth::
 	end
 
 BattleFrontier_BattlePikeRoomFinal_Text_CongratsThisWayPlease:
-	.string "Tillykke… Nu, på denne måde, vær så venlig…$"
+	.string "Tillykke… Nu, på denne måde, vær så\n"
+	.string "venlig…$"
 
 
 

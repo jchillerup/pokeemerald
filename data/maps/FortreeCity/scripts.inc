@@ -92,40 +92,40 @@ FortreeCity_Movement_KecleonFlee:
 FortreeCity_Text_SawGiganticPokemonInSky:
 	.string "Ingen tror på mig, men jeg så denne\n"
 	.string "kæmpestore POKéMON på himlen.\p"
-	.string "Den så ud til at vride sig, mens den fløj mod\n"
-	.string "RUTE 131.\p"
-	.string "Forresten… Snif… Øh… Du, øh… du lugter af\n"
-	.string "brændt.\p"
+	.string "Den så ud til at vride sig, mens den fløj\n"
+	.string "mod RUTE 131.\p"
+	.string "Forresten… Snif… Øh… Du, øh… du lugter\n"
+	.string "af brændt.\p"
 	.string "Var du i en vulkan eller noget?$"
 
 FortreeCity_Text_SomethingBlockingGym:
-	.string "Jeg vil gerne gå til POKéMON GYM, men noget\n"
-	.string "blokerer vejen.\p"
+	.string "Jeg vil gerne gå til POKéMON GYM, men\n"
+	.string "noget blokerer vejen.\p"
 	.string "Efter alt besværet jeg gik igennem med\n"
 	.string "træningen på ROUTE 120…$"
 
 FortreeCity_Text_ThisTimeIllBeatWinona:
-	.string "Jeg har min stolthed og glæde POKéMON med\n"
-	.string "mig. Denne gang vil jeg slå WINONA.$"
+	.string "Jeg har min stolthed og glæde POKéMON\n"
+	.string "med mig. Denne gang vil jeg slå WINONA.$"
 
 FortreeCity_Text_TreesGrowByDrinkingRainwater:
-	.string "Jorden opsuger regnvand, og træer vokser\n"
-	.string "ved at drikke det vand…\p"
-	.string "Vores FORTREE CITY eksisterer, fordi der\n"
-	.string "er både vand og jord.$"
+	.string "Jorden opsuger regnvand, og træer\n"
+	.string "vokser ved at drikke det vand…\p"
+	.string "Vores FORTREE CITY eksisterer, fordi\n"
+	.string "der er både vand og jord.$"
 
 FortreeCity_Text_EveryoneHealthyAndLively:
 	.string "BYEN består af hjem bygget på træer.\p"
-	.string "Måske på grund af den livsstil er alle sunde\n"
-	.string "og livlige.\p"
-	.string "Selv jeg--jeg føler, som om jeg er blevet\n"
-	.string "tredive år yngre.$"
+	.string "Måske på grund af den livsstil er alle\n"
+	.string "sunde og livlige.\p"
+	.string "Selv jeg--jeg føler, som om jeg er\n"
+	.string "blevet tredive år yngre.$"
 
 FortreeCity_Text_BugPokemonComeThroughWindow:
 	.string "At bo øverst i træerne er okay.\p"
-	.string "Men nogle gange kommer FEJL POKéMON ind\n"
-	.string "gennem vinduerne. Det kan være virkelig\l"
-	.string "skræmmende.$"
+	.string "Men nogle gange kommer FEJL POKéMON\n"
+	.string "ind gennem vinduerne. Det kan være\l"
+	.string "virkelig skræmmende.$"
 
 FortreeCity_Text_PokemonThatEvolveWhenTraded:
 	.string "Der er POKéMON, der udvikler sig, når du\n"
@@ -145,12 +145,14 @@ FortreeCity_Text_UsedDevonScopePokemonFled:
 	.string "Den forskrækkede POKéMON flygtede!$"
 
 FortreeCity_Text_CitySign:
-	.string "FORTREE BY “Trækronernes by, der leger med\n"
-	.string "naturen.”$"
+	.string "FORTREE BY “Trækronernes by, der leger\n"
+	.string "med naturen.”$"
 
 FortreeCity_Text_GymSign:
-	.string "FORTREE CITY POKéMON GYM LEDER: WINONA\p"
-	.string "“Fuglebrugeren der flyver ud i verdenen.”$"
+	.string "FORTREE CITY POKéMON GYM LEDER:\n"
+	.string "WINONA\p"
+	.string "“Fuglebrugeren der flyver ud i\n"
+	.string "verdenen.”$"
 
 
 

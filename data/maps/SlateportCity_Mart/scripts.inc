@@ -42,8 +42,8 @@ SlateportCity_Mart_Text_SomeItemsOnlyAtMart:
 	.string "POKéMONFORRETNING.$"
 
 SlateportCity_Mart_Text_GreatBallIsBetter:
-	.string "EN STOR BOLD er bedre end en POKé BOLD til at\n"
-	.string "fange POKéMON.\p"
+	.string "EN STOR BOLD er bedre end en POKé BOLD\n"
+	.string "til at fange POKéMON.\p"
 	.string "Med denne burde jeg kunne fange den\n"
 	.string "flygtige POKéMON…$"
 

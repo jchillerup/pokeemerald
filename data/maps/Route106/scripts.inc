@@ -45,8 +45,8 @@ Route106_EventScript_Ned::
 
 Route106_Text_TrainerTips:
 	.string "TRÆNER-TIPS\p"
-	.string "Råd til at fange POKéMON med et STANG: Tryk\n"
-	.string "på A-knappen, når du får en hug.$"
+	.string "Råd til at fange POKéMON med et STANG:\n"
+	.string "Tryk på A-knappen, når du får en hug.$"
 
 
 

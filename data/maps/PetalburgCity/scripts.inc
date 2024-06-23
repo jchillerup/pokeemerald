@@ -712,31 +712,32 @@ PetalburgCity_Text_WhereIsWally:
 	.string "Meget snart…$"
 
 PetalburgCity_Text_AreYouRookieTrainer:
-	.string "Hej! Er du måske… En nybegynder TRÆNER?\p"
-	.string "Ved du, hvad POKéMON TRÆNERE gør, når de når\n"
-	.string "en ny by?\p"
-	.string "De tjekker først, hvilken slags GYM der er i\n"
-	.string "byen.$"
+	.string "Hej! Er du måske… En nybegynder\n"
+	.string "TRÆNER?\p"
+	.string "Ved du, hvad POKéMON TRÆNERE gør, når\n"
+	.string "de når en ny by?\p"
+	.string "De tjekker først, hvilken slags GYM der\n"
+	.string "er i byen.$"
 
 PetalburgCity_Text_ThisIsPetalburgGym:
 .string "Se? Dette er PETALBURG CITYs GYM.$"
 
 PetalburgCity_Text_ThisIsGymSign:
-	.string "Dette er GYM'ets skilt. Kig efter det når du\n"
-	.string "leder efter et GYM.$"
+	.string "Dette er GYM'ets skilt. Kig efter det\n"
+	.string "når du leder efter et GYM.$"
 
 PetalburgCity_Text_WaterReflection:
 	.string "Mit ansigt spejler sig i vandet.\p"
 	.string "Det er et skinnende smil fuld af håb…\p"
-	.string "Eller det kunne være et udtryk af dyster\n"
-	.string "stilhed kæmpende med frygt…\p"
+	.string "Eller det kunne være et udtryk af\n"
+	.string "dyster stilhed kæmpende med frygt…\p"
 	.string "Hvad ser du spejlet i dit ansigt?$"
 
 PetalburgCity_Text_FullPartyExplanation:
-	.string "Lad os sige, at du har seks POKéMON. Hvis du\n"
-	.string "fanger en mere…\p"
-	.string "Bliver den automatisk sendt til en LAGER\n"
-	.string "BOKS via en PC-forbindelse.$"
+	.string "Lad os sige, at du har seks POKéMON.\n"
+	.string "Hvis du fanger en mere…\p"
+	.string "Bliver den automatisk sendt til en\n"
+	.string "LAGER BOKS via en PC-forbindelse.$"
 
 PetalburgCity_Text_GymSign:
 	.string "PETALBURG CITY POKéMON GYM LEADER:\n"
@@ -751,8 +752,8 @@ PetalburgCity_Text_WallyHouseSign:
 
 PetalburgCity_Text_AreYouATrainer:
 	.string "Undskyld!\p"
-	.string "Må jeg gætte ud fra din påklædning, er du en\n"
-	.string "POKéMON TRÆNER?$"
+	.string "Må jeg gætte ud fra din påklædning, er\n"
+	.string "du en POKéMON TRÆNER?$"
 
 PetalburgCity_Text_WellMaybeNot:
 	.string "Måske ikke alligevel.\p"
@@ -761,8 +762,8 @@ PetalburgCity_Text_WellMaybeNot:
 	.string "måske er du bare en almindelig$"
 
 PetalburgCity_Text_ImLookingForTalentedTrainers:
-	.string "Jeg strejfer rundt i landet på jagt efter\n"
-	.string "talentfulde TRÆNERE.\p"
+	.string "Jeg strejfer rundt i landet på jagt\n"
+	.string "efter talentfulde TRÆNERE.\p"
 	.string "Undskyld, at jeg har taget din tid.$"
 
 

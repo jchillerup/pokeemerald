@@ -113,8 +113,8 @@ BattleFrontier_RankingHall_Text_DomePikeFactoryRecords:
 	.string "optegnelser$"
 
 BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords:
-	.string "KAMP PALADS, KAMP ARENA, og KAMP PYRAMIDE\n"
-	.string "Optegnelser$"
+	.string "KAMP PALADS, KAMP ARENA, og KAMP\n"
+	.string "PYRAMIDE Optegnelser$"
 
 BattleFrontier_RankingHall_Text_IsYourNameOnThisList:
 .string "Hej, står dit navn på denne liste?$"
@@ -125,14 +125,14 @@ BattleFrontier_RankingHall_Text_WowThatsSuper:
 
 BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName:
 	.string "Åh, er det sandt?\p"
-	.string "Hvis du så din vens navn heroppe, Vil jeg\n"
-	.string "vædde på, at det villefå dig til at arbejde\l"
-	.string "hårdere!$"
+	.string "Hvis du så din vens navn heroppe, Vil\n"
+	.string "jeg vædde på, at det villefå dig til at\l"
+	.string "arbejde hårdere!$"
 
 BattleFrontier_RankingHall_Text_MyNamesNotUpThere:
 	.string "Hmm… Mit navn er ikke deroppe…\p"
-	.string "Det er helt naturligt, da jeg endnu ikke har\n"
-	.string "taget udfordringer endnu.$"
+	.string "Det er helt naturligt, da jeg endnu ikke\n"
+	.string "har taget udfordringer endnu.$"
 
 
 

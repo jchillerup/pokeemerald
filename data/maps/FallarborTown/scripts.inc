@@ -55,14 +55,14 @@ FallarborTown_EventScript_MoveTutorSign::
 
 FallarborTown_Text_ShadyCharactersCozmosHome:
 	.string "Der sker noget, og jeg kan ikke lide det!\p"
-	.string "Jeg har set skyggefulde personer vandre\n"
-	.string "ind og ud af PROF. COZMO's hjem...$"
+	.string "Jeg har set skyggefulde personer\n"
+	.string "vandre ind og ud af PROF. COZMO's hjem...$"
 
 FallarborTown_Text_RegionKnownForMeteors:
-	.string "Denne region har været kendt for meteorer\n"
-	.string "siden oldtiden.\p"
-	.string "De siger, at METEOR FALLS blev udgravet af\n"
-	.string "en faldende meteorit for længe siden.$"
+	.string "Denne region har været kendt for\n"
+	.string "meteorer siden oldtiden.\p"
+	.string "De siger, at METEOR FALLS blev udgravet\n"
+	.string "af en faldende meteorit for længe siden.$"
 
 FallarborTown_Text_MyPreciousAzurill:
 	.string "Se! Tag et kig! Det her er min dyrebare\n"
@@ -75,15 +75,16 @@ FallarborTown_Text_Azurill:
 FallarborTown_Text_HaveYouChallengedFlannery:
 	.string "Har du allerede udfordret FLANNERY,\n"
 	.string "LEDEREN af LAVARIDGE GYM?\p"
-	.string "Pigens bedstefar var berømt. Han var en af\n"
-	.string "de FIRSKE I POKéMON LIGAEN på et\l"
+	.string "Pigens bedstefar var berømt. Han var en\n"
+	.string "af de FIRSKE I POKéMON LIGAEN på et\l"
 	.string "tidspunkt.\p"
-	.string "Det ville ikke overraske mig at se FLANNERY\n"
-	.string "blive en stor TRÆNER i sin egen ret.$"
+	.string "Det ville ikke overraske mig at se\n"
+	.string "FLANNERY blive en stor TRÆNER i sin egen\l"
+	.string "ret.$"
 
 FallarborTown_Text_BattleTentSign:
-	.string "KAMP TELT FALLARBOR PLADS “Må de største\n"
-	.string "hold samles!”$"
+	.string "KAMP TELT FALLARBOR PLADS “Må de\n"
+	.string "største hold samles!”$"
 
 FallarborTown_Text_TownSign:
 	.string "FALLARBOR TOWN “Et bondegårdssamfund\n"

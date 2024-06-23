@@ -21,19 +21,19 @@ SeafloorCavern_Room1_Text_Grunt1Defeat:
 	.string "Jeg vil hjem…$"
 
 SeafloorCavern_Room1_Text_Grunt1PostBattle:
-	.string "Jeg vil gerne have en forfremmelse, så jeg\n"
-	.string "kan befale rundt med GRUNTE…$"
+	.string "Jeg vil gerne have en forfremmelse, så\n"
+	.string "jeg kan befale rundt med GRUNTE…$"
 
 SeafloorCavern_Room1_Text_Grunt2Intro:
-	.string "Den ubåd... Den er lille indeni. Jeg er øm over\n"
-	.string "det hele!$"
+	.string "Den ubåd... Den er lille indeni. Jeg er øm\n"
+	.string "over det hele!$"
 
 SeafloorCavern_Room1_Text_Grunt2Defeat:
 	.string "At tabe gør ondt!$"
 
 SeafloorCavern_Room1_Text_Grunt2PostBattle:
-	.string "Den undervandsbåd, vi kaprede, mand, det er\n"
-	.string "vildt som en tur.\p"
+	.string "Den undervandsbåd, vi kaprede, mand,\n"
+	.string "det er vildt som en tur.\p"
 	.string "Det er alt for stramt derinde!$"
 
 

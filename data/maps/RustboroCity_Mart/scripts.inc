@@ -73,8 +73,8 @@ RustboroCity_Mart_EventScript_BugCatcher::
 RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish:
 	.string "Jeg køber nogle PARLYZ HEALS og\n"
 	.string "ANTIDOTES.\p"
-	.string "Bare for en sikkerheds skyld, hvis jeg løber\n"
-	.string "ind i SHROOMISH i PETALBURG WOODS.$"
+	.string "Bare for en sikkerheds skyld, hvis jeg\n"
+	.string "løber ind i SHROOMISH i PETALBURG WOODS.$"
 
 RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
 	.string "Min POKéMON udviklede sig. Den har nu\n"
@@ -85,8 +85,8 @@ RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead:
 RustboroCity_Mart_Text_GettingEscapeRopeJustInCase:
 	.string "Jeg får en FLUGTREB bare til sikkerheds\n"
 	.string "skyld, hvis jeg går tabt i en grotte.\p"
-	.string "Jeg skal bare bruge den for at komme tilbage\n"
-	.string "til indgangen.$"
+	.string "Jeg skal bare bruge den for at komme\n"
+	.string "tilbage til indgangen.$"
 
 
 

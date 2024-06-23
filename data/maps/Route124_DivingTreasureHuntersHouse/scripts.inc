@@ -287,8 +287,9 @@ Route124_DivingTreasureHuntersHouse_EventScript_ShardTradeBoard::
 
 Route124_DivingTreasureHuntersHouse_Text_Greeting:
 	.string "Jeg er DEN DYKKENDE SKATTEJÆGER!\p"
-	.string "Jeg er den seje fyr, som laver dyk ned i dybet\n"
-	.string "for at samle skatte der hviler på bunden.$"
+	.string "Jeg er den seje fyr, som laver dyk ned i\n"
+	.string "dybet for at samle skatte der hviler på\l"
+	.string "bunden.$"
 
 Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
 	.string "Fortæl mig, har du set nogle SHARDS af\n"
@@ -296,14 +297,14 @@ Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards:
 
 Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards:
 	.string "Du har ingen skatte til mig…\p"
-	.string "Hvis du ser nogen SKÅR, som den RØDE SKÅR,\n"
-	.string "skal du handle den med mig!$"
+	.string "Hvis du ser nogen SKÅR, som den RØDE\n"
+	.string "SKÅR, skal du handle den med mig!$"
 
 Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou:
 	.string "Åh, hey! Det… Det er en SKÆRV! Jeg leder\n"
 	.string "efter dem!\p"
-	.string "Åh mand, du er nødt til at bytte den med mig!\n"
-	.string "Jeg vil give dig noget godt!$"
+	.string "Åh mand, du er nødt til at bytte den med\n"
+	.string "mig! Jeg vil give dig noget godt!$"
 
 Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade:
 	.string "Hvad vil du handle med?$"
@@ -327,3 +328,5 @@ Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind:
 	.string "mening, så kom tilbage.$"
 
 Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard:
+
+

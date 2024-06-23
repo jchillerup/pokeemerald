@@ -12,12 +12,12 @@ RustboroCity_Flat2_3F_EventScript_Woman::
 	end
 
 RustboroCity_Flat2_3F_Text_PresidentCollectsRareStones:
-	.string "DEVON's PRÆSIDENT elsker at samle sjældne\n"
-	.string "sten.$"
+	.string "DEVON's PRÆSIDENT elsker at samle\n"
+	.string "sjældne sten.$"
 
 RustboroCity_Flat2_3F_Text_PresidentsSonAlsoCollectsRareStones:
-	.string "Jeg tror også, at PRÆSIDENTENS søn samler\n"
-	.string "på sjældne sten.$"
+	.string "Jeg tror også, at PRÆSIDENTENS søn\n"
+	.string "samler på sjældne sten.$"
 
 
 

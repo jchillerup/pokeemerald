@@ -273,7 +273,8 @@ RustboroCity_DevonCorp_2F_EventScript_WorkOnNext::
 	end
 
 RustboroCity_DevonCorp_2F_Text_DeviceForTalkingToPokemon:
-	.string "Vi udvikler en enhed til at tale med POKéMON.\p"
+	.string "Vi udvikler en enhed til at tale med\n"
+	.string "POKéMON.\p"
 	.string "Men vi har ikke haft meget succes...$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls:
@@ -281,9 +282,10 @@ RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls:
 	.string "Men jeg er ikke kommet langt…$"
 
 RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
-	.string "Vi har endelig lavet nye slags POKéBOLDE!\p"
-	.string "GENTAG-BOLLEN gør det nemmere at fange\n"
-	.string "POKéMON, du har fanget før.\p"
+	.string "Vi har endelig lavet nye slags\n"
+	.string "POKéBOLDE!\p"
+	.string "GENTAG-BOLLEN gør det nemmere at\n"
+	.string "fange POKéMON, du har fanget før.\p"
 	.string "TIDSBOLLEN bliver bedre til at fange\n"
 	.string "POKéMON, jo længere en kamp løber.\p"
 	.string "Begge er stolt udviklet af DEVON\n"
@@ -292,22 +294,23 @@ RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls:
 
 RustboroCity_DevonCorp_2F_Text_IMadePokenav:
 	.string "Jeg har lavet POKéNAV'en!\p"
-	.string "Som ingeniør føler jeg mig velsignet over at\n"
-	.string "have lavet noget så fantastisk!$"
+	.string "Som ingeniør føler jeg mig velsignet\n"
+	.string "over at have lavet noget så fantastisk!$"
 
 RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav:
 	.string "Åh, wow! Det er en POKéNAV!\p"
 	.string "Den opstod som et resultat af vores\n"
-	.string "PRÆSIDENTS ønske om at lære om POKéMON's\l"
-	.string "følelser.\p"
+	.string "PRÆSIDENTS ønske om at lære om\l"
+	.string "POKéMON's følelser.\p"
 	.string "Vil du have mig til at beskrive dens\n"
 	.string "funktioner i detaljer?\p"
-	.string "Nej, nej. Jeg tror, du vil finde ud af det ved\n"
-	.string "at prøve POKéNAV'en.$"
+	.string "Nej, nej. Jeg tror, du vil finde ud af det\n"
+	.string "ved at prøve POKéNAV'en.$"
 
 RustboroCity_DevonCorp_2F_Text_DeviceToVisualizePokemonDreams:
-	.string "Jeg prøver at udvikle en enhed, der visuelt\n"
-	.string "genskaber drømmene fra POKéMON…\p"
+	.string "Jeg prøver at udvikle en enhed, der\n"
+	.string "visuelt genskaber drømmene fra\l"
+	.string "POKéMON…\p"
 	.string "Men det går ikke så godt.$"
 
 RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils:
@@ -318,7 +321,8 @@ RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils:
 RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife:
 	.string "Vent! Det der ting, du har der… Er det en\n"
 	.string "POKéMON-fossil?\p"
-	.string "Vil du gerne vække den POKéMON til live igen?\p"
+	.string "Vil du gerne vække den POKéMON til live\n"
+	.string "igen?\p"
 	.string "Det kan jeg med min nyudviklede\n"
 	.string "FOSSILREGENERATOR.$"
 
@@ -328,25 +332,26 @@ RustboroCity_DevonCorp_2F_Text_OhIsThatSo:
 	.string "fremragende, jeg siger dig.$"
 
 RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne:
-	.string "Åh, det er en overraskelse! Du har ikke én,\n"
-	.string "men to, fossiler?\p"
-	.string "Desværre kan min maskine kun regenerere en\n"
-	.string "POKéMON ad gangen.\p"
-	.string "Vil du vælge et af dine fossiler til at blive\n"
-	.string "regenereret?$"
+	.string "Åh, det er en overraskelse! Du har ikke\n"
+	.string "én, men to, fossiler?\p"
+	.string "Desværre kan min maskine kun\n"
+	.string "regenerere en POKéMON ad gangen.\p"
+	.string "Vil du vælge et af dine fossiler til at\n"
+	.string "blive regenereret?$"
 
 RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher:
-	.string "Fremragende! Lad os gøre det med det samme.\p"
+	.string "Fremragende! Lad os gøre det med det\n"
+	.string "samme.\p"
 	.string "{PLAYER} gav {STR_VAR_1} til\n"
 	.string "DEVON-FORSKEREN.$"
 
 RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime:
-	.string "Den Fossile Regenerator, som jeg har lavet,\n"
-	.string "er utrolig.\p"
-	.string "Men den har en ulempe--den tager lang tid at\n"
-	.string "virke.\p"
-	.string "Så, øh… Hvad med at gå en tur rundt og kigge\n"
-	.string "lidt omkring?$"
+	.string "Den Fossile Regenerator, som jeg har\n"
+	.string "lavet, er utrolig.\p"
+	.string "Men den har en ulempe--den tager lang\n"
+	.string "tid at virke.\p"
+	.string "Så, øh… Hvad med at gå en tur rundt og\n"
+	.string "kigge lidt omkring?$"
 
 RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife:
 	.string "Tak fordi du ventede!\p"
@@ -372,10 +377,11 @@ RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature:
 RustboroCity_DevonCorp_2F_Text_WhatToWorkOnNext:
 	.string "Nu, hvad skal jeg arbejde på udvikling\n"
 	.string "næste?\p"
-	.string "Vores virksomhed giver os mulighed for at\n"
-	.string "gøre vores inspirationer til virkelighed.\p"
-	.string "Man kunne ikke ønske sig et bedre miljø som\n"
-	.string "ingeniør.$"
+	.string "Vores virksomhed giver os mulighed for\n"
+	.string "at gøre vores inspirationer til\l"
+	.string "virkelighed.\p"
+	.string "Man kunne ikke ønske sig et bedre miljø\n"
+	.string "som ingeniør.$"
 
 
 

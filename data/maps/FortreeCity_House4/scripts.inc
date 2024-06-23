@@ -67,28 +67,30 @@ FortreeCity_House4_EventScript_Wingull::
 	end
 
 FortreeCity_House4_Text_BringsWorldCloserTogether:
-	.string "Ved at være sammen med POKéMON, får folk\n"
-	.string "flere og flere venner.\p"
-	.string "Og det bringer verden tættere sammen. Jeg\n"
-	.string "synes, det er vidunderligt!$"
+	.string "Ved at være sammen med POKéMON, får\n"
+	.string "folk flere og flere venner.\p"
+	.string "Og det bringer verden tættere sammen.\n"
+	.string "Jeg synes, det er vidunderligt!$"
 
 FortreeCity_House4_Text_GoBirdPokemon:
 	.string "Der! Go, FUGL POKéMON!$"
 
 FortreeCity_House4_Text_AskedWingullToRunErrand:
-	.string "Hihi, jeg bad min WINGULL om atløbe en ærinde\n"
-	.string "for mig.$"
+	.string "Hihi, jeg bad min WINGULL om atløbe en\n"
+	.string "ærinde for mig.$"
 
 FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb:
 	.string "Godt! Velkommen tilbage, WINGULL!\p"
-	.string "Hov? Hvad er dette? Hvad holder den på?\p"
-	.string "En MENTAL URTE? Den må have samlet den op et\n"
-	.string "sted.\p"
-	.string "Men jeg er ikke en TRÆNER, så du kan få den.$"
+	.string "Hov? Hvad er dette? Hvad holder den\n"
+	.string "på?\p"
+	.string "En MENTAL URTE? Den må have samlet den\n"
+	.string "op et sted.\p"
+	.string "Men jeg er ikke en TRÆNER, så du kan få\n"
+	.string "den.$"
 
 FortreeCity_House4_Text_FriendsFarAwayThanksToWingull:
-	.string "Takket være min WINGULL har jeg venner som\n"
-	.string "bor langt væk.$"
+	.string "Takket være min WINGULL har jeg venner\n"
+	.string "som bor langt væk.$"
 
 FortreeCity_House4_Text_Wingull:
 .string "WINGULL: Pihyoh!$"

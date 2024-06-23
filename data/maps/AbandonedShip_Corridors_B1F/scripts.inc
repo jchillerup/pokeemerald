@@ -56,8 +56,8 @@ AbandonedShip_Corridors_B1F_EventScript_Duncan::
 	end
 
 AbandonedShip_Corridors_B1F_Text_DuncanIntro:
-	.string "Når vi sejler ud på havet, tager vi SØMÆND\n"
-	.string "altid vores POKéMON med.\p"
+	.string "Når vi sejler ud på havet, tager vi\n"
+	.string "SØMÆND altid vores POKéMON med.\p"
 	.string "Hvad med en hurtig kamp?$"
 
 AbandonedShip_Corridors_B1F_Text_DuncanDefeat:
@@ -75,8 +75,8 @@ AbandonedShip_Corridors_B1F_Text_DoorIsLocked:
 	.string "“OPBEVARING” er malet på døren.$"
 
 AbandonedShip_Corridors_B1F_Text_InsertedStorageKey:
-	.string "{PLAYER} satte nøglen i og drejede om.\n"
-	.string "OPBEVARINGSNØGLEN.\p"
+	.string "{PLAYER} satte nøglen i og drejede\n"
+	.string "om. OPBEVARINGSNØGLEN.\p"
 	.string "Den indsatte nøgle sad fast, men døren\n"
 	.string "åbnede.$"
 

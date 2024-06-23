@@ -44,8 +44,8 @@ LavaridgeTown_HerbShop_EventScript_ExplainCharcoal::
 	end
 
 LavaridgeTown_HerbShop_Text_WelcomeToHerbShop:
-	.string "Velkommen til URTEBUTIKKEN, hjemmet for\n"
-	.string "effektiv og billig medicin!$"
+	.string "Velkommen til URTEBUTIKKEN, hjemmet\n"
+	.string "for effektiv og billig medicin!$"
 
 LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
 	.string "Du er kommet for at se på urtemedicin i\n"
@@ -54,16 +54,17 @@ LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine:
 	.string "Jeg kan godt lide dig! Tag denne!$"
 
 LavaridgeTown_HerbShop_Text_ExplainCharcoal:
-	.string "Den TRÆKUL, jeg gav dig, bliver brugt til at\n"
-	.string "lave urtemedicin.\p"
-	.string "Den gør også underværker, når den bliver\n"
-	.string "holdt af en POKéMON.\p"
-	.string "Den forstærker kraften af ILD-typernes\n"
-	.string "angreb.$"
+	.string "Den TRÆKUL, jeg gav dig, bliver brugt til\n"
+	.string "at lave urtemedicin.\p"
+	.string "Den gør også underværker, når den\n"
+	.string "bliver holdt af en POKéMON.\p"
+	.string "Den forstærker kraften af\n"
+	.string "ILD-typernes angreb.$"
 
 LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike:
-	.string "Urtemedicin virker imponerende godt. Men\n"
-	.string "dine POKéMON vil ikke bryde sig om det.\p"
+	.string "Urtemedicin virker imponerende godt.\n"
+	.string "Men dine POKéMON vil ikke bryde sig om\l"
+	.string "det.\p"
 	.string "Det må være forfærdeligt bittert!$"
 
 

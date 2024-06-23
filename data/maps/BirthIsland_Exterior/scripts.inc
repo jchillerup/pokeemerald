@@ -120,3 +120,4 @@ BirthIsland_Exterior_Movement_DeoxysApproach:
 	step_end
 
 
+

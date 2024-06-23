@@ -190,8 +190,8 @@ LavaridgeTown_Gym_1F_EventScript_GymStatue::
 LavaridgeTown_Gym_1F_Text_GymGuideAdvice:
 	.string "Hej, hvordan går det, CHAMPION- bundet\n"
 	.string "{PLAYER}?\p"
-	.string "LAVARIDGE's GYM LEADER FLANNERY bruger\n"
-	.string "BRAND-typer POKéMON.\p"
+	.string "LAVARIDGE's GYM LEADER FLANNERY\n"
+	.string "bruger BRAND-typer POKéMON.\p"
 	.string "Hendes lidenskab for POKéMON brænder\n"
 	.string "stærkere og varmere end en vulkan.\p"
 	.string "Kom ikke for tæt på hende--du vil blive\n"
@@ -210,24 +210,26 @@ LavaridgeTown_Gym_1F_Text_ColeDefeat:
 LavaridgeTown_Gym_1F_Text_ColePostBattle:
 	.string "At blive begravet i varm sand fremmer\n"
 	.string "cirkulationen.\p"
-	.string "Det er effektivt til at lindre smerter i dine\n"
-	.string "led.$"
+	.string "Det er effektivt til at lindre smerter i\n"
+	.string "dine led.$"
 
 LavaridgeTown_Gym_1F_Text_AxleIntro:
-	.string "Jeg prøver at lette min stress. Kom ikke og\n"
-	.string "stress mig ud!$"
+	.string "Jeg prøver at lette min stress. Kom ikke\n"
+	.string "og stress mig ud!$"
 
 LavaridgeTown_Gym_1F_Text_AxleDefeat:
 .string "Jeg håber FLANNERY fakler dig godt!\p$"
 
 LavaridgeTown_Gym_1F_Text_AxlePostBattle:
 	.string "Puha… Puhh…\p"
-	.string "Hvis du tilbringer for meget tid begravet i\n"
-	.string "varm sand, tager det pusten fra dig…$"
+	.string "Hvis du tilbringer for meget tid\n"
+	.string "begravet i varm sand, tager det pusten\l"
+	.string "fra dig…$"
 
 LavaridgeTown_Gym_B1F_Text_KeeganIntro:
-	.string "Du må være træt ved nu. Du kunne godt tænke\n"
-	.string "dig at hvile dig i den varme sand, ikke sandt?\p"
+	.string "Du må være træt ved nu. Du kunne godt\n"
+	.string "tænke dig at hvile dig i den varme sand,\l"
+	.string "ikke sandt?\p"
 	.string "Men du bør vide, at at opretholde din\n"
 	.string "viljestyrke er en vigtig evne for alle\l"
 	.string "TRÆNERE.$"
@@ -238,19 +240,20 @@ LavaridgeTown_Gym_B1F_Text_KeeganDefeat:
 LavaridgeTown_Gym_B1F_Text_KeeganPostBattle:
 	.string "Din kunnen er ægte... Men vores LEDER\n"
 	.string "FLANNERY er stærk.\p"
-	.string "Hvis du ikke passer på, vil du blive alvorligt\n"
-	.string "brændt.$"
+	.string "Hvis du ikke passer på, vil du blive\n"
+	.string "alvorligt brændt.$"
 
 LavaridgeTown_Gym_1F_Text_GeraldIntro:
-	.string "Kan dine POKéMON klare 392 graders varme?$"
+	.string "Kan dine POKéMON klare 392 graders\n"
+	.string "varme?$"
 
 LavaridgeTown_Gym_1F_Text_GeraldDefeat:
 	.string "Det brændte ikke varmt nok…$"
 
 LavaridgeTown_Gym_1F_Text_GeraldPostBattle:
 	.string "Temperaturen af magma er 392 grader.\p"
-	.string "Dine POKéMON besejrede mig, så de bør nemt\n"
-	.string "overleve i magma.$"
+	.string "Dine POKéMON besejrede mig, så de bør\n"
+	.string "nemt overleve i magma.$"
 
 LavaridgeTown_Gym_1F_Text_DanielleIntro:
 	.string "Øh… Okay, jeg vil kæmpe med dig.$"
@@ -259,20 +262,21 @@ LavaridgeTown_Gym_1F_Text_DanielleDefeat:
 	.string "Åh, men du er for stærk.$"
 
 LavaridgeTown_Gym_1F_Text_DaniellePostBattle:
-	.string "Jeg vil være en smuk og stærk TRÆNER ligesom\n"
-	.string "FLANNERY.$"
+	.string "Jeg vil være en smuk og stærk TRÆNER\n"
+	.string "ligesom FLANNERY.$"
 
 LavaridgeTown_Gym_B1F_Text_JaceIntro:
-	.string "Kom nu, kom igang! Lad os komme afsted, før\n"
-	.string "mine følelser køler ned!$"
+	.string "Kom nu, kom igang! Lad os komme afsted,\n"
+	.string "før mine følelser køler ned!$"
 
 LavaridgeTown_Gym_B1F_Text_JaceDefeat:
-	.string "Det er så varmt, og alligevel er mit hjerte\n"
-	.string "grebet af is…$"
+	.string "Det er så varmt, og alligevel er mit\n"
+	.string "hjerte grebet af is…$"
 
 LavaridgeTown_Gym_B1F_Text_JacePostBattle:
-	.string "Den måde din kampånd brænder inden i dig,\n"
-	.string "giver dig en chance imod vores LEDER.$"
+	.string "Den måde din kampånd brænder inden i\n"
+	.string "dig, giver dig en chance imod vores\l"
+	.string "LEDER.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffIntro:
 	.string "Se, hvordan flammerne blafrer vildt? De\n"
@@ -282,21 +286,21 @@ LavaridgeTown_Gym_B1F_Text_JeffDefeat:
 .string "Noget gik galt.$"
 
 LavaridgeTown_Gym_B1F_Text_JeffPostBattle:
-	.string "Nå, og hvad så? Jeg siger hvad så? Jeg kan gå\n"
-	.string "på varme kul uden sko! \p"
+	.string "Nå, og hvad så? Jeg siger hvad så? Jeg\n"
+	.string "kan gå på varme kul uden sko! \p"
 	.string "…Lad være med engang at prøve det!$"
 
 LavaridgeTown_Gym_B1F_Text_EliIntro:
-	.string "Selvom jeg elsker bjerge, så elsker jeg især\n"
-	.string "vulkaner.$"
+	.string "Selvom jeg elsker bjerge, så elsker jeg\n"
+	.string "især vulkaner.$"
 
 LavaridgeTown_Gym_B1F_Text_EliDefeat:
 	.string "Nåh, det ser ud til, at jeg tabte uden\n"
 	.string "nogensinde at have kontrol.$"
 
 LavaridgeTown_Gym_B1F_Text_EliPostBattle:
-	.string "Jeg bliver her, fordi jeg er blevet en fan af\n"
-	.string "FLANNERY's kræfter.\p"
+	.string "Jeg bliver her, fordi jeg er blevet en\n"
+	.string "fan af FLANNERY's kræfter.\p"
 	.string "Hihihihi.$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryIntro:
@@ -305,45 +309,48 @@ LavaridgeTown_Gym_1F_Text_FlanneryIntro:
 	.string "fundet vej hertil!\p"
 	.string "Jeg er blevet betroet opgaven med… Nej,\n"
 	.string "vent.\p"
-	.string "Jeg er FLANNERY, og jeg er GYM- LEDEREN her!\p"
-	.string "Øh… Våg ikke at undervurdere mig, selv om\n"
-	.string "jeg kun har været LEDER en kort tid!\p"
-	.string "Med evner arvet fra min bedstefar skal jeg,\n"
-	.string "øh…demonstrere de varme træk, vi har\l"
-	.string "finpudset på denne jord!$"
+	.string "Jeg er FLANNERY, og jeg er GYM- LEDEREN\n"
+	.string "her!\p"
+	.string "Øh… Våg ikke at undervurdere mig, selv\n"
+	.string "om jeg kun har været LEDER en kort tid!\p"
+	.string "Med evner arvet fra min bedstefar skal\n"
+	.string "jeg, øh…demonstrere de varme træk, vi\l"
+	.string "har finpudset på denne jord!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryDefeat:
-	.string "Åh… Jeg gætter på, jeg prøvede for hårdt…\p"
-	.string "Jeg… Jeg er kun blevet en GYMLEDERSmart\n"
-	.string "way to avoid gross Californian food coma.\p"
+	.string "Åh… Jeg gætter på, jeg prøvede for\n"
+	.string "hårdt…\p"
+	.string "Jeg… Jeg er kun blevet en\n"
+	.string "GYMLEDERSmart way to avoid gross\l"
+	.string "Californian food coma.\p"
 	.string "Is angst the gyms stereotypical vibe,\n"
 	.string "majestic sorrow holds the real key.\p"
-	.string "Vi må lade naturen gå sin gang, ellers bliver\n"
-	.string "mine POKéMON forvirrede.\p"
-	.string "Tak for at lære mig det. For det fortjener du\n"
-	.string "dette.$"
+	.string "Vi må lade naturen gå sin gang, ellers\n"
+	.string "bliver mine POKéMON forvirrede.\p"
+	.string "Tak for at lære mig det. For det\n"
+	.string "fortjener du dette.$"
 
 LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge:
 	.string "{PLAYER} modtog VARMEBADGE fra\n"
 	.string "FLANNERY.$"
 
 LavaridgeTown_Gym_1F_Text_ExplainHeatBadgeTakeThis:
-	.string "Hvis du har et VARME MÆRKE, vil alle POKéMON\n"
-	.string "op til Level 50, selv dem du får i\l"
+	.string "Hvis du har et VARME MÆRKE, vil alle\n"
+	.string "POKéMON op til Level 50, selv dem du får i\l"
 	.string "byttehandeler fra andre mennesker, lyde\l"
 	.string "dig fuldstændigt.\p"
-	.string "Og det giver POKéMON mulighed for at bruge\n"
-	.string "HM-trækket STYRKE uden for kamp.\p"
-	.string "Dette er et tegn på min taknemmelighed. Vær\n"
-	.string "ikke genert, tag det med dig!$"
+	.string "Og det giver POKéMON mulighed for at\n"
+	.string "bruge HM-trækket STYRKE uden for kamp.\p"
+	.string "Dette er et tegn på min taknemmelighed.\n"
+	.string "Vær ikke genert, tag det med dig!$"
 
 LavaridgeTown_Gym_1F_Text_ExplainOverheat:
 	.string "Den TM50 indeholder OVERHEAT.\p"
 	.string "Denne move påfører alvorlig skade på\n"
 	.string "modstanderen.\p"
-	.string "Men den reducerer også kraftigt SP. ATK for\n"
-	.string "POKéMON'et, der bruger den. Det er måske\l"
-	.string "ikke egnet til længere kampe.$"
+	.string "Men den reducerer også kraftigt SP. ATK\n"
+	.string "for POKéMON'et, der bruger den. Det er\l"
+	.string "måske ikke egnet til længere kampe.$"
 
 LavaridgeTown_Gym_1F_Text_RegisteredFlannery:
 	.string "Registreret GYM-LEDERSKAB FLANNERY i\n"
@@ -363,34 +370,35 @@ LavaridgeTown_Gym_1F_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPreRematch:
-	.string "FLANNERY: At tabe en kamp får ikke mig til at\n"
-	.string "blive nedtrykt.\p"
-	.string "Jeg elsker POKéMON. Jeg elsker at kæmpe.\n"
-	.string "Og… Jeg elsker dette GYM!\p"
-	.string " Lad os udveksle superhotte træk i en ny\n"
-	.string "kamp!$"
+	.string "FLANNERY: At tabe en kamp får ikke mig\n"
+	.string "til at blive nedtrykt.\p"
+	.string "Jeg elsker POKéMON. Jeg elsker at\n"
+	.string "kæmpe. Og… Jeg elsker dette GYM!\p"
+	.string " Lad os udveksle superhotte træk i en\n"
+	.string "ny kamp!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat:
 	.string "Puha! Lige ved at eksplodere!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryPostRematch:
-	.string "FLANNERY: Jeg tabte kampen, men jeg er helt\n"
-	.string "tilfreds.\p"
-	.string "Det er ikke ofte, jeg får lovtil at nyde en\n"
-	.string "kamp så intens som denne.\p"
-	.string "Lad os have enanden kamp som denne igen en\n"
-	.string "anden gang!$"
+	.string "FLANNERY: Jeg tabte kampen, men jeg er\n"
+	.string "helt tilfreds.\p"
+	.string "Det er ikke ofte, jeg får lovtil at nyde\n"
+	.string "en kamp så intens som denne.\p"
+	.string "Lad os have enanden kamp som denne\n"
+	.string "igen en anden gang!$"
 
 LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons:
-	.string "FLANNERY: At tabe en kamp vil ikke slå mig ud.\p"
-	.string "Jeg elsker POKéMON. Jeg elsker at kæmpe.\n"
-	.string "Og... Jeg elsker dette GYM!\p"
-	.string "Lad os bytte superhotte træk i endnu en\n"
-	.string "kamp!\p"
+	.string "FLANNERY: At tabe en kamp vil ikke slå\n"
+	.string "mig ud.\p"
+	.string "Jeg elsker POKéMON. Jeg elsker at\n"
+	.string "kæmpe. Og... Jeg elsker dette GYM!\p"
+	.string "Lad os bytte superhotte træk i endnu\n"
+	.string "en kamp!\p"
 	.string "Åh, vent. Har du kun én POKéMON der kan\n"
 	.string "kæmpe?\p"
-	.string "Jeg hader at sige det, men når du besøger\n"
-	.string "mig, så tag mindst to POKéMON.$"
+	.string "Jeg hader at sige det, men når du\n"
+	.string "besøger mig, så tag mindst to POKéMON.$"
 
 
 

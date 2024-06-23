@@ -172,14 +172,14 @@ LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum:
 LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings:
 	.string "Jeg er KURATOREN af dette MUSEUM for\n"
 	.string "billedkunst.\p"
-	.string "Det glæder mig at se nogen så ung som dig i\n"
-	.string "vores MUSEUM.\p"
+	.string "Det glæder mig at se nogen så ung som\n"
+	.string "dig i vores MUSEUM.\p"
 	.string "Har du allerede set vores samling af\n"
 	.string "malerier?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime:
-	.string "Åh, så lad mig ikke forstyrre dig. Tag dig god\n"
-	.string "tid.$"
+	.string "Åh, så lad mig ikke forstyrre dig. Tag\n"
+	.string "dig god tid.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
 	.string "Åh? Jeg tror, at du virker som en\n"
@@ -188,8 +188,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings:
 
 LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat:
 	.string "Jeg ser…\p"
-	.string "Jeg er beæret over, at du ville besøge os\n"
-	.string "trods det.$"
+	.string "Jeg er beæret over, at du ville besøge\n"
+	.string "os trods det.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ExcellentCanYouComeWithMe:
 	.string "Åh, fantastisk! Du kan lide malerier!\p"
@@ -200,26 +200,28 @@ LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting:
 	.string "skaller af hist og her.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery:
-	.string "Det er et mærkeligt landskab med bizarre og\n"
-	.string "fantastisk scenery.$"
+	.string "Det er et mærkeligt landskab med\n"
+	.string "bizarre og fantastisk scenery.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman:
-	.string "Det er et maleri af en smuk, smilende kvinde\n"
-	.string "med en POKéMON på sit skød.$"
+	.string "Det er et maleri af en smuk, smilende\n"
+	.string "kvinde med en POKéMON på sit skød.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon:
-	.string "Det er et maleri af en legendarisk POKéMON\n"
-	.string "fra længe siden.\p"
-	.string "Kunstneren malede dette ud fra fantasi.$"
+	.string "Det er et maleri af en legendarisk\n"
+	.string "POKéMON fra længe siden.\p"
+	.string "Kunstneren malede dette ud fra\n"
+	.string "fantasi.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon:
-	.string "Det er et maleri af GRÆS POKéMON svajende i\n"
-	.string "en brise.\p"
-	.string "Det ser ud til, at de nyder vinden's blide\n"
-	.string "kærtegn.$"
+	.string "Det er et maleri af GRÆS POKéMON\n"
+	.string "svajende i en brise.\p"
+	.string "Det ser ud til, at de nyder vinden's\n"
+	.string "blide kærtegn.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries:
-	.string "Det er et lækkert udseende maleri af BÆR.\p"
+	.string "Det er et lækkert udseende maleri af\n"
+	.string "BÆR.\p"
 	.string "Dette maleri kunne få dig til at blive\n"
 	.string "sulten!$"
 
@@ -228,28 +230,29 @@ LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica:
 	.string "Den forestiller en gammel FUGL POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone:
-	.string "Det er en stor POKé BALL udskåret i sort\n"
-	.string "sten.\p"
-	.string "Den blev åbenbart brugt til fester i gamle\n"
-	.string "dage.$"
+	.string "Det er en stor POKé BALL udskåret i\n"
+	.string "sort sten.\p"
+	.string "Den blev åbenbart brugt til fester i\n"
+	.string "gamle dage.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText:
 	.string "Det er en kæmpestor stentavle med\n"
-	.string "indskrifter om POKéMON og tæt tekst i de små\l"
-	.string "karakterer af et gammelt, ulæseligt sprog.$"
+	.string "indskrifter om POKéMON og tæt tekst i de\l"
+	.string "små karakterer af et gammelt, ulæseligt\l"
+	.string "sprog.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence:
 	.string "Hmm… Hvilke værker af stor pragt…$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts:
-	.string "At kæmpe med POKéMON er sjovt, det må jeg\n"
-	.string "give dig ret i.\p"
-	.string "Men man må ikke glemme vores kærlighed for\n"
-	.string "de skønne kunstarter.$"
+	.string "At kæmpe med POKéMON er sjovt, det må\n"
+	.string "jeg give dig ret i.\p"
+	.string "Men man må ikke glemme vores kærlighed\n"
+	.string "for de skønne kunstarter.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration:
-	.string "Dette KUNSTMUSEUM… Nå, du kunne se mange\n"
-	.string "fantastiske malerier.\p"
+	.string "Dette KUNSTMUSEUM… Nå, du kunne se\n"
+	.string "mange fantastiske malerier.\p"
 	.string "Og KURATOREN er en fantastisk person.\p"
 	.string "Blandt kunstnere som mig selv, dette\n"
 	.string "MUSEUM er en inspirasjon.$"
@@ -258,24 +261,25 @@ LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty:
 	.string "Denne dame er smuk! Hun ligner mor!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable:
-	.string "Denne POKéMON er uimodståelig! Præcis som\n"
-	.string "vores lille dreng!$"
+	.string "Denne POKéMON er uimodståelig! Præcis\n"
+	.string "som vores lille dreng!$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings:
 	.string "Jeg havde hørt, at dette KUNSTMUSEUM\n"
 	.string "havde fået nogle nye malerier.\p"
 	.string "Så jeg skyndte mig naturligvis derhen.\p"
-	.string "Er de nye malerier hængt op på anden sal?$"
+	.string "Er de nye malerier hængt op på anden\n"
+	.string "sal?$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful:
-	.string "For nylig har KURATOREN været usædvanligt\n"
-	.string "glad.\p"
-	.string "Jeg satser på, at noget godt er sket for ham.\n"
-	.string "Helt sikkert.$"
+	.string "For nylig har KURATOREN været\n"
+	.string "usædvanligt glad.\p"
+	.string "Jeg satser på, at noget godt er sket\n"
+	.string "for ham. Helt sikkert.$"
 
 LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings:
-	.string "Jeg håber at se mange fantastiske malerier\n"
-	.string "her og lære af dem.\p"
+	.string "Jeg håber at se mange fantastiske\n"
+	.string "malerier her og lære af dem.\p"
 	.string "Jeg drømmer om en dag at have mine\n"
 	.string "kunstværker udstillet her.$"
 
@@ -285,7 +289,8 @@ LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination:
 	.string "Det er fantastisk for LILYCOVE… Nej,\n"
 	.string "fantastisk for HOENN-regionen!\p"
 	.string "Dette er hvad jeg har hørt--en enkelt\n"
-	.string "TRÆNER erhvervede alle malerierne ovenpå.$"
+	.string "TRÆNER erhvervede alle malerierne\l"
+	.string "ovenpå.$"
 
 
 

@@ -961,14 +961,15 @@ SlateportCity_Text_OhYourPokemon:
 
 SlateportCity_Text_PleaseGiveItThisEffortRibbon:
 	.string "Gik efter det fantastisk!\p"
-	.string "Som belønning, giv den dette INDSATS BÅND.$"
+	.string "Som belønning, giv den dette INDSATS\n"
+	.string "BÅND.$"
 
 SlateportCity_Text_ReceivedEffortRibbon:
 	.string "{PLAYER} modtog INDSATS BÅND.$"
 
 SlateportCity_Text_PutEffortRibbonOnMon:
-	.string "{PLAYER} sætter ANSTRENGELSES BÅND på\n"
-	.string "{STR_VAR_1}.$"
+	.string "{PLAYER} sætter ANSTRENGELSES BÅND\n"
+	.string "på {STR_VAR_1}.$"
 
 SlateportCity_Text_GoForItLittleHarder:
 	.string "Du skal gå lidt hårdere til den.\p"
@@ -977,23 +978,25 @@ SlateportCity_Text_GoForItLittleHarder:
 
 SlateportCity_Text_EffortRibbonLooksGoodOnIt:
 	.string "Åh! Din {STR_VAR_1}, det\n"
-	.string "ANSTRÆNGELSEN SLØJFE ser godt ud på det!$"
+	.string "ANSTRÆNGELSEN SLØJFE ser godt ud på\l"
+	.string "det!$"
 
 SlateportCity_Text_WonderIfLighthouseStartlesPokemon:
-	.string "Lyset fra fyret når dusinvis af miles væk.\p"
-	.string "Jeg undrer mig over, om det ikke skræmmer\n"
-	.string "POKéMON i havet.$"
+	.string "Lyset fra fyret når dusinvis af miles\n"
+	.string "væk.\p"
+	.string "Jeg undrer mig over, om det ikke\n"
+	.string "skræmmer POKéMON i havet.$"
 
 SlateportCity_Text_SeaweedFullOfLife:
 	.string "Åh, se lige her!\p"
-	.string "Tang, som du kan finde heromkring, er frisk\n"
-	.string "og fuld af liv.\p"
-	.string "Det ser endda ud til, at det kan rejse sig og\n"
-	.string "angribe!$"
+	.string "Tang, som du kan finde heromkring, er\n"
+	.string "frisk og fuld af liv.\p"
+	.string "Det ser endda ud til, at det kan rejse\n"
+	.string "sig og angribe!$"
 
 SlateportCity_Text_HowTownIsBornAndGrows:
-	.string "Hvor vandet er rent, samles frugterne af en\n"
-	.string "rig høst.\p"
+	.string "Hvor vandet er rent, samles frugterne\n"
+	.string "af en rig høst.\p"
 	.string "Og hvor folk samles, starter et marked\n"
 	.string "hurtigt.\p"
 	.string "Sådan bliver en by født og vokser.$"
@@ -1004,26 +1007,28 @@ SlateportCity_Text_SlateportWonderfulPlace:
 	.string "SLATEPORT er et fantastisk sted!$"
 
 SlateportCity_Text_BuyBricksSoDecorWontGetDirty:
-	.string "Hvis du lægger DUKKER eller PUDER på gulvet,\n"
-	.string "bliver de beskidte.\p"
-	.string "Jeg vil købe nogle MURSTEN, så mine DUKKER\n"
-	.string "og PUDER ikke bliver beskidte når jeg lader\l"
-	.string "dem ligge ude.$"
+	.string "Hvis du lægger DUKKER eller PUDER på\n"
+	.string "gulvet, bliver de beskidte.\p"
+	.string "Jeg vil købe nogle MURSTEN, så mine\n"
+	.string "DUKKER og PUDER ikke bliver beskidte\l"
+	.string "når jeg lader dem ligge ude.$"
 
 SlateportCity_Text_GoingToCompeteInBattleTent:
-	.string "Wraaa! Jeg vil også deltage i KAMP-TALTET!\p"
+	.string "Wraaa! Jeg vil også deltage i\n"
+	.string "KAMP-TALTET!\p"
 	.string "Men først skal jeg fange nogle POKéMON!$"
 
 SlateportCity_Text_BushedHikingFromMauville:
 	.string "Puha... Jeg er helt færdig...\p"
-	.string "Jeg vandrede hele vejen fra MAUVILLE CITY.\n"
-	.string "Men hold da op, denne by er kæmpestor.\p"
+	.string "Jeg vandrede hele vejen fra MAUVILLE\n"
+	.string "CITY. Men hold da op, denne by er\l"
+	.string "kæmpestor.\p"
 	.string "Hvis jeg havde vidst det, ville jeg have\n"
 	.string "taget min CYKEL med.$"
 
 SlateportCity_Text_EveryoneCallsHimCaptStern:
-	.string "STERN, fyren der byggede MUSEET, er også\n"
-	.string "lederen af et undervands\l"
+	.string "STERN, fyren der byggede MUSEET, er\n"
+	.string "også lederen af et undervands\l"
 	.string "udforskningsteam.\p"
 	.string "Så alle kalder ham KAPT. STERN.$"
 
@@ -1031,38 +1036,40 @@ SlateportCity_Text_WhatsLongLineOverThere:
 	.string "Hvad er det derovre? Den lange linje...$"
 
 SlateportCity_Text_VisitedMuseumOften:
-	.string "Da jeg var barn, besøgte jeg MUSEET ofte.\p"
+	.string "Da jeg var barn, besøgte jeg MUSEET\n"
+	.string "ofte.\p"
 	.string "Jeg plejede at drømme om mysterierne i\n"
 	.string "havet efter at have set udstillingerne.$"
 
 SlateportCity_Text_QuitPushing:
-	.string "Hej med dig! Stop med at skubbe! Dette er\n"
-	.string "køen, kan du ikke se?$"
+	.string "Hej med dig! Stop med at skubbe! Dette\n"
+	.string "er køen, kan du ikke se?$"
 
 SlateportCity_Text_AquaHasPolicy:
-	.string "TEAM AQUA har en politik om at samle sig og\n"
-	.string "sprede sig på operationsstedet.$"
+	.string "TEAM AQUA har en politik om at samle sig\n"
+	.string "og sprede sig på operationsstedet.$"
 
 SlateportCity_Text_BossIsBrilliant:
 	.string "Vores CHEF er genial.\p"
 	.string "Hvad mon han vil med et MUSEUM nu?$"
 
 SlateportCity_Text_WhatsNewSchemeIWonder:
-	.string "Hvad mon det nye skema er, jegundrer mig?\p"
-	.string "Vores CHEF er skræmmende, når han ervred,\n"
-	.string "så jeg må hellere ikke lave rod…$"
+	.string "Hvad mon det nye skema er, jegundrer\n"
+	.string "mig?\p"
+	.string "Vores CHEF er skræmmende, når han\n"
+	.string "ervred, så jeg må hellere ikke lave rod…$"
 
 SlateportCity_Text_ShouldTakeItAll:
-	.string "Hvis der er noget vi har brug for i MUSEET, så\n"
-	.string "lad os tage det hele!$"
+	.string "Hvis der er noget vi har brug for i\n"
+	.string "MUSEET, så lad os tage det hele!$"
 
 SlateportCity_Text_DontButtIn:
 	.string "Hej, du der! Bland dig ikke!$"
 
 SlateportCity_Text_RemindsMeOfLongLineForGames:
 	.string "En lang kø, hva’?\p"
-	.string "Det minder mig om de gange, hvor jeg stod i kø\n"
-	.string "for at købe top-spil…$"
+	.string "Det minder mig om de gange, hvor jeg\n"
+	.string "stod i kø for at købe top-spil…$"
 
 SlateportCity_Text_WhyAreWeLiningUp:
 	.string "Hvorfor står vi overhovedet i kø og\n"
@@ -1072,31 +1079,33 @@ SlateportCity_Text_WhatDoYouWant:
 	.string "Hvad? Hvad vil du have?$"
 
 SlateportCity_Text_IllReadSignForYou:
-	.string "Vil du læse dette skilt? Jeg vil læse det for\n"
-	.string "dig!$"
+	.string "Vil du læse dette skilt? Jeg vil læse det\n"
+	.string "for dig!$"
 
 SlateportCity_Text_SaysSomethingLikeSeaIsEndless:
 	.string "Lad os se…\p"
-	.string "Øh... Jeg tror, det siger noget i retning af\n"
-	.string "“livet i havet er uendeligt.”\p"
-	.string "Ja, jeg er ret sikker på, det er det, der står.$"
+	.string "Øh... Jeg tror, det siger noget i retning\n"
+	.string "af “livet i havet er uendeligt.”\p"
+	.string "Ja, jeg er ret sikker på, det er det, der\n"
+	.string "står.$"
 
 SlateportCity_Text_ShouldveBroughtMyGameBoy:
 	.string "Mumble…\p"
-	.string "Jeg skulle have taget min Game Boy Advance\n"
-	.string "med, så jeg ikke kede mig i køen…\p"
+	.string "Jeg skulle have taget min Game Boy\n"
+	.string "Advance med, så jeg ikke kede mig i\l"
+	.string "køen…\p"
 	.string "Mumble…$"
 
 SlateportCity_Text_HotSpringsAfterOperation:
-	.string "Når denne operation er ovre, vil jeg tage dig\n"
-	.string "med til et varmt kildespa!\p"
-	.string "Det er hvad vores leder sagde. Jeg kan ikke\n"
-	.string "vente!$"
+	.string "Når denne operation er ovre, vil jeg\n"
+	.string "tage dig med til et varmt kildespa!\p"
+	.string "Det er hvad vores leder sagde. Jeg kan\n"
+	.string "ikke vente!$"
 
 SlateportCity_Text_SeaIsSoWet:
 	.string "Havet er bare så stort…\p"
-	.string "Mon havet er blevet skabt af tårerne, som\n"
-	.string "POKéMON har grædt?$"
+	.string "Mon havet er blevet skabt af tårerne,\n"
+	.string "som POKéMON har grædt?$"
 
 SlateportCity_Text_SinkOldBoats:
 	.string "Ved du, hvad de gør med gamle skibe, der\n"
@@ -1105,19 +1114,19 @@ SlateportCity_Text_SinkOldBoats:
 	.string "levesteder for POKéMON.$"
 
 SlateportCity_Text_BuyTooMuch:
-	.string "Hver gang jeg besøger dette sted, bliver\n"
-	.string "jeg revet med og køber for meget.$"
+	.string "Hver gang jeg besøger dette sted,\n"
+	.string "bliver jeg revet med og køber for meget.$"
 
 SlateportCity_Text_GetNameRaterToHelpYou:
-	.string "Hvis du vil ændre dit POKéMON's kaldenavn,\n"
-	.string "bliver du nødt til at få NAVNEBEDØMMEREN\l"
-	.string "til at hjælpe dig.$"
+	.string "Hvis du vil ændre dit POKéMON's\n"
+	.string "kaldenavn, bliver du nødt til at få\l"
+	.string "NAVNEBEDØMMEREN til at hjælpe dig.$"
 
 SlateportCity_Text_CantChangeTradeMonName:
-	.string "Enhver POKéMON, du får i en handel, kan du\n"
-	.string "ikke ændre kaldenavn på.\p"
-	.string "Den oprindelige TRÆNER's kærlighed til den\n"
-	.string "POKéMON er i kaldenavnet.$"
+	.string "Enhver POKéMON, du får i en handel, kan\n"
+	.string "du ikke ændre kaldenavn på.\p"
+	.string "Den oprindelige TRÆNER's kærlighed til\n"
+	.string "den POKéMON er i kaldenavnet.$"
 
 SlateportCity_Text_BattleTentBuiltRecently:
 	.string "For nylig blev en KAMP-TELT bygget i\n"
@@ -1128,10 +1137,10 @@ SlateportCity_Text_BattleTentBuiltRecently:
 	.string "KAMP-TELTET!$"
 
 SlateportCity_Text_CaptSternBeingInterviewed:
-	.string "Jeg håbede, at det var en berømt stjerne så\n"
-	.string "jeg kunne få en autograf.\p"
-	.string "Men hvem bliver der interviewet? Er det ikke\n"
-	.string "KAPT. STERN?$"
+	.string "Jeg håbede, at det var en berømt\n"
+	.string "stjerne så jeg kunne få en autograf.\p"
+	.string "Men hvem bliver der interviewet? Er det\n"
+	.string "ikke KAPT. STERN?$"
 
 SlateportCity_Text_InterviewerSoCool:
 	.string "Den dame-interviewer er så sej og smuk.\p"
@@ -1141,13 +1150,13 @@ SlateportCity_Text_InterviewerSoCool:
 SlateportCity_Text_SternSaysDiscoveredSomething:
 	.string "Kaptajn STERN siger, at de har opdaget\n"
 	.string "noget på havets bund.\p"
-	.string "Jeg undrer mig over, hvad det mon er? Hvad\n"
-	.string "mon det kan være?$"
+	.string "Jeg undrer mig over, hvad det mon er?\n"
+	.string "Hvad mon det kan være?$"
 
 SlateportCity_Text_CaptainComeBackWithBigFish:
 	.string "Hvad sker der her?\p"
-	.string "Kom den gode KAPTAIN tilbage med en stor\n"
-	.string "fisk fra havets bund?$"
+	.string "Kom den gode KAPTAIN tilbage med en\n"
+	.string "stor fisk fra havets bund?$"
 
 SlateportCity_Text_AmIOnTV:
 	.string "Hej! Ser du med? Er jeg på tv?$"
@@ -1165,70 +1174,77 @@ SlateportCity_Text_MostInvaluableExperience:
 	.string "uvurderlig oplevelse...$"
 
 SlateportCity_Text_SternMoveAheadWithExploration:
-	.string "Kaptajn Stern: Ja, bestemt. Vi har tænkt os\n"
-	.string "at fortsætte med vores udforskning.$"
+	.string "Kaptajn Stern: Ja, bestemt. Vi har\n"
+	.string "tænkt os at fortsætte med vores\l"
+	.string "udforskning.$"
 
 SlateportCity_Text_GabbyWonderfulThanksForInterview:
-	.string "GABBY: Det er fantastisk, KAPT. STERN! Tak\n"
-	.string "fordi du fandt tid i din travle hverdag til at\l"
-	.string "tale med os.\p"
+	.string "GABBY: Det er fantastisk, KAPT. STERN!\n"
+	.string "Tak fordi du fandt tid i din travle\l"
+	.string "hverdag til at tale med os.\p"
 	.string "Vi håber, vi kan intervjue dig igen med\n"
 	.string "nyheder om flere opdagelser!$"
 
 SlateportCity_Text_SternWhewFirstInterview:
 	.string "KAPT. STERN: Puha... \p"
-	.string "Det var første gang, jeg blev filmet til TV.\n"
-	.string "Det fik mine nerver til at stå på højkant.$"
+	.string "Det var første gang, jeg blev filmet til\n"
+	.string "TV. Det fik mine nerver til at stå på\l"
+	.string "højkant.$"
 
 SlateportCity_Text_OhPlayerWeMadeDiscovery:
 	.string "Åh! {PLAYER}{KUN}! Du ser godt ud!\p"
 	.string "Vi har gjort et kæmpe fund under vores\n"
 	.string "seneste undersøgelse af havbunden.\p"
-	.string "Vi fandt en undersøisk hule på ROUTE 128.\p"
-	.string "Vi tror, det er levestedet for en POKéMON,\n"
-	.string "som menes at have været længe uddød.$"
+	.string "Vi fandt en undersøisk hule på ROUTE\n"
+	.string "128.\p"
+	.string "Vi tror, det er levestedet for en\n"
+	.string "POKéMON, som menes at have været længe\l"
+	.string "uddød.$"
 
 SlateportCity_Text_AquaWillAssumeControlOfSubmarine:
 	.string "Hihihi… KAPT. STERN, formoder jeg.\p"
-	.string "Vi fra TEAM AQUA vil overtage kontrollen\n"
-	.string "over din ubåd!\p"
+	.string "Vi fra TEAM AQUA vil overtage\n"
+	.string "kontrollen over din ubåd!\p"
 	.string "Dine indvendinger er meningsløse! Vi\n"
 	.string "forventer din totale samarbejde!\p"
-	.string "Hihihi… Bare se og lær hvad TEAM AQUA har\n"
-	.string "planlagt!$"
+	.string "Hihihi… Bare se og lær hvad TEAM AQUA\n"
+	.string "har planlagt!$"
 
 SlateportCity_Text_SternWhatWasAllThat:
-	.string "KAPT. STERN: Hvad var det hele det der med?\p"
-	.string "Det lød som om nogen brugte en megafon...\p"
+	.string "KAPT. STERN: Hvad var det hele det der\n"
+	.string "med?\p"
+	.string "Det lød som om nogen brugte en\n"
+	.string "megafon...\p"
 	.string "Hvor kom det fra?$"
 
 SlateportCity_Text_FromHarborTryingToTakeSub:
 	.string "Det er fra HAVNEN!\p"
-	.string "Den undervandsbåd! De prøver at tage den!$"
+	.string "Den undervandsbåd! De prøver at tage\n"
+	.string "den!$"
 
 SlateportCity_Text_PleaseComeWithMe:
 	.string "{PLAYER}{KUN}! Kom med mig, vær så venlig!$"
 
 SlateportCity_Text_BattleTentSign:
-	.string "KAMPTALT - SLATEPORT-OMRÅDET “Find den!\n"
-	.string "Den ultimative POKéMON!”$"
+	.string "KAMPTALT - SLATEPORT-OMRÅDET “Find\n"
+	.string "den! Den ultimative POKéMON!”$"
 
 SlateportCity_Text_SternsShipyardWantedSign:
 	.string "STERN'S SKIBSVÆRFT\p"
-	.string "“Eftersøges: En sømand i stand til at sejle\n"
-	.string "i alle strømme.”$"
+	.string "“Eftersøges: En sømand i stand til at\n"
+	.string "sejle i alle strømme.”$"
 
 SlateportCity_Text_SternsShipyardNearsCompletion:
 	.string "STERN'S VÆRFT\p"
-	.string "“Færgen S.S. TIDAL nærmer sig fuldførelse,\n"
-	.string "så den kan betjene havnene i SLATEPORT og\l"
-	.string "LILYCOVE.”$"
+	.string "“Færgen S.S. TIDAL nærmer sig\n"
+	.string "fuldførelse, så den kan betjene havnene\l"
+	.string "i SLATEPORT og LILYCOVE.”$"
 
 SlateportCity_Text_SternsShipyardFerryComplete:
 	.string "STERN'S SKIBSVÆRFT\p"
 	.string "“Ombordstigning på færgen\n"
-	.string "SLATEPORT-LILYCOVE, S.S. TIDAL, sker ved\l"
-	.string "HAVNEN.”$"
+	.string "SLATEPORT-LILYCOVE, S.S. TIDAL, sker\l"
+	.string "ved HAVNEN.”$"
 
 SlateportCity_Text_PokemonFanClubSign:
 	.string "POKéMON FAN CLUB “Kald alle fans af\n"
@@ -1243,19 +1259,19 @@ SlateportCity_Text_CitySign:
 	.string "“Havnen, hvor folk og POKéMON mødes.”$"
 
 SlateportCity_Text_MarketSign:
-	.string "SLATEPORT MARKED “Unikke varer, som ikke\n"
-	.string "findes andre steder!”$"
+	.string "SLATEPORT MARKED “Unikke varer, som\n"
+	.string "ikke findes andre steder!”$"
 
 SlateportCity_Text_HarborFerryUnderConstruction:
 	.string "SLATEPORT HAVN\p"
-	.string "“Færgen S.S. TIDAL er under konstruktion\n"
-	.string "på VÆRFTET.\p"
+	.string "“Færgen S.S. TIDAL er under\n"
+	.string "konstruktion på VÆRFTET.\p"
 	.string "“Servicen forventes at begynde snart.”$"
 
 SlateportCity_Text_HarborSign:
 	.string "SLATEPORT HAVN\p"
-	.string "“Tag med på en behagelig sejltur med færgen\n"
-	.string "S.S. TIDAL.”$"
+	.string "“Tag med på en behagelig sejltur med\n"
+	.string "færgen S.S. TIDAL.”$"
 
 SlateportCity_Text_NameRatersHouseSign:
 	.string "Navnegiverens Hus “POKéMON kælenavne\n"
@@ -1263,27 +1279,30 @@ SlateportCity_Text_NameRatersHouseSign:
 
 SlateportCity_Text_ExplainBerries:
 	.string "Hvis en vild POKéMON bliver såret,\n"
-	.string "helbreder den sig selv ved at tygge på BÆR.\p"
+	.string "helbreder den sig selv ved at tygge på\l"
+	.string "BÆR.\p"
 	.string "Vidste du det?\p"
-	.string "Nogen så det og fik ideen til at lave medicin\n"
-	.string "af BÆR.\p"
+	.string "Nogen så det og fik ideen til at lave\n"
+	.string "medicin af BÆR.\p"
 	.string "Vidste du det?\p"
 	.string "For at omdanne BÆR til medicin, skal de\n"
 	.string "knuses til pulver.\p"
 	.string "Vidste du det?\p"
 	.string "Du virker interesseret i BÆR!\p"
-	.string "Jeg har noget godt til en person som dig.$"
+	.string "Jeg har noget godt til en person som\n"
+	.string "dig.$"
 
 SlateportCity_Text_ExplainBerryPowder:
-	.string "Jeg har for nylig fået maskiner installeret\n"
-	.string "på POKéMON CENTERS til at knuse BÆR.\p"
+	.string "Jeg har for nylig fået maskiner\n"
+	.string "installeret på POKéMON CENTERS til at\l"
+	.string "knuse BÆR.\p"
 	.string "BÆRKNUSEmaskinen er ovenpå i DIREKTE\n"
 	.string "HJØRNE.\p"
 	.string "Vidste du det?\p"
-	.string "Kunne du lave BÆRPULVER for mig ved hjælp af\n"
-	.string "disse maskiner?\p"
-	.string "Jeg kan lave alle slags medicin til dig, hvis\n"
-	.string "du bringer mig masser af BÆRPULVER.$"
+	.string "Kunne du lave BÆRPULVER for mig ved\n"
+	.string "hjælp af disse maskiner?\p"
+	.string "Jeg kan lave alle slags medicin til dig,\n"
+	.string "hvis du bringer mig masser af BÆRPULVER.$"
 
 SlateportCity_Text_BroughtMeSomeBerryPowder:
 	.string "Har du bragt mig lidt BÆRPOULVER?$"
@@ -1292,8 +1311,8 @@ SlateportCity_Text_ExchangeWhatWithIt:
 	.string "Hvad vil du gerne bytte det med?$"
 
 SlateportCity_Text_ExchangeBerryPowderForItem:
-	.string "Okay, vil du bytte din BERRY POWDER med én\n"
-	.string "{STR_VAR_1}?$"
+	.string "Okay, vil du bytte din BERRY POWDER med\n"
+	.string "én {STR_VAR_1}?$"
 
 SlateportCity_Text_DontHaveEnoughBerryPowder:
 	.string "BÆRPOD$"
@@ -1301,8 +1320,8 @@ SlateportCity_Text_DontHaveEnoughBerryPowder:
 SlateportCity_Text_FineBerryPowderTradeSomethingElse:
 	.string "Det er fint med BÆRPULVER. Det vil gøre\n"
 	.string "fremragende medicin.\p"
-	.string "Vil du gerne bytte mere af din BÆRPULVER med\n"
-	.string "noget andet?$"
+	.string "Vil du gerne bytte mere af din\n"
+	.string "BÆRPULVER med noget andet?$"
 
 SlateportCity_Text_WhenYouGetMoreBringItToMe:
 	.string "Okay! Når du får lidt mere BÆRPULVER, så\n"
@@ -1315,19 +1334,21 @@ SlateportCity_Text_ComeBackToTradeBerryPowder:
 	.string "Vidste du det?$"
 
 SlateportCity_Text_YouDroveTeamAquaAway:
-	.string "SCOTT: Hov? Jeg er sikker på, at jeg har mødt\n"
-	.string "dig et sted før.\p"
-	.string "Har jeg præsenteret mig for dig? Hvis ikke,\n"
-	.string "er mit navn SCOTT.\p"
-	.string "Jeg så lige TEAM AQUA løbe væk herfra som om\n"
-	.string "de var blevet stukket.\p"
-	.string "Skal jeg gætte--du fik dem til at løbe væk?$"
+	.string "SCOTT: Hov? Jeg er sikker på, at jeg har\n"
+	.string "mødt dig et sted før.\p"
+	.string "Har jeg præsenteret mig for dig? Hvis\n"
+	.string "ikke, er mit navn SCOTT.\p"
+	.string "Jeg så lige TEAM AQUA løbe væk herfra\n"
+	.string "som om de var blevet stukket.\p"
+	.string "Skal jeg gætte--du fik dem til at løbe\n"
+	.string "væk?$"
 
 SlateportCity_Text_MaybeThisTrainer:
 	.string "Hmm… Måske, bare måske, denne TRÆNER…$"
 
 SlateportCity_Text_LetsRegisterEachOther:
-	.string "SCOTT: Okay! Jeg tror, du bliver en god ven.\p"
+	.string "SCOTT: Okay! Jeg tror, du bliver en god\n"
+	.string "ven.\p"
 	.string "Så lad os registrere hinanden i vores\n"
 	.string "POKéNAVS.\p"
 	.string "… … … … … …$"
@@ -1337,21 +1358,21 @@ SlateportCity_Text_RegisteredScott:
 	.string "POKéNAV'en.$"
 
 SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou:
-	.string "SCOTT: Det jeg gerne vil, er at følge med dig,\n"
-	.string "men jeg vil også gerne holde et øje med\l"
-	.string "andres talenter.\p"
+	.string "SCOTT: Det jeg gerne vil, er at følge\n"
+	.string "med dig, men jeg vil også gerne holde et\l"
+	.string "øje med andres talenter.\p"
 	.string "Så jeg smutter afsted for at udforske\n"
 	.string "andre byer lidt mere.\p"
 	.string "Vi ses, {PLAYER}{KUN}!$"
 
 SlateportCity_Text_TakingBattleTentChallenge:
 	.string "SCOTT: Hej! Hvis det ikke er {PLAYER}{KUN}!\p"
-	.string "{PLAYER}{KUN}, lad mig gætte-- du er her for at\n"
-	.string "tage KAMP-TENTEN udfordringen?\p"
-	.string "Ja! Det er en god idé! Det er en virkelig god\n"
-	.string "idé!\p"
-	.string "For en sej TRÆNER er den perfekte match til\n"
-	.string "KAMP-TENTEN!\p"
+	.string "{PLAYER}{KUN}, lad mig gætte-- du er her\n"
+	.string "for at tage KAMP-TENTEN udfordringen?\p"
+	.string "Ja! Det er en god idé! Det er en virkelig\n"
+	.string "god idé!\p"
+	.string "For en sej TRÆNER er den perfekte\n"
+	.string "match til KAMP-TENTEN!\p"
 	.string "Giv det dit bedste forsøg!$"
 
 

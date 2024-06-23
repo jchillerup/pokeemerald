@@ -484,63 +484,66 @@ Route119_EventScript_ScottWonAtFortreeGymCall::
 Route119_Text_MayIntro:
 	.string "MAY: {PLAYER}{KUN}! Hvor har du været? Jeg\n"
 	.string "ledte efter dig!\p"
-	.string "Hvor meget stærkere er du blevet? Lad mig\n"
-	.string "tjekke det for dig!\p"
-	.string "Er du klar med dine POKéMON? Selvfølgelig er\n"
-	.string "du det! Go!$"
+	.string "Hvor meget stærkere er du blevet? Lad\n"
+	.string "mig tjekke det for dig!\p"
+	.string "Er du klar med dine POKéMON?\n"
+	.string "Selvfølgelig er du det! Go!$"
 
 Route119_Text_MayDefeat:
 	.string "Achah! {PLAYER}{KUN}, du er stærk!\p"
-	.string "Jeg var bekymret for, at du måske kæmpede\n"
-	.string "med din træning.$"
+	.string "Jeg var bekymret for, at du måske\n"
+	.string "kæmpede med din træning.$"
 
 Route119_Text_MayPresentForYou:
 	.string "MAY: Men jeg havde absolut ingenting at\n"
-	.string "bekymre mig om! Fortsæt det gode arbejde!\p"
+	.string "bekymre mig om! Fortsæt det gode\l"
+	.string "arbejde!\p"
 	.string "Og her! Jeg har en gave til dig.$"
 
 Route119_Text_MayExplainFly:
 	.string "MAY: Brug FLY, og din POKéMON vil straks\n"
-	.string "bære dig til en by, du allerede har besøgt.\p"
-	.string "Men for at bruge FLY, skal du få MÆRKE fra\n"
-	.string "FORTREE CITY. Det er vigtigt, så glem det\l"
-	.string "ikke.\p"
-	.string "Du burde FLYve hjem og besøge LITTLEROOT\n"
-	.string "for en ændring.\p"
-	.string "Jeg satser på, at din mor er bekymret for dig,\n"
-	.string "{PLAYER}{KUN}.\p"
+	.string "bære dig til en by, du allerede har\l"
+	.string "besøgt.\p"
+	.string "Men for at bruge FLY, skal du få MÆRKE\n"
+	.string "fra FORTREE CITY. Det er vigtigt, så glem\l"
+	.string "det ikke.\p"
+	.string "Du burde FLYve hjem og besøge\n"
+	.string "LITTLEROOT for en ændring.\p"
+	.string "Jeg satser på, at din mor er bekymret\n"
+	.string "for dig, {PLAYER}{KUN}.\p"
 	.string "Nå, lad os mødes igen et sted!$"
 
 Route119_Text_BrendanIntro:
-	.string "BRENDAN: {PLAYER}! Så det her er, hvor du\n"
-	.string "har ledt efter POKéMON?\p"
-	.string "Lad mig se, hvor god du er blevet. Jeg vil\n"
-	.string "teste dig!\p"
+	.string "BRENDAN: {PLAYER}! Så det her er,\n"
+	.string "hvor du har ledt efter POKéMON?\p"
+	.string "Lad mig se, hvor god du er blevet. Jeg\n"
+	.string "vil teste dig!\p"
 	.string "Nu! Det er kamp, så kæmp løs!$"
 
 Route119_Text_BrendanDefeat:
 	.string "Hmm… Du er blevet ret god.$"
 
 Route119_Text_BrendanIllGiveYouThis:
-	.string "BRENDAN: Jeg vil sige, du er god nok til at\n"
-	.string "lede efter POKéMON overalt.\p"
+	.string "BRENDAN: Jeg vil sige, du er god nok til\n"
+	.string "at lede efter POKéMON overalt.\p"
 	.string "Her, jeg vil give dig dette. Prøv det.$"
 
 Route119_Text_BrendanExplainFly:
-	.string "BRENDAN: Brug FLY, og din POKéMON bærer dig\n"
-	.string "øjeblikkeligt til enhver by, du allerede har\l"
-	.string "besøgt.\p"
-	.string "Men du skal have FORTREE GYM BADGE  for at\n"
-	.string "gøre det.\p"
+	.string "BRENDAN: Brug FLY, og din POKéMON bærer\n"
+	.string "dig øjeblikkeligt til enhver by, du\l"
+	.string "allerede har besøgt.\p"
+	.string "Men du skal have FORTREE GYM BADGE  for\n"
+	.string "at gøre det.\p"
 	.string "Nå, jeg bliver nødt til at fortsætte.$"
 
 Route119_Text_ScottWayToGoBeSeeingYou:
 	.string "SCOTT: Hahahah! Godt gået, {PLAYER}{KUN}!\p"
-	.string "Jeg så lige en TRÆNER ride på en cykel forbi.\p"
-	.string "Du slog lige den TRÆNER, gjorde du ikke? Det\n"
-	.string "var ret tydeligt, at du gjorde det.\p"
-	.string "Barnet så virkelig ked ud af det med et rødt\n"
-	.string "ansigt af vrede.\p"
+	.string "Jeg så lige en TRÆNER ride på en cykel\n"
+	.string "forbi.\p"
+	.string "Du slog lige den TRÆNER, gjorde du ikke?\n"
+	.string "Det var ret tydeligt, at du gjorde det.\p"
+	.string "Barnet så virkelig ked ud af det med et\n"
+	.string "rødt ansigt af vrede.\p"
 	.string "Jeg møder dig vist ret ofte. Skal du til\n"
 	.string "FORTREE GYM næste gang?\p"
 	.string "Jeg forventer, at du klarer dig godt i\n"
@@ -549,11 +552,12 @@ Route119_Text_ScottWayToGoBeSeeingYou:
 Route119_Text_ScottYouWonAtFortreeGym:
 	.string "… … … … … … … … … … … Beep!\p"
 	.string "SCOTT: Hej, {PLAYER}{KUN}, det er mig!\p"
-	.string "Lige som jeg tænkte, du vandt i FORTREE GYM.\p"
-	.string "Din styrke… Måske er du virkelig den TRÆNER\n"
-	.string "jeg har ledt efter.\p"
-	.string "Husk, du har en fan i mig. Jeg vil heppe fra\n"
-	.string "sidelinjen. Fortsæt det fantastiske\l"
+	.string "Lige som jeg tænkte, du vandt i FORTREE\n"
+	.string "GYM.\p"
+	.string "Din styrke… Måske er du virkelig den\n"
+	.string "TRÆNER jeg har ledt efter.\p"
+	.string "Husk, du har en fan i mig. Jeg vil heppe\n"
+	.string "fra sidelinjen. Fortsæt det fantastiske\l"
 	.string "arbejde!\p"
 	.string "… … … … … … … … … … … Klik!$"
 
@@ -568,23 +572,23 @@ Route119_Text_DontGoNearWeatherInstitute:
 	.string "VEJRINSTITUTTET.$"
 
 Route119_Text_ThoughtFlyByCatchingBirdMons:
-	.string "Jeg troede, du FLEGER ved at fange en hel\n"
-	.string "FLOK FUGLE POKéMON, og så hænge fast på dem\l"
-	.string "på en eller anden måde.\p"
-	.string "Men det viser sig, at der er et HM- træk ved\n"
-	.string "navn FLY!\p"
+	.string "Jeg troede, du FLEGER ved at fange en\n"
+	.string "hel FLOK FUGLE POKéMON, og så hænge\l"
+	.string "fast på dem på en eller anden måde.\p"
+	.string "Men det viser sig, at der er et HM- træk\n"
+	.string "ved navn FLY!\p"
 	.string "Jeg ville ønske, jeg havde vidst det for\n"
 	.string "længe siden...$"
 
 Route119_Text_TallGrassSnaresBikeTires:
 	.string "Øv... Det går ikke... \p"
-	.string "Det høje græs snører sig om CYKELdækkene.\n"
-	.string "Du kan ikke cykle her.$"
+	.string "Det høje græs snører sig om\n"
+	.string "CYKELdækkene. Du kan ikke cykle her.$"
 
 Route119_Text_CanYourMonMakeSecretBase:
-	.string "Kan din POKéMON bruge sin HEMMELIGE KRAFT\n"
-	.string "på en stor bunke af græs og lave en HEMMELIG\l"
-	.string "BASE?$"
+	.string "Kan din POKéMON bruge sin HEMMELIGE\n"
+	.string "KRAFT på en stor bunke af græs og lave\l"
+	.string "en HEMMELIG BASE?$"
 
 Route119_Text_RouteSignFortree:
 	.string "ROUTE 119 {RIGHT_ARROW} FORTREE CITY$"
@@ -594,11 +598,11 @@ Route119_Text_WeatherInstitute:
 
 Route119_Text_TrainerTipsDecoration:
 	.string "TRÆNERTIPS\p"
-	.string "Op til seksten dekorationer og møbler kan\n"
-	.string "placeres i en HEMMELIG BASE.\p"
-	.string "Vælg dine yndlingsgenstande og skab din\n"
-	.string "helt egen HEMMELIGE BASE præcis som du\l"
-	.string "ønsker.$"
+	.string "Op til seksten dekorationer og møbler\n"
+	.string "kan placeres i en HEMMELIG BASE.\p"
+	.string "Vælg dine yndlingsgenstande og skab\n"
+	.string "din helt egen HEMMELIGE BASE præcis som\l"
+	.string "du ønsker.$"
 
 
 

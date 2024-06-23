@@ -62,9 +62,9 @@ FallarborTown_MoveRelearnersHouse_EventScript_ComeBackWithHeartScale::
 
 FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
 	.string "Jeg er BEVÆGELSESLÆREREN.\p"
-	.string "Jeg kender alle de bevægelser, som POKéMON\n"
-	.string "lærer--hver enkelt af dem--og jeg kan lære\l"
-	.string "dine POKéMON de bevægelser.\p"
+	.string "Jeg kender alle de bevægelser, som\n"
+	.string "POKéMON lærer--hver enkelt af dem--og\l"
+	.string "jeg kan lære dine POKéMON de bevægelser.\p"
 	.string "Jeg kan lære en bevægelse til et af dine\n"
 	.string "POKéMON, hvis du ønsker det.\p"
 	.string "Jeg vil gøre det for en HJERTESTEN. Jeg\n"
@@ -73,8 +73,8 @@ FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor:
 FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove:
 	.string "Åh! Det er det! Det er en ærlig og\p"
 	.string "godhjertet HJERTESKALA!\p"
-	.string " Lad mig gætte, du vil have mig til at lære en\n"
-	.string "bevægelse?$"
+	.string " Lad mig gætte, du vil have mig til at\n"
+	.string "lære en bevægelse?$"
 
 FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon:
 .string "Hvilken POKéMON har brug for hjælp?\p$"
@@ -84,8 +84,8 @@ FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove:
 
 FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon:
 	.string "Undskyld…\p"
-	.string "Det ser ikke ud til, at jeg har nogen træk Jeg\n"
-	.string "kan lære den POKéMON.$"
+	.string "Det ser ikke ud til, at jeg har nogen\n"
+	.string "træk Jeg kan lære den POKéMON.$"
 
 FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale:
 	.string "{PLAYER} gav en HJERTESKALA i bytte.$"
@@ -95,8 +95,8 @@ FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale:
 	.string "tilbage med en HJERTESKALA.$"
 
 FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg:
-	.string "Hvad? Der er ikke en eneste bevægelse, jeg\n"
-	.string "kan lære et ÆG.$"
+	.string "Hvad? Der er ikke en eneste bevægelse,\n"
+	.string "jeg kan lære et ÆG.$"
 
 
 

@@ -214,20 +214,20 @@ Route119_WeatherInstitute_2F_EventScript_WeatherScientist::
 
 Route119_WeatherInstitute_2F_Text_Grunt2Intro:
 	.string "INSTITUTET har skabt en slags POKéMON,\n"
-	.string "der har noget at gøre med vejret. Vi er her\l"
-	.string "for at tage dem!$"
+	.string "der har noget at gøre med vejret. Vi er\l"
+	.string "her for at tage dem!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2Defeat:
 .string "Vores plan bliver ødelagt af et barn?$"
 
 Route119_WeatherInstitute_2F_Text_Grunt2PostBattle:
 	.string "Hvis de POKéMON, de lavede her, kan\n"
-	.string "kontrollere vejret frit, så er vi fra TEAM\l"
-	.string "AQUA helt sikkert nødt til det!$"
+	.string "kontrollere vejret frit, så er vi fra\l"
+	.string "TEAM AQUA helt sikkert nødt til det!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Intro:
-	.string "Vi er HOLD AQUA! Vi vises altid, hvor noget\n"
-	.string "sjældent er fundet!$"
+	.string "Vi er HOLD AQUA! Vi vises altid, hvor\n"
+	.string "noget sjældent er fundet!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt3Defeat:
 .string "Du fik mig!$"
@@ -240,29 +240,32 @@ Route119_WeatherInstitute_2F_Text_Grunt3PostBattle:
 Route119_WeatherInstitute_2F_Text_Grunt5Intro:
 	.string "Sig mig ikke, at du leder efter den vejr\n"
 	.string "POKéMON, også?\p"
-	.string "Det går ikke! Vi var her først for at få den!$"
+	.string "Det går ikke! Vi var her først for at få\n"
+	.string "den!$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5Defeat:
 	.string "Åh, vil du kigge på mine POKéMON?$"
 
 Route119_WeatherInstitute_2F_Text_Grunt5PostBattle:
 	.string "Humph, så hvad? Det vi vil…\p"
-	.string "Det vi virkelig vil, er ikke her… Ihihihihi…$"
+	.string "Det vi virkelig vil, er ikke her…\n"
+	.string "Ihihihihi…$"
 
 Route119_WeatherInstitute_2F_Text_ShellyIntro:
 	.string "Ahahahaha!\p"
-	.string "Du vil blande dig i TEAM AQUA's anliggender?\p"
+	.string "Du vil blande dig i TEAM AQUA's\n"
+	.string "anliggender?\p"
 	.string "Enten er du fuldstændig frygtløs,\n"
 	.string "simpelthen uvidende eller begge!\p"
-	.string "Du er så sød, at det er ulækkert! Jeg vil sætte\n"
-	.string "dig på plads, pjok!$"
+	.string "Du er så sød, at det er ulækkert! Jeg vil\n"
+	.string "sætte dig på plads, pjok!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyDefeat:
 	.string "Ahahahaha! Du er modbydeligt stærk!$"
 
 Route119_WeatherInstitute_2F_Text_ShellyPostBattle:
-	.string "Det er skidt nok at have TEAM MAGMA fumle\n"
-	.string "rundt, men nu er der også dig!\p"
+	.string "Det er skidt nok at have TEAM MAGMA\n"
+	.string "fumle rundt, men nu er der også dig!\p"
 	.string "Hvad får dig til at snuse rundt i vores\n"
 	.string "forretninger, alligevel?$"
 
@@ -270,18 +273,20 @@ Route119_WeatherInstitute_2F_Text_TeamMagmaJustPassedBy:
 	.string "Vi har en situation her!\p"
 	.string "Et TEAM MAGMA-mob er lige kommet forbi\n"
 	.string "VEJRIET INSTITUTTET.\p"
-	.string "De ser ud til at være på vej mod MT. PYRE!$"
+	.string "De ser ud til at være på vej mod MT.\n"
+	.string "PYRE!$"
 
 Route119_WeatherInstitute_2F_Text_WeHaveToHurryToMtPyre:
 	.string "Hvad?!\p"
-	.string "Vi kan ikke spilde mere tid her! Vi er nødt til\n"
-	.string "at skynde os til MT. PYRE, også!\p"
-	.string "Ahahahaha! Hold styr på dig, TEAM MAGMA!$"
+	.string "Vi kan ikke spilde mere tid her! Vi er\n"
+	.string "nødt til at skynde os til MT. PYRE, også!\p"
+	.string "Ahahahaha! Hold styr på dig, TEAM\n"
+	.string "MAGMA!$"
 
 Route119_WeatherInstitute_2F_Text_ThanksPleaseTakePokemon:
 	.string "Tak! Takket være dig er vi i sikkerhed!\p"
-	.string "Det er måske en underlig måde at takke dig\n"
-	.string "på, men tag denne POKéMON.$"
+	.string "Det er måske en underlig måde at takke\n"
+	.string "dig på, men tag denne POKéMON.$"
 
 @ Unused
 Route119_WeatherInstitute_2F_Text_NoRoomForPokemon:
@@ -292,15 +297,15 @@ Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform:
 	.string "{PLAYER} modtog CASTFORM!$"
 
 Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather:
-	.string "Denne POKéMON skifter form afhængigt af\n"
-	.string "vejrforholdene.\p"
+	.string "Denne POKéMON skifter form afhængigt\n"
+	.string "af vejrforholdene.\p"
 	.string "Der er masser af dem på INSTITUTET--gå\n"
 	.string "videre og tag den.$"
 
 Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous:
-	.string "Jeg har forsket i regn i mange år, men det er\n"
-	.string "latterligt at tænke på, at mennesker frit\l"
-	.string "kan ændre vejret.$"
+	.string "Jeg har forsket i regn i mange år, men\n"
+	.string "det er latterligt at tænke på, at\l"
+	.string "mennesker frit kan ændre vejret.$"
 
 Route119_WeatherInstitute_2F_Text_GroudonWeather:
 	.string "Jeg holder øje med vejrmønstre over\n"
@@ -313,16 +318,16 @@ Route119_WeatherInstitute_2F_Text_GroudonWeather:
 Route119_WeatherInstitute_2F_Text_KyogreWeather:
 	.string "Jeg sporer vejrforholdene over HOENN\n"
 	.string "regionen.\p"
-	.string "For øjeblikket er der registreret kraftig\n"
-	.string "regn over {STR_VAR_1}.\p"
+	.string "For øjeblikket er der registreret\n"
+	.string "kraftig regn over {STR_VAR_1}.\p"
 	.string "Mon det betyder, at et sted nær\n"
 	.string "{STR_VAR_1}...$"
 
 Route119_WeatherInstitute_2F_Text_NoAbnormalWeather:
 	.string "Udsvingene i vejret rapporteres ikke\n"
 	.string "længere.\p"
-	.string "Den lejlighedsvise regn er en velsignelse,\n"
-	.string "virkelig.$"
+	.string "Den lejlighedsvise regn er en\n"
+	.string "velsignelse, virkelig.$"
 
 
 

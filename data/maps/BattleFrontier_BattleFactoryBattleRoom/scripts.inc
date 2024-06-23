@@ -256,32 +256,34 @@ BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn:
 	.string "Hej, hej! Skynd dig!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead:
-	.string "Hej, mit navn er NOLAND! Jeg er stort set\n"
-	.string "ansvarlig for dette sted, derfor er jeg\l"
-	.string "FABRIKSHOVED!\p"
+	.string "Hej, mit navn er NOLAND! Jeg er stort\n"
+	.string "set ansvarlig for dette sted, derfor er\l"
+	.string "jeg FABRIKSHOVED!\p"
 	.string "Jeg har set din Kampbyttedata.\p"
-	.string "Du virker til at have styr på det, men du er\n"
-	.string "stadig firkantet i hovedet!\p"
-	.string "Hør her, okay? Viden handler ikke kun om at\n"
-	.string "læse bøger eller lave skrivebordsarbejde.\p"
-	.string "Bare at gøre den slags ting… Det kan lige så\n"
-	.string "godt være ubrugeligt!\p"
-	.string "Du skal opleve ting med dit hjerte og din\n"
-	.string "krop, forstår du?\p"
+	.string "Du virker til at have styr på det, men du\n"
+	.string "er stadig firkantet i hovedet!\p"
+	.string "Hør her, okay? Viden handler ikke kun om\n"
+	.string "at læse bøger eller lave\l"
+	.string "skrivebordsarbejde.\p"
+	.string "Bare at gøre den slags ting… Det kan\n"
+	.string "lige så godt være ubrugeligt!\p"
+	.string "Du skal opleve ting med dit hjerte og\n"
+	.string "din krop, forstår du?\p"
 	.string "Jeg udfordrer dig under de samme\n"
 	.string "betingelser som dig selv.\p"
 	.string "Jeg vil også bruge lejede POKéMON!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn:
-	.string "Ryst hver eneste smule af din viden ud og\n"
-	.string "kom så an!$"
+	.string "Ryst hver eneste smule af din viden ud\n"
+	.string "og kom så an!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass:
-	.string "Godt klaret! Lad os se dit FRONTIER PASS.$"
+	.string "Godt klaret! Lad os se dit FRONTIER\n"
+	.string "PASS.$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol:
-	.string "Videnssymbolet blev præget på FRONTIER\n"
-	.string "PASS!$"
+	.string "Videnssymbolet blev præget på\n"
+	.string "FRONTIER PASS!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
 	.string "Heh… Du er en ret skarp knop…\p"
@@ -290,20 +292,20 @@ BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred:
 	.string "Fortsæt med dine studier!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime:
-	.string "NOLAND: Hej, hej! Hvordan går det? Holder\n"
-	.string "du dig ajour med dine studier?\p"
+	.string "NOLAND: Hej, hej! Hvordan går det?\n"
+	.string "Holder du dig ajour med dine studier?\p"
 	.string "…Oh?\p"
-	.string "Du ser lidt mere seriøs ud end sidst jeg så\n"
-	.string "dig.\p"
-	.string "Det her blir' sjovt! Jeg bliver helt spændt,\n"
-	.string "hej!$"
+	.string "Du ser lidt mere seriøs ud end sidst jeg\n"
+	.string "så dig.\p"
+	.string "Det her blir' sjovt! Jeg bliver helt\n"
+	.string "spændt, hej!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn:
 	.string "Okay! Kom så på!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass:
-	.string "NOLAND: Hvad i... Du er ved at blive for god til\n"
-	.string "mig!\p"
+	.string "NOLAND: Hvad i... Du er ved at blive for\n"
+	.string "god til mig!\p"
 	.string "Føj! Lad os se den FRONTIER PASS!$"
 
 BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
@@ -311,7 +313,8 @@ BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine:
 
 BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou:
 	.string "Pfft, mand!\p"
-	.string "Det er absolut sidste gang jeg taber til dig!\p"
+	.string "Det er absolut sidste gang jeg taber til\n"
+	.string "dig!\p"
 	.string "Vi skal gøre dette igen, hva'?$"
 
 

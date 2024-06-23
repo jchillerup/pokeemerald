@@ -22,8 +22,8 @@ PetalburgCity_House1_Text_GoOnAdventure:
 	.string "eventyr med nogle POKéMON…\p"
 	.string "Kravle gennem fugtigt græs… Bestige\n"
 	.string "stejle bjerge…\p"
-	.string "Krydse det brusende hav… Vandre rundt i\n"
-	.string "mørke huler…\p"
+	.string "Krydse det brusende hav… Vandre rundt\n"
+	.string "i mørke huler…\p"
 	.string "Og nogle gange endda få lidt hjemve…\p"
 	.string "Det må være fantastisk at rejse!$"
 

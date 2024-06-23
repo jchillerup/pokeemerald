@@ -111,10 +111,12 @@ Route110_TrickHousePuzzle2_Text_TedIntro:
 .string "Hvilket skift lukker hvilket hul?$" 
 
 Route110_TrickHousePuzzle2_Text_TedDefeat:
-	.string "Efter den kamp er jeg endnu mere forvirret!$"
+	.string "Efter den kamp er jeg endnu mere\n"
+	.string "forvirret!$"
 
 Route110_TrickHousePuzzle2_Text_TedPostBattle:
-	.string "Kan du trykke på alle knapperne for mig?$"
+	.string "Kan du trykke på alle knapperne for\n"
+	.string "mig?$"
 
 Route110_TrickHousePuzzle2_Text_PaulIntro:
 	.string "Åh! Du er på din anden TRICK HOUSE\n"
@@ -124,19 +126,20 @@ Route110_TrickHousePuzzle2_Text_PaulDefeat:
 	.string "Du er også god til at kæmpe?$"
 
 Route110_TrickHousePuzzle2_Text_PaulPostBattle:
-	.string "TRICK MASTER har snydt med alle triksene i\n"
-	.string "dette huset helt alene.$"
+	.string "TRICK MASTER har snydt med alle\n"
+	.string "triksene i dette huset helt alene.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaIntro:
-	.string "Jeg vil gerne lave mit eget GYM en dag. Så jeg\n"
-	.string "studerer, hvordan man sætter fælder.$"
+	.string "Jeg vil gerne lave mit eget GYM en dag.\n"
+	.string "Så jeg studerer, hvordan man sætter\l"
+	.string "fælder.$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaDefeat:
 	.string "Jeg har ikke studeret nok!$"
 
 Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle:
-	.string "Du er stærk, er du ikke? Måske endda stærk\n"
-	.string "nok til at være en GYM LEADER!$"
+	.string "Du er stærk, er du ikke? Måske endda\n"
+	.string "stærk nok til at være en GYM LEADER!$"
 
 
 

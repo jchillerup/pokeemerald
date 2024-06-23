@@ -69,17 +69,18 @@ SSTidalRooms_Text_TakeRestOnBed:
 
 SSTidalRooms_Text_ColtonIntro:
 	.string "Jeg sejler ofte til LILYCOVE CITY.\p"
-	.string "Jeg nyder at deltage i KONKURRENCER, kan du\n"
-	.string "se.$"
+	.string "Jeg nyder at deltage i KONKURRENCER,\n"
+	.string "kan du se.$"
 
 SSTidalRooms_Text_ColtonDefeat:
 	.string "Det var en fornøjelig kamp!$"
 
 SSTidalRooms_Text_ColtonPostBattle:
-	.string "Jeg bliver så spændt, når jeg forestiller\n"
-	.string "mig, hvilke slags POKéMON, jeg får at se i\l"
-	.string "næste KONKURRENCE. Forventningen om det\l"
-	.string "er bare så spændende!$"
+	.string "Jeg bliver så spændt, når jeg\n"
+	.string "forestiller mig, hvilke slags POKéMON,\l"
+	.string "jeg får at se i næste KONKURRENCE.\l"
+	.string "Forventningen om det er bare så\l"
+	.string "spændende!$"
 
 SSTidalRooms_Text_MicahIntro:
 .string "Er dine venner stærke?$"
@@ -88,8 +89,8 @@ SSTidalRooms_Text_MicahDefeat:
 .string "Dine venner er virkelig stærke.$"
 
 SSTidalRooms_Text_MicahPostBattle:
-	.string "Venner behøver ikke være mennesker. For\n"
-	.string "mig er POKéMON skattede venner!$"
+	.string "Venner behøver ikke være mennesker.\n"
+	.string "For mig er POKéMON skattede venner!$"
 
 SSTidalRooms_Text_ThomasIntro:
 	.string "Barn... Bankede du på døren?$"
@@ -104,25 +105,25 @@ SSTidalRooms_Text_ThomasPostBattle:
 	.string "adfærdskodeks.$"
 
 SSTidalRooms_Text_JedIntro:
-	.string "JED: Jeg føler mig lidt genert over dette,\n"
-	.string "men... Vi vil vise dig vores\l"
+	.string "JED: Jeg føler mig lidt genert over\n"
+	.string "dette, men... Vi vil vise dig vores\l"
 	.string "kærligheds-power!$"
 
 SSTidalRooms_Text_JedDefeat:
 	.string "JED: Suk…$"
 
 SSTidalRooms_Text_JedPostBattle:
-	.string "JED: Det er første gang, at vores kærlige-\n"
-	.string "duvende kraft ikke kunne sejre! Du må være\l"
-	.string "en fantastisk TRÆNER!$"
+	.string "JED: Det er første gang, at vores\n"
+	.string "kærlige- duvende kraft ikke kunne\l"
+	.string "sejre! Du må være en fantastisk TRÆNER!$"
 
 SSTidalRooms_Text_JedNotEnoughMons:
-	.string "JED: Har du kun én POKéMON? Er det ikke lidt\n"
-	.string "ensomt?$"
+	.string "JED: Har du kun én POKéMON? Er det ikke\n"
+	.string "lidt ensomt?$"
 
 SSTidalRooms_Text_LeaIntro:
-	.string "LEA: Jeg føler mig lidt fjollet, men… Vi vil\n"
-	.string "vise dig vores kærlighedskraft!$"
+	.string "LEA: Jeg føler mig lidt fjollet, men… Vi\n"
+	.string "vil vise dig vores kærlighedskraft!$"
 
 SSTidalRooms_Text_LeaDefeat:
 	.string "LEA: Åh, buh!$"
@@ -133,12 +134,13 @@ SSTidalRooms_Text_LeaPostBattle:
 	.string "være en fantastisk TRÆNER!$"
 
 SSTidalRooms_Text_LeaNotEnoughMons:
-	.string "LEA: Jeg ville kæmpe… Men du har ikke engang\n"
-	.string "to POKéMON…$"
+	.string "LEA: Jeg ville kæmpe… Men du har ikke\n"
+	.string "engang to POKéMON…$"
 
 SSTidalRooms_Text_GarretIntro:
 	.string "Åh, du er kommet lige til tiden.\p"
-	.string "Jeg keder mig, ser du. Du kan underholde mig.$"
+	.string "Jeg keder mig, ser du. Du kan underholde\n"
+	.string "mig.$"
 
 SSTidalRooms_Text_GarretDefeat:
 .string "…Det er nok.$"
@@ -149,8 +151,8 @@ SSTidalRooms_Text_GarretPostBattle:
 	.string "En yacht til mig selv og POKéMON!$"
 
 SSTidalRooms_Text_NaomiIntro:
-	.string "Åh, du er sådan en bedårende TRÆNER. Vil du\n"
-	.string "have te?\p"
+	.string "Åh, du er sådan en bedårende TRÆNER. Vil\n"
+	.string "du have te?\p"
 	.string "Eller vil du hellere kæmpe?$"
 
 SSTidalRooms_Text_NaomiDefeat:
@@ -161,20 +163,21 @@ SSTidalRooms_Text_NaomiPostBattle:
 	.string "krydstogtskib har sine charmer, må jeg\l"
 	.string "sige…\p"
 	.string "Men, jeg vil indrømme, at der er en\n"
-	.string "tiltrækkende side ved at tourne HOENN med\l"
-	.string "færge.$"
+	.string "tiltrækkende side ved at tourne HOENN\l"
+	.string "med færge.$"
 
 SSTidalRooms_Text_NotSuspiciousTakeThis:
 	.string "Øh... Hej! Jeg... Jeg opfører mig ikke\n"
-	.string "mistænksomt! Øh... Du kan få dette! Gratis!\p"
+	.string "mistænksomt! Øh... Du kan få dette!\l"
+	.string "Gratis!\p"
 	.string "Jeg... Ærligt, jeg SNAPPED det ikke fra\n"
-	.string "nogen! Jeg ville aldrig gøre sådan noget!\l"
-	.string "Det er rent! Du kan bruge det!$"
+	.string "nogen! Jeg ville aldrig gøre sådan\l"
+	.string "noget! Det er rent! Du kan bruge det!$"
 
 SSTidalRooms_Text_ExplainSnatch:
 	.string "SNATCH stjæler de gavnlige effekter af\n"
-	.string "visse bevægelser, før de kan bruges af en\l"
-	.string "fjende eller allieret.$"
+	.string "visse bevægelser, før de kan bruges af\l"
+	.string "en fjende eller allieret.$"
 
 
 

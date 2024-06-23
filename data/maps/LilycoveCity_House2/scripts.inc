@@ -22,8 +22,8 @@ LilycoveCity_House2_EventScript_ReceivedRest::
 
 LilycoveCity_House2_Text_NotAwakeYetHaveThis:
 	.string "Hva? Hvad? Hvad er det?\p"
-	.string "Jeg er stadig ikke rigtig vågen... Du kan få\n"
-	.string "dette...$"
+	.string "Jeg er stadig ikke rigtig vågen... Du kan\n"
+	.string "få dette...$"
 
 LilycoveCity_House2_Text_SleepIsEssential:
 	.string "Gaben…\p"

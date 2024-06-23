@@ -314,17 +314,19 @@ BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack:
 
 BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose:
 	.string "Undskyld mig, men…\p"
-	.string "Har du måske svært ved at vælge din vej?$"
+	.string "Har du måske svært ved at vælge din\n"
+	.string "vej?$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence:
 	.string "Jeg ser… Undskyld for min uhøflighed...$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath:
-	.string "Åh, lad mig se... Der er noget ved stien til\n"
-	.string "højre...$"
+	.string "Åh, lad mig se... Der er noget ved stien\n"
+	.string "til højre...$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath:
-	.string "Åh, lad mig se… Der er noget om stien i midten…$"
+	.string "Åh, lad mig se… Der er noget om stien i\n"
+	.string "midten…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath:
 	.string "Åh, lad mig se... Der er noget om stien til\n"
@@ -343,15 +345,15 @@ BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering:
 	.string "hviskende…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga:
-	.string "Af en eller anden underlig grund følte jeg en\n"
-	.string "bølge af nostalgi komme fra det…$"
+	.string "Af en eller anden underlig grund følte\n"
+	.string "jeg en bølge af nostalgi komme fra det…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent:
 	.string "Jeg er ked af at sige…\p"
-	.string "En skræmmende begivenhed, ja, en frygtelig\n"
-	.string "én, er ved at ramme dig…\p"
-	.string "Jeg opfordrer dig til at passe ekstremt på\n"
-	.string "og forberede dig på det værste…$"
+	.string "En skræmmende begivenhed, ja, en\n"
+	.string "frygtelig én, er ved at ramme dig…\p"
+	.string "Jeg opfordrer dig til at passe ekstremt\n"
+	.string "på og forberede dig på det værste…$"
 
 BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence:
 	.string "Fra enhver sti mærker jeg en frygtelig\n"

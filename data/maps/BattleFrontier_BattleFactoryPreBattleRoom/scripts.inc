@@ -454,12 +454,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Movement_AttendantReturnToPlayer:
 BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection:
 	.string "Først vil vi holde din POKéMON i sikre\n"
 	.string "omgivelser.\p"
-	.string "Du kan derefter vælge fra vores udvalg af\n"
-	.string "POKéMON.$"
+	.string "Du kan derefter vælge fra vores udvalg\n"
+	.string "af POKéMON.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons:
-	.string "Tak for at konkurrere! Lad os genoprette\n"
-	.string "dine POKéMON!$"
+	.string "Tak for at konkurrere! Lad os\n"
+	.string "genoprette dine POKéMON!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent:
 	.string "Den 2. kamp er næste! Er du klar?$"
@@ -483,12 +483,12 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame:
 	.string "Vil du gemme og afslutte spillet?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge:
-	.string "Vil du trække dig fra din Kamp Udskiftnings\n"
-	.string "udfordring?$"
+	.string "Vil du trække dig fra din Kamp\n"
+	.string "Udskiftnings udfordring?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent:
-	.string "Jeg har lavet lidt efterforskning om din\n"
-	.string "kommende modstander.$"
+	.string "Jeg har lavet lidt efterforskning om\n"
+	.string "din kommende modstander.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType:
 	.string "Træneren er åbenbart dygtig til at\n"
@@ -498,8 +498,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType:
 	.string "til at håndtere ild-typen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType:
-	.string "Træneren er åbenbart skilled i at håndtere\n"
-	.string "VAND-typen.$"
+	.string "Træneren er åbenbart skilled i at\n"
+	.string "håndtere VAND-typen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType:
 	.string "Træneren er åbenbart dygtig til at\n"
@@ -526,8 +526,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType:
 	.string "håndtere jordtypen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType:
-	.string "Træneren er tilsyneladende dygtig til at\n"
-	.string "håndtere FLYVENDE typer.$"
+	.string "Træneren er tilsyneladende dygtig til\n"
+	.string "at håndtere FLYVENDE typer.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType:
 	.string "Træneren er åbenbart dygtig til at\n"
@@ -538,8 +538,8 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType:
 	.string "håndtere FEJL-typen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType:
-	.string "Træneren er åbenbart dygtig i at håndtere\n"
-	.string "ROCK-typen.$"
+	.string "Træneren er åbenbart dygtig i at\n"
+	.string "håndtere ROCK-typen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType:
 	.string "TRÆNEREN er åbenbart dygtig til\n"
@@ -550,59 +550,61 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType:
 	.string "håndtere DRAGE-typen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType:
-	.string "TRÆNEREN ser ud til at være dygtig til at\n"
-	.string "håndtere MØRKE-typen.$"
+	.string "TRÆNEREN ser ud til at være dygtig til\n"
+	.string "at håndtere MØRKE-typen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType:
-	.string "Træneren er tilsyneladende dygtig til at\n"
-	.string "håndtere ståltypen.$"
+	.string "Træneren er tilsyneladende dygtig til\n"
+	.string "at håndtere ståltypen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite:
-	.string "TRÆNEREN ser ud til ikke at have nogen klare\n"
-	.string "favoritter, når det kommer til type.$"
+	.string "TRÆNEREN ser ud til ikke at have nogen\n"
+	.string "klare favoritter, når det kommer til\l"
+	.string "type.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady:
 	.string "Den foretrukne kampstil synes at være\n"
 	.string "langsom og stabil.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance:
-	.string "Den foretrukne kampstil ser ud til at være\n"
-	.string "en af udholdenhed.$"
+	.string "Den foretrukne kampstil ser ud til at\n"
+	.string "være en af udholdenhed.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk:
-	.string "Den foretrukne kampstil synes at være høj\n"
-	.string "risiko, høj belønning.$"
+	.string "Den foretrukne kampstil synes at være\n"
+	.string "høj risiko, høj belønning.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow:
 	.string "Den foretrukne kampstil ser ud til at\n"
 	.string "afhænge af kampens forløb.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation:
-	.string "Den foretrukne kampstil ser ud til at være\n"
-	.string "baseret på total forberedelse.$"
+	.string "Den foretrukne kampstil ser ud til at\n"
+	.string "være baseret på total forberedelse.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe:
-	.string "Den foretrukne kampstil synes at være at\n"
-	.string "svække fjenden for at starte.$"
+	.string "Den foretrukne kampstil synes at være\n"
+	.string "at svække fjenden for at starte.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible:
-	.string "Den foretrukne kampstil ser ud til at være\n"
-	.string "fleksibel og tilpasset situationen.$"
+	.string "Den foretrukne kampstil ser ud til at\n"
+	.string "være fleksibel og tilpasset situationen.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict:
 	.string "Den foretrukne kampstil synes at være\n"
 	.string "umulig at forudsige.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained:
-	.string "Den foretrukne kampstil ser ud til at være\n"
-	.string "friåndet og ubegrænset.$"
+	.string "Den foretrukne kampstil ser ud til at\n"
+	.string "være friåndet og ubegrænset.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon:
-	.string "Inden du starter kampen, vil du gerne bytte\n"
-	.string "en POKéMON?$"
+	.string "Inden du starter kampen, vil du gerne\n"
+	.string "bytte en POKéMON?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete:
-	.string "Tak! Din POKéMON-udveksling er fuldført.$"
+	.string "Tak! Din POKéMON-udveksling er\n"
+	.string "fuldført.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay:
 	.string "Lige den vej, tak!$"
@@ -611,31 +613,32 @@ BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait:
 	.string "Jeg gemmer dine data. Vent venligst.$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle:
-	.string "Vil du gerne optage din seneste kamp på din\n"
-	.string "FRONTIER PASS?$"
+	.string "Vil du gerne optage din seneste kamp på\n"
+	.string "din FRONTIER PASS?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments:
-	.string "Undskyld! Undskyld, må jeg bededig om at\n"
-	.string "vente et parøjeblikke?  $"
+	.string "Undskyld! Undskyld, må jeg bededig om\n"
+	.string "at vente et parøjeblikke?  $"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo:
-	.string "…Uh-huh? Hvad?! …Whoa! Forstået, sir! Vil\n"
-	.string "gøre det!$"
+	.string "…Uh-huh? Hvad?! …Whoa! Forstået, sir!\n"
+	.string "Vil gøre det!$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow:
 	.string "Åh, min… Undskyld ventetiden!\p"
 	.string "Jeg har en besked fra denne facilitets\n"
 	.string "chef, FABRIKSDIREKTØREN.\p"
-	.string "Han siger, “Vi skal gøre det! Kom herhen lige\n"
-	.string "nu!”$"
+	.string "Han siger, “Vi skal gøre det! Kom herhen\n"
+	.string "lige nu!”$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead:
-	.string "FABRIKSEJEREN kræver dig. Er du klar til at\n"
-	.string "møde ham?$"
+	.string "FABRIKSEJEREN kræver dig. Er du klar til\n"
+	.string "at møde ham?$"
 
 BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead:
-	.string "Jeg er meget ked af det, men jeg kan ikke\n"
-	.string "fortælle dig noget om FABRIKSBESTYREREN.$"
+	.string "Jeg er meget ked af det, men jeg kan\n"
+	.string "ikke fortælle dig noget om\l"
+	.string "FABRIKSBESTYREREN.$"
 
 
 

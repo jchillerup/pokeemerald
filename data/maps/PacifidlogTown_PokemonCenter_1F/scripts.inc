@@ -36,16 +36,17 @@ PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard:
 	.string "kobber!$"
 
 PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola:
-	.string "PACIFIDLOG BY f l o a t e r på t o p p e n a f en\n"
-	.string "koloni af CORSOLA.\p"
-	.string "Hvis jeg fortalte dig det, ville du t r o  m i g?$"
+	.string "PACIFIDLOG BY f l o a t e r på t o p p e n\n"
+	.string "a f en koloni af CORSOLA.\p"
+	.string "Hvis jeg fortalte dig det, ville du t r o \n"
+	.string "m i g?$"
 
 PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats:
-	.string "Forfædrene til folkene i PACIFIDLOG siges\n"
-	.string "at være blevet født på både og levede og\l"
-	.string "døde  ombord på dem.\p"
-	.string "Jeg forstår, at de levede på den måde fordi\n"
-	.string "de søgte efter noget.$"
+	.string "Forfædrene til folkene i PACIFIDLOG\n"
+	.string "siges at være blevet født på både og\l"
+	.string "levede og døde  ombord på dem.\p"
+	.string "Jeg forstår, at de levede på den måde\n"
+	.string "fordi de søgte efter noget.$"
 
 
 

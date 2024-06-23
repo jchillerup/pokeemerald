@@ -63,18 +63,18 @@ LilycoveCity_DepartmentStore_3F_EventScript_Woman::
 LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon:
 	.string "For at gøre POKéMON hurtigt seje, er\n"
 	.string "genstande det bedste.\p"
-	.string "PROTEIN øger ANGREB, og CALCIUM øger SP.\n"
-	.string "ATK.$"
+	.string "PROTEIN øger ANGREB, og CALCIUM øger\n"
+	.string "SP. ATK.$"
 
 LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance:
-	.string "Jeg vil have min POKéMON til at have mere\n"
-	.string "udholdenhed.\p"
+	.string "Jeg vil have min POKéMON til at have\n"
+	.string "mere udholdenhed.\p"
 	.string "Jeg prøver at beslutte, om jeg skal øge\n"
 	.string "FORSVAR med JERN, eller SP. DEF med ZINK.$"
 
 LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon:
-	.string "Jeg gav en CARBOS til min POKéMON, og dens\n"
-	.string "HASTIGHED gik op.$"
+	.string "Jeg gav en CARBOS til min POKéMON, og\n"
+	.string "dens HASTIGHED gik op.$"
 
 
 

@@ -54,34 +54,36 @@ AquaHideout_1F_EventScript_Grunt1Defeated::
 
 AquaHideout_1F_Text_OurBossIsSnatchingSomething:
 	.string "Hvad? Hvad? Hvad vil du med  TEAM AQUA?\p"
-	.string "Vores chef er ikke her! Han er taget afsted\n"
-	.string "for at snuppe noget vigtigt!\p"
+	.string "Vores chef er ikke her! Han er taget\n"
+	.string "afsted for at snuppe noget vigtigt!\p"
 	.string "… … Hvor er han taget hen?\p"
-	.string "Hahaha! Tror du virkelig, jeg ville fortælle\n"
-	.string "dig noget så afgørende?$"
+	.string "Hahaha! Tror du virkelig, jeg ville\n"
+	.string "fortælle dig noget så afgørende?$"
 
 AquaHideout_1F_Text_WhereMightMagmaHideoutBe:
 	.string "Hvad? Hvad? Er du en del af TEAM MAGMA\n"
 	.string "holdet?\p"
-	.string "Jeg hører, at TEAM MAGMA prøver at vække en\n"
-	.string "fantastisk POKéMON i deres SKJULESTED.\p"
+	.string "Jeg hører, at TEAM MAGMA prøver at\n"
+	.string "vække en fantastisk POKéMON i deres\l"
+	.string "SKJULESTED.\p"
 	.string "Men hvor mon deres SKJULESTED er?$"
 
 AquaHideout_1F_Text_BossWentToJackASubmarine:
 	.string "Hvad? Hvad? Hvad vil du med  TEAM AQUA?\p"
-	.string "Vores BOSS er ikke her! Han er taget af sted\n"
-	.string "for at kapre en ubåd!\p"
+	.string "Vores BOSS er ikke her! Han er taget af\n"
+	.string "sted for at kapre en ubåd!\p"
 	.string "… … Hvor er han taget hen?\p"
-	.string "Haha! Tror du virkelig, jeg ville forkrænke\n"
-	.string "dig med så vigtig en oplysning?$"
+	.string "Haha! Tror du virkelig, jeg ville\n"
+	.string "forkrænke dig med så vigtig en\l"
+	.string "oplysning?$"
 
 AquaHideout_1F_Text_BossIsOnRoute122:
 	.string "Hvad? Hvad? Hvad vil du med  TEAM AQUA?\p"
-	.string "Vores BOSS er ikke her! Han er på vej til MT.\n"
-	.string "PYRE på ROUTE 122!\p"
+	.string "Vores BOSS er ikke her! Han er på vej til\n"
+	.string "MT. PYRE på ROUTE 122!\p"
 	.string "… … Hvorfor tog han af sted?\p"
-	.string "Hahaha! Tror du virkelig, jeg ville fortælle\n"
-	.string "dig noget så afgørende?$"
+	.string "Hahaha! Tror du virkelig, jeg ville\n"
+	.string "fortælle dig noget så afgørende?$"
 
 AquaHideout_1F_Text_TeamMagmaAtMtChimney:
 	.string "Hvad? Hvad? Er du en del af TEAM MAGMA?\p"
@@ -94,18 +96,19 @@ AquaHideout_1F_Text_BossIsInSlateportCity:
 	.string "Vores BOSS er ikke her! Han er på vej til\n"
 	.string "SLATEPORT CITY!\p"
 	.string "… … Hvorfor tog han afsted?\p"
-	.string "Haha! Tror du virkelig, jeg ville fortælle dig\n"
-	.string "noget så afgørende?$"
+	.string "Haha! Tror du virkelig, jeg ville fortælle\n"
+	.string "dig noget så afgørende?$"
 
 AquaHideout_1F_Text_Grunt1Intro:
-	.string "Aj-aj-aj! Mistænkelig karakter spottet!$"
+	.string "Aj-aj-aj! Mistænkelig karakter\n"
+	.string "spottet!$"
 
 AquaHideout_1F_Text_Grunt1Defeat:
 	.string "Av av… Jeg tabte den!$"
 
 AquaHideout_1F_Text_Grunt1PostBattle:
-	.string "Jeg tog tabet for HOLDEN, men jeg gjorde mit\n"
-	.string "job...$"
+	.string "Jeg tog tabet for HOLDEN, men jeg\n"
+	.string "gjorde mit job...$"
 
 
 

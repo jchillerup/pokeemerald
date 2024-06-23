@@ -31,15 +31,16 @@ SootopolisCity_House1_EventScript_Kecleon::
 	end
 
 SootopolisCity_House1_Text_DevelopedThisTM:
-	.string "I tredive år har jeg forblivt i SOOTOPOLIS\n"
-	.string "og finpudset mine færdigheder.\p"
+	.string "I tredive år har jeg forblivt i\n"
+	.string "SOOTOPOLIS og finpudset mine\l"
+	.string "færdigheder.\p"
 	.string "Jeg har udviklet en knusende TM. Jeg\n"
 	.string "efterlader den til dig!$"
 
 SootopolisCity_House1_Text_ExplainBrickBreak:
-	.string "TM31 indeholder MURBRYDER! Det er et træk\n"
-	.string "så forfærdeligt, at jeg ikke kan beskrive\l"
-	.string "det.$"
+	.string "TM31 indeholder MURBRYDER! Det er et\n"
+	.string "træk så forfærdeligt, at jeg ikke kan\l"
+	.string "beskrive det.$"
 
 SootopolisCity_House1_Text_Kecleon:
 .string "KECLEON: Puu puhyaah.$"

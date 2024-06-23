@@ -41,21 +41,21 @@ VictoryRoad_B2F_Text_VitoDefeat:
 	.string "Bedre end min familie?! Er det muligt?!$"
 
 VictoryRoad_B2F_Text_VitoPostBattle:
-	.string "Jeg var bedre end alle i min familie. Jeg har\n"
-	.string "aldrig tabt før…\p"
-	.string "Jeg har mistet min tillid… Måske vil jeg tage\n"
-	.string "hjem…$"
+	.string "Jeg var bedre end alle i min familie. Jeg\n"
+	.string "har aldrig tabt før…\p"
+	.string "Jeg har mistet min tillid… Måske vil jeg\n"
+	.string "tage hjem…$"
 
 VictoryRoad_B2F_Text_OwenIntro:
-	.string "Jeg havde hørt, at der var en sej  lille knægt\n"
-	.string "heromkring. Mener de dig?$"
+	.string "Jeg havde hørt, at der var en sej  lille\n"
+	.string "knægt heromkring. Mener de dig?$"
 
 VictoryRoad_B2F_Text_OwenDefeat:
 	.string "Den lille reje er sej!$"
 
 VictoryRoad_B2F_Text_OwenPostBattle:
-	.string "De rygter, jeg hørte, om den seje lille knægt\n"
-	.string "er fra PETALBURG CITY.$"
+	.string "De rygter, jeg hørte, om den seje lille\n"
+	.string "knægt er fra PETALBURG CITY.$"
 
 VictoryRoad_B2F_Text_CarolineIntro:
 	.string "Du må være lidt træt.$"
@@ -69,9 +69,10 @@ VictoryRoad_B2F_Text_CarolinePostBattle:
 	.string "Pas på træthed!$"
 
 VictoryRoad_B2F_Text_JulieIntro:
-	.string "Du skal ikke blive selvtilfreds bare fordi\n"
-	.string "du har mange GYM BADGES.\p"
-	.string "Der vil altid være nogen, der er bedre end dig!$"
+	.string "Du skal ikke blive selvtilfreds bare\n"
+	.string "fordi du har mange GYM BADGES.\p"
+	.string "Der vil altid være nogen, der er bedre\n"
+	.string "end dig!$"
 
 VictoryRoad_B2F_Text_JulieDefeat:
 	.string "Du er bedre end mig!$"
@@ -81,16 +82,17 @@ VictoryRoad_B2F_Text_JuliePostBattle:
 	.string "TRÆNERNE, du har stået overfor.$"
 
 VictoryRoad_B2F_Text_FelixIntro:
-	.string "Jeg er nået så langt, men spændingen giver\n"
-	.string "mig forfærdelige mavesmerter…$"
+	.string "Jeg er nået så langt, men spændingen\n"
+	.string "giver mig forfærdelige mavesmerter…$"
 
 VictoryRoad_B2F_Text_FelixDefeat:
 	.string "Åh… Det gør ondt…$"
 
 VictoryRoad_B2F_Text_FelixPostBattle:
-	.string "Jeg kan ikke lade være med at blive spændt,\n"
-	.string "når jeg nærmer mig POKéMON- LIGAEN. Jeg\l"
-	.string "prøver virkelig at være rolig.$"
+	.string "Jeg kan ikke lade være med at blive\n"
+	.string "spændt, når jeg nærmer mig POKéMON-\l"
+	.string "LIGAEN. Jeg prøver virkelig at være\l"
+	.string "rolig.$"
 
 VictoryRoad_B2F_Text_DianneIntro:
 	.string "De bedste af de bedste samles i denne\n"
@@ -101,8 +103,8 @@ VictoryRoad_B2F_Text_DianneDefeat:
 	.string "Slet ikke forskrækket!$"
 
 VictoryRoad_B2F_Text_DiannePostBattle:
-	.string "Du har virkelig modet! Det kan jeg lide! Bliv\n"
-	.string "ved med det!$"
+	.string "Du har virkelig modet! Det kan jeg lide!\n"
+	.string "Bliv ved med det!$"
 
 
 

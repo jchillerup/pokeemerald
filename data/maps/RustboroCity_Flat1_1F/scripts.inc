@@ -12,8 +12,8 @@ RustboroCity_Flat1_1F_EventScript_Woman::
 	end
 
 RustboroCity_Flat1_1F_Text_EveryPokemonHasAbility:
-	.string "Hver POKéMON har en speciel evne som den\n"
-	.string "kan bruge.$"
+	.string "Hver POKéMON har en speciel evne som\n"
+	.string "den kan bruge.$"
 
 RustboroCity_Flat1_1F_Text_PokemonStrange:
 .string "POKéMON er så underlige skabninger.$"

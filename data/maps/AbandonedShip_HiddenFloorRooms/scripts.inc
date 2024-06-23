@@ -114,8 +114,8 @@ AbandonedShip_HiddenFloorRooms_EventScript_Trash::
 	end
 
 AbandonedShip_HiddenFloorRooms_Text_BrightShinyTrash:
-	.string "Det er skinnende og lyst! Men det er bare\n"
-	.string "skrald…$"
+	.string "Det er skinnende og lyst! Men det er\n"
+	.string "bare skrald…$"
 
 
 

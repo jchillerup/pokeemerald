@@ -280,22 +280,23 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2:
 	.string "Din 2. runde kamp er næste. Er du klar?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals:
-	.string "Din semifinale kamp er næste. Er du klar?$"
+	.string "Din semifinale kamp er næste. Er du\n"
+	.string "klar?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals:
 	.string "Din sidste kamp er næste. Er du klar?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons:
-	.string "Vælg venligst de to POKéMON der skal dukke\n"
-	.string "op i kampen.$"
+	.string "Vælg venligst de to POKéMON der skal\n"
+	.string "dukke op i kampen.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay:
 	.string "Højre her, tak.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth:
 	.string "Tak fordi du deltog!\p"
-	.string "Jeg vil genoprette dine POKéMON til fuld\n"
-	.string "sundhed.$"
+	.string "Jeg vil genoprette dine POKéMON til\n"
+	.string "fuld sundhed.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete:
 	.string "Alle 1. runde kampe er blevet afsluttet.\p"
@@ -306,7 +307,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_Round2Complete:
 	.string "Disse er holdene, der gik videre!$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete:
-	.string "Alle semifinale kampe er blevet afsluttet.\p"
+	.string "Alle semifinale kampe er blevet\n"
+	.string "afsluttet.\p"
 	.string "Her er holdene, der avancerede!$"
 
 @ Unused
@@ -331,8 +333,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals:
 	.string "Er du klar?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer:
-	.string "Næste modstander for {PLAYER} er denne\n"
-	.string "TRÆNER.$"
+	.string "Næste modstander for {PLAYER} er\n"
+	.string "denne TRÆNER.$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1:
 	.string "Turneringen er i 1. runde.$"
@@ -350,8 +352,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame:
 	.string "Vil du gemme og afslutte spillet?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge:
-	.string "Vil du trække dig fra din Battle Tournament\n"
-	.string "udfordring?$"
+	.string "Vil du trække dig fra din Battle\n"
+	.string "Tournament udfordring?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait:
 	.string "Jeg gemmer dine data. Vent venligst.$"
@@ -362,7 +364,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch:
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver:
 	.string "Tillykke med at avancere til finalen.\p"
-	.string "Til finalen vil du udfordre DOME ACE TUCKER.\p"
+	.string "Til finalen vil du udfordre DOME ACE\n"
+	.string "TUCKER.\p"
 	.string "Er du klar?$"
 
 @ Identical to ReadyForTuckerSilver
@@ -374,8 +377,8 @@ BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold:
 	.string "Er du klar?$"
 
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort:
-	.string "Dit endelige opgør mod TUCKER er næste. Er\n"
-	.string "du klar?$"
+	.string "Dit endelige opgør mod TUCKER er næste.\n"
+	.string "Er du klar?$"
 
 @ Identical again
 BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort:

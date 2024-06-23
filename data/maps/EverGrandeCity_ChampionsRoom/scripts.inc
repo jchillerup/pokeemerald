@@ -227,20 +227,20 @@ EverGrandeCity_ChampionsRoom_Movement_BirchArrives:
 
 EverGrandeCity_ChampionsRoom_Text_IntroSpeech:
 	.string "WALLACE: Velkommen, {PLAYER}{KUN}.\p"
-	.string "Den hændelse i SOOTOPOLIS BY… Det var en\n"
-	.string "fremragende præstation at stoppe den\l"
-	.string "krise helt alene.\p"
+	.string "Den hændelse i SOOTOPOLIS BY… Det var\n"
+	.string "en fremragende præstation at stoppe\l"
+	.string "den krise helt alene.\p"
 	.string "Ups!\p"
-	.string "Det ville ikke være fair at sige, at du alene\n"
-	.string "afsluttede krisen.\p"
-	.string "Du overvandt den svære situation ved at\n"
-	.string "arbejde sammen med dine POKéMON.\p"
-	.string "Vi TRÆNERE opdrager POKéMON ved at give\n"
-	.string "dem ting og undervise dem i nye\l"
+	.string "Det ville ikke være fair at sige, at du\n"
+	.string "alene afsluttede krisen.\p"
+	.string "Du overvandt den svære situation ved\n"
+	.string "at arbejde sammen med dine POKéMON.\p"
+	.string "Vi TRÆNERE opdrager POKéMON ved at\n"
+	.string "give dem ting og undervise dem i nye\l"
 	.string "kampteknikker.\p"
 	.string "Men vi lærer også mange ting af POKéMON.\p"
-	.string "Og her bliver dine præstationer testet mod,\n"
-	.string "hvad andre ligesom dig har opnået.\p"
+	.string "Og her bliver dine præstationer testet\n"
+	.string "mod, hvad andre ligesom dig har opnået.\p"
 	.string "Nu!\p"
 	.string "Hvem kan danse mest elegant med deres\n"
 	.string "POKéMON i HOENN?\p"
@@ -257,16 +257,17 @@ EverGrandeCity_ChampionsRoom_Text_Defeat:
 EverGrandeCity_ChampionsRoom_Text_PostBattleSpeech:
 	.string "WALLACE: Den POKéMON, som du sendte i\n"
 	.string "kamp…\p"
-	.string "Nogle gange dansede de som en forårsbrise,\n"
-	.string "og andre gange slog de til som lynet.\p"
-	.string "Med let, dog sikker elegances føring, førte\n"
-	.string "du dine POKéMON.\p"
-	.string "Selv jeg blev fortryllet af din mesterlige\n"
-	.string "præstation!\p"
-	.string "Du står nu på det strålende bjergtoppen af\n"
-	.string "POKéMON-LIGAEN.\p"
-	.string "Jeg udråber dig nu til at være den nye mester\n"
-	.string "af HOENN regionen…$"
+	.string "Nogle gange dansede de som en\n"
+	.string "forårsbrise, og andre gange slog de til\l"
+	.string "som lynet.\p"
+	.string "Med let, dog sikker elegances føring,\n"
+	.string "førte du dine POKéMON.\p"
+	.string "Selv jeg blev fortryllet af din\n"
+	.string "mesterlige præstation!\p"
+	.string "Du står nu på det strålende\n"
+	.string "bjergtoppen af POKéMON-LIGAEN.\p"
+	.string "Jeg udråber dig nu til at være den nye\n"
+	.string "mester af HOENN regionen…$"
 
 EverGrandeCity_ChampionsRoom_Text_MayAdvice:
 	.string "MAY: {PLAYER} KUN!\p"
@@ -280,8 +281,8 @@ EverGrandeCity_ChampionsRoom_Text_MayItsAlreadyOver:
 
 EverGrandeCity_ChampionsRoom_Text_BrendanAdvice:
 	.string "BRENDAN: {PLAYER}!\p"
-	.string "Hvad siger du til lidt råd, inden du udfordrer\n"
-	.string "CHAMPIONEN?…$"
+	.string "Hvad siger du til lidt råd, inden du\n"
+	.string "udfordrer CHAMPIONEN?…$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
 	.string "BRENDAN: {PLAYER}…\p"
@@ -291,17 +292,18 @@ EverGrandeCity_ChampionsRoom_Text_BrendanYouveWon:
 EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex:
 	.string "PROF. BIRCH: Ser du? Hvad sagde jeg,\n"
 	.string "{RIVAL}?\p"
-	.string "Sagde jeg ikke, at du ikke behøver bekymre\n"
-	.string "dig om {PLAYER}{KUN}?\p"
-	.string "… … … … … … … … {PLAYER}{KUN}, du har endelig gjort\n"
-	.string "det.\p"
-	.string "Da jeg hørte, at du besejrede din egen far i\n"
-	.string "PETALBURG GYM, tænkte jeg måske, at du\l"
-	.string "havde en chance…\p"
+	.string "Sagde jeg ikke, at du ikke behøver\n"
+	.string "bekymre dig om {PLAYER}{KUN}?\p"
+	.string "… … … … … … … … {PLAYER}{KUN}, du har endelig\n"
+	.string "gjort det.\p"
+	.string "Da jeg hørte, at du besejrede din egen\n"
+	.string "far i PETALBURG GYM, tænkte jeg måske,\l"
+	.string "at du havde en chance…\p"
 	.string "Men at tænke sig, du er faktisk blevet\n"
 	.string "mesteren!\p"
 	.string "Åh, ja!\p"
-	.string "Hvad blev der af din POKéDEX? Her, lad mig se.$"
+	.string "Hvad blev der af din POKéDEX? Her, lad\n"
+	.string "mig se.$"
 
 EverGrandeCity_ChampionsRoom_Text_BirchCongratulations:
 	.string "PROF. BIRCH: Nå, sådan! Tillykke!\p"
@@ -315,16 +317,16 @@ EverGrandeCity_ChampionsRoom_Text_WallaceComeWithMe:
 
 EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside:
 	.string "WALLACE: Undskyld, men…\p"
-	.string "Fra nu af kan kun de TRÆNERE, der er blevet\n"
-	.string "MESTRE, gå ind.\p"
+	.string "Fra nu af kan kun de TRÆNERE, der er\n"
+	.string "blevet MESTRE, gå ind.\p"
 	.string "Du bliver nødt til at vente udenfor med\n"
 	.string "PROF. BIRCH.$"
 
 EverGrandeCity_ChampionsRoom_Text_MayCongratulations:
 	.string "MAY: Støn…\p"
 	.string "… … … … … … … … … … … … … … … …\p"
-	.string "Jeg laver bare sjov! Det er okay! Sådan er\n"
-	.string "reglen!\p"
+	.string "Jeg laver bare sjov! Det er okay! Sådan\n"
+	.string "er reglen!\p"
 	.string "{PLAYER}{KUN}! Ærligt talt, tillykke!$"
 
 EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations:

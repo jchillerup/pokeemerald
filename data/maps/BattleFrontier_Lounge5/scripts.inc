@@ -53,31 +53,33 @@ BattleFrontier_Lounge5_Text_NatureGirlNoneShown::
 
 BattleFrontier_Lounge5_Text_NatureGirlHardy::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan li' at kæmpe! Den vil\n"
-	.string "kæmpe selvom den har mange smæld!$"
+	.string "Denne her siger, den kan li' at kæmpe!\n"
+	.string "Den vil kæmpe selvom den har mange\l"
+	.string "smæld!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlLonely::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den godt kan lide at være\n"
-	.string "snu! Men hvis den får nok auw, så slår den\l"
-	.string "igen!$"
+	.string "Denne her siger, den godt kan lide at\n"
+	.string "være snu! Men hvis den får nok auw, så\l"
+	.string "slår den igen!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlBrave::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den kan lide at kæmpe!\n"
-	.string "Men hvis den får nok 'auvv', vil den bekymre\l"
-	.string "sig om sig selv!$"
+	.string "Denne her siger, at den kan lide at\n"
+	.string "kæmpe! Men hvis den får nok 'auvv', vil\l"
+	.string "den bekymre sig om sig selv!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlAdamant::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den kan lide at kæmpe!\n"
-	.string "Den vil kæmpe selvom den har mange\l"
-	.string "småskrammer!$"
+	.string "Denne her siger, at den kan lide at\n"
+	.string "kæmpe! Den vil kæmpe selvom den har\l"
+	.string "mange småskrammer!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlNaughty::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den passer på sig selv!\n"
-	.string "Men hvis den får nok 'av av', så slår den igen!$"
+	.string "Denne her siger, at den passer på sig\n"
+	.string "selv! Men hvis den får nok 'av av', så\l"
+	.string "slår den igen!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlBold::
 	.string "Hmhm…\p"
@@ -87,37 +89,40 @@ BattleFrontier_Lounge5_Text_NatureGirlBold::
 
 BattleFrontier_Lounge5_Text_NatureGirlDocileNaiveQuietQuirky::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan lide at kæmpe! Den\n"
-	.string "vil kæmpe, selvom den har mange\l"
+	.string "Denne her siger, den kan lide at kæmpe!\n"
+	.string "Den vil kæmpe, selvom den har mange\l"
 	.string "småskrammer!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlRelaxed::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan lide at være snu! Men\n"
-	.string "hvis den får nok 'av!'s, så vil den slå tilbage!$"
+	.string "Denne her siger, den kan lide at være\n"
+	.string "snu! Men hvis den får nok 'av!'s, så vil\l"
+	.string "den slå tilbage!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlImpish::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan lide at kæmpe! Men\n"
-	.string "hvis den får nok øv,  vil den bekymre sig om sig\l"
-	.string "selv!$"
+	.string "Denne her siger, den kan lide at kæmpe!\n"
+	.string "Men hvis den får nok øv,  vil den bekymre\l"
+	.string "sig om sig selv!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlLax::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan lide at være snu! Den\n"
-	.string "siger, at den kan lide at være snu,\p"
+	.string "Denne her siger, den kan lide at være\n"
+	.string "snu! Den siger, at den kan lide at være\l"
+	.string "snu,\p"
 	.string "selvom den har masser af smuttere!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlTimid::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan li' at kæmpe! Men\n"
-	.string "hvis den får nok ømmer, bliver den snedig!$"
+	.string "Denne her siger, den kan li' at kæmpe!\n"
+	.string "Men hvis den får nok ømmer, bliver den\l"
+	.string "snedig!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlHasty::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den kan lide at kæmpe!\n"
-	.string "Den vil kæmpe selvom den har mange\l"
-	.string "småskrammer!$"
+	.string "Denne her siger, at den kan lide at\n"
+	.string "kæmpe! Den vil kæmpe selvom den har\l"
+	.string "mange småskrammer!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSerious::
 	.string "Hmhm…\p"
@@ -129,69 +134,76 @@ BattleFrontier_Lounge5_Text_NatureGirlSerious::
 BattleFrontier_Lounge5_Text_NatureGirlJolly::
 	.string "Hmhm…\p"
 	.string "Denne her siger, at den kan lide at være\n"
-	.string "snedig! Men hvis den får nok ouchies, vil den\l"
-	.string "bekymre sig om sig selv!$"
+	.string "snedig! Men hvis den får nok ouchies, vil\l"
+	.string "den bekymre sig om sig selv!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlModest::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den passer på sig selv!\n"
-	.string "Den siger, at den bekymrer sig om sig selv,\l"
-	.string "uanset om den har masser af ømme pletter!$"
+	.string "Denne her siger, at den passer på sig\n"
+	.string "selv! Den siger, at den bekymrer sig om\l"
+	.string "sig selv, uanset om den har masser af\l"
+	.string "ømme pletter!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlMild::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den passer på sig selv!\n"
-	.string "Men hvis den får nok smæk, bliver den snu!$"
+	.string "Denne her siger, at den passer på sig\n"
+	.string "selv! Men hvis den får nok smæk, bliver\l"
+	.string "den snu!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlBashful::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den passer på sig selv!\n"
-	.string "Den siger, at den bekymrer sig om sig selv\l"
-	.string "selvom den har mange sår!$"
+	.string "Denne her siger, at den passer på sig\n"
+	.string "selv! Den siger, at den bekymrer sig om\l"
+	.string "sig selv selvom den har mange sår!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlRash::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan lide at være snedig!\n"
-	.string "Den siger, den kan lide at være snedig selv\l"
-	.string "hvis den har masser af ømmer!$"
+	.string "Denne her siger, den kan lide at være\n"
+	.string "snedig! Den siger, den kan lide at være\l"
+	.string "snedig selv hvis den har masser af\l"
+	.string "ømmer!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlCalm::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den passer på sig selv!\n"
-	.string "Den siger, at den bekymrer sig om sig selv\l"
-	.string "selv hvis den har mange smutter!$"
+	.string "Denne her siger, at den passer på sig\n"
+	.string "selv! Den siger, at den bekymrer sig om\l"
+	.string "sig selv selv hvis den har mange\l"
+	.string "smutter!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlGentle::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den passer på sig selv! Men\n"
-	.string "hvis den får nok øv-øv, vil den slå igen!$"
+	.string "Denne her siger, den passer på sig selv!\n"
+	.string "Men hvis den får nok øv-øv, vil den slå\l"
+	.string "igen!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlSassy::
 	.string "Hmhm…\p"
-	.string "Denne her siger, den kan lide at kæmpe! Men\n"
-	.string "hvis den får nok 'auv', vil den blive lumsk!$"
+	.string "Denne her siger, den kan lide at kæmpe!\n"
+	.string "Men hvis den får nok 'auv', vil den blive\l"
+	.string "lumsk!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlCareful::
 	.string "Hmhm…\p"
-	.string "Denne her siger, at den passer på sig selv!\n"
-	.string "Men hvis den får nok piv, bliver den snu!$"
+	.string "Denne her siger, at den passer på sig\n"
+	.string "selv! Men hvis den får nok piv, bliver den\l"
+	.string "snu!$"
 
 BattleFrontier_Lounge5_Text_NatureGirlEgg::
-	.string "Det er skørt! Et ÆG sover! Jeg kan ikke tale\n"
-	.string "med det!$"
+	.string "Det er skørt! Et ÆG sover! Jeg kan ikke\n"
+	.string "tale med det!$"
 
 BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon::
-	.string "Hvor charmerende! Den lille frøken påstår,\n"
-	.string "at hun kan forstå POKéMON!$"
+	.string "Hvor charmerende! Den lille frøken\n"
+	.string "påstår, at hun kan forstå POKéMON!$"
 
 BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound::
-	.string "Jeg har en fornemmelse af, at den lille pige\n"
-	.string "siger noget dybsindigt.$"
+	.string "Jeg har en fornemmelse af, at den lille\n"
+	.string "pige siger noget dybsindigt.$"
 
 BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot::
 	.string "Jeg ved noget!\p"
-	.string "Den lille pige leger ved det røde hus rigtig\n"
-	.string "meget!$"
+	.string "Den lille pige leger ved det røde hus\n"
+	.string "rigtig meget!$"
 
 
 

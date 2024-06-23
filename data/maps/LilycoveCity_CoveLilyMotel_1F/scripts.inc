@@ -78,18 +78,18 @@ LilycoveCity_CoveLilyMotel_1F_Movement_OwnerReturn:
 	step_end
 
 LilycoveCity_CoveLilyMotel_1F_Text_GuestsDoubledByMascot:
-	.string "Hmm, så fordoblede de gæsterne ved at bruge\n"
-	.string "POKéMON som attraktioner?\p"
-	.string "Hmm, måske skulle jeg gøre en sød POKéMON\n"
-	.string "til vores kro's maskot.\p"
+	.string "Hmm, så fordoblede de gæsterne ved at\n"
+	.string "bruge POKéMON som attraktioner?\p"
+	.string "Hmm, måske skulle jeg gøre en sød\n"
+	.string "POKéMON til vores kro's maskot.\p"
 	.string "Jeg undrer mig over, om det vil tiltrække\n"
 	.string "flere gæster til at blive hos os?$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua:
-	.string "Åh, undskyld, undskyld! Jeg var for meget\n"
-	.string "optaget af at se tv!\p"
-	.string "Siden HOLD AQUA kom til byen, har turisterne\n"
-	.string "holdt sig væk.$"
+	.string "Åh, undskyld, undskyld! Jeg var for\n"
+	.string "meget optaget af at se tv!\p"
+	.string "Siden HOLD AQUA kom til byen, har\n"
+	.string "turisterne holdt sig væk.$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV:
 	.string "Hej, nede foran! Jeg kan ikke se\n"
@@ -110,11 +110,12 @@ LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted:
 	.string "HIDEOUT.\p"
 	.string "Takket være det har vi lige fået en\n"
 	.string "reservation fra en stor gruppe.\p"
-	.string "Det var et firma kaldet… Øh… GAME noget...$"
+	.string "Det var et firma kaldet… Øh… GAME\n"
+	.string "noget...$"
 
 LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
-	.string "Fantastisk! En husvagt POKéMON fangede\n"
-	.string "en indbrudstyv?\p"
+	.string "Fantastisk! En husvagt POKéMON\n"
+	.string "fangede en indbrudstyv?\p"
 	.string "Det er noget. Hvis vi havde en robust\n"
 	.string "POKéMON som vagthund…\p"
 	.string "Kunne vi kunne give vores gæster bedre\n"
@@ -123,8 +124,8 @@ LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar:
 LilycoveCity_CoveLilyMotel_1F_Text_BetterGetWorkingOnGuestsDinner:
 	.string "Åh, undskyld, undskyld! Jeg var for dybt\n"
 	.string "optaget af at se TV.\p"
-	.string "Åh, ja. En stor gruppe gæster ankom for lidt\n"
-	.string "siden.\p"
+	.string "Åh, ja. En stor gruppe gæster ankom for\n"
+	.string "lidt siden.\p"
 	.string "De reserverede som GAME FREAK, så jeg\n"
 	.string "antager, de laver spil.\p"
 	.string "Åh-åh, jeg burde nok gå i gang med deres\n"

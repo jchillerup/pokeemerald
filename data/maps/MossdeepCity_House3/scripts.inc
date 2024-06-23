@@ -29,23 +29,25 @@ MossdeepCity_House3_EventScript_DeclineSuperRod::
 MossdeepCity_House3_Text_YouWantSuperRod:
 	.string "Hej TRÆNER! En SUPER STANG er virkelig\n"
 	.string "super!\p"
-	.string "Sig alt det du vil, men denne her kan fange\n"
-	.string "POKéMON fra havbunden!\p"
-	.string "Hvad synes du? Du vil gerne have den, ikke?$"
+	.string "Sig alt det du vil, men denne her kan\n"
+	.string "fange POKéMON fra havbunden!\p"
+	.string "Hvad synes du? Du vil gerne have den,\n"
+	.string "ikke?$"
 
 MossdeepCity_House3_Text_SuperRodIsSuper:
-	.string "Selvfølgelig, selvfølgelig! En SUPER STANG\n"
-	.string "er virkelig super!$"
+	.string "Selvfølgelig, selvfølgelig! En SUPER\n"
+	.string "STANG er virkelig super!$"
 
 MossdeepCity_House3_Text_TryDroppingRodInWater:
-	.string "Hvis der er vand, så prøv at slippe din STANG\n"
-	.string "ned og se hvad der bider!$"
+	.string "Hvis der er vand, så prøv at slippe din\n"
+	.string "STANG ned og se hvad der bider!$"
 
 MossdeepCity_House3_Text_DontYouLikeToFish:
 	.string "Hvad? Kan du ikke lide at fiske?$"
 
 MossdeepCity_House3_Text_GoAfterSeafloorPokemon:
-	.string "Jag dem på havets bund med din SUPERSTANG.$"
+	.string "Jag dem på havets bund med din\n"
+	.string "SUPERSTANG.$"
 
 
 

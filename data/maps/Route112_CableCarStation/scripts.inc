@@ -89,8 +89,8 @@ Route112_CableCarStation_Movement_ExitCableCar:
 	step_end
 
 Route112_CableCarStation_Text_CableCarReadyGetOn:
-	.string "Kabelbanen er klar til at køre op. Vil du med\n"
-	.string "den?$"
+	.string "Kabelbanen er klar til at køre op. Vil du\n"
+	.string "med den?$"
 
 Route112_CableCarStation_Text_StepThisWay:
 	.string "Vær sød at træde denne vej.$"

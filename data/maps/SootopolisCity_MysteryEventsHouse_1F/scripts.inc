@@ -168,11 +168,11 @@ SootopolisCity_MysteryEventsHouse_1F_Movement_OldManMoveAsideRight:
 	step_end
 
 SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles:
-	.string "Da jeg var ung, rejste jeg verden rundt som\n"
-	.string "en POKéMON TRÆNER.\p"
-	.string "Nu hvor jeg er blevet en gammel fugls, er min\n"
-	.string "eneste fornøjelse at se unge TRÆNERE\l"
-	.string "kæmpe.$"
+	.string "Da jeg var ung, rejste jeg verden rundt\n"
+	.string "som en POKéMON TRÆNER.\p"
+	.string "Nu hvor jeg er blevet en gammel fugls,\n"
+	.string "er min eneste fornøjelse at se unge\l"
+	.string "TRÆNERE kæmpe.$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked:
 .string "Døren ser ud til at være låst.$"
@@ -183,14 +183,14 @@ SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer:
 	.string "Vil du udfordre {STR_VAR_1}?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle:
-	.string "Vil du ikke kæmpe? Jeg er skuffet at jeg ikke\n"
-	.string "kan se dig kæmpe...$"
+	.string "Vil du ikke kæmpe? Jeg er skuffet at jeg\n"
+	.string "ikke kan se dig kæmpe...$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3:
 	.string "Åh, godt, godt!\p"
 	.string "Men mit hus er ikke så stabilt.\p"
-	.string "Kunne jeg bede dig om at holde det til en\n"
-	.string "3-mod-3 kamp?$"
+	.string "Kunne jeg bede dig om at holde det til\n"
+	.string "en 3-mod-3 kamp?$"
 
 SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle:
 	.string "Før I to kæmper, burde I gemme jeres\n"
@@ -208,8 +208,8 @@ SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw:
 
 SootopolisCity_MysteryEventsHouse_1F_Text_BrilliantStandoff:
 	.string "Så blev det en stående stilling.\p"
-	.string "Det var en fantastisk kamp, hvor ingen side\n"
-	.string "gav en tomme efter!$"
+	.string "Det var en fantastisk kamp, hvor ingen\n"
+	.string "side gav en tomme efter!$"
 
 @ Unused
 SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Won:
@@ -217,8 +217,8 @@ SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Won:
 
 SootopolisCity_MysteryEventsHouse_1F_Text_ThatWasSuperlative:
 	.string "Det var fremragende!\p"
-	.string "Det var ligesom at se mig selv i min ungdom\n"
-	.string "igen!$"
+	.string "Det var ligesom at se mig selv i min\n"
+	.string "ungdom igen!$"
 
 @ Unused
 	.string "{STR_VAR_1}$"

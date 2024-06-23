@@ -62,26 +62,27 @@ EverGrandeCity_PhoebesRoom_EventScript_Defeated::
 
 EverGrandeCity_PhoebesRoom_Text_IntroSpeech:
 	.string "Ahahaha!\p"
-	.string "Jeg er PHOEBE fra DE FIRE MÆGTIGE. Jeg har\n"
-	.string "trænet på MT. PYRE.\p"
-	.string "Mens jeg trænede, har jeg opnået evnen til\n"
-	.string "at kommunikere med GHOST-typens\l"
+	.string "Jeg er PHOEBE fra DE FIRE MÆGTIGE. Jeg\n"
+	.string "har trænet på MT. PYRE.\p"
+	.string "Mens jeg trænede, har jeg opnået evnen\n"
+	.string "til at kommunikere med GHOST-typens\l"
 	.string "POKéMON.\p"
-	.string "Ja, båndet jeg har udviklet med POKéMON er\n"
-	.string "ekstremt tæt.\p"
-	.string "Så kom nu, prøv bare og se om du overhovedet\n"
-	.string "kan påføre mine POKéMON skade!$"
+	.string "Ja, båndet jeg har udviklet med POKéMON\n"
+	.string "er ekstremt tæt.\p"
+	.string "Så kom nu, prøv bare og se om du\n"
+	.string "overhovedet kan påføre mine POKéMON\l"
+	.string "skade!$"
 
 EverGrandeCity_PhoebesRoom_Text_Defeat:
 	.string "Åh, pokkers. Jeg har været og mistet.$"
 
 EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech:
-	.string "Der er helt sikkert et bånd mellem dig og din\n"
-	.string "POKéMON også.\p"
-	.string "Jeg erkendte det ikke, så det er naturligt,\n"
-	.string "at jeg tabte.\p"
-	.string "Ja, jeg vil gerne se, hvor langt dit bånd vil\n"
-	.string "føre dig.\p"
+	.string "Der er helt sikkert et bånd mellem dig\n"
+	.string "og din POKéMON også.\p"
+	.string "Jeg erkendte det ikke, så det er\n"
+	.string "naturligt, at jeg tabte.\p"
+	.string "Ja, jeg vil gerne se, hvor langt dit bånd\n"
+	.string "vil føre dig.\p"
 	.string "Fortsæt endelig til det næste rum.$"
 
 

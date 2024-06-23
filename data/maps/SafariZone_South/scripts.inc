@@ -152,3 +152,4 @@ SafariZone_Northeast_EventScript_Girl::
 	end
 
 
+

@@ -136,3 +136,4 @@ ShoalCave_LowTideInnerRoom_EventScript_ShoalSalt2::
 	end
 
 
+

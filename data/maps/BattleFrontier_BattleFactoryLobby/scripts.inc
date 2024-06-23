@@ -325,8 +325,8 @@ BattleFrontier_BattleFactoryLobby_EventScript_ExitRules::
 	end
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle:
-	.string "Hvor intelligensen af TRÆNERE bliver sat på\n"
-	.string "prøve!\p"
+	.string "Hvor intelligensen af TRÆNERE bliver\n"
+	.string "sat på prøve!\p"
 	.string "Velkommen til KAMPFABRIKKEN!\p"
 	.string "Jeg er din guide til Battle Swap Single\n"
 	.string "Tournament.$"
@@ -337,19 +337,19 @@ BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge:
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge:
 	.string "Den Single Battle Swap Turnering er en\n"
-	.string "SINGLE BATTLE konkurrence, hvor der kun\l"
-	.string "bruges lejede POKéMON.\p"
-	.string "Først lånes der tre POKéMON specifikt til\n"
-	.string "dette event.\p"
-	.string "Brug de lejede POKéMON, du har fået, til en\n"
-	.string "SINGLE BATTLE.\p"
-	.string "Hvis du vinder, må du bytte en af dine lejede\n"
-	.string "POKéMON.\p"
+	.string "SINGLE BATTLE konkurrence, hvor der\l"
+	.string "kun bruges lejede POKéMON.\p"
+	.string "Først lånes der tre POKéMON specifikt\n"
+	.string "til dette event.\p"
+	.string "Brug de lejede POKéMON, du har fået, til\n"
+	.string "en SINGLE BATTLE.\p"
+	.string "Hvis du vinder, må du bytte en af dine\n"
+	.string "lejede POKéMON.\p"
 	.string "Gentag denne cyklus af kampe og\n"
-	.string "bytning--hvis du vinder syv gange i træk,\l"
-	.string "vil du tjene Kamp Point.\p"
-	.string "Hvis du vil afbryde din udfordring, så husk\n"
-	.string "at gemme spillet.\p"
+	.string "bytning--hvis du vinder syv gange i\l"
+	.string "træk, vil du tjene Kamp Point.\p"
+	.string "Hvis du vil afbryde din udfordring, så\n"
+	.string "husk at gemme spillet.\p"
 	.string "Hvis du ikke gemmer, bliver du\n"
 	.string "diskvalificeret fra din udfordring.$"
 
@@ -357,8 +357,8 @@ BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit:
 	.string "Vi glæder os til dit næste besøg.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode:
-	.string "Hvilket niveau vil du udfordre? Niveau 50\n"
-	.string "eller Åbent Niveau?$"
+	.string "Hvilket niveau vil du udfordre? Niveau\n"
+	.string "50 eller Åbent Niveau?$"
 
 BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge:
 	.string "Før du begynder din udfordring, skal jeg\n"
@@ -374,10 +374,11 @@ BattleFrontier_BattleFactoryLobby_Text_StepThisWay:
 
 BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults:
 	.string "Tak for din deltagelse!\p"
-	.string "Jeg vil returnere din POKéMON i bytte for\n"
-	.string "vores lejede POKéMON.\p"
+	.string "Jeg vil returnere din POKéMON i bytte\n"
+	.string "for vores lejede POKéMON.\p"
 	.string "Jeg skal også gemme\n"
-	.string "begivenhedsresultaterne. Vent venligst.$"
+	.string "begivenhedsresultaterne. Vent\l"
+	.string "venligst.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
@@ -385,8 +386,8 @@ BattleFrontier_BattleFactoryLobby_Text_ReturnMons:
 	.string "bytte for vores lejede POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins:
-	.string "Tillykke! Du har vundet syv på stribe Battle\n"
-	.string "Swap kampe!$"
+	.string "Tillykke! Du har vundet syv på stribe\n"
+	.string "Battle Swap kampe!$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak:
@@ -402,14 +403,15 @@ BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints:
 
 BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume:
 	.string "Vi har ventet på dig!\p"
-	.string "Inden vi fortsætter din udfordring, skal\n"
-	.string "jeg gemme spillet.$"
+	.string "Inden vi fortsætter din udfordring,\n"
+	.string "skal jeg gemme spillet.$"
 
 BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting:
-	.string "Jeg beklager at sige det, men du gemte ikke,\n"
-	.string "før du stoppede med at lege sidste gang.\p"
-	.string "Som et resultat er du diskvalificeret fra\n"
-	.string "din udfordring.$"
+	.string "Jeg beklager at sige det, men du gemte\n"
+	.string "ikke, før du stoppede med at lege sidste\l"
+	.string "gang.\p"
+	.string "Som et resultat er du diskvalificeret\n"
+	.string "fra din udfordring.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_WellReturnMons:
@@ -421,32 +423,34 @@ BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem:
 	.string "{STR_VAR_1}.$"
 
 BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle:
-	.string "Hvor trænernes intelligens bliver sat på\n"
-	.string "prøve!\p"
+	.string "Hvor trænernes intelligens bliver sat\n"
+	.string "på prøve!\p"
 	.string "Velkommen til KAMPFABRIKKEN!\p"
 	.string "Jeg er din guide til Battle Swap\n"
 	.string "Double-turneringen.$"
 
 BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge:
-	.string "Vil du tage kampen Swap Double udfordring?$"
+	.string "Vil du tage kampen Swap Double\n"
+	.string "udfordring?$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge:
-	.string "Den Store Kampbytte Dobbelt Turnering er\n"
-	.string "en DOBBELTKAMP konkurrence hvor der kun\l"
-	.string "bruges lejede POKéMON.\p"
-	.string "Først vil du låne tre POKéMON specielt til\n"
-	.string "denne begivenhed.\p"
-	.string "Brug de lejede POKéMON, du har fået tildelt,\p"
+	.string "Den Store Kampbytte Dobbelt Turnering\n"
+	.string "er en DOBBELTKAMP konkurrence hvor der\l"
+	.string "kun bruges lejede POKéMON.\p"
+	.string "Først vil du låne tre POKéMON specielt\n"
+	.string "til denne begivenhed.\p"
+	.string "Brug de lejede POKéMON, du har fået\n"
+	.string "tildelt,\p"
 	.string "og udfør en DOBBELTKAMP.\p"
-	.string "Hvis du vinder, må du bytte en af dine lejede\n"
-	.string "POKéMON.\p"
+	.string "Hvis du vinder, må du bytte en af dine\n"
+	.string "lejede POKéMON.\p"
 	.string "Gentag denne cyklus af kampe og\n"
-	.string "bytter--hvis du vinder syv gange i træk, vil\l"
-	.string "du optjene Kamp Point.\p"
-	.string "Hvis du ønsker at afbryde din udfordring,\n"
-	.string "så gem spillet.\p"
-	.string "Hvis du ikke gemmer før du afbryder, vil du\n"
-	.string "blive diskvalificeret.$"
+	.string "bytter--hvis du vinder syv gange i træk,\l"
+	.string "vil du optjene Kamp Point.\p"
+	.string "Hvis du ønsker at afbryde din\n"
+	.string "udfordring, så gem spillet.\p"
+	.string "Hvis du ikke gemmer før du afbryder, vil\n"
+	.string "du blive diskvalificeret.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
 	.string "Tillykke med at have besejret\n"
@@ -455,7 +459,8 @@ BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead:
 
 BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints:
 	.string "Som belønning for din viden og skarpe\n"
-	.string "intelligens, tildeles du disse Kamp Point.$"
+	.string "intelligens, tildeles du disse Kamp\l"
+	.string "Point.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave:
 	.string "Lad mig bytte din POKéMON med vores\n"
@@ -469,14 +474,14 @@ BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch:
 
 BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves:
 	.string "Hej! Dig dér!\p"
-	.string "Tænker du, at begivenhederne her er lette,\n"
-	.string "fordi du ikke behøver en opbygget hold af\l"
-	.string "POKéMON?\p"
-	.string "Jeg ville ikke være alt for sikker på at vinde\n"
-	.string "så let.\p"
+	.string "Tænker du, at begivenhederne her er\n"
+	.string "lette, fordi du ikke behøver en opbygget\l"
+	.string "hold af POKéMON?\p"
+	.string "Jeg ville ikke være alt for sikker på at\n"
+	.string "vinde så let.\p"
 	.string "Hvis du ikke har indgående kendskab til\n"
-	.string "POKéMON og deres angreb, bliver det svært\l"
-	.string "at fortsætte med at vinde.$"
+	.string "POKéMON og deres angreb, bliver det\l"
+	.string "svært at fortsætte med at vinde.$"
 
 BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
 	.string "Jeg byttede til en svag POKéMON… Jeg\n"
@@ -484,15 +489,16 @@ BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon:
 	.string "De fejede gulvet med os…$"
 
 BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons:
-	.string "Det har slet ikke gået min vej overhovedet.\p"
+	.string "Det har slet ikke gået min vej\n"
+	.string "overhovedet.\p"
 	.string "Du skal tjekke din modstanders POKéMON\n"
 	.string "under kampen for at se, om de er gode.$"
 
 BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints:
 	.string "Du ved, hvordan personalet her giver\p"
 	.string "dig nogle hint om din næste modstander?\p"
-	.string "Jeg er en voksen mand, og jeg har svært ved\n"
-	.string "at forstå deres hints.$"
+	.string "Jeg er en voksen mand, og jeg har svært\n"
+	.string "ved at forstå deres hints.$"
 
 @ Unused
 BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried:
@@ -512,38 +518,38 @@ BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading:
 BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules:
 	.string "I en Kampskifte-begivenhed kan du kun\n"
 	.string "bruge tre POKéMON.\p"
-	.string "Uanset om du lejer eller bytter, må dit hold\n"
-	.string "ikke have to eller flere af det samme\l"
-	.string "POKéMON.$"
+	.string "Uanset om du lejer eller bytter, må dit\n"
+	.string "hold ikke have to eller flere af det\l"
+	.string "samme POKéMON.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules:
-	.string "Du kan kun bytte POKéMON med TRÆNEREN, du\n"
-	.string "lige har besejret.\p"
-	.string "Du kan kun bytte til de POKéMON, der blev\n"
-	.string "brugt af den besejrede TRÆNER.$"
+	.string "Du kan kun bytte POKéMON med TRÆNEREN,\n"
+	.string "du lige har besejret.\p"
+	.string "Du kan kun bytte til de POKéMON, der\n"
+	.string "blev brugt af den besejrede TRÆNER.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules:
-	.string "Efter hver kamp, du vinder, kan du bytte til\n"
-	.string "en af dine besejrede modstanderes\l"
+	.string "Efter hver kamp, du vinder, kan du bytte\n"
+	.string "til en af dine besejrede modstanderes\l"
 	.string "POKéMON.\p"
 	.string "Du vil ikke kunne bytte POKéMON med den\n"
 	.string "syvende TRÆNER til arrangementet.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules:
-	.string "Der er to vigtige punkter at være opmærksom\n"
-	.string "på, når du bytter POKéMON.\p"
+	.string "Der er to vigtige punkter at være\n"
+	.string "opmærksom på, når du bytter POKéMON.\p"
 	.string "For det første kan du ikke tjekke\n"
-	.string "statistikkerne for den POKéMON, du er ved\l"
-	.string "at modtage.\p"
-	.string "For det andet står de POKéMON på dit hold i\n"
-	.string "rækkefølge, afhængigt af den rækkefølge,\l"
-	.string "du lejede dem i.\p"
+	.string "statistikkerne for den POKéMON, du er\l"
+	.string "ved at modtage.\p"
+	.string "For det andet står de POKéMON på dit\n"
+	.string "hold i rækkefølge, afhængigt af den\l"
+	.string "rækkefølge, du lejede dem i.\p"
 	.string "Denne rækkefølge forbliver uforandret,\n"
 	.string "selv når der byttes.$"
 
 BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules:
-	.string "I det åbne niveau er den lejede POKéMON og\n"
-	.string "modstandernes TRÆNERE POKéMON alle\l"
+	.string "I det åbne niveau er den lejede POKéMON\n"
+	.string "og modstandernes TRÆNERE POKéMON alle\l"
 	.string "Level 100.$"
 
 

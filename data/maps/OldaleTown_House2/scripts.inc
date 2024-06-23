@@ -16,8 +16,8 @@ OldaleTown_House2_Text_PokemonLevelUp:
 	.string "niveauop og blive stærkere.$"
 
 OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon:
-	.string "Hvis dine POKéMON bliver stærkere, kan du\n"
-	.string "komme længere væk herfra.$"
+	.string "Hvis dine POKéMON bliver stærkere, kan\n"
+	.string "du komme længere væk herfra.$"
 
 
 

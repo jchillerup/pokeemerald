@@ -346,57 +346,57 @@ OldaleTown_Movement_ReturnToOriginalPosition:
 	step_end
 
 OldaleTown_Text_SavingMyProgress:
-	.string "Jeg vil gerne holde pause, så jeg gemmer mine\n"
-	.string "fremskridt.$"
+	.string "Jeg vil gerne holde pause, så jeg gemmer\n"
+	.string "mine fremskridt.$"
 
 OldaleTown_Text_IWorkAtPokemonMart:
 	.string "Hej! Jeg arbejder i en POKéMON MART.\p"
 	.string "Vil du med mig?$"
 
 OldaleTown_Text_ThisIsAPokemonMart:
-	.string "Dette er en POKéMON-MARKED. Bare kig efter\n"
-	.string "vores blå tag.\p"
+	.string "Dette er en POKéMON-MARKED. Bare kig\n"
+	.string "efter vores blå tag.\p"
 	.string "Vi sælger forskellige varer, herunder\n"
 	.string "POKéBOLDE til at fange POKéMON.\p"
 	.string "Her, jeg vil gerne give dig dette som en\n"
 	.string "reklamegave.$"
 
 OldaleTown_Text_PotionExplanation:
-	.string "En ELIKSIR kan bruges når som helst, så den\n"
-	.string "er endnu mere nyttig end et POKéMON CENTER\l"
-	.string "i visse situationer.$"
+	.string "En ELIKSIR kan bruges når som helst, så\n"
+	.string "den er endnu mere nyttig end et POKéMON\l"
+	.string "CENTER i visse situationer.$"
 
 OldaleTown_Text_WaitDontComeInHere:
 	.string "Åh nej! Vent! Kom venligst ikke herind.\p"
 	.string "Jeg har lige opdaget fodsporene fra en\n"
 	.string "sjælden POKéMON!\p"
-	.string "Vent, indtil jeg er færdig med at skitsere\n"
-	.string "dem, okay?$"
+	.string "Vent, indtil jeg er færdig med at\n"
+	.string "skitsere dem, okay?$"
 
 OldaleTown_Text_DiscoveredFootprints:
 	.string "Jeg har lige opdaget fodsporene af en\n"
 	.string "sjælden POKéMON!\p"
-	.string "Vent, til jeg er færdig med at skitsere dem,\n"
-	.string "okay?$"
+	.string "Vent, til jeg er færdig med at skitsere\n"
+	.string "dem, okay?$"
 
 OldaleTown_Text_FinishedSketchingFootprints:
-	.string "Jeg er færdig med at tegne fodsporene fra\n"
-	.string "en sjælden POKéMON.\p"
+	.string "Jeg er færdig med at tegne fodsporene\n"
+	.string "fra en sjælden POKéMON.\p"
 	.string "Det viser sig, at det kun var mine egne\n"
 	.string "fodspor…$"
 
 OldaleTown_Text_MayLetsGoBack:
-	.string "MAY: {PLAYER}{KUN}! Herover! Lad os skynde os\n"
-	.string "hjem!$"
+	.string "MAY: {PLAYER}{KUN}! Herover! Lad os skynde\n"
+	.string "os hjem!$"
 
 OldaleTown_Text_BrendanLetsGoBack:
-	.string "BRENDAN: Jeg er på vej tilbage til min far's\n"
-	.string "LAB nu. {PLAYER}, du burde skynde dig\l"
-	.string "tilbage også.$"
+	.string "BRENDAN: Jeg er på vej tilbage til min\n"
+	.string "far's LAB nu. {PLAYER}, du burde\l"
+	.string "skynde dig tilbage også.$"
 
 OldaleTown_Text_TownSign:
-	.string "OLDALE BY “Hvor tingene begynder at være\n"
-	.string "knappe.”$"
+	.string "OLDALE BY “Hvor tingene begynder at\n"
+	.string "være knappe.”$"
 
 
 

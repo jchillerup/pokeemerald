@@ -37,10 +37,10 @@ LavaridgeTown_Mart_EventScript_OldWoman::
 	end
 
 LavaridgeTown_Mart_Text_XSpeedFirstStrike:
-	.string "Brug X HASTIGHED for at øge en POKéMONs\n"
-	.string "HASTIGHED i kamp.\p"
-	.string "Det vil hjælpe den med at komme først til\n"
-	.string "slaget--en afgjort fordel!$"
+	.string "Brug X HASTIGHED for at øge en\n"
+	.string "POKéMONs HASTIGHED i kamp.\p"
+	.string "Det vil hjælpe den med at komme først\n"
+	.string "til slaget--en afgjort fordel!$"
 
 LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney:
 	.string "På MT. CHIMNEY's top er der en lokal\n"

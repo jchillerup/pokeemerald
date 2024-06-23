@@ -63,11 +63,11 @@ FortreeCity_House1_EventScript_Zigzagoon::
 	end
 
 FortreeCity_House1_Text_YouWillTradeWontYou:
-	.string "Wrooooaaar! Jeg har brug for det! Jeg skal\n"
-	.string "have fat i en {STR_VAR_1}! Jeg vil gøre\l"
-	.string "alt for det!\p"
-	.string "…Uh… Hørte du det? Mit råb fra bunden af mit\n"
-	.string "hjerte?\p"
+	.string "Wrooooaaar! Jeg har brug for det! Jeg\n"
+	.string "skal have fat i en {STR_VAR_1}! Jeg\l"
+	.string "vil gøre alt for det!\p"
+	.string "…Uh… Hørte du det? Mit råb fra bunden\n"
+	.string "af mit hjerte?\p"
 	.string "Efter at have hørt det, vil du bytte din\n"
 	.string "{STR_VAR_1} for min {STR_VAR_2},\l"
 	.string "vil du ikke?$"
@@ -82,18 +82,18 @@ FortreeCity_House1_Text_ThisIsntAMon:
 	.string "{STR_VAR_1}.$"
 
 FortreeCity_House1_Text_YouWontTradeMe:
-	.string "Nej? Vil du ikke handle med mig? Selv efter\n"
-	.string "jeg åbnede mit hjerte for dig?$"
+	.string "Nej? Vil du ikke handle med mig? Selv\n"
+	.string "efter jeg åbnede mit hjerte for dig?$"
 
 FortreeCity_House1_Text_GoingToMakeVolbeatStrong:
-	.string "Jeg vil gøre VOLBEAT super stærk fra dette\n"
-	.string "øjeblik af!\p"
+	.string "Jeg vil gøre VOLBEAT super stærk fra\n"
+	.string "dette øjeblik af!\p"
 	.string "Jeg håber, du gør det samme med PLUSLE!$"
 
 FortreeCity_House1_Text_TradingMemoriesWithOthers:
 	.string "At bytte POKéMON med andre…\p"
-	.string "Det er som om, du bytter dine egne minder med\n"
-	.string "andre mennesker.$"
+	.string "Det er som om, du bytter dine egne\n"
+	.string "minder med andre mennesker.$"
 
 FortreeCity_House1_Text_Zigzagoon:
 	.string "ZIGZAGOON: Gummigum?$"

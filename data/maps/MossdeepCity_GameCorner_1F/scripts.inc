@@ -40,29 +40,29 @@ RS_MysteryEventsHouse_EventScript_Door::
 	end
 
 RS_MysteryEventsHouse_Text_OldManGreeting:
-	.string "Da jeg var ung, rejste jeg verden rundt som\n"
-	.string "en POKéMON TRÆNER.\p"
-	.string "Nu hvor jeg er blevet en gammel gøgler, er min\n"
-	.string "eneste underholdning at se unge TRÆNERE\l"
-	.string "kæmpe.$"
+	.string "Da jeg var ung, rejste jeg verden rundt\n"
+	.string "som en POKéMON TRÆNER.\p"
+	.string "Nu hvor jeg er blevet en gammel gøgler,\n"
+	.string "er min eneste underholdning at se unge\l"
+	.string "TRÆNERE kæmpe.$"
 
 RS_MysteryEventsHouse_Text_DoorIsLocked:
 .string "Døren ser ud til at være låst.$"
 
 RS_MysteryEventsHouse_Text_ChallengeVisitingTrainer:
-	.string "EN TRÆNER ved navn {STR_VAR_1} er på\n"
-	.string "besøg i mit hjem.\p"
+	.string "EN TRÆNER ved navn {STR_VAR_1} er\n"
+	.string "på besøg i mit hjem.\p"
 	.string "Vil du udfordre {STR_VAR_1}?$"
 
 RS_MysteryEventsHouse_Text_YouWontBattle:
-	.string "Vil du ikke kæmpe? Jeg er skuffet at jeg ikke\n"
-	.string "kan se dig kæmpe...$"
+	.string "Vil du ikke kæmpe? Jeg er skuffet at jeg\n"
+	.string "ikke kan se dig kæmpe...$"
 
 RS_MysteryEventsHouse_Text_KeepItToA3On3:
 	.string "Åh, godt, godt!\p"
 	.string "Men mit hus er ikke særlig solid.\p"
-	.string "Kunne jeg bede dig om at holde det nede til en\n"
-	.string "3-mod-3 kamp?$"
+	.string "Kunne jeg bede dig om at holde det nede\n"
+	.string "til en 3-mod-3 kamp?$"
 
 RS_MysteryEventsHouse_Text_SaveYourProgress:
 	.string "Inden I to kæmper, bør I gemme jeres\n"
@@ -73,18 +73,18 @@ RS_MysteryEventsHouse_Text_HopeToSeeAGoodMatch:
 
 RS_MysteryEventsHouse_Text_BattleTie:
 	.string "Så stod vi pludselig der.\p"
-	.string "Det var en fantastisk kamp, hvor ingen af\n"
-	.string "parterne gav en tomme!$"
+	.string "Det var en fantastisk kamp, hvor ingen\n"
+	.string "af parterne gav en tomme!$"
 
 RS_MysteryEventsHouse_Text_BattleWon:
 	.string "Det var suverænt!\p"
-	.string "Det var ligesom at se mig selv i min ungdom\n"
-	.string "igen!$"
+	.string "Det var ligesom at se mig selv i min\n"
+	.string "ungdom igen!$"
 
 RS_MysteryEventsHouse_Text_BattleLost:
 	.string "Åh, ØV for dig!\p"
-	.string "Men det var en god kamp. Jeg håber, du vinder\n"
-	.string "næste gang.$"
+	.string "Men det var en god kamp. Jeg håber, du\n"
+	.string "vinder næste gang.$"
 
 
 

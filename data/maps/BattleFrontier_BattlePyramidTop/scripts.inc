@@ -221,11 +221,11 @@ BattleFrontier_BattlePyramidTop_Movement_CameraPanUp:
 	step_end
 
 BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo:
-	.string "Det er en fornøjelse at se dig her! Du har\n"
-	.string "nået toppen af BATTLE PYRAMIDEN!\p"
+	.string "Det er en fornøjelse at se dig her! Du\n"
+	.string "har nået toppen af BATTLE PYRAMIDEN!\p"
 	.string "Over her er PYRAMIDENS udkigspost.\p"
-	.string "Det er et sted, der kun er åbent for dem, der\n"
-	.string "har erobret PYRAMIDEN.\p"
+	.string "Det er et sted, der kun er åbent for\n"
+	.string "dem, der har erobret PYRAMIDEN.\p"
 	.string "Nu, vær så god! Op med dig!$"
 
 BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
@@ -234,60 +234,61 @@ BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid:
 
 BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere:
 	.string "Det er en fornøjelse at se dig her!\p"
-	.string "Desværre var du kun sekundet fra at være\n"
-	.string "første!\p"
-	.string "Vores chef har allerede erobret PYRAMIDEN\n"
-	.string "foran dig.\p"
-	.string "Men, min unge opdagelsesrejsende… Du er en\n"
-	.string "TRÆNER!\p"
+	.string "Desværre var du kun sekundet fra at\n"
+	.string "være første!\p"
+	.string "Vores chef har allerede erobret\n"
+	.string "PYRAMIDEN foran dig.\p"
+	.string "Men, min unge opdagelsesrejsende… Du\n"
+	.string "er en TRÆNER!\p"
 	.string "Vis din kraft og tag æren for toppen fra\n"
 	.string "vores chef!\p"
-	.string "Nu, vær så venlig! Når du er klar, tag endnu et\n"
-	.string "skridt med mod!$"
+	.string "Nu, vær så venlig! Når du er klar, tag\n"
+	.string "endnu et skridt med mod!$"
 
 BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure:
 	.string "Unge eventyrer... \p"
-	.string "Ville du ikke være enig i, at udforskninger er\n"
-	.string "de mest storslåede af eventyr? \p"
+	.string "Ville du ikke være enig i, at\n"
+	.string "udforskninger er de mest storslåede af\l"
+	.string "eventyr? \p"
 	.string "Din egen kløgt! \p"
 	.string "Din egen styrke! \p"
 	.string "Din egen POKéMON! \p"
-	.string "Og frem for alt, kun din egen mod til at lede\n"
-	.string "dig gennem ukendte verdener...$"
+	.string "Og frem for alt, kun din egen mod til at\n"
+	.string "lede dig gennem ukendte verdener...$"
 
 BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon:
 	.string "Åh, ja, virkelig livet er storslået!\n"
 	.string "Storslået, ikke sandt?\p"
 	.string "Jeg er BRANDON!\p"
-	.string "Jeg er PYRAMIDEKONGEN, hvilket betyder,\n"
-	.string "at jeg er chefen her.\p"
+	.string "Jeg er PYRAMIDEKONGEN, hvilket\n"
+	.string "betyder, at jeg er chefen her.\p"
 	.string "De fleste kalder mig chefen!\p"
-	.string "At du kommer her, betyder at du har så meget\n"
-	.string "tillid til dig selv, ikke sandt?\p"
+	.string "At du kommer her, betyder at du har så\n"
+	.string "meget tillid til dig selv, ikke sandt?\p"
 	.string "Hahahah! Dette bliver spændende!$"
 
 BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle:
 	.string "Nå, så! Tag din mod til vores kamp!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease:
-	.string "BRANDON: Hahahah! Det var sjovt! Sjovt, ja,\n"
-	.string "det var det!\p"
-	.string "Godt klaret! Du har tjent anerkendelse! Din\n"
-	.string "FRONTIER PASS, tak!$"
+	.string "BRANDON: Hahahah! Det var sjovt! Sjovt,\n"
+	.string "ja, det var det!\p"
+	.string "Godt klaret! Du har tjent anerkendelse!\n"
+	.string "Din FRONTIER PASS, tak!$"
 
 BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol:
-	.string "Den Modige Symbol blev præget på FRONTIER\n"
-	.string "PASS!$"
+	.string "Den Modige Symbol blev præget på\n"
+	.string "FRONTIER PASS!$"
 
 BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting:
-	.string "Unge opdagelsesrejsende! Jeg glæder mig\n"
-	.string "til vores næste møde!$"
+	.string "Unge opdagelsesrejsende! Jeg glæder\n"
+	.string "mig til vores næste møde!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
 	.string "BRANDON: ...Du er endelig tilbage, unge\n"
 	.string "opdagelsesrejsende…\p"
-	.string "Dit kærlighed til eventyr synes at komme\n"
-	.string "dybt fra dit hjerte…\p"
+	.string "Dit kærlighed til eventyr synes at\n"
+	.string "komme dybt fra dit hjerte…\p"
 	.string "Ja… Du er præcis, som jeg var i min egen\n"
 	.string "ungdom…\p"
 	.string "... ... ...Åh...\p"
@@ -299,18 +300,18 @@ BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned:
 
 BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter:
 	.string "Nu så!\p"
-	.string "Jeg kan mærke, at min egencourage er ikke\n"
-	.string "helt på toppen!$"
+	.string "Jeg kan mærke, at min egencourage er\n"
+	.string "ikke helt på toppen!$"
 
 BattleFrontier_BattlePyramidTop_Text_EverythingYouHave:
 	.string "Alt hvad du har! Jeg er klar til det hele!$"
 
 BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis:
-	.string "BRANDON: Hahahah! Fremragende! Ja, det er\n"
-	.string "virkelig fantastisk!\p"
+	.string "BRANDON: Hahahah! Fremragende! Ja, det\n"
+	.string "er virkelig fantastisk!\p"
 	.string "Ung udforsker!\p"
-	.string "Du har slået mig gang på gang! Her! Jeg vil\n"
-	.string "have dig til at få dette!$"
+	.string "Du har slået mig gang på gang! Her! Jeg\n"
+	.string "vil have dig til at få dette!$"
 
 BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
 	.string "Den Modige Symbol tog en gylden glans!$"
@@ -318,11 +319,12 @@ BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine:
 BattleFrontier_BattlePyramidTop_Text_FarewellForNow:
 	.string "Åh, ja! Det viser bare, at jeg stadig har\n"
 	.string "meget at lære!\p"
-	.string "Må vores veje krydses igen! Farvel for nu,\n"
-	.string "unge opdagelsesrejsende!$"
+	.string "Må vores veje krydses igen! Farvel for\n"
+	.string "nu, unge opdagelsesrejsende!$"
 
 BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady:
-	.string "Nu, når du er klar, så tag mod og træd frem.$"
+	.string "Nu, når du er klar, så tag mod og træd\n"
+	.string "frem.$"
 
 
 

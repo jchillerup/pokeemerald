@@ -261,25 +261,25 @@ MauvilleCity_Gym_EventScript_GymStatue::
 MauvilleCity_Gym_Text_GymGuideAdvice:
 	.string "Hey, hvordan går det, CHAMPION- klarede\n"
 	.string "{PLAYER} sig godt?\p"
-	.string "WATTSON, lederen af MAUVILLEs GYM, bruger\n"
-	.string "ELEKTRISK-type POKéMON.\p"
+	.string "WATTSON, lederen af MAUVILLEs GYM,\n"
+	.string "bruger ELEKTRISK-type POKéMON.\p"
 	.string "Hvis du udfordrer ham med VAND-type\n"
 	.string "POKéMON, så vil han zappe dem! Bzzt!\p"
-	.string "Og han har installeret switch- styret døre\n"
-	.string "overalt i sit GYM! Eksentrisk!\p"
+	.string "Og han har installeret switch- styret\n"
+	.string "døre overalt i sit GYM! Eksentrisk!\p"
 	.string "Hey, gå efter det!$"
 
 MauvilleCity_Gym_Text_GymGuidePostVictory:
-	.string "Wow, du er elektrisk! Du har åbnet døren med\n"
-	.string "strøm!$"
+	.string "Wow, du er elektrisk! Du har åbnet døren\n"
+	.string "med strøm!$"
 
 MauvilleCity_Gym_Text_KirkIntro:
 	.string "Mit elektriske sind, det vil knuse din\n"
 	.string "ønskedrøm helt, whoa-yeahah!$"
 
 MauvilleCity_Gym_Text_KirkDefeat:
-	.string "Det var tilsluttet, pumpet op, overdreven\n"
-	.string "elektrisk, mand!$"
+	.string "Det var tilsluttet, pumpet op,\n"
+	.string "overdreven elektrisk, mand!$"
 
 MauvilleCity_Gym_Text_KirkPostBattle:
 	.string "POKéMON og sten, det hele handler om\n"
@@ -293,10 +293,10 @@ MauvilleCity_Gym_Text_ShawnDefeat:
 .string "Slukket og slukket ned…$"
 
 MauvilleCity_Gym_Text_ShawnPostBattle:
-	.string "WATTSON, vores GYM-LEDER, har været her i\n"
-	.string "lang, lang tid.\p"
-	.string "Han kæmpede endda før din far blev født, den\n"
-	.string "seje skarpe.$"
+	.string "WATTSON, vores GYM-LEDER, har været\n"
+	.string "her i lang, lang tid.\p"
+	.string "Han kæmpede endda før din far blev\n"
+	.string "født, den seje skarpe.$"
 
 MauvilleCity_Gym_Text_BenIntro:
 	.string "Denne GYM har gåder! Er det ikke sjovt?$"
@@ -305,21 +305,21 @@ MauvilleCity_Gym_Text_BenDefeat:
 .string "Det er ikke sjovt at tabe...$"
 
 MauvilleCity_Gym_Text_BenPostBattle:
-	.string "WATTSON siger, at han kan lide at opstille\n"
-	.string "små fælder med kontakter.$"
+	.string "WATTSON siger, at han kan lide at\n"
+	.string "opstille små fælder med kontakter.$"
 
 MauvilleCity_Gym_Text_VivianIntro:
-	.string "Med min charme og min POKéMON's moves, vil du\n"
-	.string "blive chokeret!$"
+	.string "Med min charme og min POKéMON's moves,\n"
+	.string "vil du blive chokeret!$"
 
 MauvilleCity_Gym_Text_VivianDefeat:
 .string "Jeg er chokeret over din kraft!$"
 
 MauvilleCity_Gym_Text_VivianPostBattle:
-	.string "Jeg har hørt, at MAUVILLE blev grundlagt af\n"
-	.string "WATTSON.\p"
-	.string "Han var en TRÆNER længe før vi blev TRÆNERE.\n"
-	.string "Han må vide alle mulige ting!$"
+	.string "Jeg har hørt, at MAUVILLE blev\n"
+	.string "grundlagt af WATTSON.\p"
+	.string "Han var en TRÆNER længe før vi blev\n"
+	.string "TRÆNERE. Han må vide alle mulige ting!$"
 
 MauvilleCity_Gym_Text_AngeloIntro:
 	.string "Jeg elsker skinnende ting!$"
@@ -328,42 +328,42 @@ MauvilleCity_Gym_Text_AngeloDefeat:
 	.string "Åh… Mine øjne er helt brændt ud…$"
 
 MauvilleCity_Gym_Text_AngeloPostBattle:
-	.string "MAUVILLE GYM's WATTSON har en skinnende\n"
-	.string "pande. Det gør mig glad!$"
+	.string "MAUVILLE GYM's WATTSON har en\n"
+	.string "skinnende pande. Det gør mig glad!$"
 
 MauvilleCity_Gym_Text_WattsonIntro:
-	.string "Jeg har opgivet mine planer om at om danne\n"
-	.string "byen, det har jeg.\p"
+	.string "Jeg har opgivet mine planer om at om\n"
+	.string "danne byen, det har jeg.\p"
 	.string "Så jeg bruger nu min tid på at lave\n"
 	.string "dør-fælder i min GYM.\p"
 	.string "Åh? Hvad laver du her?\p"
-	.string "Hvad siger du? Du siger, at du har klaret alle\n"
-	.string "mine fældede døre?\p"
+	.string "Hvad siger du? Du siger, at du har\n"
+	.string "klaret alle mine fældede døre?\p"
 	.string "Wahahahah! Det er morsomt!\p"
-	.string "Så vil jeg, WATTSON, LEADER af MAUVILLE GYM,\n"
-	.string "give dig en elektrisk\p"
+	.string "Så vil jeg, WATTSON, LEADER af MAUVILLE\n"
+	.string "GYM, give dig en elektrisk\p"
 	.string "oplevelse!$"
 
 MauvilleCity_Gym_Text_WattsonDefeat:
 	.string "Wahaha! Okay, jeg tabte!\p"
-	.string "Du fik mig virkelig til at spænde op! Her, tag\n"
-	.string "denne MÆRKE!$"
+	.string "Du fik mig virkelig til at spænde op! Her,\n"
+	.string "tag denne MÆRKE!$"
 
 MauvilleCity_Gym_Text_ReceivedDynamoBadge:
 	.string "{PLAYER} modtog DYNAMO-BADGEN fra\n"
 	.string "WATTSON.$"
 
 MauvilleCity_Gym_Text_ExplainDynamoBadgeTakeThis:
-	.string "Med DYNAMOBADGEN kan POKéMON bruge ROCK\n"
-	.string "SMASH uden for kampen.\p"
+	.string "Med DYNAMOBADGEN kan POKéMON bruge\n"
+	.string "ROCK SMASH uden for kampen.\p"
 	.string "Og det vil også gøre din POKéMON lidt\n"
 	.string "hurtigere.\p"
 	.string "Hmm… Du burde også tage dette med!$"
 
 MauvilleCity_Gym_Text_ExplainShockWave:
 	.string "Den TM34 der indeholder SHOCK WAVE.\p"
-	.string "Det er et pålideligt træk, der aldrig fejler!\n"
-	.string "Du kan regne med det!\p"
+	.string "Det er et pålideligt træk, der aldrig\n"
+	.string "fejler! Du kan regne med det!\p"
 	.string "… … … … … …$"
 
 MauvilleCity_Gym_Text_RegisteredWattson:
@@ -371,8 +371,8 @@ MauvilleCity_Gym_Text_RegisteredWattson:
 	.string "POKéNAV'en.$"
 
 MauvilleCity_Gym_Text_WattsonPostBattle:
-	.string "Jeg svulmer af optimisme ved synet af en\n"
-	.string "lovende UDDANNER som dig!$"
+	.string "Jeg svulmer af optimisme ved synet af\n"
+	.string "en lovende UDDANNER som dig!$"
 
 MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor:
 	.string "Hahaaha! Fremad, lille ven!$"
@@ -386,31 +386,33 @@ MauvilleCity_Gym_Text_GymStatueCertified:
 	.string "{PLAYER}$"
 
 MauvilleCity_Gym_Text_WattsonPreRematch:
-	.string "WATTSON: Ah-ha! Her kommer du endelig! Jeg\n"
-	.string "ved hvad du vil.\p"
+	.string "WATTSON: Ah-ha! Her kommer du endelig!\n"
+	.string "Jeg ved hvad du vil.\p"
 	.string "Du vil kæmpe mod mine POKéMON!\p"
 	.string "Wahahahaha!\p"
-	.string "Jeg vil lade gnister flyve fra dig! Sig ikke,\n"
-	.string "at jeg ikke advarede dig!$"
+	.string "Jeg vil lade gnister flyve fra dig! Sig\n"
+	.string "ikke, at jeg ikke advarede dig!$"
 
 MauvilleCity_Gym_Text_WattsonRematchDefeat:
 	.string "Åh nej… Vores batterier løb tør…$"
 
 MauvilleCity_Gym_Text_WattsonPostRematch:
-	.string "WATTSON: Vi bliver nødt til at oplade vores\n"
-	.string "batterier igen.\p"
-	.string "Når vi er helt opladet, vil vi glædeligt tage\n"
-	.string "imod din udfordring.\p"
-	.string "Så kom tilbage en anden gang, vil du ikke?$"
+	.string "WATTSON: Vi bliver nødt til at oplade\n"
+	.string "vores batterier igen.\p"
+	.string "Når vi er helt opladet, vil vi glædeligt\n"
+	.string "tage imod din udfordring.\p"
+	.string "Så kom tilbage en anden gang, vil du\n"
+	.string "ikke?$"
 
 MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons:
-	.string "WATTSON: Ah-ha! Here at last! I know what\n"
-	.string "you want. You want to battle my POKéMON!\p"
+	.string "WATTSON: Ah-ha! Here at last! I know\n"
+	.string "what you want. You want to battle my\l"
+	.string "POKéMON!\p"
 	.string "Wahahahaha!\p"
-	.string "Oops! Wait! You've only one POKéMON with\n"
-	.string "you!\p"
-	.string "Come see me with two or more POKéMON, all\n"
-	.string "right?$"
+	.string "Oops! Wait! You've only one POKéMON\n"
+	.string "with you!\p"
+	.string "Come see me with two or more POKéMON,\n"
+	.string "all right?$"
 
 
 

@@ -49,11 +49,11 @@ ShoalCave_LowTideLowerRoom_EventScript_ReceivedFocusBand::
 	end
 
 ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus:
-	.string "Den gennemtrængende kulde omkring disse\n"
-	.string "egne er til hinder for træning.\p"
+	.string "Den gennemtrængende kulde omkring\n"
+	.string "disse egne er til hinder for træning.\p"
 	.string "Men med fokus kan man overvinde det!\p"
-	.string "Med dette FOKUSBÅND, sæt dig fast og hold\n"
-	.string "stand mod kulden!$"
+	.string "Med dette FOKUSBÅND, sæt dig fast og\n"
+	.string "hold stand mod kulden!$"
 
 ShoalCave_LowTideLowerRoom_Text_EverythingStartsWithFocus:
 .string "Alt starter med fokus!$"

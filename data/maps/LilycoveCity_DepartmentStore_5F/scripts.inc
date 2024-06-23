@@ -156,17 +156,18 @@ LilycoveCity_DepartmentStore_5F_EventScript_LittleGirl::
 
 LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls:
 	.string "Dette sted er fuld af søde DUKKER.\p"
-	.string "Jeg burde købe nogle til mig selv, i stedet\n"
-	.string "for kun til mine børn.$"
+	.string "Jeg burde købe nogle til mig selv, i\n"
+	.string "stedet for kun til mine børn.$"
 
 LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon:
 	.string "Jeg er ikke stor nok til at opdrætte\n"
-	.string "POKéMON, så jeg får i stedet en sød DUKKE.$"
+	.string "POKéMON, så jeg får i stedet en sød\l"
+	.string "DUKKE.$"
 
 LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere:
 	.string "De sælger mange søde MÅTTER her.\p"
-	.string "Jeg spekulerer på, hvilken jeg skal vælge?\n"
-	.string "Måske køber jeg dem alle…$"
+	.string "Jeg spekulerer på, hvilken jeg skal\n"
+	.string "vælge? Måske køber jeg dem alle…$"
 
 LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather:
 	.string "Jeg tror de lukkede tagterrassen fordi\n"

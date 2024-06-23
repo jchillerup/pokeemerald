@@ -43,21 +43,23 @@ MauvilleCity_House2_EventScript_DeclineTrade::
 	end
 
 MauvilleCity_House2_Text_BuyHarborMailAtSlateport:
-	.string "Hvis jeg havde en CYKEL, ville det være nemt\n"
-	.string "at cykle til SLATEPORT for at handle.\p"
+	.string "Hvis jeg havde en CYKEL, ville det være\n"
+	.string "nemt at cykle til SLATEPORT for at\l"
+	.string "handle.\p"
 	.string "Så kunne jeg købe HAVNEPOSTEN i\n"
 	.string "POKéMON-MARKEDET i SLATEPORT...$"
 
 MauvilleCity_House2_Text_TradeHarborMailForCoinCase:
-	.string "Åh! Har du HARBOR MAIL? Vil du bytte den for\n"
-	.string "en COIN CASE?$"
+	.string "Åh! Har du HARBOR MAIL? Vil du bytte\n"
+	.string "den for en COIN CASE?$"
 
 MauvilleCity_House2_Text_IllTradeYouCoinCase:
-	.string "Åh, jeg er så glad! Okay, jeg vil bytte dig en\n"
-	.string "MØNTHOLDER!$"
+	.string "Åh, jeg er så glad! Okay, jeg vil bytte\n"
+	.string "dig en MØNTHOLDER!$"
 
 MauvilleCity_House2_Text_UseCoinCaseAtGameCorner:
-	.string "Den MØNTPUNG kan bruges på SPILLEKROGEN.$"
+	.string "Den MØNTPUNG kan bruges på\n"
+	.string "SPILLEKROGEN.$"
 
 MauvilleCity_House2_Text_ThatsDisappointing:
 	.string "Åh, det er skuffende.\p"

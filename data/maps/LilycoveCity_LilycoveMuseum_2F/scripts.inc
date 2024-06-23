@@ -222,21 +222,21 @@ LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall:
 	.string "Dette er vores særlige udstillingshal.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall:
-	.string "Som du tydeligt kan se, er der ikke en eneste\n"
-	.string "maleri udstillet.\p"
-	.string "Her ønsker jeg ikke at udstille værker af\n"
-	.string "såkaldt klassisk kunst.\p"
+	.string "Som du tydeligt kan se, er der ikke en\n"
+	.string "eneste maleri udstillet.\p"
+	.string "Her ønsker jeg ikke at udstille værker\n"
+	.string "af såkaldt klassisk kunst.\p"
 	.string "Den slags klassiske værker kan du se på\n"
 	.string "vores stueetage.\p"
-	.string "Jeg ønsker at udstille værker, der er langt\n"
-	.string "forskellige fra klassikerne.\p"
-	.string "Kunst er trods alt ikke begrænset til gamle,\n"
-	.string "berømte værker!\p"
+	.string "Jeg ønsker at udstille værker, der er\n"
+	.string "langt forskellige fra klassikerne.\p"
+	.string "Kunst er trods alt ikke begrænset til\n"
+	.string "gamle, berømte værker!\p"
 	.string "Denne udstillingssal vil jeg gerne fylde\n"
 	.string "med…\p"
-	.string "Moderne og livlige kunstværker af POKéMON,\n"
-	.string "der tilsyneladende er klar til at springe\l"
-	.string "frem i en herlig liv!$"
+	.string "Moderne og livlige kunstværker af\n"
+	.string "POKéMON, der tilsyneladende er klar til\l"
+	.string "at springe frem i en herlig liv!$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
 	.string "Undskyld, jeg mente det ikke som om jeg\n"
@@ -245,17 +245,18 @@ LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit:
 	.string "velforbundet…\p"
 	.string "Du støder sikkert på livlige POKéMON og\n"
 	.string "kunstværker med dem.\p"
-	.string "Hvis du skulle finde sådan et maleri, må vi\n"
-	.string "bede dig om at få kunstnerens tilladelse til\l"
-	.string "at udstille det her?$"
+	.string "Hvis du skulle finde sådan et maleri, må\n"
+	.string "vi bede dig om at få kunstnerens\l"
+	.string "tilladelse til at udstille det her?$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit:
-	.string "Jeg ønsker at fylde denne udstillingssal\n"
-	.string "med moderne og livlige malerier af POKéMON.$"
+	.string "Jeg ønsker at fylde denne\n"
+	.string "udstillingssal med moderne og livlige\l"
+	.string "malerier af POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting:
-	.string "Takket være dig har vi tilføjet et nyt maleri\n"
-	.string "til vores samling!\p"
+	.string "Takket være dig har vi tilføjet et nyt\n"
+	.string "maleri til vores samling!\p"
 	.string "Jeg har hørt, at det forestiller din\n"
 	.string "POKéMON. Virkelig fantastisk!\p"
 	.string "Mange, mange tak!$"
@@ -266,10 +267,10 @@ LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer:
 LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests:
 	.string "Er det ikke fantastisk, dette udvalg af\n"
 	.string "malerier!\p"
-	.string "Hver eneste af dem fejlfri! Ingen bedre end\n"
-	.string "en anden!\p"
-	.string "Disse malerier har tiltrukket flere gæster\n"
-	.string "til vores KUNSTMUSEUM.\p"
+	.string "Hver eneste af dem fejlfri! Ingen bedre\n"
+	.string "end en anden!\p"
+	.string "Disse malerier har tiltrukket flere\n"
+	.string "gæster til vores KUNSTMUSEUM.\p"
 	.string "Jeg takker oprigtigt dig, {PLAYER}.\n"
 	.string "Dette er min drøm, der går i opfyldelse!$"
 
@@ -278,13 +279,13 @@ LilycoveCity_LilycoveMuseum_2F_Text_TokenOfGratitude:
 	.string "taknemmelighed.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_KeepThisForYou:
-	.string "Jeg vil gemme dette for dig, indtil vi mødes\n"
-	.string "igen.$"
+	.string "Jeg vil gemme dette for dig, indtil vi\n"
+	.string "mødes igen.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit:
 	.string "Åh, så godt at se dig, {PLAYER}!\p"
-	.string "Det er en ære at have dig på besøg på dine\n"
-	.string "travle rejser.\p"
+	.string "Det er en ære at have dig på besøg på\n"
+	.string "dine travle rejser.\p"
 	.string "Tag det roligt og nyd dit besøg hos os.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame:
@@ -311,22 +312,22 @@ LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon:
 	.string "Det er et maleri af POKéMON.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe:
-	.string "Jeg har været væk i et stykke tid, så de nye\n"
-	.string "malerier heroppe overraskede mig.\p"
+	.string "Jeg har været væk i et stykke tid, så de\n"
+	.string "nye malerier heroppe overraskede mig.\p"
 	.string "Jeg ville ønske, at nogen ville male mine\n"
 	.string "POKéMON så smukt.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing:
-	.string "Nå... Så det her er, hvor de viser de aktuelle\n"
-	.string "POKéMON-malerier.\p"
-	.string "Jeg må sige, disse nye malerier er virkelig\n"
-	.string "underholdende.$"
+	.string "Nå... Så det her er, hvor de viser de\n"
+	.string "aktuelle POKéMON-malerier.\p"
+	.string "Jeg må sige, disse nye malerier er\n"
+	.string "virkelig underholdende.$"
 
 LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon:
-	.string "Wow, er det sandt? Disse malerier er af din\n"
-	.string "POKéMON.\p"
-	.string "Er det ikke bare den ultimative glæde for en\n"
-	.string "TRÆNER?$"
+	.string "Wow, er det sandt? Disse malerier er af\n"
+	.string "din POKéMON.\p"
+	.string "Er det ikke bare den ultimative glæde\n"
+	.string "for en TRÆNER?$"
 
 
 

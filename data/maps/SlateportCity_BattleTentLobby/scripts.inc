@@ -277,37 +277,38 @@ SlateportCity_BattleTentLobby_EventScript_ExitRules::
 	end
 
 SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe:
-	.string "Så, som, jeg kunne ikke finde nogen POKéMON,\n"
-	.string "der var, ligesom, til mig.\p"
-	.string "Så tænkte jeg, som, hey, jeg burde klage til\n"
-	.string "fyren dér?\p"
+	.string "Så, som, jeg kunne ikke finde nogen\n"
+	.string "POKéMON, der var, ligesom, til mig.\p"
+	.string "Så tænkte jeg, som, hey, jeg burde klage\n"
+	.string "til fyren dér?\p"
 	.string "Og han ville ikke lytte til mig, som, hey!\n"
 	.string "Sådan en nedtur, mand!\p"
-	.string "Hey, som, dig! Bare luk, du ved? Bare, du ved,\n"
-	.string "tag dette!$"
+	.string "Hey, som, dig! Bare luk, du ved? Bare, du\n"
+	.string "ved, tag dette!$"
 
 SlateportCity_BattleTentLobby_Text_ExplainTorment:
-	.string "Det der er ligesom TM41, ved du? Hey, det er\n"
-	.string "TORMENT, hører du mig?\p"
-	.string "Sådan, det tillader ikke den anden at bruge\n"
-	.string "den samme move to gange i træk, ser du?\p"
-	.string "Hey, nu hør her, ligesom, jeg pålægger dig\n"
-	.string "ikke en plage!$"
+	.string "Det der er ligesom TM41, ved du? Hey,\n"
+	.string "det er TORMENT, hører du mig?\p"
+	.string "Sådan, det tillader ikke den anden at\n"
+	.string "bruge den samme move to gange i træk,\l"
+	.string "ser du?\p"
+	.string "Hey, nu hør her, ligesom, jeg pålægger\n"
+	.string "dig ikke en plage!$"
 
 SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons:
-	.string "Jeg er ikke rigtig vild med INSEKT POKéMON,\n"
-	.string "men måske prøver jeg at bruge nogle for at\l"
-	.string "variere lidt.\p"
-	.string "Hvem ved, jeg kunne måske endda begynde at\n"
-	.string "kunne lide dem!$"
+	.string "Jeg er ikke rigtig vild med INSEKT\n"
+	.string "POKéMON, men måske prøver jeg at bruge\l"
+	.string "nogle for at variere lidt.\p"
+	.string "Hvem ved, jeg kunne måske endda\n"
+	.string "begynde at kunne lide dem!$"
 
 SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons:
-	.string "Du kan kæmpe alt det du vil her, selv hvis du\n"
-	.string "ikke har nogen seje POKéMON.$"
+	.string "Du kan kæmpe alt det du vil her, selv\n"
+	.string "hvis du ikke har nogen seje POKéMON.$"
 
 SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection:
-	.string "Ville det ikke være dejligt, hvis de havde et\n"
-	.string "større udvalg?$"
+	.string "Ville det ikke være dejligt, hvis de\n"
+	.string "havde et større udvalg?$"
 
 
 

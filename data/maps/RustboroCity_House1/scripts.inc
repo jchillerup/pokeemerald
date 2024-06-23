@@ -54,8 +54,8 @@ RustboroCity_House1_EventScript_Hiker::
 RustboroCity_House1_Text_IllTradeIfYouWant:
 	.string "Hvad? Min POKéMON er sød? Selvfølgelig\n"
 	.string "vidste jeg det.\p"
-	.string "Men hvis du virkelig vil, er jeg villig til at\n"
-	.string "bytte den med dig.\p"
+	.string "Men hvis du virkelig vil, er jeg villig til\n"
+	.string "at bytte den med dig.\p"
 	.string "Jeg bytter min {STR_VAR_2} for en\n"
 	.string "{STR_VAR_1}, hvis du vil.$"
 
@@ -67,8 +67,8 @@ RustboroCity_House1_Text_DoesntLookLikeMonToMe:
 	.string "{STR_VAR_1} for mig.$"
 
 RustboroCity_House1_Text_YouDontWantToThatsOkay:
-	.string "Åh, hvis du ikke har lyst, er det okay. Men min\n"
-	.string "POKéMON er sød, ved du…$"
+	.string "Åh, hvis du ikke har lyst, er det okay.\n"
+	.string "Men min POKéMON er sød, ved du…$"
 
 RustboroCity_House1_Text_AnyPokemonCanBeCute:
 	.string "du opdrager den med omhu og venlighed.$"
@@ -76,8 +76,8 @@ RustboroCity_House1_Text_AnyPokemonCanBeCute:
 RustboroCity_House1_Text_AllSortsOfPlaces:
 	.string "På alle mulige steder er der alle mulige\n"
 	.string "POKéMON og mennesker.\p"
-	.string "Jeg synes, at det er fascinerende, så jeg\n"
-	.string "besøger alle mulige steder.$"
+	.string "Jeg synes, at det er fascinerende, så\n"
+	.string "jeg besøger alle mulige steder.$"
 
 
 

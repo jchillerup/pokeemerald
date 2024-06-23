@@ -279,8 +279,8 @@ PlayersHouse_2F_Text_ClockIsStopped:
 	.string "Du må hellere stille det!$"
 
 PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
-	.string "MOR: {PLAYER}, hvordan syn's du om din nye\n"
-	.string "værelse?\p"
+	.string "MOR: {PLAYER}, hvordan syn's du om din\n"
+	.string "nye værelse?\p"
 	.string "Super! Alt er ryddeligt nu!\p"
 	.string "De har også flyttet alt nedenunder.\p"
 	.string "POKéMON-flyttefolk er så praktiske!\p"
@@ -288,9 +288,10 @@ PlayersHouse_2F_Text_HowDoYouLikeYourRoom:
 
 PlayersHouse_2F_Text_Notebook:
 	.string "{PLAYER} åbnede notesbogen.\p"
-	.string "EVENTYRREGEL NR. 1 Åbn MENUEN med START.\p"
-	.string "EVENTYRREGEL NR. 2 Gem din fremgang med\n"
-	.string "GEM.\p"
+	.string "EVENTYRREGEL NR. 1 Åbn MENUEN med\n"
+	.string "START.\p"
+	.string "EVENTYRREGEL NR. 2 Gem din fremgang\n"
+	.string "med GEM.\p"
 	.string "De resterende sider er tomme…$"
 
 Common_Text_LookCloserAtMap:
@@ -299,8 +300,8 @@ Common_Text_LookCloserAtMap:
 
 PlayersHouse_2F_Text_ItsAGameCube:
 	.string "Det er en Nintendo GameCube.\p"
-	.string "En Game Boy Advance er tilsluttet for at\n"
-	.string "fungere som kontroller.$"
+	.string "En Game Boy Advance er tilsluttet for\n"
+	.string "at fungere som kontroller.$"
 
 
 

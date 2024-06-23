@@ -13,19 +13,19 @@ AbandonedShip_Corridors_1F_EventScript_Charlie::
 	end
 
 AbandonedShip_Corridors_1F_Text_CharlieIntro:
-	.string "Hvad er så sjovt ved at have min indre slange\n"
-	.string "om bord på skibet?$"
+	.string "Hvad er så sjovt ved at have min indre\n"
+	.string "slange om bord på skibet?$"
 
 AbandonedShip_Corridors_1F_Text_CharlieDefeat:
 	.string "Whoa, du overvældede mig!$"
 
 AbandonedShip_Corridors_1F_Text_CharliePostBattle:
-	.string "Det er ikke nemt at kaste POKé BALLS mens\n"
-	.string "man hænger på en badering!$"
+	.string "Det er ikke nemt at kaste POKé BALLS\n"
+	.string "mens man hænger på en badering!$"
 
 AbandonedShip_Corridors_1F_Text_IsntItFunHere:
-	.string "Er det ikke sjovt her? Jeg bliver bare så\n"
-	.string "spændt af at være her!$"
+	.string "Er det ikke sjovt her? Jeg bliver bare\n"
+	.string "så spændt af at være her!$"
 
 
 

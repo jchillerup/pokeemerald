@@ -33,10 +33,10 @@ RustboroCity_PokemonCenter_1F_EventScript_Girl::
 	end
 
 RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities:
-	.string "Min POKéMON har en NAIV natur, og min ven har\n"
-	.string "en MUNTER natur.\p"
-	.string "Det er fascinerende, hvordan POKéMON har\n"
-	.string "personligheder!$"
+	.string "Min POKéMON har en NAIV natur, og min\n"
+	.string "ven har en MUNTER natur.\p"
+	.string "Det er fascinerende, hvordan POKéMON\n"
+	.string "har personligheder!$"
 
 RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
 	.string "Præcis som mennesker, er der hanner og\n"
@@ -46,8 +46,8 @@ RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon:
 
 RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor:
 	.string "Manden ved siden af gav mig en HM!\p"
-	.string "Jeg brugte den til at lære mine POKéMON at\n"
-	.string "SKÆRE ned tynde træer.$"
+	.string "Jeg brugte den til at lære mine POKéMON\n"
+	.string "at SKÆRE ned tynde træer.$"
 
 
 

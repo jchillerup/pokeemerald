@@ -187,22 +187,23 @@ LilycoveCity_DepartmentStoreRooftop_EventScript_ExitVendingMachine::
 	end
 
 LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales:
-	.string "Har de ikke faste datoer for deres udsalg?\p"
-	.string "Jeg ser fjernsyn, men de viser aldrig nogen\n"
-	.string "reklamer.$"
+	.string "Har de ikke faste datoer for deres\n"
+	.string "udsalg?\p"
+	.string "Jeg ser fjernsyn, men de viser aldrig\n"
+	.string "nogen reklamer.$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale:
 	.string "Ja! Jeg har ventet længe på den her\n"
 	.string "lagersalg.\p"
-	.string "De har ting, som du kun kan få her. Jeg vil\n"
-	.string "fylde kurven, det vil jeg!$"
+	.string "De har ting, som du kun kan få her. Jeg\n"
+	.string "vil fylde kurven, det vil jeg!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty:
 .string "Åh... Jeg er tørst som en kamel i ørkenen!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike:
-	.string "Det er en SLIKAUTOMAT. Hvilken drikkelse\n"
-	.string "vil du have?$"
+	.string "Det er en SLIKAUTOMAT. Hvilken\n"
+	.string "drikkelse vil du have?$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
 	.string "Pang!\p"
@@ -210,14 +211,15 @@ LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown:
 
 LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown:
 	.string "Pang!\p"
-	.string "Score! En ekstra dåse {STR_VAR_1} er\n"
-	.string "røget ned!$"
+	.string "Score! En ekstra dåse {STR_VAR_1}\n"
+	.string "er røget ned!$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney:
 .string "Ikke nok penge…$"
 
 LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink:
-	.string "Besluttede mig for ikke at købe en drink.$"
+	.string "Besluttede mig for ikke at købe en\n"
+	.string "drink.$"
 
 
 

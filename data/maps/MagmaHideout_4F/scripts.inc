@@ -136,15 +136,15 @@ MagmaHideout_4F_EventScript_Tabitha::
 	end
 
 MagmaHideout_4F_Text_Grunt11Intro:
-	.string "Jeg vil også gerne se GROUDON, men de vil ikke\n"
-	.string "engang lade mig se dens hale…\p"
+	.string "Jeg vil også gerne se GROUDON, men de\n"
+	.string "vil ikke engang lade mig se dens hale…\p"
 	.string "Det får mig virkelig til at føle mig\n"
 	.string "frustreret.\p"
 	.string "Åh nej! Jeg sladrede om GROUDON!$"
 
 MagmaHideout_4F_Text_Grunt11Defeat:
-	.string "Jeg gætter på, at det er umuligt at vinde,\n"
-	.string "hvis man ikke har et roligt sind…$"
+	.string "Jeg gætter på, at det er umuligt at\n"
+	.string "vinde, hvis man ikke har et roligt sind…$"
 
 MagmaHideout_4F_Text_Grunt11PostBattle:
 .string "Jeg undrer mig over, om GROUDON overhovedet har en hale?$"
@@ -154,14 +154,16 @@ MagmaHideout_4F_Text_Grunt12Intro:
 	.string "Vores store mål vil blive opnået!$"
 
 MagmaHideout_4F_Text_Grunt12Defeat:
-	.string "Grrr… Jeg er kommet så langt, men nu dette?$"
+	.string "Grrr… Jeg er kommet så langt, men nu\n"
+	.string "dette?$"
 
 MagmaHideout_4F_Text_Grunt12PostBattle:
-	.string "MAXIE, sir! En indtrænger er på vej mod dig!$"
+	.string "MAXIE, sir! En indtrænger er på vej mod\n"
+	.string "dig!$"
 
 MagmaHideout_4F_Text_Grunt13Intro:
-	.string "Du er ikke færdig endnu! Du kommer ikke forbi\n"
-	.string "mig så let!$"
+	.string "Du er ikke færdig endnu! Du kommer ikke\n"
+	.string "forbi mig så let!$"
 
 MagmaHideout_4F_Text_Grunt13Defeat:
 .string "Var jeg virkelig så nem at vælte?\p$"
@@ -173,25 +175,25 @@ MagmaHideout_4F_Text_TabithaIntro:
 	.string "Hihihi! Du er nået så langt, så jeg vil\n"
 	.string "fortælle dig!\p"
 	.string "Det passer! Lige forude sover GROUDON!\p"
-	.string "MAXIE gik til GROUDON for et par sekunder\n"
-	.string "siden!\p"
+	.string "MAXIE gik til GROUDON for et par\n"
+	.string "sekunder siden!\p"
 	.string "Det vil snart vågne op! Hihi! Hihihi!$"
 
 MagmaHideout_4F_Text_TabithaDefeat:
 	.string "Taget ned igen… Haha…$"
 
 MagmaHideout_4F_Text_TabithaPostBattle:
-	.string "…Og imens du spildte tid med mig, MAXIE burde\n"
-	.string "have vækket GROUDON…$"
+	.string "…Og imens du spildte tid med mig, MAXIE\n"
+	.string "burde have vækket GROUDON…$"
 
 MagmaHideout_4F_Text_MaxieAwakenGroudon:
 	.string "MAXIE: GROUDON…\p"
-	.string "Intet kunne vække dig fra din søvn badet i\n"
-	.string "magma…\p"
+	.string "Intet kunne vække dig fra din søvn\n"
+	.string "badet i magma…\p"
 	.string "Denne BLÅ ORB er hvad du søgte. Var det\n"
 	.string "ikke?\p"
-	.string "Jeg har bragt dig den BLÅ ORB. Lad dens skær\n"
-	.string "vække dig!\p"
+	.string "Jeg har bragt dig den BLÅ ORB. Lad dens\n"
+	.string "skær vække dig!\p"
 	.string "Og vis mig… Vis mig din fulde kraft!$"
 
 MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
@@ -201,8 +203,8 @@ MagmaHideout_4F_Text_MaxieGroudonWhatsWrong:
 
 MagmaHideout_4F_Text_MaxieOhItWasYou:
 	.string "MAXIE: Åh, så det var dig?\p"
-	.string "Jeg har set dig rode rundt uden invitation\n"
-	.string "her og der…\p"
+	.string "Jeg har set dig rode rundt uden\n"
+	.string "invitation her og der…\p"
 	.string "Nu forstår jeg det! Du må have lavet et\n"
 	.string "billigt trick!$"
 
@@ -211,13 +213,15 @@ MagmaHideout_4F_Text_MaxieDefeat:
 	.string "POKéMON?$"
 
 MagmaHideout_4F_Text_MaxieImGoingAfterGroudon:
-	.string "MAXIE: Der må være en grund til, at GROUDON\n"
-	.string "flygtede…\p"
-	.string "Det er det, du forsøger at sige, ikke sandt?\p"
+	.string "MAXIE: Der må være en grund til, at\n"
+	.string "GROUDON flygtede…\p"
+	.string "Det er det, du forsøger at sige, ikke\n"
+	.string "sandt?\p"
 	.string "… … … … … … … … … … … …\p"
 	.string "Hmph… Tror du, jeg ikke vidste det?\p"
-	.string "Nu da GROUDON er væk, er der ikke længere\n"
-	.string "brug for denne forbandende vulkan.\p"
+	.string "Nu da GROUDON er væk, er der ikke\n"
+	.string "længere brug for denne forbandende\l"
+	.string "vulkan.\p"
 	.string "Jeg tager efter GROUDON, så her skilles\n"
 	.string "vores veje!$"
 

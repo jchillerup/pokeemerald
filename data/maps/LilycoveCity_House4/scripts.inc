@@ -19,7 +19,8 @@ LilycoveCity_House4_Text_MysteriesAtBottomOfSea:
 LilycoveCity_House4_Text_UnderwaterTrenchMossdeepSootopolis:
 	.string "Der er en dyb undersøisk kløft mellem\n"
 	.string "MOSSDEEP og SOOTOPOLIS.\p"
-	.string "Det var i hvert fald det, nogen fortalte mig.$"
+	.string "Det var i hvert fald det, nogen fortalte\n"
+	.string "mig.$"
 
 
 

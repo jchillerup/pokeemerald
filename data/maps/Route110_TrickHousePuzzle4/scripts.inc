@@ -36,32 +36,32 @@ Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened:
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle4_Text_CoraIntro:
-	.string "Det er alt for besværligt at tænke på dette.\n"
-	.string "Jeg ville bare kæmpe!$"
+	.string "Det er alt for besværligt at tænke på\n"
+	.string "dette. Jeg ville bare kæmpe!$"
 
 Route110_TrickHousePuzzle4_Text_CoraDefeat:
 	.string "Selvom jeg tabte, kan jeg stadig lide at\n"
 	.string "kæmpe bedst!$"
 
 Route110_TrickHousePuzzle4_Text_CoraPostBattle:
-	.string "Ville du ikke være enig? Du ville gå hvor som\n"
-	.string "helst, hvis TRAINERS var der.$"
+	.string "Ville du ikke være enig? Du ville gå hvor\n"
+	.string "som helst, hvis TRAINERS var der.$"
 
 Route110_TrickHousePuzzle4_Text_YujiIntro:
-	.string "Hi hi! Sten som denne kan jeg skubbe til side\n"
-	.string "med en finger!$"
+	.string "Hi hi! Sten som denne kan jeg skubbe til\n"
+	.string "side med en finger!$"
 
 Route110_TrickHousePuzzle4_Text_YujiDefeat:
-	.string "Jeg kan skubbe sten, men jeg kan ikke løse\n"
-	.string "puslespillet…$"
+	.string "Jeg kan skubbe sten, men jeg kan ikke\n"
+	.string "løse puslespillet…$"
 
 Route110_TrickHousePuzzle4_Text_YujiPostBattle:
-	.string "Det er ikke godt nok at være stærk... Du skal\n"
-	.string "bruge dit hoved. Vær smart!$"
+	.string "Det er ikke godt nok at være stærk... Du\n"
+	.string "skal bruge dit hoved. Vær smart!$"
 
 Route110_TrickHousePuzzle4_Text_PaulaIntro:
-	.string "Det LISTIGE HUS bliver endnu mere snedigt,\n"
-	.string "er det ikke?$"
+	.string "Det LISTIGE HUS bliver endnu mere\n"
+	.string "snedigt, er det ikke?$"
 
 Route110_TrickHousePuzzle4_Text_PaulaDefeat:
 .string "Aaak!$"

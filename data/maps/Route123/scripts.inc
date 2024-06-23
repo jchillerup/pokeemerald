@@ -178,10 +178,10 @@ Route123_Text_LoveGrassMonsHaveAny:
 
 Route123_Text_YouLikeGrassMonsTooHaveThis:
 	.string "Åh?\p"
-	.string "Du kan også lide GRÆS-type POKéMON, ikke\n"
-	.string "sandt?\p"
-	.string "Jeg er så glad, du kan få denne! Det er et tegn\n"
-	.string "på vores venskab.$"
+	.string "Du kan også lide GRÆS-type POKéMON,\n"
+	.string "ikke sandt?\p"
+	.string "Jeg er så glad, du kan få denne! Det er\n"
+	.string "et tegn på vores venskab.$"
 
 Route123_Text_CheckTreesWithMyGrassMon:
 	.string "Jeg undersøger træer med min GRÆS-type\n"

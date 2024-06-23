@@ -54,34 +54,35 @@ PacifidlogTown_House3_EventScript_Girl::
 
 PacifidlogTown_House3_Text_WillingToTradeIt:
 	.string "Tjek denne {STR_VAR_2} ud!\p"
-	.string "Det er {STR_VAR_2}'en, jeg fangede i går\n"
-	.string "for at fejre min fødselsdag!\p"
-	.string "Åh, jeg kan se, at du gerne vil have den! Den er\n"
-	.string "trods alt uvurderlig!\p"
-	.string "Jeg skal fortælle dig noget. Jeg er muligvis\n"
-	.string "villig til at bytte den for en\l"
+	.string "Det er {STR_VAR_2}'en, jeg fangede i\n"
+	.string "går for at fejre min fødselsdag!\p"
+	.string "Åh, jeg kan se, at du gerne vil have den!\n"
+	.string "Den er trods alt uvurderlig!\p"
+	.string "Jeg skal fortælle dig noget. Jeg er\n"
+	.string "muligvis villig til at bytte den for en\l"
 	.string "{STR_VAR_1}.$"
 
 PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou:
 	.string "Åh, så det her er en {STR_VAR_1}?\p"
-	.string "Det er lidt ligesom en {STR_VAR_2}, og\n"
-	.string "alligevel er den subtilt forskellig.\p"
+	.string "Det er lidt ligesom en {STR_VAR_2},\n"
+	.string "og alligevel er den subtilt forskellig.\p"
 	.string "Tak!$"
 
 PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon:
-	.string "Nej, nej, nej! Jeg accepterer ikke mindre\n"
-	.string "end en rigtig {STR_VAR_1}!$"
+	.string "Nej, nej, nej! Jeg accepterer ikke\n"
+	.string "mindre end en rigtig {STR_VAR_1}!$"
 
 PacifidlogTown_House3_Text_NotDesperateOrAnything:
 	.string "Åh, så du vil ikke gå igennem med dette?\p"
-	.string "Det er helt i orden. Jeg er ikke desperat\n"
-	.string "efter at lave en handel eller noget.$"
+	.string "Det er helt i orden. Jeg er ikke\n"
+	.string "desperat efter at lave en handel eller\l"
+	.string "noget.$"
 
 PacifidlogTown_House3_Text_ReallyWantedToGetBagon:
-	.string "Jeg ved, at jeg kunne lede efter en selv,\n"
-	.string "men…\p"
-	.string "Men jeg vil virkelig gerne have en BAGON som\n"
-	.string "en anden TRÆNER har fanget…$"
+	.string "Jeg ved, at jeg kunne lede efter en\n"
+	.string "selv, men…\p"
+	.string "Men jeg vil virkelig gerne have en BAGON\n"
+	.string "som en anden TRÆNER har fanget…$"
 
 PacifidlogTown_House3_Text_IsThatAPokedex:
 	.string "Er det en POKéDEX?\p"

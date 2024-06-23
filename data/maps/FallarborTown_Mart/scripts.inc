@@ -50,21 +50,21 @@ FallarborTown_Mart_EventScript_Skitty::
 	end
 
 FallarborTown_Mart_Text_DecidingSkittyEvolve:
-	.string "Jeg har svært ved at beslutte, om jeg skal\n"
-	.string "lade min SKITTY udvikle sig eller ej.\p"
-	.string "Jeg skal kun bruge denne MÅNESTEN, men det\n"
-	.string "er så svært at beslutte…\p"
-	.string "Hvis jeg lader den udvikle sig, vil den blive\n"
-	.string "meget stærkere.\p"
+	.string "Jeg har svært ved at beslutte, om jeg\n"
+	.string "skal lade min SKITTY udvikle sig eller ej.\p"
+	.string "Jeg skal kun bruge denne MÅNESTEN, men\n"
+	.string "det er så svært at beslutte…\p"
+	.string "Hvis jeg lader den udvikle sig, vil den\n"
+	.string "blive meget stærkere.\p"
 	.string "Men den vil også se så anderledes ud.$"
 
 FallarborTown_Mart_Text_Skitty:
 	.string "SKITTY: Miyao?$"
 
 FallarborTown_Mart_Text_SellNuggetIFound:
-	.string "Denne NUGGET jeg fandt her… Jeg formoder,\n"
-	.string "at jeg bliver nødt til at l sælge den, da den\l"
-	.string "ikke har andre formål.$"
+	.string "Denne NUGGET jeg fandt her… Jeg\n"
+	.string "formoder, at jeg bliver nødt til at l\l"
+	.string "sælge den, da den ikke har andre formål.$"
 
 
 

@@ -432,8 +432,8 @@ MtPyre_Summit_EventScript_Grunt4::
 	end
 
 MtPyre_Summit_Text_Grunt1Intro:
-	.string "Nej! De dér TEAM MAGMA fjolser nåede her før\n"
-	.string "os!\p"
+	.string "Nej! De dér TEAM MAGMA fjolser nåede\n"
+	.string "her før os!\p"
 	.string "Vi kan ikke hænge i bremsen!$"
 
 MtPyre_Summit_Text_Grunt1Defeat:
@@ -441,22 +441,24 @@ MtPyre_Summit_Text_Grunt1Defeat:
 	.string "medlemmerne, der kom tilbage…$"
 
 MtPyre_Summit_Text_Grunt1PostBattle:
-	.string "Ja, så du er stærk... Men der er mange af os!$"
+	.string "Ja, så du er stærk... Men der er mange af\n"
+	.string "os!$"
 
 MtPyre_Summit_Text_Grunt2Intro:
 	.string "Hov! Det er ærgerligt for dig!\p"
-	.string "Hvis du var kommet tidligere, skulle du kun\n"
-	.string "have kæmpet mod de slappe TEAM MAGMA.\p"
-	.string "Men nu, da du er kommet, skal du kæmpe mod os\n"
-	.string "seje fyre!$"
+	.string "Hvis du var kommet tidligere, skulle du\n"
+	.string "kun have kæmpet mod de slappe TEAM\l"
+	.string "MAGMA.\p"
+	.string "Men nu, da du er kommet, skal du kæmpe\n"
+	.string "mod os seje fyre!$"
 
 MtPyre_Summit_Text_Grunt2Defeat:
 	.string "Åh nej... Jeg skulle have ladet dig tage\n"
 	.string "kampen mod TEAM MAGMA først...$"
 
 MtPyre_Summit_Text_Grunt2PostBattle:
-	.string "Du ved ikke noget! Så hvorfor roder du dig så\n"
-	.string "i det?$"
+	.string "Du ved ikke noget! Så hvorfor roder du\n"
+	.string "dig så i det?$"
 
 MtPyre_Summit_Text_Grunt3Intro:
 	.string "Du… Vi så dig ved MT. CHIMNEY.\p"
@@ -464,33 +466,34 @@ MtPyre_Summit_Text_Grunt3Intro:
 	.string "hvorfor er du her?$"
 
 MtPyre_Summit_Text_Grunt3Defeat:
-	.string "Hvis du vil drille nogen, så lad det være HOLD\n"
-	.string "MAGMA…$"
+	.string "Hvis du vil drille nogen, så lad det være\n"
+	.string "HOLD MAGMA…$"
 
 MtPyre_Summit_Text_Grunt3PostBattle:
-	.string "Haha, det betyder ikke noget! Vi har købt os\n"
-	.string "lidt ekstra tid!\p"
-	.string "BOSS'en burde have snuppet det, han var ude\n"
-	.string "efter!$"
+	.string "Haha, det betyder ikke noget! Vi har\n"
+	.string "købt os lidt ekstra tid!\p"
+	.string "BOSS'en burde have snuppet det, han var\n"
+	.string "ude efter!$"
 
 MtPyre_Summit_Text_Grunt4Intro:
-	.string "Åh, jeg ved det! Du prøvede at blive medlem\n"
-	.string "af HOLD MAGMA, men de ville ikke have dig!\p"
-	.string "Ja, så tro ikke, at vi vil lade dig blive medlem\n"
-	.string "af vores HOLD AQUA!$"
+	.string "Åh, jeg ved det! Du prøvede at blive\n"
+	.string "medlem af HOLD MAGMA, men de ville ikke\l"
+	.string "have dig!\p"
+	.string "Ja, så tro ikke, at vi vil lade dig blive\n"
+	.string "medlem af vores HOLD AQUA!$"
 
 MtPyre_Summit_Text_Grunt4Defeat:
-	.string "Hvis du virkelig gerne vil være en del af HOLD\n"
-	.string "AQUA, kan vi overveje det…$"
+	.string "Hvis du virkelig gerne vil være en del af\n"
+	.string "HOLD AQUA, kan vi overveje det…$"
 
 MtPyre_Summit_Text_Grunt4PostBattle:
 	.string "Vi har en fantastisk kombination med os\n"
 	.string "medlemmer og vores leder.$"
 
 MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
-	.string "ARCHIE: Hold da op, hold da op! Holdt TEAM\n"
-	.string "MAGMA's MAXIE førte an, men vi fik også, hvad\l"
-	.string "vi ønskede.\p"
+	.string "ARCHIE: Hold da op, hold da op! Holdt\n"
+	.string "TEAM MAGMA's MAXIE førte an, men vi fik\l"
+	.string "også, hvad vi ønskede.\p"
 	.string "Den RØDE ORB bevaret på MT. PYRE… Jeg,\n"
 	.string "ARCHIE, har den nu i min besiddelse!\p"
 	.string "Fufufu… Nu kan vi realisere vores\n"
@@ -499,77 +502,83 @@ MtPyre_Summit_Text_ArchieWeGotTheOrbLetsGo:
 
 MtPyre_Summit_Text_BothOrbsTakenMagmaLeftThis:
 	.string "Åh, nej… Dette kan ikke ske…\p"
-	.string "Ikke kun den BLÅ ORB, men selv den RØDE ORB\n"
-	.string "er blevet taget…\p"
+	.string "Ikke kun den BLÅ ORB, men selv den RØDE\n"
+	.string "ORB er blevet taget…\p"
 	.string "DEN BLÅ ORB og DEN RØDE ORB må aldrig\n"
 	.string "adskilles. De hører sammen.\p"
-	.string "Hvad prøver de mænd at gøre med de to ORBER?\p"
+	.string "Hvad prøver de mænd at gøre med de to\n"
+	.string "ORBER?\p"
 	.string "… … … … … … … … … … … …\p"
-	.string "Åh, ja. Var det TEAM MAGMA, der kom og tog DEN\n"
-	.string "BLÅ ORB først?\p"
-	.string "Nå, i deres hast lod de dette blive tilbage.\p"
+	.string "Åh, ja. Var det TEAM MAGMA, der kom og\n"
+	.string "tog DEN BLÅ ORB først?\p"
+	.string "Nå, i deres hast lod de dette blive\n"
+	.string "tilbage.\p"
 	.string "Jeg kunne ikke forestille mig, hvad det\n"
 	.string "præcist kunne være.\p"
-	.string "Jeg vil gerne at du får det. Måske vil det være\n"
-	.string "nyttigt på en eller anden måde.$"
+	.string "Jeg vil gerne at du får det. Måske vil\n"
+	.string "det være nyttigt på en eller anden måde.$"
 
 MtPyre_Summit_Text_OrbsHaveBeenTaken:
 	.string "Den BLÅ ORB og RØDE ORB taget af disse\n"
 	.string "ondsindede mænd…\p"
-	.string "De må aldrig være adskilt… Jeg frygter, at\n"
-	.string "noget forfærdeligt vil ske…$"
+	.string "De må aldrig være adskilt… Jeg frygter,\n"
+	.string "at noget forfærdeligt vil ske…$"
 
 MtPyre_Summit_Text_GroudonKyogreAwakened:
 	.string "Åh, min gode…\p"
 	.string "Du siger, at både GROUDON og KYOGRE er\n"
 	.string "blevet vækket?\p"
-	.string "Det siges, at DEN BLÅ ORB og DEN RØDE ORB\n"
-	.string "dæmpede raseriet hos de to POKéMON…\p"
+	.string "Det siges, at DEN BLÅ ORB og DEN RØDE\n"
+	.string "ORB dæmpede raseriet hos de to\l"
+	.string "POKéMON…\p"
 	.string "Det siges også, at den sande ejer af\n"
 	.string "ORBERNE stadig eksisterer.\p"
 	.string "Dog ved ingen, hvem eller hvad præcis,\n"
 	.string "ORBERNE tilhører.\p"
-	.string "Det kunne være et menneske, eller måske en\n"
-	.string "POKéMON, men ingen ved.$"
+	.string "Det kunne være et menneske, eller måske\n"
+	.string "en POKéMON, men ingen ved.$"
 
 MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs:
-	.string "De to mænd, der tog ORBERNE, kom tilbage for\n"
-	.string "at returnere dem på egen hånd.\p"
-	.string "De mænd... Måske er de ikke så onde trods\n"
-	.string "alt...$"
+	.string "De to mænd, der tog ORBERNE, kom tilbage\n"
+	.string "for at returnere dem på egen hånd.\p"
+	.string "De mænd... Måske er de ikke så onde\n"
+	.string "trods alt...$"
 
 MtPyre_Summit_Text_SuperAncientPokemonTaughtUs:
 	.string "Landenes, havets og himlens\n"
 	.string "forvandlinger…\p"
 	.string "Det siges at være identiteterne af de\n"
 	.string "superældgamle POKéMON…\p"
-	.string "På samme måde som vi mennesker og POKéMON\n"
-	.string "har liv, så har vores verden det også…\p"
-	.string "De superældgamle POKéMON har lært os det…$"
+	.string "På samme måde som vi mennesker og\n"
+	.string "POKéMON har liv, så har vores verden det\l"
+	.string "også…\p"
+	.string "De superældgamle POKéMON har lært os\n"
+	.string "det…$"
 
 MtPyre_Summit_Text_WillYouHearOutMyTale:
-	.string "MOUNT PYRE er, hvor vi beroliger ånderne af\n"
-	.string "POKéMON, der er gået bort…\p"
-	.string "Dette er et højt sted, hvor man kan se hele\n"
-	.string "HOENN…\p"
-	.string "De afdøde ånder af POKéMON finder trøst\n"
-	.string "her…\p"
+	.string "MOUNT PYRE er, hvor vi beroliger ånderne\n"
+	.string "af POKéMON, der er gået bort…\p"
+	.string "Dette er et højt sted, hvor man kan se\n"
+	.string "hele HOENN…\p"
+	.string "De afdøde ånder af POKéMON finder\n"
+	.string "trøst her…\p"
 	.string "Er det tilfældigt, at du er her…\p"
-	.string "Vil du lytte til min historie? En historie\n"
-	.string "længe fortalt i HOENN-regionen?$"
+	.string "Vil du lytte til min historie? En\n"
+	.string "historie længe fortalt i\l"
+	.string "HOENN-regionen?$"
 
 MtPyre_Summit_Text_GroudonKyogreTale:
 	.string "Det skete for længe, længe siden…\p"
 	.string "Verden blev rystet af en voldsom kamp\n"
-	.string "mellem POKéMON fra landet og POKéMON fra\l"
-	.string "havet…\p"
+	.string "mellem POKéMON fra landet og POKéMON\l"
+	.string "fra havet…\p"
 	.string "POKéMON fra landet løftede bjerge og\n"
 	.string "skabte kontinenter…\p"
-	.string "POKéMON fra havet rejste kæmpe bølger og\n"
-	.string "udskar oceaner…\p"
+	.string "POKéMON fra havet rejste kæmpe bølger\n"
+	.string "og udskar oceaner…\p"
 	.string "Deres heftige duel rasede uden ende.\p"
-	.string "Verden blev opslugt af massive infernoer\n"
-	.string "og voldsomme storme.\p"
+	.string "Verden blev opslugt af massive\n"
+	.string "infernoer og voldsomme storme.\p"
 	.string "DEN BLÅ ORB og DEN RØDE ORB satte en\n"
 	.string "stopper for katastrofen.\p"
 	.string "Lys strømmede fra de to ORBS og fik de\n"
@@ -585,32 +594,34 @@ MtPyre_Summit_Text_MaxieSilence:
 	.string "… … … … … … … … … … … …$"
 
 MtPyre_Summit_Text_HearTheNewLegendOfHoenn:
-	.string "Det er min rolle at videregive legenderne om\n"
-	.string "HOENN til kommende generationer.\p"
-	.string "Og krisen, der netop sluttede i SOOTOPOLIS,\n"
-	.string "omskrev en legende…\p"
-	.string "Har du tid til at høre den nye legende om\n"
-	.string "HOENN?$"
+	.string "Det er min rolle at videregive\n"
+	.string "legenderne om HOENN til kommende\l"
+	.string "generationer.\p"
+	.string "Og krisen, der netop sluttede i\n"
+	.string "SOOTOPOLIS, omskrev en legende…\p"
+	.string "Har du tid til at høre den nye legende\n"
+	.string "om HOENN?$"
 
 MtPyre_Summit_Text_HoennTrioTale:
 	.string "Det skete for længe, længe siden…\p"
 	.string "Verden blev hærget af et voldsomt\n"
 	.string "sammenstød mellem POKéMON'erne fra\l"
 	.string "landet og POKéMON'erne fra havet…\p"
-	.string "POKéMON'erne fra landet skabte bjerge og\n"
-	.string "kontinenter…\p"
+	.string "POKéMON'erne fra landet skabte bjerge\n"
+	.string "og kontinenter…\p"
 	.string "POKéMON'erne fra havet skabte\n"
 	.string "kæmpebølger og formede havene…\p"
 	.string "Deres intense duel rasede uden ende.\p"
-	.string "Verden blev opslugt af massive brande og\n"
-	.string "voldsomme storme.\p"
-	.string "Det var da POKéMON'en fra himlen nedsteg\n"
-	.string "fra en storm.\p"
-	.string "POKéMON'en, der strålede i en levende grøn\n"
-	.string "farve, formildede de to rasende\l"
+	.string "Verden blev opslugt af massive brande\n"
+	.string "og voldsomme storme.\p"
+	.string "Det var da POKéMON'en fra himlen\n"
+	.string "nedsteg fra en storm.\p"
+	.string "POKéMON'en, der strålede i en levende\n"
+	.string "grøn farve, formildede de to rasende\l"
 	.string "POKéMON'er.\p"
-	.string "Derefter, da dens opgave var fuldført, fløj\n"
-	.string "den grønne POKéMON ud i det ukendte…$"
+	.string "Derefter, da dens opgave var fuldført,\n"
+	.string "fløj den grønne POKéMON ud i det\l"
+	.string "ukendte…$"
 
 
 

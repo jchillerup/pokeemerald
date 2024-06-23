@@ -340,32 +340,33 @@ LilycoveCity_ContestHall_EventScript_SmartStageSign::
 LilycoveCity_ContestHall_Text_TodayWonSmartnessContest:
 	.string "Denne POKéMON vandt\n"
 	.string "SKØNHEDSKONKURRENCEN her tidligere.\p"
-	.string "Nå, gæt hvad? I dag fik jeg den til at vinde en\n"
-	.string "SMARTHEDSKONKURRENCE!\p"
+	.string "Nå, gæt hvad? I dag fik jeg den til at\n"
+	.string "vinde en SMARTHEDSKONKURRENCE!\p"
 	.string "Mine evner skræmmer endda mig…$"
 
 LilycoveCity_ContestHall_Text_EnteredBunchOfContests:
-	.string "Jeg har deltaget i en masse KONKURRENCER,\n"
-	.string "så jeg ser, hvordan tingene fungerer.\p"
-	.string "Hvis du er med i en SEJHEDSKONKURRENCE, går\n"
-	.string "seje træk godt hjem.\p"
-	.string "Men smarte træk og søde træk går ikke så\n"
-	.string "godt hjem, for eksempel.$"
+	.string "Jeg har deltaget i en masse\n"
+	.string "KONKURRENCER, så jeg ser, hvordan\l"
+	.string "tingene fungerer.\p"
+	.string "Hvis du er med i en SEJHEDSKONKURRENCE,\n"
+	.string "går seje træk godt hjem.\p"
+	.string "Men smarte træk og søde træk går ikke\n"
+	.string "så godt hjem, for eksempel.$"
 
 LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks:
-	.string "Den unge mand, der vandt tidligere, havde en\n"
-	.string "hel masse forskellige {POKEBLOCK}S.\p"
-	.string "Kan du vinde, hvis du havde så mange af de\n"
-	.string "ting?$"
+	.string "Den unge mand, der vandt tidligere,\n"
+	.string "havde en hel masse forskellige {POKEBLOCK}S.\p"
+	.string "Kan du vinde, hvis du havde så mange af\n"
+	.string "de ting?$"
 
 LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous:
 	.string "Wow, er dette sted ikke kæmpestort!\p"
-	.string "Spændingen i luften... Det er ikke ligesom en\n"
-	.string "KONKURRENCESAL i provinsen.$"
+	.string "Spændingen i luften... Det er ikke\n"
+	.string "ligesom en KONKURRENCESAL i provinsen.$"
 
 LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal:
-	.string "MC: Okay, SMART POKéMON og deres TRENERS,\n"
-	.string "er I klar?!\p"
+	.string "MC: Okay, SMART POKéMON og deres\n"
+	.string "TRENERS, er I klar?!\p"
 	.string "Giv jeres bedste fremvisning! Lad os\n"
 	.string "imponere!$"
 
@@ -375,52 +376,53 @@ LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest:
 	.string "deltage i en KONKURRENCE!$"
 
 LilycoveCity_ContestHall_Text_EnteredWrongContest:
-	.string "Av av av… Jeg meldte mig til den forkerte\n"
-	.string "KONKURRENCE.\p"
+	.string "Av av av… Jeg meldte mig til den\n"
+	.string "forkerte KONKURRENCE.\p"
 	.string "Jeg tilmeldte denne seje POKéMON til\n"
 	.string "SMARTHEDSKONKURRENCEN…\p"
-	.string "Kom nu, imponér dem med et smart udseende\n"
-	.string "ROCK SMASH.$"
+	.string "Kom nu, imponér dem med et smart\n"
+	.string "udseende ROCK SMASH.$"
 
 LilycoveCity_ContestHall_Text_RaisedMonToBeSmart:
-	.string "Jeg har tilbragt mange år og al min visdom\n"
-	.string "desuden, med at opdrage denne POKéMON til\l"
-	.string "at være klog.\p"
-	.string "Den vil ikke let lade sig besejre af en ung\n"
-	.string "hvalps POKéMON.\p"
+	.string "Jeg har tilbragt mange år og al min\n"
+	.string "visdom desuden, med at opdrage denne\l"
+	.string "POKéMON til at være klog.\p"
+	.string "Den vil ikke let lade sig besejre af en\n"
+	.string "ung hvalps POKéMON.\p"
 	.string "Min kære kone, ser du dette?$"
 
 LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext:
 	.string "Der er det!\p"
-	.string "Hvis min POKéMON laver et smart træk næste\n"
-	.string "gang, vil publikums spænding nå sit\l"
-	.string "højdepunkt!$"
+	.string "Hvis min POKéMON laver et smart træk\n"
+	.string "næste gang, vil publikums spænding nå\l"
+	.string "sit højdepunkt!$"
 
 LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife:
 	.string "Åh nej!\p"
-	.string "Min kære ZUBAT's LEECH LIFE er så sød, så jeg\n"
-	.string "bliver ved med at bruge den igen og igen!\p"
-	.string "Men disse onde mennesker sætter slet ikke\n"
-	.string "pris på den!$"
+	.string "Min kære ZUBAT's LEECH LIFE er så sød,\n"
+	.string "så jeg bliver ved med at bruge den igen\l"
+	.string "og igen!\p"
+	.string "Men disse onde mennesker sætter slet\n"
+	.string "ikke pris på den!$"
 
 LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa:
 	.string "Kiyaaah! Du er smuk, Bedstefar!$"
 
 LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves:
 	.string "Selv når TRÆNERE har den samme type\n"
-	.string "POKéMON, bruger de alle forskellige moves\l"
-	.string "til opvisninger.\p"
-	.string "Det er ligesom måden folk har forskellige\n"
-	.string "stilarter til at kæmpe.$"
+	.string "POKéMON, bruger de alle forskellige\l"
+	.string "moves til opvisninger.\p"
+	.string "Det er ligesom måden folk har\n"
+	.string "forskellige stilarter til at kæmpe.$"
 
 LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers:
 	.string "Jeg synes, at POKéMON ser mere\n"
-	.string "intelligente ud end deres TRÆNERE.  Langt\l"
-	.string "mere.$"
+	.string "intelligente ud end deres TRÆNERE. \l"
+	.string "Langt mere.$"
 
 LilycoveCity_ContestHall_Text_StillLoveSmartnessContests:
-	.string "Når alt er sagt og gjort, elsker jeg stadig\n"
-	.string "SMARTHEDSKONKURRENCER.\p"
+	.string "Når alt er sagt og gjort, elsker jeg\n"
+	.string "stadig SMARTHEDSKONKURRENCER.\p"
 	.string "Den intellektuelle grønne farve… Den er\n"
 	.string "så... Så... Cool.$"
 
@@ -443,27 +445,27 @@ LilycoveCity_ContestHall_Text_OverdidGrooming:
 	.string "Waaaah!\p"
 	.string "Jeg børstede og plejede min POKéMON\n"
 	.string "omhyggeligt til denne KONKURRENCE…\p"
-	.string "Men jeg overgjorde det… Min POKéMONs pels\n"
-	.string "blev helt pjusket…\p"
+	.string "Men jeg overgjorde det… Min POKéMONs\n"
+	.string "pels blev helt pjusket…\p"
 	.string "Hvad skal jeg gøre?$"
 
 LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam:
-	.string "Denne AURORA STRÅLE er så blendende, at\n"
-	.string "DOMMEREN ikke vil kunne se den.\p"
+	.string "Denne AURORA STRÅLE er så blendende,\n"
+	.string "at DOMMEREN ikke vil kunne se den.\p"
 	.string "Øh, vent lige et øjeblik… Det vil være\n"
 	.string "meningsløst!$"
 
 LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe:
-	.string "Denne smukke POKéMON ligner mig lige da jeg\n"
-	.string "var yngre.\p"
+	.string "Denne smukke POKéMON ligner mig lige da\n"
+	.string "jeg var yngre.\p"
 	.string "Lige da jeg sagde det, spytte min mand\n"
 	.string "kaffen han drak ud.\p"
 	.string "Sagde jeg noget sjovt?$"
 
 LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy:
 	.string "Du ved, hvis jeg vinder en\n"
-	.string "SKØNHEDSKONKURRENCE, så gør det mig glad.\l"
-	.string "Mere end sædvanligt, i hvert fald.$"
+	.string "SKØNHEDSKONKURRENCE, så gør det mig\l"
+	.string "glad. Mere end sædvanligt, i hvert fald.$"
 
 LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon:
 	.string "Hæ-hæ-hæ!\p"
@@ -471,13 +473,14 @@ LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon:
 	.string "elsker bare den bling-bling!$"
 
 LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone:
-	.string "Du kan ikke altid vinde kun ved at være smuk\n"
-	.string "alene.\p"
-	.string "Du bliver nødt til at pleje din POKéMON, så\n"
-	.string "den er flot og glansfuld ligesom min.$"
+	.string "Du kan ikke altid vinde kun ved at være\n"
+	.string "smuk alene.\p"
+	.string "Du bliver nødt til at pleje din POKéMON,\n"
+	.string "så den er flot og glansfuld ligesom min.$"
 
 LilycoveCity_ContestHall_Text_InTheMiddleOfContest:
-	.string "MC: Åh-åh! Hej! Vi er midt i en KONKURRENCE!\p"
+	.string "MC: Åh-åh! Hej! Vi er midt i en\n"
+	.string "KONKURRENCE!\p"
 	.string "Gå venligst hen til vores registrerings\n"
 	.string "skranke og kom ud, okay?$"
 
@@ -488,41 +491,42 @@ LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals:
 	.string "KÆRLIG VANDSPORT appel!$"
 
 LilycoveCity_ContestHall_Text_MyAzurillWasDistracted:
-	.string "Åh nej... Min søde AZURILL blev afledt af en\n"
-	.string "anden POKéMON.$"
+	.string "Åh nej... Min søde AZURILL blev afledt\n"
+	.string "af en anden POKéMON.$"
 
 LilycoveCity_ContestHall_Text_NeverWonBattleButContest:
-	.string "Min POKéMON har aldrig vundet i en kamp, men\n"
-	.string "sæt den i en KONKURRENCE, og se på!$"
+	.string "Min POKéMON har aldrig vundet i en kamp,\n"
+	.string "men sæt den i en KONKURRENCE, og se på!$"
 
 LilycoveCity_ContestHall_Text_PetalDanceIsMarvel:
-	.string "Min POKéMONs BLOMSTERDANS er et under af\n"
-	.string "elegance.\p"
+	.string "Min POKéMONs BLOMSTERDANS er et under\n"
+	.string "af elegance.\p"
 	.string "Jeg vil ikke lade nogen forstyrre dens\n"
 	.string "optræden.$"
 
 LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter:
 	.string "Alle POKéMON er meget søde.\p"
-	.string "Men hvis min POKéMON lavede en sød appel…\p"
-	.string "Jeg er sikker på, at den ville være så meget\n"
-	.string "sødere end de andre.$"
+	.string "Men hvis min POKéMON lavede en sød\n"
+	.string "appel…\p"
+	.string "Jeg er sikker på, at den ville være så\n"
+	.string "meget sødere end de andre.$"
 
 LilycoveCity_ContestHall_Text_MyChildIsInContest:
 .string "Mit barn er med i denne KONKURRENCE.$"
 
 LilycoveCity_ContestHall_Text_ComeOnDear:
-	.string "Kom nu, søde. Giv den gas! Din POKéMON er den\n"
-	.string "bedste!$"
+	.string "Kom nu, søde. Giv den gas! Din POKéMON\n"
+	.string "er den bedste!$"
 
 LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest:
-	.string "Jeg synes, at pigen derovre er den sødeste\n"
-	.string "af dem alle.\p"
-	.string "Hvad er det? Dømmer de POKéMON ud fra deres\n"
-	.string "udseende?$"
+	.string "Jeg synes, at pigen derovre er den\n"
+	.string "sødeste af dem alle.\p"
+	.string "Hvad er det? Dømmer de POKéMON ud fra\n"
+	.string "deres udseende?$"
 
 LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn:
-	.string "Åh, at se alle disse søde POKéMON, de får mig\n"
-	.string "til at få lyst til at få min egen!\p"
+	.string "Åh, at se alle disse søde POKéMON, de\n"
+	.string "får mig til at få lyst til at få min egen!\p"
 	.string "Jeg vil gå ud og fange nogle!$"
 
 LilycoveCity_ContestHall_Text_BeautyContestStage:
@@ -530,8 +534,8 @@ LilycoveCity_ContestHall_Text_BeautyContestStage:
 	.string "FORFØRE AF SMUKKE POKÉMON!$"
 
 LilycoveCity_ContestHall_Text_CuteContestStage:
-	.string "Sød konkurrence scene Bliv charmeret af\n"
-	.string "søde POKéMON!$"
+	.string "Sød konkurrence scene Bliv charmeret\n"
+	.string "af søde POKéMON!$"
 
 LilycoveCity_ContestHall_Text_SmartContestStage:
 	.string "KLOGSKABSKONKURRENCE TRIN BLIV\n"

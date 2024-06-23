@@ -34,7 +34,8 @@ EverGrandeCity_Text_EnteringPokemonLeague:
 
 EverGrandeCity_Text_CitySign:
 	.string "EVER GRANDE CITY\p"
-	.string "“Blomsternes paradis, havet, og POKéMON.”$"
+	.string "“Blomsternes paradis, havet, og\n"
+	.string "POKéMON.”$"
 
 
 

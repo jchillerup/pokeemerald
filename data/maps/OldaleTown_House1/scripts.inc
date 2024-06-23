@@ -10,9 +10,9 @@ OldaleTown_House1_EventScript_Woman::
 OldaleTown_House1_Text_LeftPokemonGoesOutFirst:
 	.string "Når en POKéMON-kamp starter, den til\n"
 	.string "venstre på listen kommer ud først.\p"
-	.string "Så når du får flere POKéMON i din gruppe, så\n"
-	.string "prøv at skifte rundt på rækkefølgen af dine\l"
-	.string "POKéMON.\p"
+	.string "Så når du får flere POKéMON i din\n"
+	.string "gruppe, så prøv at skifte rundt på\l"
+	.string "rækkefølgen af dine POKéMON.\p"
 	.string "Det kunne give dig en fordel.$"
 
 

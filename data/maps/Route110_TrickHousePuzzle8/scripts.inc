@@ -32,7 +32,8 @@ Route110_TrickHousePuzzle8_EventScript_Leroy::
 Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened::
 	.string "{PLAYER} skrev den hemmelige kode på\n"
 	.string "døren.\p"
-	.string "“TRICK MASTER, jeg elsker.” … … … … … … … …\p"
+	.string "“TRICK MASTER, jeg elsker.” … … … … … … …\n"
+	.string "…\p"
 	.string "Låsen klikkede op!$"
 
 Route110_TrickHousePuzzle8_Text_VincentIntro:
@@ -46,15 +47,16 @@ Route110_TrickHousePuzzle8_Text_VincentPostBattle:
 	.string "Det er for vildt!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraIntro:
-	.string "Betragt dig selv som heldig for at kæmpe mod\n"
-	.string "mig!$"
+	.string "Betragt dig selv som heldig for at\n"
+	.string "kæmpe mod mig!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraDefeat:
-	.string "Det her er ikke rigtigt! Jeg kan ikke tabe!$"
+	.string "Det her er ikke rigtigt! Jeg kan ikke\n"
+	.string "tabe!$"
 
 Route110_TrickHousePuzzle8_Text_KeiraPostBattle:
-	.string "Det er et mirakel, at du slog mig. Du kan prale\n"
-	.string "af det.$"
+	.string "Det er et mirakel, at du slog mig. Du kan\n"
+	.string "prale af det.$"
 
 Route110_TrickHousePuzzle8_Text_LeroyIntro:
 	.string "Du har kæmpet dig gennem TRICK HOUSE\n"

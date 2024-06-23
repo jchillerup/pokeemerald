@@ -93,12 +93,13 @@ AquaHideout_B2F_EventScript_Grunt8::
 
 AquaHideout_B2F_Text_MattIntro:
 	.string "Hihihi…\p"
-	.string "Er du allerede her? Vi undervurderede dig!\p"
+	.string "Er du allerede her? Vi undervurderede\n"
+	.string "dig!\p"
 	.string "Men det er slut!\p"
-	.string "Jeg er bedre end de GRUNTERS, du har set\n"
-	.string "hidtil.\p"
-	.string "Jeg spilder ikke tiden. Jeg vil pulverisere\n"
-	.string "dig!$"
+	.string "Jeg er bedre end de GRUNTERS, du har\n"
+	.string "set hidtil.\p"
+	.string "Jeg spilder ikke tiden. Jeg vil\n"
+	.string "pulverisere dig!$"
 
 AquaHideout_B2F_Text_MattDefeat:
 	.string "Hihihi… Så, jeg tabte også…$"
@@ -110,10 +111,11 @@ AquaHideout_B2F_Text_OurBossGotThroughHisPreparations:
 
 AquaHideout_B2F_Text_MattPostBattle:
 	.string "Hihihi!\p"
-	.string "Vores BOSS er allerede taget afsted til en\n"
-	.string "grotte under havet!\p"
-	.string "Hvis du vil indhente ham, skal du bedre lede i\n"
-	.string "det store, vide hav beyond LILYCOVE.\p"
+	.string "Vores BOSS er allerede taget afsted til\n"
+	.string "en grotte under havet!\p"
+	.string "Hvis du vil indhente ham, skal du bedre\n"
+	.string "lede i det store, vide hav beyond\l"
+	.string "LILYCOVE.\p"
 	.string "Men vil du finde den så? Hihihi!$"
 
 AquaHideout_B2F_Text_Grunt4Intro:
@@ -121,26 +123,27 @@ AquaHideout_B2F_Text_Grunt4Intro:
 	.string "skylder mig også en kamp!$"
 
 AquaHideout_B2F_Text_Grunt4Defeat:
-	.string "Træt af at vente… Forvirret og fortabt…$"
+	.string "Træt af at vente… Forvirret og\n"
+	.string "fortabt…$"
 
 AquaHideout_B2F_Text_Grunt4PostBattle:
 	.string "BOSS... Er dette godt nok?$"
 
 AquaHideout_B2F_Text_Grunt6Intro:
-	.string "Warp paneler, skjulestedets stolthed og\n"
-	.string "glæde!\p"
-	.string "Du har ingen anelse om, hvor du er, gør du\n"
-	.string "ikke?\p"
+	.string "Warp paneler, skjulestedets stolthed\n"
+	.string "og glæde!\p"
+	.string "Du har ingen anelse om, hvor du er, gør\n"
+	.string "du ikke?\p"
 	.string "Forvirr og træt fjenden ud, og så sænk\n"
 	.string "bommen! Det er vores plan!$"
 
 AquaHideout_B2F_Text_Grunt6Defeat:
-	.string "Hvad er der galt med dig? Du er overhovedet\n"
-	.string "ikke træt!$"
+	.string "Hvad er der galt med dig? Du er\n"
+	.string "overhovedet ikke træt!$"
 
 AquaHideout_B2F_Text_Grunt6PostBattle:
-	.string "Det minder mig om... Jeg kan ikke huske, hvor\n"
-	.string "jeg lagde MESTERBOLDEN.\p"
+	.string "Det minder mig om... Jeg kan ikke huske,\n"
+	.string "hvor jeg lagde MESTERBOLDEN.\p"
 	.string "Hvis jeg ikke formår at passe på den, vil\n"
 	.string "vores BOSS irettesætte mig...$"
 
@@ -154,8 +157,8 @@ AquaHideout_B2F_Text_Grunt8Defeat:
 	.string "warp-panalerne...$"
 
 AquaHideout_B2F_Text_Grunt8PostBattle:
-	.string "Jeg bliver nødt til at lære hvordan jeg kan\n"
-	.string "kæmpe mere effektivt…$"
+	.string "Jeg bliver nødt til at lære hvordan jeg\n"
+	.string "kan kæmpe mere effektivt…$"
 
 
 

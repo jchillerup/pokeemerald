@@ -72,33 +72,35 @@ LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex:
 	.string "Jeg er SPILDESIGNEREN.\p"
 	.string "Åh, er det sandt? Arbejder du på en\n"
 	.string "POKéDEX?\p"
-	.string "Det er svært at fuldføre den, men giv ikke op.\p"
+	.string "Det er svært at fuldføre den, men giv\n"
+	.string "ikke op.\p"
 	.string "Hvis du fuldfører den, så kom og vis mig.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_FilledPokedexGiveYouThis:
 	.string "Wow! Det er fantastisk! Ja, det er helt\n"
 	.string "fantastisk!\p"
-	.string "Denne POKéDEX er helt fyldt! Du må virkelig\n"
-	.string "elske POKéMON!\p"
+	.string "Denne POKéDEX er helt fyldt! Du må\n"
+	.string "virkelig elske POKéMON!\p"
 	.string "Jeg er så imponeret!\p"
-	.string "Lad mig give dig noget som anerkendelse af\n"
-	.string "din bedrift!$"
+	.string "Lad mig give dig noget som anerkendelse\n"
+	.string "af din bedrift!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheProgrammer:
-	.string "Mig? Du taler til mig? Jeg er PROGRAMMØREN.\p"
+	.string "Mig? Du taler til mig? Jeg er\n"
+	.string "PROGRAMMØREN.\p"
 	.string "Jeg undrer mig over, hvordan\n"
 	.string "SPILLEAUTOMATERNE er her.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ImTheGraphicArtist:
-	.string "Jeg er GRAFISK DESIGNEREN! Er POKéMON fra\n"
-	.string "HOENN ikke spændende?$"
+	.string "Jeg er GRAFISK DESIGNEREN! Er POKéMON\n"
+	.string "fra HOENN ikke spændende?$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute:
-	.string "Pigerne TUBERS, de er søde, ikk? At kæmpe\n"
-	.string "mod en sød TUBER…\p"
+	.string "Pigerne TUBERS, de er søde, ikk? At\n"
+	.string "kæmpe mod en sød TUBER…\p"
 	.string "Jubii, det er så fedt!\p"
-	.string "Og tvillingerne! Er de ikke søde? En 2-mod-2\n"
-	.string "kamp med tvillingerne…\p"
+	.string "Og tvillingerne! Er de ikke søde? En\n"
+	.string "2-mod-2 kamp med tvillingerne…\p"
 	.string "Jubii, det er uudholdeligt sjovt!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart:
@@ -108,29 +110,30 @@ LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart:
 LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy:
 	.string "Man ved aldrig hvornår og hvor folk vil\n"
 	.string "udfordre dig.\p"
-	.string "Derfor forlader jeg aldrig hjemmet uden min\n"
-	.string "GAME BOY ADVANCE.$"
+	.string "Derfor forlader jeg aldrig hjemmet uden\n"
+	.string "min GAME BOY ADVANCE.$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles:
 	.string "SCOTT: … … … … … … … … … … Zzz…\p"
-	.string "… … … … … Hva?! Åh, undskyld, undskyld! Jeg var\n"
-	.string "lige druknet i søvn!\p"
+	.string "… … … … … Hva?! Åh, undskyld, undskyld!\n"
+	.string "Jeg var lige druknet i søvn!\p"
 	.string "Jeg kom for at tjekke denne POKéMON-\n"
 	.string "KONKURRENCE ting ud.\p"
-	.string "Jeg må indrømme, det ser ret underholdende\n"
-	.string "ud, men…\p"
+	.string "Jeg må indrømme, det ser ret\n"
+	.string "underholdende ud, men…\p"
 	.string "Betragt mig som en puritaner--jeg\n"
 	.string "foretrækker kampe og seje TRÆNERE.\p"
 	.string "Men det er bare mig.\p"
-	.string "{PLAYER}{KUN}, jeg håber, du vil nyde alt som\n"
-	.string "GYMS, KONKURRENCER, KAMP-TELTET, det\l"
-	.string "hele!$"
+	.string "{PLAYER}{KUN}, jeg håber, du vil nyde alt\n"
+	.string "som GYMS, KONKURRENCER, KAMP-TELTET,\l"
+	.string "det hele!$"
 
 LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy:
 	.string "SCOTT: Jeg tror, det kræver strategi at\n"
 	.string "vinde en KONKURRENCE.\p"
 	.string "At udvikle KONKURRENCEstrategier er én\n"
-	.string "måde at blive en bedre TRÆNER, vil jeg sige.$"
+	.string "måde at blive en bedre TRÆNER, vil jeg\l"
+	.string "sige.$"
 
 
 

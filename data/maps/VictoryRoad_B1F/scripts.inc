@@ -53,15 +53,16 @@ VictoryRoad_B1F_Text_ShannonPostBattle:
 	.string "tilliden mellem POKéMON og TRÆNERE.$"
 
 VictoryRoad_B1F_Text_MichelleIntro:
-	.string "Det her er ikke målet. Det er bare et sted på\n"
-	.string "vejen til POKéMONLEAGUE.$"
+	.string "Det her er ikke målet. Det er bare et\n"
+	.string "sted på vejen til POKéMONLEAGUE.$"
 
 VictoryRoad_B1F_Text_MichelleDefeat:
 	.string "Det er vejen!$"
 
 VictoryRoad_B1F_Text_MichellePostBattle:
-	.string "Du klarer det helt sikkert! Dine POKéMON er\n"
-	.string "alle ivrige for at komme afsted!$"
+	.string "Du klarer det helt sikkert! Dine\n"
+	.string "POKéMON er alle ivrige for at komme\l"
+	.string "afsted!$"
 
 VictoryRoad_B1F_Text_MitchellIntro:
 	.string "Mine POKéMON er kosmisk inspirerende!$"
@@ -70,20 +71,21 @@ VictoryRoad_B1F_Text_MitchellDefeat:
 	.string "Jeg har aldrig mødt nogen som dig før.$"
 
 VictoryRoad_B1F_Text_MitchellPostBattle:
-	.string "Selv uden for kamp, kan jeg mærke en utrolig\n"
-	.string "kraft stråler fra dig og dine POKéMON.$"
+	.string "Selv uden for kamp, kan jeg mærke en\n"
+	.string "utrolig kraft stråler fra dig og dine\l"
+	.string "POKéMON.$"
 
 VictoryRoad_B1F_Text_HalleIntro:
-	.string "Okay, ingen grund til at blive defensiv! Slap\n"
-	.string "af, lad os tage det roligt!$"
+	.string "Okay, ingen grund til at blive defensiv!\n"
+	.string "Slap af, lad os tage det roligt!$"
 
 VictoryRoad_B1F_Text_HalleDefeat:
 	.string "Whoa! Fantastisk!$"
 
 VictoryRoad_B1F_Text_HallePostBattle:
 	.string "Selvfølgelig, dette er SEJRVEJEN.\p"
-	.string "Men det er ikke så anderledes fra den vej, du\n"
-	.string "hidtil har fulgt.\p"
+	.string "Men det er ikke så anderledes fra den\n"
+	.string "vej, du hidtil har fulgt.\p"
 	.string "Prøv at nyde resten af vejen!$"
 
 

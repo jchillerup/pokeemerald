@@ -151,3 +151,4 @@ BattleFrontier_BattleDomeCorridor_Movement_WalkToBattleRoomMidRight:
 	step_end
 
 
+

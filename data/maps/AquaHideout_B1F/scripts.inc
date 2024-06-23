@@ -109,16 +109,16 @@ AquaHideout_B1F_EventScript_Grunt7::
 	end
 
 AquaHideout_B1F_Text_Grunt2Intro:
-	.string "Hvis du vil kende hemmeligheden om vores\n"
-	.string "SKJULESTED, må du slå mig!$"
+	.string "Hvis du vil kende hemmeligheden om\n"
+	.string "vores SKJULESTED, må du slå mig!$"
 
 AquaHideout_B1F_Text_Grunt2Defeat:
 	.string "Jeg kan slet ikke vinde...$"
 
 AquaHideout_B1F_Text_Grunt2PostBattle:
 	.string "Vores skjulested hemmelighed?\p"
-	.string "Nå, lad os bare sige... Der er en ubåd i den\n"
-	.string "fjerneste ende!\p"
+	.string "Nå, lad os bare sige... Der er en ubåd i\n"
+	.string "den fjerneste ende!\p"
 	.string "Men nu...  Kekekeke...$"
 
 AquaHideout_B1F_Text_Grunt3Intro:
@@ -132,7 +132,8 @@ AquaHideout_B1F_Text_Grunt3Defeat:
 
 AquaHideout_B1F_Text_Grunt3PostBattle:
 	.string "Hov! Det var meningen!\p"
-	.string "Min mission var bare at holde dig tilbage!$"
+	.string "Min mission var bare at holde dig\n"
+	.string "tilbage!$"
 
 AquaHideout_B1F_Text_Grunt5Intro:
 	.string "Gaaab… At holde øje med SKJULESTEDET\n"
@@ -154,8 +155,8 @@ AquaHideout_B1F_Text_Grunt7Defeat:
 	.string "Jeg tabte på en sej måde…$"
 
 AquaHideout_B1F_Text_Grunt7PostBattle:
-	.string "Hvis du har en sej uniform, ser du god ud selv i\n"
-	.string "et nederlag, synes du ikke?$"
+	.string "Hvis du har en sej uniform, ser du god ud\n"
+	.string "selv i et nederlag, synes du ikke?$"
 
 
 

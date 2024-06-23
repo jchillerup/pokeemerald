@@ -34,24 +34,24 @@ DewfordTown_House2_Text_WantYouToHaveSilkScarf:
 	.string "modefronten, ja!\p"
 	.string "Åh, jeg kan se dine øjne funkler! Du\n"
 	.string "værdsætter min blændende stil!\p"
-	.string "Åh, du er en fornøjelse! Her har du. Jeg vil\n"
-	.string "gerne give dig det!$"
+	.string "Åh, du er en fornøjelse! Her har du. Jeg\n"
+	.string "vil gerne give dig det!$"
 
 DewfordTown_House2_Text_NoRoom:
 	.string "Åh, du har ikke plads?\p"
 	.string "Nu skal du høre, dette TØRKLÆDE er et\n"
-	.string "must-have! Jeg ville endda sælge alle mine\l"
-	.string "ting for at få det!$"
+	.string "must-have! Jeg ville endda sælge alle\l"
+	.string "mine ting for at få det!$"
 
 DewfordTown_House2_Text_ExplainSilkScarf:
-	.string "SILK SCARF øger styrken af NORMAL-type\n"
-	.string "angreb.\p"
+	.string "SILK SCARF øger styrken af\n"
+	.string "NORMAL-type angreb.\p"
 	.string "Det er et fantastisk TØRKLÆDE, som vil\n"
 	.string "klæde næsten alle POKéMON!$"
 
 DewfordTown_House2_Text_BrawlySoCool:
-	.string "Wow, du besværede dig med at krydse havet\n"
-	.string "for at besøge DEWFORD?\p"
+	.string "Wow, du besværede dig med at krydse\n"
+	.string "havet for at besøge DEWFORD?\p"
 	.string "Kom du måske hertil, fordi du hørte om\n"
 	.string "BRAWLY?\p"
 	.string "Han er så sej… Alle idoliserer ham.$"

@@ -30,10 +30,10 @@ PacifidlogTown_House4_EventScript_No::
 	end
 
 PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon:
-	.string "Folk sagde, at de så en POKéMON flyve højt\n"
-	.string "over HOENN.\p"
-	.string "Flyver den rundt hele tiden? Skal den ikke\n"
-	.string "hvile et sted?$"
+	.string "Folk sagde, at de så en POKéMON flyve\n"
+	.string "højt over HOENN.\p"
+	.string "Flyver den rundt hele tiden? Skal den\n"
+	.string "ikke hvile et sted?$"
 
 PacifidlogTown_House4_Text_SkyPokemon:
 	.string "En himmel POKéMON! En himmel POKéMON!$"
@@ -46,10 +46,10 @@ PacifidlogTown_House4_Text_YesTown:
 	.string "Jeg har aldrig hørt om et sted som det.$"
 
 PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere:
-	.string "Nej? Det giver ingen mening. Du skal komme\n"
-	.string "et sted fra.\p"
-	.string "Åh! Vent! Du skal ikke sige, at du blev født i\n"
-	.string "bunden af havet?$"
+	.string "Nej? Det giver ingen mening. Du skal\n"
+	.string "komme et sted fra.\p"
+	.string "Åh! Vent! Du skal ikke sige, at du blev\n"
+	.string "født i bunden af havet?$"
 
 
 

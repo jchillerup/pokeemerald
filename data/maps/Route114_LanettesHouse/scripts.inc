@@ -58,13 +58,14 @@ Route114_LanettesHouse_Text_EverythingClutteredKeepThis:
 Route114_LanettesHouse_Text_OrganizeYourBoxes:
 	.string "Må jeg tilbyde råd om mit POKéMONs\n"
 	.string "Opbevaringssystem?\p"
-	.string "Du bør organisere dine KASSER, så du kan se,\n"
-	.string "hvilke POKéMON der er i dem.$"
+	.string "Du bør organisere dine KASSER, så du\n"
+	.string "kan se, hvilke POKéMON der er i dem.$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage1:
-	.string "Det er LANETTE's forskningsnotater. Der\n"
-	.string "er information om KASSER.\p"
-	.string "Design KASSER til at holde 30 POKéMON hver.\p"
+	.string "Det er LANETTE's forskningsnotater.\n"
+	.string "Der er information om KASSER.\p"
+	.string "Design KASSER til at holde 30 POKéMON\n"
+	.string "hver.\p"
 	.string "Hver TRÆNER bør kunne opbevare 420\n"
 	.string "POKéMON i PC-systemet.\p"
 	.string "Vil du fortsætte med at læse?$"
@@ -72,35 +73,36 @@ Route114_LanettesHouse_Text_ResearchNotesPage1:
 Route114_LanettesHouse_Text_ResearchNotesPage2:
 	.string "Et mærkningssystem bør tilføjes for at\n"
 	.string "gøre POKéMON lettere at organisere.\p"
-	.string "Navnet og tapetdesignet af hver BOKS vil\n"
-	.string "blive ændret for at glæde de opbevarede\l"
-	.string "POKéMON.\p"
+	.string "Navnet og tapetdesignet af hver BOKS\n"
+	.string "vil blive ændret for at glæde de\l"
+	.string "opbevarede POKéMON.\p"
 	.string "Vil du fortsætte med at læse?$"
 
 Route114_LanettesHouse_Text_ResearchNotesPage3:
-	.string "Når du gemmer en POKéMON, skal den sendes\n"
-	.string "til den sidst inspicerede BOKS.\p"
-	.string "Hvis den BOKS er fuld, bliver den modtagne\n"
-	.string "POKéMON gemt i den næste BOKS.\p"
+	.string "Når du gemmer en POKéMON, skal den\n"
+	.string "sendes til den sidst inspicerede BOKS.\p"
+	.string "Hvis den BOKS er fuld, bliver den\n"
+	.string "modtagne POKéMON gemt i den næste BOKS.\p"
 	.string "Med andre ord, når en BOKS undersøges,\n"
-	.string "bliver den automatisk valgt som den BOKS,\l"
-	.string "hvortil POKéMON sendes.$"
+	.string "bliver den automatisk valgt som den\l"
+	.string "BOKS, hvortil POKéMON sendes.$"
 
 Route114_LanettesHouse_Text_ClosedTheNotebook:
 .string "{PLAYER} lukkede notesbogen.$"
 
 Route114_LanettesHouse_Text_EmailFromBill:
-	.string "Der er en e-mail fra nogen på computeren.\p"
+	.string "Der er en e-mail fra nogen på\n"
+	.string "computeren.\p"
 	.string "“... ... ... ... ... ...\p"
 	.string "“Dit Opbevaringssystem tilbyder mere\n"
 	.string "bekvemmelighed end mit.\p"
 	.string "“Det har en masse brugervenlige\n"
-	.string "funktioner, som gør det sjovt og nyttigt,\l"
-	.string "også.\p"
-	.string "“Det gør mig stolt, at jeg spillede en rolle i\n"
-	.string "dets udvikling.\p"
-	.string "“Håber, at du vil fortsætte forskningen i\n"
-	.string "Opbevaringssystemer.\p"
+	.string "funktioner, som gør det sjovt og\l"
+	.string "nyttigt, også.\p"
+	.string "“Det gør mig stolt, at jeg spillede en\n"
+	.string "rolle i dets udvikling.\p"
+	.string "“Håber, at du vil fortsætte forskningen\n"
+	.string "i Opbevaringssystemer.\p"
 	.string "“Fra BILL ... ... ... ... ... ... ... ...$"
 
 

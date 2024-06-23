@@ -39,14 +39,14 @@ LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether:
 	.string "Det er hvad jeg tænker.$"
 
 LavaridgeTown_PokemonCenter_1F_Text_HotSpringCanInvigorate:
-	.string "Det er lidt magisk, hvordan man bare kan få\n"
-	.string "energi af at sidde i et varmt kildbad.  Jeg\l"
-	.string "ville ønske, at mine POKéMON også kunne\l"
-	.string "blive forkælet.$"
+	.string "Det er lidt magisk, hvordan man bare kan\n"
+	.string "få energi af at sidde i et varmt kildbad. \l"
+	.string "Jeg ville ønske, at mine POKéMON også\l"
+	.string "kunne blive forkælet.$"
 
 LavaridgeTown_PokemonCenter_1F_Text_TrainersShouldRestToo:
-	.string "Høhøhø! Hej, knægt, du kan nå de varme kilder\n"
-	.string "herfra.\p"
+	.string "Høhøhø! Hej, knægt, du kan nå de varme\n"
+	.string "kilder herfra.\p"
 	.string "Hvis POKéMON får hvile, så skulle deres\n"
 	.string "TRÆNERE også.$"
 

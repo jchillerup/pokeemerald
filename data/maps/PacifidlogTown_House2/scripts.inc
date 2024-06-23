@@ -95,52 +95,54 @@ PacifidlogTown_House2_EventScript_UnhappyAzurill::
 PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation:
 	.string "Undskyld!\p"
 	.string "Jeg er formandens lillebror fra POKéMON\n"
-	.string "KLUBBEN. Jeg nyder min ferie med POKéMON,\l"
-	.string "ja, det er sandt.$"
+	.string "KLUBBEN. Jeg nyder min ferie med\l"
+	.string "POKéMON, ja, det er sandt.$"
 
 PacifidlogTown_House2_Text_AhYourPokemon:
 	.string "Åh! Din POKéMON...$"
 
 PacifidlogTown_House2_Text_AdoringPokemonTakeThis:
 	.string "Den kan tydeligvis rigtig godt lide dig.\p"
-	.string "En POKéMON, der er hengiven og bedårende,\n"
-	.string "fortjener en TM som denne, ikke?$"
+	.string "En POKéMON, der er hengiven og\n"
+	.string "bedårende, fortjener en TM som denne,\l"
+	.string "ikke?$"
 
 PacifidlogTown_House2_Text_PutInSomeMoreEffort:
-	.string "Hmm… Det er ikke dårligt, men det er heller\n"
-	.string "ikke godt.\p"
-	.string "Du, som TRÆNER, skal lægge lidt mere indsats\n"
-	.string "i det.$"
+	.string "Hmm… Det er ikke dårligt, men det er\n"
+	.string "heller ikke godt.\p"
+	.string "Du, som TRÆNER, skal lægge lidt mere\n"
+	.string "indsats i det.$"
 
 PacifidlogTown_House2_Text_ViciousPokemonTakeThis:
 	.string "Den ser farlig ud.\p"
-	.string "En uhyggelig POKéMON som den fortjener en\n"
-	.string "TM som denne.$"
+	.string "En uhyggelig POKéMON som den fortjener\n"
+	.string "en TM som denne.$"
 
 PacifidlogTown_House2_Text_ExplainReturnFrustration:
-	.string "Hvis en POKéMON kan lide dig meget, RETURNs\n"
-	.string "kraft bliver forstærket.\p"
-	.string "Hvis den ikke kan lide dig, FRUSTRATIONs\n"
-	.string "kraft stiger.$"
+	.string "Hvis en POKéMON kan lide dig meget,\n"
+	.string "RETURNs kraft bliver forstærket.\p"
+	.string "Hvis den ikke kan lide dig,\n"
+	.string "FRUSTRATIONs kraft stiger.$"
 
 PacifidlogTown_House2_Text_GetGoodTMInXDays:
 	.string "Åh ja. Omkring {STR_VAR_1} eller så\n"
 	.string "dage, skulle jeg få et par gode TM'er.\p"
-	.string "Du burde komme og besøge mig. Jeg giver dig\n"
-	.string "en TM, der passer til dine POKéMON.$"
+	.string "Du burde komme og besøge mig. Jeg giver\n"
+	.string "dig en TM, der passer til dine POKéMON.$"
 
 PacifidlogTown_House2_Text_Rurii:
 .string "AZURILL: Rurii.$"
 
 PacifidlogTown_House2_Text_VeryFriendlyWithTrainer:
-	.string "Det virker meget venligt overfor TRÆNER.$"
+	.string "Det virker meget venligt overfor\n"
+	.string "TRÆNER.$"
 
 PacifidlogTown_House2_Text_Rururi:
 .string "AZURILL: Rururi!$"
 
 PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch:
-	.string "Det ser ikke ud til at kunne lide TRÆNEREN så\n"
-	.string "meget.$"
+	.string "Det ser ikke ud til at kunne lide\n"
+	.string "TRÆNEREN så meget.$"
 
 
 

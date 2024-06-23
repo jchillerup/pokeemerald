@@ -24,18 +24,18 @@ RustboroCity_Flat2_2F_EventScript_GavePremierBall::
 	end
 
 RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays:
-	.string "I de gamle dage var DEVON bare et småt, lille\n"
-	.string "firma.$"
+	.string "I de gamle dage var DEVON bare et småt,\n"
+	.string "lille firma.$"
 
 RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt:
 	.string "Min far arbejder i FIRMAET.\p"
-	.string "Min far lavede dette! Men jeg kan ikke bruge\n"
-	.string "det, så du kan få det.$"
+	.string "Min far lavede dette! Men jeg kan ikke\n"
+	.string "bruge det, så du kan få det.$"
 
 RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo:
 	.string "Min far arbejder i FIRMAET.\p"
-	.string "Når jeg bliver stor, vil jeg også arbejde for\n"
-	.string "DEVON.$"
+	.string "Når jeg bliver stor, vil jeg også arbejde\n"
+	.string "for DEVON.$"
 
 
 

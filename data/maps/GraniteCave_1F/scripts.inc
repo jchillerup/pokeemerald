@@ -20,19 +20,20 @@ GraniteCave_1F_EventScript_ReceivedFlash::
 	end
 
 GraniteCave_1F_Text_GetsDarkAheadHereYouGo:
-	.string "Hey, du. Det bliver alvorligt mørkt fremad.\n"
-	.string "Det bliver svært at udforske.\p"
-	.string "Den fyr, der kom forbi tidligere… STEVEN,\n"
-	.string "tror jeg det var.\p"
-	.string "Han vidste, hvordan man bruger FLASH, så\n"
-	.string "han burde nok være i orden, men…\p"
-	.string "Nå, for os VANDRERE er det vores motto at\n"
-	.string "hjælpe dem, vi møder.\p"
-	.string "Her får du dette, jeg vil give det videre.$"
+	.string "Hey, du. Det bliver alvorligt mørkt\n"
+	.string "fremad. Det bliver svært at udforske.\p"
+	.string "Den fyr, der kom forbi tidligere…\n"
+	.string "STEVEN, tror jeg det var.\p"
+	.string "Han vidste, hvordan man bruger FLASH,\n"
+	.string "så han burde nok være i orden, men…\p"
+	.string "Nå, for os VANDRERE er det vores motto\n"
+	.string "at hjælpe dem, vi møder.\p"
+	.string "Her får du dette, jeg vil give det\n"
+	.string "videre.$"
 
 GraniteCave_1F_Text_ExplainFlash:
-	.string "Lær den skjulte træk FLASH til en POKéMON og\n"
-	.string "brug den.\p"
+	.string "Lær den skjulte træk FLASH til en\n"
+	.string "POKéMON og brug den.\p"
 	.string "Den lyser endda op i den dybeste mørke i\n"
 	.string "huler.\p"
 	.string "Men for at bruge den, skal du have GYM\n"

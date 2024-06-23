@@ -112,16 +112,18 @@ Route112_EventScript_Shayla::
 	end
 
 Route112_Text_LeaderGoingToAwakenThing:
-	.string "Hey, mand, vil vores leder virkelig vække det\n"
-	.string "der?$"
+	.string "Hey, mand, vil vores leder virkelig vække\n"
+	.string "det der?$"
 
 Route112_Text_YeahWeNeedMeteorite:
-	.string "Det lyder sådan, ja. Men jeg hørte at vi har\n"
-	.string "brug for en METEORIT for at gøre det.$"
+	.string "Det lyder sådan, ja. Men jeg hørte at vi\n"
+	.string "har brug for en METEORIT for at gøre\l"
+	.string "det.$"
 
 Route112_Text_OhThatsWhyCrewWentToFallarbor:
-	.string "Åh, nu forstår jeg. Det er derfor resten af\n"
-	.string "besætningen tog afsted til FALLARBOR.$"
+	.string "Åh, nu forstår jeg. Det er derfor resten\n"
+	.string "af besætningen tog afsted til\l"
+	.string "FALLARBOR.$"
 
 Route112_Text_CantLetAnyonePassUntilTheyreBack:
 	.string "Du har forstået det. Og indtil de kommer\n"
@@ -129,9 +131,9 @@ Route112_Text_CantLetAnyonePassUntilTheyreBack:
 	.string "okay?$"
 
 Route112_Text_NotEasyToGetBackToLavaridge:
-	.string "Øh, jeg vil gerne til MAUVILLE, men hvis jeg\n"
-	.string "går ned ad disse kanter, vil det ikke være let\l"
-	.string "at komme tilbage til LAVARIDGE.$"
+	.string "Øh, jeg vil gerne til MAUVILLE, men hvis\n"
+	.string "jeg går ned ad disse kanter, vil det ikke\l"
+	.string "være let at komme tilbage til LAVARIDGE.$"
 
 Route112_Text_MtChimneyCableCarSign:
 	.string "MT. CHIMNEY CABLE CAR “En kort gåtur {UP_ARROW}\n"
@@ -139,8 +141,8 @@ Route112_Text_MtChimneyCableCarSign:
 
 Route112_Text_MtChimneySign:
 	.string "MT. CHIMNEY\p"
-	.string "“For LAVARIDGE TOWN or the summit, please\n"
-	.string "take the CABLE CAR.”$"
+	.string "“For LAVARIDGE TOWN or the summit,\n"
+	.string "please take the CABLE CAR.”$"
 
 Route112_Text_RouteSignLavaridge:
 	.string "ROUTE 112 {LEFT_ARROW} LAVARIDGE BY$"

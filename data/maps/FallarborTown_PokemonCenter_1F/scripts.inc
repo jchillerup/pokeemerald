@@ -88,31 +88,31 @@ FallarborTown_PokemonCenter_1F_Movement_LanetteExitWest:
 
 FallarborTown_PokemonCenter_1F_Text_LanetteGreeting:
 	.string "Hej, hej. Hvad hedder du?\p"
-	.string "Okay, dit navn er {PLAYER}{KUN}. Jeg kan se, at\n"
-	.string "du er en TRÆNER.\p"
+	.string "Okay, dit navn er {PLAYER}{KUN}. Jeg kan\n"
+	.string "se, at du er en TRÆNER.\p"
 	.string "Det betyder, at du bruger det POKéMON\n"
 	.string "Opbevaringssystem, jeg har udviklet.\p"
-	.string "Hvordan jeg nåede frem til den konklusion,\n"
-	.string "er en enkel deduktiv proces.\p"
-	.string "Du talte med mig, fordi du ønskede adgang til\n"
-	.string "noget på denne computer.\p"
+	.string "Hvordan jeg nåede frem til den\n"
+	.string "konklusion, er en enkel deduktiv proces.\p"
+	.string "Du talte med mig, fordi du ønskede\n"
+	.string "adgang til noget på denne computer.\p"
 	.string "Åh, undskyld. Jeg er LANETTE.\p"
-	.string "Ærligt talt er jeg glad for at møde dig--det\n"
-	.string "er fantastisk, at du bruger\l"
+	.string "Ærligt talt er jeg glad for at møde\n"
+	.string "dig--det er fantastisk, at du bruger\l"
 	.string "Opbevaringssystemet.\p"
-	.string "Hvis du kunne, så besøg mig derhjemme. Mit\n"
-	.string "hus er på RUTE 114.$"
+	.string "Hvis du kunne, så besøg mig derhjemme.\n"
+	.string "Mit hus er på RUTE 114.$"
 
 FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown:
-	.string "Jeg er nysgerrig på, hvordan POKéMON så ud\n"
-	.string "for længe, længe siden?\p"
-	.string "Måske vil FOSSILFANATIKEREN ved kanten\n"
-	.string "af byen vide.$"
+	.string "Jeg er nysgerrig på, hvordan POKéMON så\n"
+	.string "ud for længe, længe siden?\p"
+	.string "Måske vil FOSSILFANATIKEREN ved\n"
+	.string "kanten af byen vide.$"
 
 FallarborTown_PokemonCenter_1F_Text_PlantHardyTrees:
-	.string "I FJEDENE AF FALLARBOR, planter vi spirer\n"
-	.string "af robuste træer, der trives selv i vulkansk\l"
-	.string "aske.$"
+	.string "I FJEDENE AF FALLARBOR, planter vi\n"
+	.string "spirer af robuste træer, der trives selv\l"
+	.string "i vulkansk aske.$"
 
 
 

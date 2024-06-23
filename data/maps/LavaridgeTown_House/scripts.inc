@@ -18,10 +18,10 @@ LavaridgeTown_House_EventScript_Zigzagoon::
 	end
 
 LavaridgeTown_House_Text_WifeWarmingEggInHotSprings:
-	.string "Min kone varmer et ÆG i de varme kilder. Det er\n"
-	.string "hvad hun fortalte mig.\p"
-	.string "Hun efterlod to POKéMON hos DAGPLEJEN. Og\n"
-	.string "de opdagede det ÆG!$"
+	.string "Min kone varmer et ÆG i de varme kilder.\n"
+	.string "Det er hvad hun fortalte mig.\p"
+	.string "Hun efterlod to POKéMON hos DAGPLEJEN.\n"
+	.string "Og de opdagede det ÆG!$"
 
 LavaridgeTown_House_Text_Zigzagoon:
 .string "ZIGZAGOON: Pshoo!$" 

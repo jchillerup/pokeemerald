@@ -298,8 +298,9 @@ TrainerHill_Entrance_Pokemart_Expanded:
 TrainerHill_Entrance_Text_StillGettingReady:
 	.string "Dette er TRÆNERBAKKEN hvor du kan nyde\n"
 	.string "tag-kampe med mange TRÆNERE.\p"
-	.string "Desværre er vi stadig i gang med at klargøre\n"
-	.string "tingene. Kom venligst tilbage senere!$"
+	.string "Desværre er vi stadig i gang med at\n"
+	.string "klargøre tingene. Kom venligst tilbage\l"
+	.string "senere!$"
 
 TrainerHill_Entrance_Text_WelcomeToTrainerHill:
 	.string "Velkommen!\p"
@@ -308,7 +309,8 @@ TrainerHill_Entrance_Text_WelcomeToTrainerHill:
 
 TrainerHill_Entrance_Text_SaveGameBeforeEnter:
 	.string "Er dette dit første besøg her?\p"
-	.string "Inden du går ind, bedes du gemme dit spil.$"
+	.string "Inden du går ind, bedes du gemme dit\n"
+	.string "spil.$"
 
 TrainerHill_Entrance_Text_TrainersUpToFloorX:
 	.string "Lad os se... TRÆNERNE her nu er...\p"
@@ -316,15 +318,15 @@ TrainerHill_Entrance_Text_TrainersUpToFloorX:
 
 TrainerHill_Entrance_Text_TrainersInEveryRoom:
 	.string "Lad os se… TRÆNERNE her nu er…\p"
-	.string "Der ser ud til at være TRÆNERE samlet i hvert\n"
-	.string "rum.$"
+	.string "Der ser ud til at være TRÆNERE samlet i\n"
+	.string "hvert rum.$"
 
 TrainerHill_Entrance_Text_LikeToChallengeTrainers:
 	.string "Vil du udfordre de ventende TRÆNERE?$"
 
 TrainerHill_Entrance_Text_TimeProgessGetSetGo:
-	.string "Jeg vil tage tiden på din fremgang. held og\n"
-	.string "lykke!\p"
+	.string "Jeg vil tage tiden på din fremgang. held\n"
+	.string "og lykke!\p"
 	.string "På dinemærker…\p"
 	.string "Klar…\p"
 	.string "Go!$"
@@ -334,8 +336,8 @@ TrainerHill_Entrance_Text_PleaseVisitUsAgain:
 
 TrainerHill_Entrance_Text_TooBadTremendousEffort:
 	.string "Det var for dårligt.\p"
-	.string "Jeg synes, at du gjorde en kæmpe indsats i\n"
-	.string "dine kampe.\p"
+	.string "Jeg synes, at du gjorde en kæmpe\n"
+	.string "indsats i dine kampe.\p"
 	.string "Kom tilbage og prøv igen!$"
 
 TrainerHill_Entrance_Text_HopeYouGiveItYourBest:
@@ -354,12 +356,12 @@ TrainerHill_Entrance_Text_ThankYouForPlaying:
 TrainerHill_Entrance_Text_ExplainTrainerHill:
 	.string "Her på TRÆNERBJERGET afholder vi et\n"
 	.string "arrangement kaldet Tidsangreb.\p"
-	.string "Det er et løb, der måler, hvor lang tid det\n"
-	.string "tager dig at nå vores ejer på taget fra\l"
-	.string "denne tæller.\p"
+	.string "Det er et løb, der måler, hvor lang tid\n"
+	.string "det tager dig at nå vores ejer på taget\l"
+	.string "fra denne tæller.\p"
 	.string "De hurtigste tider bliver posted på\n"
-	.string "Tidstavlen--prøv at konkurrere med dine\l"
-	.string "venner.\p"
+	.string "Tidstavlen--prøv at konkurrere med\l"
+	.string "dine venner.\p"
 	.string "I TRÆNER-kampe på vejen vil hverken\n"
 	.string "Erfaringspoint eller penge blive tildelt.$"
 
@@ -373,38 +375,39 @@ TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon:
 TrainerHill_Roof_Text_YouFinallyCameBravo:
 	.string "Hm! Hm!\p"
 	.string "Du kom endelig! Ja, du er ankommet!\p"
-	.string "Vent! Sig det ikke! Jeg ved hvorfor du kom\n"
-	.string "hele vejen herhen alene!\p"
-	.string "Du ville se mig, ejeren af TRÆNERBJERGET,\n"
-	.string "fordi…\p"
-	.string "Du vil danne et tagteam med mig! Wa-hoo!\p"
+	.string "Vent! Sig det ikke! Jeg ved hvorfor du\n"
+	.string "kom hele vejen herhen alene!\p"
+	.string "Du ville se mig, ejeren af\n"
+	.string "TRÆNERBJERGET, fordi…\p"
+	.string "Du vil danne et tagteam med mig!\n"
+	.string "Wa-hoo!\p"
 	.string "…Øh? Det er det ikke?\p"
 	.string "Uanset, jeg fulgte dig på vejen op.\n"
 	.string "Fantastisk kamp! Bravo, virkelig!$"
 
 TrainerHill_Roof_Text_HaveTheMostMarvelousGift:
-	.string "For en fantastisk person som dig, har jeg\n"
-	.string "den mest fantastiske gave!$"
+	.string "For en fantastisk person som dig, har\n"
+	.string "jeg den mest fantastiske gave!$"
 
 TrainerHill_Roof_Text_FullUpBeBackLaterForThis:
-	.string "Åh nej, fyldt op med ting! Du kommer tilbage\n"
-	.string "senere for dette!$"
+	.string "Åh nej, fyldt op med ting! Du kommer\n"
+	.string "tilbage senere for dette!$"
 
 TrainerHill_Roof_Text_GotHereMarvelouslyQuickly:
-	.string "Åh, vent lige her! Kom du muligvis her hen\n"
-	.string "forrygende hurtigt?\p"
-	.string "Hvor skønt! Du behøvede ikke at skynde dig\n"
-	.string "sådan for at se mig!\p"
-	.string "Det er så dejligt. Jeg vil få Tids- tavlen i\n"
-	.string "receptionen opdateret!$"
+	.string "Åh, vent lige her! Kom du muligvis her\n"
+	.string "hen forrygende hurtigt?\p"
+	.string "Hvor skønt! Du behøvede ikke at skynde\n"
+	.string "dig sådan for at se mig!\p"
+	.string "Det er så dejligt. Jeg vil få Tids-\n"
+	.string "tavlen i receptionen opdateret!$"
 
 TrainerHill_Roof_Text_YouWerentVeryQuick:
 	.string "Men, åh... Du var ikke særlig hurtig til at\n"
 	.string "komme herhen.$"
 
 TrainerHill_Roof_Text_ArriveZippierNextTime:
-	.string "Måske ville det glæde mig mere, hvis du kom\n"
-	.string "lidt hurtigere næste gang.\p"
+	.string "Måske ville det glæde mig mere, hvis du\n"
+	.string "kom lidt hurtigere næste gang.\p"
 	.string "Derefter vil jeg med glæde danne et\n"
 	.string "makkerpar med dig!\p"
 	.string "Indtil vi mødes igen, kammerat!$"
@@ -422,28 +425,30 @@ TrainerHill_Entrance_Text_ChallengeTime:
 TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead:
 	.string "Hvem ved, hvilke slags TRÆNERE og\n"
 	.string "POKéMON-komboer, der venter?\p"
-	.string "Alt jeg ved er, at jeg vil skubbe enhver til\n"
-	.string "side, der står i min vej!$"
+	.string "Alt jeg ved er, at jeg vil skubbe enhver\n"
+	.string "til side, der står i min vej!$"
 
 TrainerHill_Entrance_Text_CantWaitToTestTheWaters:
 	.string "Jeg har hørt, at seje TRÆNERE kommer til\n"
-	.string "denne TRÆNERRIDGE fra alle mulige steder.\p"
+	.string "denne TRÆNERRIDGE fra alle mulige\l"
+	.string "steder.\p"
 	.string "Jeg kan ikke vente med at prøve det af!\p"
-	.string "Jeg vil skubbe alle til side, som står i min\n"
-	.string "vej!$"
+	.string "Jeg vil skubbe alle til side, som står i\n"
+	.string "min vej!$"
 
 TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop:
 	.string "Ser du Tavlen med Tiden derovre?\p"
-	.string "Mine venner og jeg prøver at se, hvem der kan\n"
-	.string "nå toppe i mindst tid.$"
+	.string "Mine venner og jeg prøver at se, hvem\n"
+	.string "der kan nå toppe i mindst tid.$"
 
 TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen:
 	.string "Ved du, hvornår de åbner dette sted? \p"
-	.string "Jeg venter her for at være den  allerførste\n"
-	.string "udfordrer nogensinde!$"
+	.string "Jeg venter her for at være den \n"
+	.string "allerførste udfordrer nogensinde!$"
 
 TrainerHill_Elevator_Text_ReturnToReception:
-	.string "Vil du gerne vende tilbage til receptionen?$"
+	.string "Vil du gerne vende tilbage til\n"
+	.string "receptionen?$"
 
 
 

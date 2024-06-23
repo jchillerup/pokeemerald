@@ -83,34 +83,35 @@ RustboroCity_DevonCorp_1F_EventScript_ProductsDisplay::
 	end
 
 RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp:
-	.string "Hej og velkommen til DEVON CORPORATION.\p"
-	.string "Vi er stolte producenter af genstande og\n"
-	.string "medicin, der forbedrer dit liv.$"
+	.string "Hej og velkommen til DEVON\n"
+	.string "CORPORATION.\p"
+	.string "Vi er stolte producenter af genstande\n"
+	.string "og medicin, der forbedrer dit liv.$"
 
 RustboroCity_DevonCorp_1F_Text_StaffGotRobbed:
-	.string "En af vores forskningsmedarbejdere blev\n"
-	.string "dumt ranet for en vigtig pakke.$"
+	.string "En af vores forskningsmedarbejdere\n"
+	.string "blev dumt ranet for en vigtig pakke.$"
 
 RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct:
 	.string "Hej, de LØBESKO! Det er en af vores\n"
 	.string "produkter!\p"
-	.string "Det gør mig glad, når jeg ser nogen bruge\n"
-	.string "noget, vi har lavet.$"
+	.string "Det gør mig glad, når jeg ser nogen\n"
+	.string "bruge noget, vi har lavet.$"
 
 RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright:
 	.string "Den stjålne pakke…\p"
-	.string "Ja, den er vigtig, men det er ikke noget, som\n"
-	.string "nogen kan bruge.\p"
-	.string "Efter min vurdering må den røver ikke have\n"
-	.string "været særlig klog.$"
+	.string "Ja, den er vigtig, men det er ikke noget,\n"
+	.string "som nogen kan bruge.\p"
+	.string "Efter min vurdering må den røver ikke\n"
+	.string "have været særlig klog.$"
 
 RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered:
 	.string "Det lyder som om de har fået de stjålne\n"
 	.string "DEVON VARER.$"
 
 RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter:
-	.string "Undskyld, kun autoriserede personer har\n"
-	.string "lov til at komme ind her.$"
+	.string "Undskyld, kun autoriserede personer\n"
+	.string "har lov til at komme ind her.$"
 
 RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed:
 	.string "Det er fuldstændig latterligt. Hvordan\n"
@@ -125,24 +126,26 @@ RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay:
 	.string "Der er en panel med lidt skrift på det…\p"
 	.string "“DEVON CORPORATION begyndte som en\n"
 	.string "producent af sten fra stenbrud.\p"
-	.string "“Virksomheden producerede også jern fra\n"
-	.string "affald i sandet.\p"
+	.string "“Virksomheden producerede også jern\n"
+	.string "fra affald i sandet.\p"
 	.string "“Fra den beskedne start med at være\n"
 	.string "producent af råmaterialer, udviklede\l"
 	.string "DEVON sig.\p"
-	.string "“DEVON er nu en producent af en bred vifte\n"
-	.string "af industriprodukter.”$"
+	.string "“DEVON er nu en producent af en bred\n"
+	.string "vifte af industriprodukter.”$"
 
 RustboroCity_DevonCorp_1F_Text_ProductDisplay:
 	.string "Prototyper og testprodukter fylder\n"
 	.string "glasvitrinen.\p"
 	.string "Der er en panel med en beskrivelse…\p"
-	.string "“Udover industriprodukter markedsfører\n"
-	.string "DEVON nu diverse ting og farmaceutiske\l"
-	.string "produkter til bedre livsstil.\p"
-	.string "“For nylig er DEVON begyndt at markedsføre\n"
-	.string "værktøjer til POKéMON TRÆNERE, inklusive\l"
-	.string "POKé BALLS og POKéNAV-systemer.”$"
+	.string "“Udover industriprodukter\n"
+	.string "markedsfører DEVON nu diverse ting og\l"
+	.string "farmaceutiske produkter til bedre\l"
+	.string "livsstil.\p"
+	.string "“For nylig er DEVON begyndt at\n"
+	.string "markedsføre værktøjer til POKéMON\l"
+	.string "TRÆNERE, inklusive POKé BALLS og\l"
+	.string "POKéNAV-systemer.”$"
 
 
 

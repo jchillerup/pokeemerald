@@ -275,11 +275,12 @@ SlateportCity_OceanicMuseum_2F_EventScript_MuseumPatron3::
 	end
 
 SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts:
-	.string "Ja? Hvis du leder efter STERN, så er det mig.\p"
-	.string "Åh! Det må være de dele, jeg bestilte fra HR.\n"
-	.string "STONE fra DEVON.\p"
-	.string "Tak! Det er fantastisk! Nu kan vi forberede\n"
-	.string "os til vores ekspedition.$"
+	.string "Ja? Hvis du leder efter STERN, så er det\n"
+	.string "mig.\p"
+	.string "Åh! Det må være de dele, jeg bestilte fra\n"
+	.string "HR. STONE fra DEVON.\p"
+	.string "Tak! Det er fantastisk! Nu kan vi\n"
+	.string "forberede os til vores ekspedition.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts:
 	.string "Hihihi, vent lige! Vi tager de dele!$"
@@ -289,15 +290,15 @@ SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou:
 
 SlateportCity_OceanicMuseum_2F_Text_WereTeamAqua:
 	.string "Vi er TEAM AQUA!\p"
-	.string "Vores BOSS vil have de der dele! Hold din kæft\n"
-	.string "og giv dem til os!$"
+	.string "Vores BOSS vil have de der dele! Hold din\n"
+	.string "kæft og giv dem til os!$"
 
 SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat:
 	.string "Åååh! Et barn slog mig!$"
 
 SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious:
-	.string "Åh nej, sikke en katastrofe… BOSS'en bliver\n"
-	.string "rasende…$"
+	.string "Åh nej, sikke en katastrofe… BOSS'en\n"
+	.string "bliver rasende…$"
 
 SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis:
 	.string "Humph, ynkelig skvat! Lad mig klare det!$"
@@ -306,32 +307,33 @@ SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat:
 	.string "Hvad?! Jeg tabte også!$"
 
 SlateportCity_OceanicMuseum_2F_Text_MeddlingKid:
-	.string "Hvad nu? Hvis vi ikke får delene, er vi på den!\p"
-	.string "Arrgh, jeg havde ikke regnet med at blive\n"
-	.string "blandet ind af en irriterende unge!$"
+	.string "Hvad nu? Hvis vi ikke får delene, er vi\n"
+	.string "på den!\p"
+	.string "Arrgh, jeg havde ikke regnet med at\n"
+	.string "blive blandet ind af en irriterende unge!$"
 
 SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong:
-	.string "Jeg kom for at se hvad der tog så lang tid at\n"
-	.string "skaffe nogle dele, og I simpler bliver holdt\l"
-	.string "op af et barn?$"
+	.string "Jeg kom for at se hvad der tog så lang\n"
+	.string "tid at skaffe nogle dele, og I simpler\l"
+	.string "bliver holdt op af et barn?$"
 
 SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 	.string "Vi er TEAM AQUA, og vi elsker havet!\p"
 	.string "Og jeg er TEAM AQUAs leder, ARCHIE!\p"
 	.string "Hvorfor blander du dig i vores sager?\p"
-	.string "…Nej! Du kan ikke være! Du er ikke en del af\n"
-	.string "TEAM MAGMA?\p"
-	.string "Vent, det kan ikke være rigtigt. Du er ikke\n"
-	.string "klædt passende på.\p"
+	.string "…Nej! Du kan ikke være! Du er ikke en del\n"
+	.string "af TEAM MAGMA?\p"
+	.string "Vent, det kan ikke være rigtigt. Du er\n"
+	.string "ikke klædt passende på.\p"
 	.string "… … … … … … … … … … … …\p"
 	.string "POKéMON, mennesker… Alt liv afhænger af\n"
 	.string "havet.\p"
-	.string "Så, TEAM AQUA dedikerer sig til at udvide\n"
-	.string "havet.\p"
-	.string "Er du ikke enig? Hvad vi gør er en storslået\n"
-	.string "bedrift.\p"
-	.string "Nå, så fint… Du er stadig for ung til at forstå\n"
-	.string "vores ædle mål.\p"
+	.string "Så, TEAM AQUA dedikerer sig til at\n"
+	.string "udvide havet.\p"
+	.string "Er du ikke enig? Hvad vi gør er en\n"
+	.string "storslået bedrift.\p"
+	.string "Nå, så fint… Du er stadig for ung til at\n"
+	.string "forstå vores ædle mål.\p"
 	.string "Men jeg advarer dig, overvej ikke\p"
 	.string "at blande dig i vores planer igen.\p"
 	.string "Konsekvenserne vil koste dig dyrt!\p"
@@ -340,36 +342,37 @@ SlateportCity_OceanicMuseum_2F_Text_ArchieWarning:
 SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs:
 	.string "KAPT. STERN: Du er… Åh, okay, du er\n"
 	.string "{PLAYER}{KUN}…\p"
-	.string "Uanset, det var en spændt situation! Tak\n"
-	.string "for at redde os!\p"
-	.string "Åh ja, jeg glemte næsten at du endda bragte\n"
-	.string "dele fra DEVON!$"
+	.string "Uanset, det var en spændt situation!\n"
+	.string "Tak for at redde os!\p"
+	.string "Åh ja, jeg glemte næsten at du endda\n"
+	.string "bragte dele fra DEVON!$"
 
 SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo:
-	.string "KAPT. STERN: Ups! Der er ingen tid at spilde!\p"
+	.string "KAPT. STERN: Ups! Der er ingen tid at\n"
+	.string "spilde!\p"
 	.string "Vi skal afsted på vores ekspedition til\n"
 	.string "havets bund rigtig snart.\p"
 	.string "Tak igen, men nu må jeg gå!\p"
-	.string "Du er velkommen til at udforske og se vores\n"
-	.string "faciliteter.$"
+	.string "Du er velkommen til at udforske og se\n"
+	.string "vores faciliteter.$"
 
 SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip:
 	.string "Jeg så en model af et skib her.\p"
-	.string "Det mindede mig om DET FORLADTE SKIB nær\n"
-	.string "DEWFORD BY…$"
+	.string "Det mindede mig om DET FORLADTE SKIB\n"
+	.string "nær DEWFORD BY…$"
 
 SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum:
 	.string "Løb ikke rundt inde i MUSEET!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine:
-	.string "Wow, ubåden er fantastisk! Jeg vil gerne en\n"
-	.string "tur!$"
+	.string "Wow, ubåden er fantastisk! Jeg vil\n"
+	.string "gerne en tur!$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1:
 	.string "“VANDKVALITETS PRØVE 1,” står der på\n"
 	.string "etiketten.\p"
-	.string "Havet er alt sammen forbundet, men vandet\n"
-	.string "synes at variere efter region.$"
+	.string "Havet er alt sammen forbundet, men\n"
+	.string "vandet synes at variere efter region.$"
 
 SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
 	.string "“VANDKVALITETS PRØVE 2,” står der på\n"
@@ -380,10 +383,11 @@ SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2:
 SlateportCity_OceanicMuseum_2F_Text_PressureExperiment:
 	.string "En gummibold udvider sig og skrumper.\p"
 	.string "“I havet udøver vandets egenvægt tryk.\p"
-	.string "“I lavt vand er trykket ikke særlig stort.\p"
-	.string "“Dog, i ekstremt dybt vand, kan trykket nå\n"
-	.string "op på endda titusindvis af ton på et lille\l"
-	.string "område.”$"
+	.string "“I lavt vand er trykket ikke særlig\n"
+	.string "stort.\p"
+	.string "“Dog, i ekstremt dybt vand, kan trykket\n"
+	.string "nå op på endda titusindvis af ton på et\l"
+	.string "lille område.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_HoennModel:
 	.string "“MODEL AF HOENN REGIONEN”\p"
@@ -392,15 +396,16 @@ SlateportCity_OceanicMuseum_2F_Text_HoennModel:
 	.string "Hvor er LITTLEROOT BYEN på dette?$"
 
 SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay:
-	.string "Det er en skærm om strømmen af  havvand.\p"
+	.string "Det er en skærm om strømmen af \n"
+	.string "havvand.\p"
 	.string "“I nærheden af havets bund,  strømmer\n"
-	.string "vandet på grund af forskelle i faktorer som\l"
-	.string "temperatur og saltholdighed.”$"
+	.string "vandet på grund af forskelle i faktorer\l"
+	.string "som temperatur og saltholdighed.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay:
 	.string "Det er en skærm om strømmen af havvand.\p"
-	.string "“Mod overfladen strømmer havvandet som\n"
-	.string "strømme drevet af vinden.”$"
+	.string "“Mod overfladen strømmer havvandet\n"
+	.string "som strømme drevet af vinden.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
 	.string "“FÆRGEN S.S. TIDAL\p"
@@ -408,19 +413,19 @@ SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica:
 	.string "konstruktion på STERN'S SKIBSVÆRFT.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica:
-	.string "“UNDERSØISKE EVENTYRER 1” “En replika af\n"
-	.string "den højtydende ubåd til at udforske\l"
+	.string "“UNDERSØISKE EVENTYRER 1” “En replika\n"
+	.string "af den højtydende ubåd til at udforske\l"
 	.string "havbunden.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica:
 	.string "“UNDERSØISK POD\p"
-	.string "“En replika af en lille, ubemandet pod til\n"
-	.string "udforskning af havbunden.”$"
+	.string "“En replika af en lille, ubemandet pod\n"
+	.string "til udforskning af havbunden.”$"
 
 SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica:
 	.string "“S.S. ANNE\p"
-	.string "“En kopi af luksuslineren, der sejler rundt\n"
-	.string "om jorden.”$"
+	.string "“En kopi af luksuslineren, der sejler\n"
+	.string "rundt om jorden.”$"
 
 
 

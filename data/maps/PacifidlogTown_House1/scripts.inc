@@ -12,17 +12,18 @@ PacifidlogTown_House1_EventScript_Woman::
 	end
 
 PacifidlogTown_House1_Text_RegiStory:
-	.string "I HOENN-regionen er der tre POKéMON, som\n"
-	.string "repræsenterer kraften af sten, is og stål.\p"
-	.string "Det siges, at hver af dem gemmer sig dybt\n"
-	.string "inde i huler.\p"
-	.string "Det er historien, jeg hørte, da jeg var bare\n"
-	.string "en lille unge.$"
+	.string "I HOENN-regionen er der tre POKéMON,\n"
+	.string "som repræsenterer kraften af sten, is\l"
+	.string "og stål.\p"
+	.string "Det siges, at hver af dem gemmer sig\n"
+	.string "dybt inde i huler.\p"
+	.string "Det er historien, jeg hørte, da jeg var\n"
+	.string "bare en lille unge.$"
 
 PacifidlogTown_House1_Text_SixDotsOpenThreeDoors:
 	.string "“Seks prikker åbner tre døre.”\p"
-	.string "Bedstefar plejede at sige det, men jeg ved\n"
-	.string "ikke, hvad han mente.$"
+	.string "Bedstefar plejede at sige det, men jeg\n"
+	.string "ved ikke, hvad han mente.$"
 
 
 

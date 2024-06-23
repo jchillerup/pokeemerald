@@ -106,20 +106,20 @@ SootopolisCity_LotadAndSeedotHouse_EventScript_LotadSizeRecord::
 	end
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot:
-	.string "Kender du POKéMON SEEDOT? Det er sjældent\n"
-	.string "set i SOOTOPOLIS.\p"
-	.string "Nå, jeg elsker store SEEDOT. Jo større, jo\n"
-	.string "bedre.\p"
+	.string "Kender du POKéMON SEEDOT? Det er\n"
+	.string "sjældent set i SOOTOPOLIS.\p"
+	.string "Nå, jeg elsker store SEEDOT. Jo større,\n"
+	.string "jo bedre.\p"
 	.string "Men min lillebror, han siger at LOTAD er\n"
 	.string "større.\p"
-	.string "Det er latterligt. SEEDOT må være større end\n"
-	.string "det!\p"
-	.string "Hva'? Har du en SEEDOT med dig? V-v-vis mig\n"
-	.string "den, vær så venlig!$"
+	.string "Det er latterligt. SEEDOT må være større\n"
+	.string "end det!\p"
+	.string "Hva'? Har du en SEEDOT med dig? V-v-vis\n"
+	.string "mig den, vær så venlig!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad:
-	.string "{STR_VAR_2} tommer! Åh, min gosh, dette\n"
-	.string "er en stor en!\p"
+	.string "{STR_VAR_2} tommer! Åh, min gosh,\n"
+	.string "dette er en stor en!\p"
 	.string "Den kunne endda slå den store LOTAD min\n"
 	.string "yngre bror så!\p"
 	.string "Tak for at vise mig. Dette er min tak!$"
@@ -137,35 +137,39 @@ SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot:
 	.string "denne.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot:
-	.string "Åh, det her er virkelig noget... Men det er\n"
-	.string "ikke en SEEDOT!$"
+	.string "Åh, det her er virkelig noget... Men det\n"
+	.string "er ikke en SEEDOT!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot:
 	.string "Du har ikke en stor SEEDOT? Det er\n"
 	.string "ærgerligt…\p"
-	.string "Hvis du får en stor SEEDOT, så kom og vis mig.$"
+	.string "Hvis du får en stor SEEDOT, så kom og\n"
+	.string "vis mig.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory:
 	.string "Den største SEEDOT nogensinde!\n"
 	.string "{STR_VAR_2}'s\l"
 	.string "{STR_VAR_3}-tommer kæmpe!\p"
-	.string "En SEEDOT større end en LOTAD altid ønsket!$"
+	.string "En SEEDOT større end en LOTAD altid\n"
+	.string "ønsket!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad:
-	.string "Kender du POKéMON LOTAD? Det ses sjældent\n"
-	.string "i SOOTOPOLIS.\p"
-	.string "Jeg elsker, jeg mener virkelig elsker, store\n"
-	.string "LOTAD!\p"
-	.string "Min storebror siger, at SEEDOT er større.\p"
-	.string "Men det er forkert! Alle ved, at LOTAD er\n"
-	.string "meget større.\p"
-	.string "Hvad? Har du en LOTAD? V-v-vis mig den, vær\n"
-	.string "sød!$"
+	.string "Kender du POKéMON LOTAD? Det ses\n"
+	.string "sjældent i SOOTOPOLIS.\p"
+	.string "Jeg elsker, jeg mener virkelig elsker,\n"
+	.string "store LOTAD!\p"
+	.string "Min storebror siger, at SEEDOT er\n"
+	.string "større.\p"
+	.string "Men det er forkert! Alle ved, at LOTAD\n"
+	.string "er meget større.\p"
+	.string "Hvad? Har du en LOTAD? V-v-vis mig den,\n"
+	.string "vær sød!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot:
-	.string "{STR_VAR_2} tommer! Wow, det er stort!\p"
-	.string "Det kunne endda være større end den kæmpe\n"
-	.string "SEEDOT, som min storebror så.\p"
+	.string "{STR_VAR_2} tommer! Wow, det er\n"
+	.string "stort!\p"
+	.string "Det kunne endda være større end den\n"
+	.string "kæmpe SEEDOT, som min storebror så.\p"
 	.string "Tak for at vise mig! Dette er min tak!$"
 
 @ Unused
@@ -177,22 +181,25 @@ SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2:
 
 SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad:
 	.string "{STR_VAR_2} tommer?\p"
-	.string "Hmm... Jeg har set en større LOTAD end denne\n"
-	.string "her.$"
+	.string "Hmm... Jeg har set en større LOTAD end\n"
+	.string "denne her.$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad:
 	.string "Nå, er det ikke noget! Men det er ingen\n"
 	.string "LOTAD!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad:
-	.string "Har du ikke en stor LOTAD? Hvor skuffende…\p"
-	.string "Hvis du får en stor LOTAD, så kom og vis mig!$"
+	.string "Har du ikke en stor LOTAD? Hvor\n"
+	.string "skuffende…\p"
+	.string "Hvis du får en stor LOTAD, så kom og vis\n"
+	.string "mig!$"
 
 SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory:
 	.string "Den største LOTAD nogensinde!\n"
 	.string "{STR_VAR_2}'s\l"
 	.string "{STR_VAR_3}-tommer kolos!\p"
-	.string "En LOTAD større end en SEEDOT altid ønsket!$"
+	.string "En LOTAD større end en SEEDOT altid\n"
+	.string "ønsket!$"
 
 
 

@@ -38,19 +38,20 @@ MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst:
 	.string "Nej, det kan ikke være rigtigt.\p"
 	.string "Vi kæmpede side om side på SOOTOPOLIS\n"
 	.string "SPACE CENTER.\p"
-	.string "Du burde have en rigtig god idé om, hvor god\n"
-	.string "jeg er.\p"
-	.string "Okay, {PLAYER}{KUN}, hvis du vil udfordre mig\n"
-	.string "alvorligt, forvent det værste!$"
+	.string "Du burde have en rigtig god idé om, hvor\n"
+	.string "god jeg er.\p"
+	.string "Okay, {PLAYER}{KUN}, hvis du vil udfordre\n"
+	.string "mig alvorligt, forvent det værste!$"
 
 MeteorFalls_StevensCave_Text_StevenDefeat:
-	.string "Du… Jeg havde ingen anelse om, at du ville\n"
-	.string "blive så stærk…$"
+	.string "Du… Jeg havde ingen anelse om, at du\n"
+	.string "ville blive så stærk…$"
 
 MeteorFalls_StevensCave_Text_MyPredictionCameTrue:
 	.string "STEVEN: Når jeg tænker over det, siden\n"
-	.string "vores veje først mødtes i GRANIT HULEN i\l"
-	.string "DEWFORD, har jeg halet denne følelse efter. \p"
+	.string "vores veje først mødtes i GRANIT HULEN\l"
+	.string "i DEWFORD, har jeg halet denne følelse\l"
+	.string "efter. \p"
 	.string "Jeg tænkte, at du ville blive MESTEREN.\p"
 	.string "Mine forudsigelser plejer at holde.\p"
 	.string "Hvor vil du gå hen herfra?\p"

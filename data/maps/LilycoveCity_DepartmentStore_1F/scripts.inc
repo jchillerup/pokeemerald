@@ -143,20 +143,22 @@ LilycoveCity_DepartmentStore_1F_EventScript_FloorNamesSign::
 	end
 
 LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore:
-	.string "Velkommen til LILYCOVE DEPARTMENT STORE.$"
+	.string "Velkommen til LILYCOVE DEPARTMENT\n"
+	.string "STORE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings:
-	.string "Hver gang jeg kommer til AFDELINGEN BUTIK,\n"
-	.string "ender jeg altid med at købe alle mulige ting,\l"
-	.string "fordi det er så sjovt.$"
+	.string "Hver gang jeg kommer til AFDELINGEN\n"
+	.string "BUTIK, ender jeg altid med at købe alle\l"
+	.string "mulige ting, fordi det er så sjovt.$"
 
 LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture:
-	.string "I dag vil min mor købe noget fint møbler til\n"
-	.string "mig.$"
+	.string "I dag vil min mor købe noget fint møbler\n"
+	.string "til mig.$"
 
 LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill:
-	.string "Jeg køber noget til min AZUMARILL som en\n"
-	.string "belønning for at vinde en KONKURRENCE.$"
+	.string "Jeg køber noget til min AZUMARILL som\n"
+	.string "en belønning for at vinde en\l"
+	.string "KONKURRENCE.$"
 
 LilycoveCity_DepartmentStore_1F_Text_Azumarill:
 	.string "AZUMARILL: Maririroo!$"
