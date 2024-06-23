@@ -62,6 +62,7 @@ def format_line(line, theEnd):
             m = functools.reduce(lambda acc, l: acc + widths[l], w, 0)
         return m
 
+    space = widths[' ']
     def split_line(line):
         width = 0
         acc = []
@@ -74,7 +75,7 @@ def format_line(line, theEnd):
                 acc = [w]
             else:
                 acc.append(w)
-                width += m
+                width += m + space
         if len(acc) > 0:
             lines.append(acc)
         return list(map(lambda l: " ".join(l), lines))
@@ -118,13 +119,12 @@ if __name__ == '__main__':
     parse.add_argument("--replace", action=argparse.BooleanOptionalAction)
     args = parse.parse_args()
 
-
-    print(args.filename)
     f = io.open(args.filename)
     c = f.read()
 
     out = sys.stdout
     if (args.replace):
+        print(args.filename)
         f.close()
         out = io.open(args.filename, "w")
 
