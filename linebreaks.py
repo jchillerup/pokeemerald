@@ -34,7 +34,7 @@ def parse_block(l):
 
     def parse_body(b):
         theStrs = re.findall("\\s\\.string \"(.*)\"", b)
-        if len(theStrs) == 0:
+        if len(theStrs) == 0 or re.findall(".*{PAUSE ", b) or re.findall(".*{STRING ", b):
             return b
         else:
             return collapse_strings(theStrs)
@@ -51,7 +51,7 @@ def parse_block(l):
 # multiple lines to fit in the text box.
 def format_line(line, theEnd):
     def measure_word(w):
-        match = re.match("([^{}]*)({[A-Z0-9_]*})({[A-Z0-9_]*})?(.*)", w)
+        match = re.match("([^{}]*)({[^}]*})!?({[^}]*})?(.*)", w)
         if match:
             m = widths[match.group(2)]
             if (match.group(3)):
@@ -68,7 +68,10 @@ def format_line(line, theEnd):
         acc = []
         lines = []
         for w in line.split(" "):
-            m = measure_word(w)
+            try: 
+                m = measure_word(w)
+            except KeyError:
+                raise ValueError("Can't find " + w + ", line: \"" + line + "\"")
             if m + width > maxLineLength:
                 lines.append(acc)
                 width = m
