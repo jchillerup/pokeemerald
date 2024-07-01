@@ -309,3 +309,5 @@ GabbyAndTy_EventScript_KeepingAnEyeOutForYou::
 	msgbox GabbyAndTy_Text_KeepingAnEyeOutForYou, MSGBOX_DEFAULT
 	release
 	end
+
+

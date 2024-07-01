@@ -76,3 +76,5 @@ ProfBirch_EventScript_RatePokedex::
 	buffernumberstring STR_VAR_2, VAR_0x8009  @ Num National caught
 	msgbox gBirchDexRatingText_OnANationwideBasis, MSGBOX_DEFAULT
 	return
+
+

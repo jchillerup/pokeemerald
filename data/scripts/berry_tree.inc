@@ -188,25 +188,25 @@ BerryTree_Text_ItsSoftLoamySoil:
 .string "Det er blødt, lerholdigt jord.$"
 
 BerryTree_Text_WantToPlant:
-	.string "Det er blød, leret jord.\n"
-	.string "Vil du plante et BÆR?$"
+	.string "Det er blød, leret jord. Vil du plante et\n"
+	.string "BÆR?$"
 
 BerryTree_Text_PlantedOneBerry:
-	.string "{PLAYER} plantede en {STR_VAR_1} i\n"
-	.string "den bløde, muldfulde jord.$"
+	.string "{PLAYER} plantede en {STR_VAR_1}\n"
+	.string "i den bløde, muldfulde jord.$"
 
 BerryTree_Text_BerryGrowthStage1:
 	.string "Der blev plantet en {STR_VAR_1} her.$"
 
 BerryTree_Text_BerryGrowthStage2:
-	.string "{STR_VAR_1} er spiret.\p$"
+	.string "{STR_VAR_1} er spiret.$"
 
 BerryTree_Text_BerryGrowthStage3:
 .string "Denne {STR_VAR_1} plante vokser sig højere.$"
 
 BerryTree_Text_BerryGrowthStage4:
-	.string "Disse {STR_VAR_1} blomster\nblomstrer.\n"
-	.string "{STR_VAR_2}.$"
+	.string "Disse {STR_VAR_1}\n"
+	.string "blomsterblomstrer. {STR_VAR_2}.$"
 
 BerryTree_Text_CareAdverbGreat:
 	.string "meget smukt$"
@@ -218,16 +218,17 @@ BerryTree_Text_CareAdverbGood:
 .string "pænt$"
 
 BerryTree_Text_WantToPick:
-	.string "Du fandt {STR_VAR_2} {STR_VAR_1}!\p"
-	.string "Vil du tage\n"
-	.string "{STR_VAR_1}?$"
+	.string "Du fandt {STR_VAR_2}\n"
+	.string "{STR_VAR_1}!\p"
+	.string "Vil du tage {STR_VAR_1}?$"
 
 BerryTree_Text_PickedTheBerry:
-	.string "{PLAYER} valgte {STR_VAR_2} {STR_VAR_1}.$"
+	.string "{PLAYER} valgte {STR_VAR_2}\n"
+	.string "{STR_VAR_1}.$"
 
 BerryTree_Text_PutAwayBerry:
-	.string "{PLAYER} lagde {STR_VAR_1}\n"
-	.string "i TASKENs BÆR-LØMME.\p"
+	.string "{PLAYER} lagde {STR_VAR_1} i\n"
+	.string "TASKENs BÆR-LØMME.\p"
 	.string "Jorden vendte tilbage til sin bløde og\n"
 	.string "lerede tilstand.$"
 
@@ -240,8 +241,8 @@ BerryTree_Text_BerryLeftUnpicked:
 	.string "uudvalgte.$"
 
 BerryTree_Text_WantToWater:
-	.string "Vil du vande {STR_VAR_1} med\n"
-	.string "en WAILMER-SPIANDER? \p$"
+	.string "Vil du vande {STR_VAR_1} med en\n"
+	.string "WAILMER-SPIANDER? $"
 
 BerryTree_Text_WateredTheBerry:
 	.string "{PLAYER} vandede {STR_VAR_1}.$"
@@ -251,4 +252,6 @@ BerryTree_Text_PlantIsDelighted:
 
 BerryTree_Text_ExclamationPoint:
 	.string "!$"
+
+
 

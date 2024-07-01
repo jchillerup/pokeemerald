@@ -10,3 +10,6 @@ gText_PleaseComeAgain::
 gText_PlayerWhatCanIDoForYou::
 	.string "{PLAYER}{STRING 5}, velkommen!\p"
 	.string "Hvad kan jeg gøre for dig?$"
+
+
+

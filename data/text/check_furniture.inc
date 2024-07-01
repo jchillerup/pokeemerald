@@ -1,20 +1,19 @@
 @ TRANSLATED
 
 Text_PictureBookShelf:
-	.string "Der er en samling af POKéMON-billedbøger.$"
+	.string "Der er en samling af\n"
+	.string "POKéMON-billedbøger.$"
 
 Text_BookShelf:
 	.string "Den er fyldt med alle slags bøger.$"
 
 Text_PokemonCenterBookShelf:
-	.string "POKéMON magasiner!\n"
-	.string "POKéMON-vennen…\p"
-	.string "POKéMON-håndbogen\n"
-	.string "De sejeste POKéMON'er…$"
+	.string "POKéMON magasiner! POKéMON-vennen…\p"
+	.string "POKéMON-håndbogen De sejeste\n"
+	.string "POKéMON'er…$"
 
 Text_Vase:
-	.string "Denne vase ser dyr ud…\n"
-	.string "Kiggede indeni…\p"
+	.string "Denne vase ser dyr ud… Kiggede indeni…\p"
 	.string "Men den var tom.$"
 
 Text_EmptyTrashCan:
@@ -25,5 +24,8 @@ Text_ShopShelf:
 	.string "POKéMON merchandise.$"
 
 Text_Blueprint:
-	.string "En slags plantegning?\n"
-	.string "Det er for kompliceret!$"
+	.string "En slags plantegning? Det er for\n"
+	.string "kompliceret!$"
+
+
+

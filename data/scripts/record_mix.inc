@@ -18,3 +18,5 @@ EventScript_EndMixRecords::
 	waitbuttonpress
 	release
 	end
+
+

@@ -48,8 +48,8 @@ EventScript_CancelCut::
 	end
 
 Text_WantToCut:
-	.string "Denne træ ser ud til at kunne\n"
-	.string "BLIVE fældet!\p"
+	.string "Denne træ ser ud til at kunne BLIVE\n"
+	.string "fældet!\p"
 	.string "Vil du fælde det?$"
 
 Text_MonUsedFieldMove:
@@ -167,9 +167,9 @@ EventScript_CancelStrength::
 	end
 
 Text_WantToStrength:
-	.string "Det er en stor sten, men en POKéMON\n"
-	.string "kan måske skubbe den til side.\p"
-	.string "Vil du bruge STYRKE?$" 
+	.string "Det er en stor sten, men en POKéMON kan\n"
+	.string "måske skubbe den til side.\p"
+	.string "Vil du bruge STYRKE?$"
 
 Text_MonUsedStrength:
 	.string "{STR_VAR_1} brugte STYRKE!\p"
@@ -177,12 +177,12 @@ Text_MonUsedStrength:
 	.string "muligt at flytte sten omkring!$"
 
 Text_CantStrength:
-	.string "Det er en stor sten, men en POKéMON\n"
-	.string "kan måske skubbe den til siden.$"
+	.string "Det er en stor sten, men en POKéMON kan\n"
+	.string "måske skubbe den til siden.$"
 
 Text_StrengthActivated:
-	.string "STYRKE gjorde det muligt at flytte\n"
-	.string "sten rundt.$"
+	.string "STYRKE gjorde det muligt at flytte sten\n"
+	.string "rundt.$"
 
 EventScript_UseWaterfall::
 	lockall
@@ -207,12 +207,12 @@ EventScript_EndWaterfall::
 	end
 
 Text_CantWaterfall:
-	.string "En væg af vand vælter ned med\n"
-	.string "et mægtigt brøl.$"
+	.string "En væg af vand vælter ned med et\n"
+	.string "mægtigt brøl.$"
 
 Text_WantToWaterfall:
-	.string "Det er et stort vandfald.\n"
-	.string "Vil du bruge VANDFALD?\p$"
+	.string "Det er et stort vandfald. Vil du bruge\n"
+	.string "VANDFALD?$"
 
 Text_MonUsedWaterfall:
 .string "{STR_VAR_1} brugte VANDFALD.$"
@@ -265,23 +265,22 @@ EventScript_EndSurface::
 	end
 
 Text_CantDive:
-	.string "Havet er dybt her. En POKéMON\n"
-	.string "kan måske gå under vandet.$"
+	.string "Havet er dybt her. En POKéMON kan måske\n"
+	.string "gå under vandet.$"
 
 Text_WantToDive:
-	.string "Havet er dybt her.\n"
-	.string "Vil du bruge DYKKE?\p$"
+	.string "Havet er dybt her. Vil du bruge DYKKE?$"
 
 Text_MonUsedDive:
 .string "{STR_VAR_1} brugte DYKKER.\p$"
 
 Text_CantSurface:
-	.string "Lys filtrerer ned ovenfra.\n"
-	.string "En POKéMON kan muligvis komme op til overfladen.$"
+	.string "Lys filtrerer ned ovenfra. En POKéMON\n"
+	.string "kan muligvis komme op til overfladen.$"
 
 Text_WantToSurface:
-	.string "Lys filtrerer ned ovenfra.\n"
-	.string "Vil du dykke ned? \p"
+	.string "Lys filtrerer ned ovenfra. Vil du dykke\n"
+	.string "ned? $"
 
 EventScript_FailSweetScent::
 	msgbox Text_FailSweetScent, MSGBOX_SIGN
@@ -289,4 +288,6 @@ EventScript_FailSweetScent::
 
 Text_FailSweetScent:
 .string "Det ser ud til, at der ikke er noget her...$"
+
+
 

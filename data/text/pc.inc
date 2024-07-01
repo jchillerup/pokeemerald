@@ -17,3 +17,6 @@ gText_AccessedPlayersPC::
 
 gText_AccessedLanettesPC::
 	.string "Åbnede LANETTE's PC.$"
+
+
+

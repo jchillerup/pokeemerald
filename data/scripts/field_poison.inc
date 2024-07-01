@@ -40,3 +40,5 @@ EventScript_FrontierFieldWhiteOut::
 	special SetCB2WhiteOut
 	waitstate
 	end
+
+

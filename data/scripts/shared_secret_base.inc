@@ -214,5 +214,7 @@ SecretBase_Text_DiscoveredSmallCavern::
 .string "Opdaget en lille hule!$"
 
 SecretBase_Text_WantToMakeYourSecretBaseHere:
-	.string "Vil du lave din HEMMELIGE BASE her?\p$"
+	.string "Vil du lave din HEMMELIGE BASE her?$"
+
+
 

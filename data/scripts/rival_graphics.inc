@@ -40,3 +40,5 @@ EventScript_SetupRivalGfxIdMale2::
 EventScript_SetupRivalGfxIdFemale2::
 	setvar VAR_OBJ_GFX_ID_0, OBJ_EVENT_GFX_RIVAL_MAY_NORMAL
 	return
+
+

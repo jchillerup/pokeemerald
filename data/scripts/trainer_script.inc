@@ -20,3 +20,5 @@ EventScript_GotoTrainerScript::
 	gotobeatenscript
 	releaseall
 	end
+
+

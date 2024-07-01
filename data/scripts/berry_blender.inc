@@ -11,18 +11,18 @@
 .set NUM_OPPONENTS, VAR_0x8009
 
 BerryBlender_Text_WantToMakePokeblocks:
-	.string "Orkede du at lave nogle {POKEBLOCK}\n"
-	.string "med denne gamle rotte?$"
+	.string "Orkede du at lave nogle {POKEBLOCK} med\n"
+	.string "denne gamle rotte?$"
 
 BerryBlender_Text_Excellent:
 	.string "Fremragende!$"
 
 BerryBlender_Text_MadeOldTimerSad:
-	.string "Åh…\n"
-	.string "Du har gjort denne gamle sjæl ked af det…$"
+	.string "Åh… Du har gjort denne gamle sjæl ked af\n"
+	.string "det…$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks:
-	.string "Ved du, hvordan man laver en {POKEBLOCK}?\p$"
+	.string "Ved du, hvordan man laver en {POKEBLOCK}?$"
 
 BerryBlender_Text_LetsBerryBlender:
 	.string "Lad os komme i gang så!\p"
@@ -30,58 +30,61 @@ BerryBlender_Text_LetsBerryBlender:
 
 BerryBlender_Text_ExplainBerryBlending:
 	.string "Okay, lidt forklaring, så.\p"
-	.string "Åh, du behøver ikke at bekymre\ndig, det er ganske simpelt.\p"
-	.string "Når BLENDERENS pil kommer til\ndin markør, så tryk bare på A-\nKnappen.\p"
-	.string "Det er alt, hvad du behøver at\ngøre.\n"
-	.string "Du vil se, hvor let det er, når\ndu prøver.$"
+	.string "Åh, du behøver ikke at bekymredig, det\n"
+	.string "er ganske simpelt.\p"
+	.string "Når BLENDERENS pil kommer tildin markør,\n"
+	.string "så tryk bare på A-Knappen.\p"
+	.string "Det er alt, hvad du behøver atgøre. Du\n"
+	.string "vil se, hvor let det er, nårdu prøver.$"
 
 BerryBlender_Text_DontHaveAnyBerries:
-	.string "Åh?\n"
-	.string "Du har ikke nogen BÆR?\p"
-	.string "Hvis du ikke har nogen BÆR,\n"
-	.string "kan du ikke lave nogen {POKEBLOCK}S.$"
+	.string "Åh? Du har ikke nogen BÆR?\p"
+	.string "Hvis du ikke har nogen BÆR, kan du ikke\n"
+	.string "lave nogen {POKEBLOCK}S.$"
 
 BerryBlender_Text_CanHaveOneOfMyBerries:
 	.string "Nå, det går jo slet ikke, gør det?\p"
-	.string "Hvis du ikke har noget imod rester,\n"
-	.string "kan du få en af mine BÆR.\p"
+	.string "Hvis du ikke har noget imod rester, kan\n"
+	.string "du få en af mine BÆR.\p"
 	.string "På den måde kan vi lave nogle {POKEBLOCK}S\n"
 	.string "sammen ved hjælp af BÆRBLANDEREN.$"
 
 BerryBlender_Text_DontHaveAnyBerriesToSpare:
-	.string "Hvis jeg havde nogle BÆR til overs,\n"
-	.string "ville jeg med glæde give dig en…\p"
-	.string "Men jeg har desværre ingen at\noverskud i dag.\n"
-	.string "Vi bliver nødt til at gøre det en\nanden gang.$"
+	.string "Hvis jeg havde nogle BÆR til overs, ville\n"
+	.string "jeg med glæde give dig en…\p"
+	.string "Men jeg har desværre ingen atoverskud i\n"
+	.string "dag. Vi bliver nødt til at gøre det\l"
+	.string "enanden gang.$"
 
 BerryBlender_Text_PokeblockCaseIsFull:
 	.string "Men din {POKEBLOCK} BEHOLDER er fuld.\p"
-	.string "Du burde bruge nogle {POKEBLOCK}S\n"
-	.string "inden du kommer tilbage til mig.$"
+	.string "Du burde bruge nogle {POKEBLOCK}S inden du\n"
+	.string "kommer tilbage til mig.$"
 
 BerryBlender_Text_DontHavePokeblockCase:
 	.string "Men du har ikke et {POKEBLOCK} ETUI.\p"
-	.string "Du burde få et {POKEBLOCK} ETUI og\n"
-	.string "så komme og besøge mig.$"
+	.string "Du burde få et {POKEBLOCK} ETUI og så komme\n"
+	.string "og besøge mig.$"
 
 BerryBlender_Text_LetsGetBlendingAlready:
-	.string "Lad os komme i gang med at blande allerede!$"
+	.string "Lad os komme i gang med at blande\n"
+	.string "allerede!$"
 
 BerryBlender_Text_WhatKindOfPokeblockWillIGet:
-	.string "Jeg undrer mig over, hvilken slags {POKEBLOCK} jeg får?\n"
-	.string "Det er så spændende!$"
+	.string "Jeg undrer mig over, hvilken slags\n"
+	.string "{POKEBLOCK} jeg får? Det er så spændende!$"
 
 BerryBlender_Text_WantToBlendPokeblocksWithUs:
-	.string "Hej med dig! Vil du blande nogle\n"
-	.string "{POKEBLOCK}S med os?\p$"
+	.string "Hej med dig! Vil du blande nogle {POKEBLOCK}S\n"
+	.string "med os?$"
 
 BerryBlender_Text_Okay:
 	.string "Okay!$"
 
 BerryBlender_Text_ThatsTooBad:
 	.string "Det er ærgerligt…\p"
-	.string "Men vi vil altid være her, når\n"
-	.string "du får lyst til at blande!$"
+	.string "Men vi vil altid være her, når du får lyst\n"
+	.string "til at blande!$"
 
 BerryBlender_Text_KnowHowToMakePokeblocks2:
 	.string "Selvfølgelig ved du, hvordan man\n"
@@ -92,33 +95,32 @@ BerryBlender_Text_LetsBerryBlender2:
 	.string "Lad os BÆRBLANDE!$"
 
 BerryBlender_Text_ExplainBerryBlending2:
-	.string "Okay!\n"
-	.string "Lad mig forklare det til dig!\p"
-	.string "Når BLENDERENS pil stopper ved\n"
-	.string "dit markør, skal du bare trykke\l"
-	.string "på A-knappen.\p"
-	.string "Det er alt, hvad der skal til.\n"
-	.string "Ret let, ikke også?$"
+	.string "Okay! Lad mig forklare det til dig!\p"
+	.string "Når BLENDERENS pil stopper ved dit\n"
+	.string "markør, skal du bare trykke på\l"
+	.string "A-knappen.\p"
+	.string "Det er alt, hvad der skal til. Ret let,\n"
+	.string "ikke også?$"
 
 BerryBlender_Text_DontHaveAnyBerries2:
-	.string "Åh, men vent lige et øjeblik her…\n"
-	.string "Du har ingen BÆR.\p"
+	.string "Åh, men vent lige et øjeblik her… Du har\n"
+	.string "ingen BÆR.\p"
 	.string "Du kan ikke lave nogen {POKEBLOCK}S uden\n"
 	.string "BÆR…\p"
 	.string "Vi vil altid være her, når du får fat i\n"
 	.string "nogle BÆR til at blande.$"
 
 BerryBlender_Text_PokeblockCaseIsFull2:
-	.string "Åh, men vent lige et øjeblik her…\n"
-	.string "Din {POKEBLOCK} SAG er fuld.\p"
-	.string "Du burde bruge nogle {POKEBLOCK}S og\n"
-	.string "kom så tilbage.$"
+	.string "Åh, men vent lige et øjeblik her… Din\n"
+	.string "{POKEBLOCK} SAG er fuld.\p"
+	.string "Du burde bruge nogle {POKEBLOCK}S og kom så\n"
+	.string "tilbage.$"
 
 BerryBlender_Text_DontHavePokeblockCase2:
-	.string "Åh, men vent lige et øjeblik her…\n"
-	.string "Du har ikke en {POKEBLOCK}-BEHOLDER.\p"
-	.string "Du burde skaffe dig en {POKEBLOCK}-BEHOLDER\n"
-	.string "og så komme tilbage.$"
+	.string "Åh, men vent lige et øjeblik her… Du har\n"
+	.string "ikke en {POKEBLOCK}-BEHOLDER.\p"
+	.string "Du burde skaffe dig en\n"
+	.string "{POKEBLOCK}-BEHOLDER og så komme tilbage.$"
 
 @ Unused
 BerryBlender_Text_MakePokeblocksWithOurGroup:
@@ -137,8 +139,7 @@ BerryBlender_Text_KnowHowToMakePokeblocks3:
 	.string "{POKEBLOCK}S, ikke?$"
 
 BerryBlender_Text_LetsBerryBlender3:
-	.string "Okay, kære!\n"
-	.string "Lad os komme i gang!\p"
+	.string "Okay, kære! Lad os komme i gang!\p"
 	.string "Lad os BÆRBLANDE!$"
 
 BerryBlender_Text_ExplainBerryBlending3:
@@ -146,52 +147,51 @@ BerryBlender_Text_ExplainBerryBlending3:
 	.string "Så vil jeg forklare det pænt til dig.\p"
 	.string "Når BLENDERENS pil drejer sig hen til\n"
 	.string "din markør, tryk på A-knappen.\p"
-	.string "Det er alt, hvad der kræves.\n"
-	.string "Er det ikke simpelt?$"
+	.string "Det er alt, hvad der kræves. Er det ikke\n"
+	.string "simpelt?$"
 
 BerryBlender_Text_DontHaveAnyBerries3:
-	.string "Du har ikke nogen BÆR,\n"
-	.string "gør du?\p"
-	.string "Hvis du ikke har nogen BÆR,\n"
-	.string "kan du ikke lave nogen {POKEBLOCK}S.\p"
-	.string "Vi vil altid lave {POKEBLOCK}S her,\n"
-	.string "så lad os lave nogle sammen,\n"
-	.string "når du får et BÆR eller to.$"
+	.string "Du har ikke nogen BÆR, gør du?\p"
+	.string "Hvis du ikke har nogen BÆR, kan du ikke\n"
+	.string "lave nogen {POKEBLOCK}S.\p"
+	.string "Vi vil altid lave {POKEBLOCK}S her, så lad os\n"
+	.string "lave nogle sammen, når du får et BÆR\l"
+	.string "eller to.$"
 
 BerryBlender_Text_PokeblockCaseIsFull3:
-	.string "Din {POKEBLOCK}-BEHOLDER er fuld,\n"
-	.string "ser det ud til.\p"
-	.string "Du burde bruge nogle {POKEBLOCK}S\n"
-	.string "og så komme tilbage.$"
+	.string "Din {POKEBLOCK}-BEHOLDER er fuld, ser det ud\n"
+	.string "til.\p"
+	.string "Du burde bruge nogle {POKEBLOCK}S og så\n"
+	.string "komme tilbage.$"
 
 BerryBlender_Text_DontHavePokeblockCase3:
-	.string "Du har ikke fået en {POKEBLOCK} KASSE\n"
-	.string "endnu, ser det ud til.\p"
-	.string "Du skal have en {POKEBLOCK} KASSE før\n"
-	.string "du kommer tilbage.$"
+	.string "Du har ikke fået en {POKEBLOCK} KASSE endnu,\n"
+	.string "ser det ud til.\p"
+	.string "Du skal have en {POKEBLOCK} KASSE før du\n"
+	.string "kommer tilbage.$"
 
 BerryBlender_Text_SetNewBlenderRecord:
 	.string "Okay! I dag bliver dagen, hvor jeg\n"
 	.string "sætter en ny BLENDER hastighedsrekord!$"
 
 BerryBlender_Text_LookGoodAtBlendingJoinUs:
-	.string "Åh, kære!\n"
-	.string "Du ser ud til at være god til at blande.\p"
+	.string "Åh, kære! Du ser ud til at være god til at\n"
+	.string "blande.\p"
 	.string "Vil du være med hos os?$"
 
 BerryBlender_Text_MakeDeliciousPokeblocks:
-	.string "Jeg vil lave lækre {POKEBLOCK}S\n"
-	.string "og gøre mine POKéMON sødere.$"
+	.string "Jeg vil lave lækre {POKEBLOCK}S og gøre mine\n"
+	.string "POKéMON sødere.$"
 
 BerryBlender_Text_SaveGameBeforeBerryBlenderLink:
 	.string "{POKEBLOCK}S vil blive lavet med dine venner \n"
 	.string "af BÆR i BÆRBLANDEREN.\p"
-	.string "Er det okay at gemme spillet før\n"
-	.string "at forbinde med dine venner?$"
+	.string "Er det okay at gemme spillet før at\n"
+	.string "forbinde med dine venner?$"
 
 BerryBlender_Text_SearchingForFriends:
-	.string "Søger efter dine venner…\n"
-	.string "… … B-knappen: Annullér$"
+	.string "Søger efter dine venner… … …\n"
+	.string "B-knappen: Annullér$"
 
 BerryBlender_Text_Player1Arrived:
 	.string "{STR_VAR_1} ankom.$"
@@ -204,12 +204,12 @@ BerryBlender_Text_AllPlayersArrived:
 	.string "{STR_VAR_3} ankom.$"
 
 BerryBlender_Text_NoBerriesLink:
-	.string "Du har ingen BÆR.\n"
-	.string "BÆRBLÆNDEREN kan ikke bruges.$"
+	.string "Du har ingen BÆR. BÆRBLÆNDEREN kan ikke\n"
+	.string "bruges.$"
 
 BerryBlender_Text_PokeblockCaseIsFullLink:
-	.string "Din {POKEBLOCK} SAG er fuld.\n"
-	.string "BÆRBLANDEREN kan ikke bruges.$"
+	.string "Din {POKEBLOCK} SAG er fuld. BÆRBLANDEREN\n"
+	.string "kan ikke bruges.$"
 
 BerryBlender_Text_DontHavePokeblockCaseLink:
 	.string "Du har ikke en {POKEBLOCK} TASKE.\n"
@@ -221,25 +221,23 @@ BerryBlender_Text_LoveMakingPokeblocks:
 
 BerryBlender_Text_MakePokeblocksUsingBerryBlender:
 	.string "Hvis du har lyst, kan vi lave lidt\n"
-	.string "{POKEBLOCK}S sammen ved at bruge\n"
-	.string "BERRY BLENDEREN.$"
+	.string "{POKEBLOCK}S sammen ved at bruge BERRY\l"
+	.string "BLENDEREN.$"
 
 BerryBlender_Text_DontHaveAnyBerriesHaveOne:
-	.string "Nå?\n"
-	.string "Du har ingen BÆR?\p"
+	.string "Nå? Du har ingen BÆR?\p"
 	.string "Det kan vi ikke have.\p"
-	.string "Hvis du ikke har noget imod rester,\n"
-	.string "kan du få en af mine BÆR.$"
+	.string "Hvis du ikke har noget imod rester, kan\n"
+	.string "du få en af mine BÆR.$"
 
 BerryBlender_Text_UseItToMakePokeblocksTogether:
 	.string "Vi vil bruge det til at lave {POKEBLOCK}\n"
 	.string "sammen i BERRY BLENDER'en.$"
 
 BerryBlender_Text_DontHaveAnyBerriesNoneToSpare:
-	.string "Åh?\n"
-	.string "Du har ingen BÆR?\p"
-	.string "Hvis jeg havde nogle til overs, ville\n"
-	.string "jeg med glæde give dig en…\p"
+	.string "Åh? Du har ingen BÆR?\p"
+	.string "Hvis jeg havde nogle til overs, ville jeg\n"
+	.string "med glæde give dig en…\p"
 	.string "Men jeg har ikke nogen at undvære i dag.\n"
 	.string "Undskyld for det.$"
 
@@ -709,5 +707,6 @@ BerryBlender_EventScript_TryJoinLinkGroup:
 BerryBlender_EventScript_LinkLeaderDecided:
 	goto BerryBlender_EventScript_SpawnLinkPartners
 	end
+
 
 

@@ -239,3 +239,5 @@ BattleFrontier_BattlePikeRoom_EventScript_ResetSketchedMoves::
 BattleFrontier_BattlePikeRoom_Movement_HidePlayer:
 	set_invisible
 	step_end
+
+

@@ -1,41 +1,38 @@
 @ TRANSLATED
 
 Route111_Text_MakingRoomUseTMToMakeYourOwn:
-	.string "Hvad er det?\n"
-	.string "Hvad laver jeg?\p"
-	.string "Jeg overvejer at lave mit eget rum\n"
-	.string "her ved at bruge en POKéMON\n"
-	.string "move.\p"
-	.string "Jeg ved det! Jeg giver dig denne TM.\n"
-	.string "Vil du bruge den til at lave dit\n"
-	.string "eget rum?$"
+	.string "Hvad er det? Hvad laver jeg?\p"
+	.string "Jeg overvejer at lave mit eget rum her\n"
+	.string "ved at bruge en POKéMON move.\p"
+	.string "Jeg ved det! Jeg giver dig denne TM. Vil\n"
+	.string "du bruge den til at lave dit eget rum?$"
 
 Route111_Text_ExplainSecretPower:
 	.string "Find en stor træ, som ser ud til at kunne\n"
 	.string "tabe nogle slyngplanter.\p"
-	.string "Brug HEMMELIG KRAFT foran træet.\n"
-	.string "Nogle slyngplanter burde løsne sig og\n"
-	.string "falde ned, så du kan klatre i træet.\p"
+	.string "Brug HEMMELIG KRAFT foran træet. Nogle\n"
+	.string "slyngplanter burde løsne sig og falde\l"
+	.string "ned, så du kan klatre i træet.\p"
 	.string "Du vil finde masser af plads til at\n"
 	.string "sætte dine yndlingsting.\p"
-	.string "Det vil være dit eget hemmelige rum…\n"
-	.string "EN HEMMELIG BASE!\p"
+	.string "Det vil være dit eget hemmelige rum… EN\n"
+	.string "HEMMELIG BASE!\p"
 	.string "Du burde også lave en.\p"
 	.string "En anden ting, du behøver ikke altid\n"
 	.string "lave din HEMMELIGE BASE i et træ.\p"
 	.string "Prøv at bruge HEMMELIG KRAFT på\n"
 	.string "klippevægge, der har små fordybninger.\p"
 	.string "Jeg vil også lede efter andre steder.\n"
-	.string "Okay, farvel!$" 
+	.string "Okay, farvel!$"
 
 Route111_Text_DontWantThis:
-	.string "Åh, vil du ikke have dette?\n"
-	.string "Hvis du skifter mening, så sig det til mig, okay?$"
+	.string "Åh, vil du ikke have dette? Hvis du\n"
+	.string "skifter mening, så sig det til mig, okay?$"
 
 Route111_Text_DontHaveAnyRoom:
 	.string "Åh, du har ikke plads til dette.\p"
-	.string "Jeg vil passe på det, så kom tilbage\n"
-	.string "for det en anden gang, okay?$"
+	.string "Jeg vil passe på det, så kom tilbage for\n"
+	.string "det en anden gang, okay?$"
 
 Route111_EventScript_SecretPowerMan::
 	lock
@@ -102,5 +99,6 @@ Route111_Movement_SecretPowerManExitNorth:
 	walk_down
 	walk_down
 	step_end
+
 
 

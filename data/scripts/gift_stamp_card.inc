@@ -19,6 +19,8 @@ MysteryGiftScript_StampCard::
 sText_MysteryGiftStampCard:
 	.string "Tak fordi du bruger STAMP CARD\n"
 	.string "Systemet.\p"
-	.string "Du mangler at samle {STR_VAR_1} flere\n"
-	.string "for at fylde dit STAMP CARD.$"
+	.string "Du mangler at samle {STR_VAR_1}\n"
+	.string "flere for at fylde dit STAMP CARD.$"
+
+
 

@@ -43,3 +43,5 @@ CaveOfOrigin_EventScript_DisableTriggers::
 	setvar VAR_TEMP_4, 1
 	setvar VAR_TEMP_5, 1
 	return
+
+

@@ -48,3 +48,5 @@ Common_EventScript_NoMoreRoomForPokemon::
 	msgbox gText_NoMoreRoomForPokemon, MSGBOX_DEFAULT
 	release
 	end
+
+

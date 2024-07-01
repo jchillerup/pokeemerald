@@ -8,188 +8,187 @@ gText_UserMoreEasilyStartled::
 	.string "lettere forskrækket.$"
 
 gText_GreatAppealButNoMoreToEnd::
-	.string "Gør en stor appel, men\n"
-	.string "kan ikke lave flere til slutningen.$"
+	.string "Gør en stor appel, men kan ikke lave\n"
+	.string "flere til slutningen.$"
 
 gText_UsedRepeatedlyWithoutBoringJudge::
-	.string "Kan bruges gentagne gange\n"
-	.string "uden at kede dommeren.$"
+	.string "Kan bruges gentagne gange uden at\n"
+	.string "kede dommeren.$"
 
 gText_AvoidStartledByOthersOnce::
-	.string "Kan undgå at blive forskrækket\n"
-	.string "af andre én gang.$"
+	.string "Kan undgå at blive forskrækket af\n"
+	.string "andre én gang.$"
 
 gText_AvoidStartledByOthers::
-	.string "Kan undgå at blive forskrækket\n"
-	.string "af andre.$"
+	.string "Kan undgå at blive forskrækket af\n"
+	.string "andre.$"
 
 gText_AvoidStartledByOthersLittle::
-	.string "Kan undgå at blive forskrækket\n"
-	.string "af andre en smule.$"
+	.string "Kan undgå at blive forskrækket af\n"
+	.string "andre en smule.$"
 
 gText_UserLessLikelyStartled::
 	.string "Efter denne handling bliver brugeren\n"
-	.string "mindre tilbøjelig til at blive forskrækket.$"
+	.string "mindre tilbøjelig til at blive\l"
+	.string "forskrækket.$"
 
 gText_SlightlyStartleFrontMon::
-	.string "Forskrækker let\n"
-	.string "POKéMON i fronten.$"
+	.string "Forskrækker let POKéMON i fronten.$"
 
 gText_SlightlyStartleAppealed::
-	.string "Forskrækker let dem,\n"
-	.string "der har lavet appel.$"
+	.string "Forskrækker let dem, der har lavet\n"
+	.string "appel.$"
 
 gText_StartleAppealedBeforeUser::
-	.string "Forskrækker POKéMON, der\n"
-	.string "appellerede før brugeren.$"
+	.string "Forskrækker POKéMON, der appellerede\n"
+	.string "før brugeren.$"
 
 gText_StartleAllAppealed::
-	.string "Forskrækker alle POKéMON, der\n"
-	.string "har lavet appel.$"
+	.string "Forskrækker alle POKéMON, der har lavet\n"
+	.string "appel.$"
 
 gText_BadlyStartleFrontMon::
-	.string "Forskrækker kraftigt\n"
-	.string "POKéMON i fronten.$"
+	.string "Forskrækker kraftigt POKéMON i\n"
+	.string "fronten.$"
 
 gText_BadlyStartleAppealed::
-	.string "Forskrækker kraftigt dem, der\n"
-	.string "har lavet appel.$"
+	.string "Forskrækker kraftigt dem, der har lavet\n"
+	.string "appel.$"
 
 gText_StartleAppealedBeforeUser2::
-	.string "Forskrækker POKéMON, der\n"
-	.string "appellerede før brugeren.$"
+	.string "Forskrækker POKéMON, der appellerede\n"
+	.string "før brugeren.$"
 
 gText_StartleAllAppealed2::
-	.string "Forskrækker alle POKéMON, der\n"
-	.string "har lavet appel.$"
+	.string "Forskrækker alle POKéMON, der har lavet\n"
+	.string "appel.$"
 
 gText_ShiftJudgesAttentionFromOthers::
-	.string "Flytter dommerens\n"
-	.string "opmærksomhed fra andre.$"
+	.string "Flytter dommerens opmærksomhed fra\n"
+	.string "andre.$"
 
 gText_StartleMonHasJudgesAttention::
-	.string "Forskrækker POKéMON, der\n"
-	.string "har dommerens opmærksomhed.$"
+	.string "Forskrækker POKéMON, der har dommerens\n"
+	.string "opmærksomhed.$"
 
 gText_JamOthersMissesTurn::
-	.string "Forstyrrer andre, og mister\n"
-	.string "en tur af appeller.$"
+	.string "Forstyrrer andre, og mister en tur af\n"
+	.string "appeller.$"
 
 gText_StartleMonsMadeSameTypeAppeal::
-	.string "Forskrækker POKéMON, der\n"
-	.string "lavede en samme-type appel.$"
+	.string "Forskrækker POKéMON, der lavede en\n"
+	.string "samme-type appel.$"
 
 gText_BadlyStartleCoolAppeals::
-	.string "Forskrækker kraftigt POKéMON,\n"
-	.string "der lavede KØLIGHED appeller.$"
+	.string "Forskrækker kraftigt POKéMON, der\n"
+	.string "lavede KØLIGHED appeller.$"
 
 gText_BadlyStartleBeautyAppeals::
-	.string "Forskrækker kraftigt POKéMON,\n"
-	.string "der lavede SKØNHED appeller.$"
+	.string "Forskrækker kraftigt POKéMON, der\n"
+	.string "lavede SKØNHED appeller.$"
 
 gText_BadlyStartleCuteAppeals::
-	.string "Forskrækker kraftigt POKéMON,\n"
-	.string "der lavede SØDHED appeller.$"
+	.string "Forskrækker kraftigt POKéMON, der\n"
+	.string "lavede SØDHED appeller.$"
 
 gText_BadlyStartleSmartAppeals::
-	.string "Forskrækker kraftigt POKéMON,\n"
-	.string "der lavede KLOKHED appeller.$"
+	.string "Forskrækker kraftigt POKéMON, der\n"
+	.string "lavede KLOKHED appeller.$"
 
 gText_BadlyStartleToughAppeals::
-	.string "Forskrækker kraftigt POKéMON,\n"
-	.string "der lavede SEJHED appeller.$"
+	.string "Forskrækker kraftigt POKéMON, der\n"
+	.string "lavede SEJHED appeller.$"
 
 gText_MakeMonAfterUserNervous::
-	.string "Gør en POKéMON efter\n"
-	.string "brugeren nervøs.$"
+	.string "Gør en POKéMON efter brugeren nervøs.$"
 
 gText_MakeAllMonsAfterUserNervous::
-	.string "Gør alle POKéMON efter\n"
-	.string "brugeren nervøse.$"
+	.string "Gør alle POKéMON efter brugeren\n"
+	.string "nervøse.$"
 
 gText_WorsenConditionOfThoseMadeAppeals::
-	.string "Forværrer tilstanden for\n"
-	.string "dem, der har lavet appel.$"
+	.string "Forværrer tilstanden for dem, der har\n"
+	.string "lavet appel.$"
 
 gText_BadlyStartleMonsGoodCondition::
-	.string "Forskrækker kraftigt POKéMON i\n"
-	.string "god tilstand.$"
+	.string "Forskrækker kraftigt POKéMON i god\n"
+	.string "tilstand.$"
 
 gText_AppealGreatIfPerformedFirst::
-	.string "Appellen fungerer godt, hvis\n"
-	.string "den udføres først.$"
+	.string "Appellen fungerer godt, hvis den\n"
+	.string "udføres først.$"
 
 gText_AppealGreatIfPerformedLast::
-	.string "Appellen fungerer godt, hvis\n"
-	.string "den udføres sidst.$"
+	.string "Appellen fungerer godt, hvis den\n"
+	.string "udføres sidst.$"
 
 gText_AppealAsGoodAsThoseBeforeIt::
-	.string "Gør appellen lige så god\n"
-	.string "som dem før den.$"
+	.string "Gør appellen lige så god som dem før\n"
+	.string "den.$"
 
 gText_AppealAsGoodAsOneBeforeIt::
-	.string "Gør appellen lige så god\n"
-	.string "som den før den.$"
+	.string "Gør appellen lige så god som den før\n"
+	.string "den.$"
 
 gText_AppealBetterLaterItsPerformed::
-	.string "Appellen fungerer bedre,\n"
-	.string "jo senere den udføres.$"
+	.string "Appellen fungerer bedre, jo senere den\n"
+	.string "udføres.$"
 
 gText_AppealVariesDependingOnTiming::
-	.string "Appellens kvalitet varierer\n"
-	.string "afhængigt af dens timing.$"
+	.string "Appellens kvalitet varierer afhængigt\n"
+	.string "af dens timing.$"
 
 gText_WorksWellIfSameTypeAsBefore::
-	.string "Fungerer godt, hvis det er samme\n"
-	.string "type som den før.$"
+	.string "Fungerer godt, hvis det er samme type\n"
+	.string "som den før.$"
 
 gText_WorksWellIfDifferentTypeAsBefore::
-	.string "Fungerer godt, hvis det er en\n"
-	.string "anden type end den før.$"
+	.string "Fungerer godt, hvis det er en anden\n"
+	.string "type end den før.$"
 
 gText_AffectedByAppealInFront::
-	.string "Påvirkes af, hvor godt\n"
-	.string "appellen foran går.$"
+	.string "Påvirkes af, hvor godt appellen foran\n"
+	.string "går.$"
 
 gText_UpsConditionHelpsPreventNervousness::
-	.string "Forbedrer brugerens tilstand.\n"
-	.string "Hjælper med at forhindre nervøsitet.$"
+	.string "Forbedrer brugerens tilstand. Hjælper\n"
+	.string "med at forhindre nervøsitet.$"
 
 gText_AppealWorksWellIfConditionGood::
-	.string "Appellen fungerer godt, hvis\n"
-	.string "brugerens tilstand er god.$"
+	.string "Appellen fungerer godt, hvis brugerens\n"
+	.string "tilstand er god.$"
 
 gText_NextAppealMadeEarlier::
-	.string "Den næste appel kan\n"
-	.string "laves tidligere næste tur.$"
+	.string "Den næste appel kan laves tidligere\n"
+	.string "næste tur.$"
 
 gText_NextAppealMadeLater::
-	.string "Den næste appel kan\n"
-	.string "laves senere næste tur.$"
+	.string "Den næste appel kan laves senere næste\n"
+	.string "tur.$"
 
 gText_TurnOrderMoreEasilyScrambled::
-	.string "Gør næste turs rækkefølge\n"
-	.string "nemmere at blande.$"
+	.string "Gør næste turs rækkefølge nemmere at\n"
+	.string "blande.$"
 
 gText_ScrambleOrderOfNextAppeals::
-	.string "Blander rækkefølgen af\n"
-	.string "appeller i næste tur.$"
+	.string "Blander rækkefølgen af appeller i næste\n"
+	.string "tur.$"
 
 gText_AppealExcitesAudienceInAnyContest::
-	.string "En appel, der begejstrer\n"
-	.string "publikum i enhver konkurrence.$"
+	.string "En appel, der begejstrer publikum i\n"
+	.string "enhver konkurrence.$"
 
 gText_BadlyStartlesMonsGoodAppeals::
-	.string "Forskrækker kraftigt alle POKéMON,\n"
-	.string "der lavede gode appeller.$"
+	.string "Forskrækker kraftigt alle POKéMON, der\n"
+	.string "lavede gode appeller.$"
 
 gText_AppealBestMoreCrowdExcited::
-	.string "Appellen fungerer bedst,\n"
-	.string "jo mere publikum er begejstret.$"
+	.string "Appellen fungerer bedst, jo mere\n"
+	.string "publikum er begejstret.$"
 
 gText_TemporarilyStopCrowdExcited::
-	.string "Stopper midlertidigt\n"
-	.string "publikum fra at blive begejstret.$"
+	.string "Stopper midlertidigt publikum fra at\n"
+	.string "blive begejstret.$"
 
 @ Unused move names
 
@@ -250,12 +249,12 @@ gContestMoveTypeToughText::
 	.string "SEJHED$"
 
 gText_AppealNumWhichMoveWillBePlayed::
-	.string "Appel nr. {STR_VAR_1}!\n"
-	.string "Hvilken handling vil blive brugt?$"
+	.string "Appel nr. {STR_VAR_1}! Hvilken\n"
+	.string "handling vil blive brugt?$"
 
 gText_AppealNumButItCantParticipate::
-	.string "Appel nr. {STR_VAR_1}!\n"
-	.string "Men den kan ikke deltage!$"
+	.string "Appel nr. {STR_VAR_1}! Men den kan\n"
+	.string "ikke deltage!$"
 
 gText_MonAppealedWithMove::
 	.string "{STR_VAR_1} appellerede med\n"
@@ -272,76 +271,70 @@ gText_AllOutOfAppealTime::
 @ Unused appeal result texts
 
 gText_ButAppealWasJammed::
-	.string "Men appellen blev\n"
-	.string "forstyrret.$"
+	.string "Men appellen blev forstyrret.$"
 
 gText_FollowedAnotherMonsLead::
-	.string "Den fulgte en anden\n"
-	.string "POKéMON's føring.$"
+	.string "Den fulgte en anden POKéMON's føring.$"
 
 gText_ButItMessedUp::
 	.string "Men det gik galt.$"
 
 gText_WentBetterThanUsual::
-	.string "Det gik bedre end\n"
-	.string "sædvanligt.$"
+	.string "Det gik bedre end sædvanligt.$"
 
 gText_JudgeLookedAwayForSomeReason::
-	.string "Dommeren kiggede væk\n"
-	.string "af en eller anden grund.$"
+	.string "Dommeren kiggede væk af en eller anden\n"
+	.string "grund.$"
 
 gText_WorkedHardToBuildOnPastMistakes::
-	.string "Den arbejdede hårdt for at bygge\n"
-	.string "på tidligere fejl.$"
+	.string "Den arbejdede hårdt for at bygge på\n"
+	.string "tidligere fejl.$"
 
 gText_CantMakeAnyMoreMoves::
-	.string "Den kan ikke lave flere\n"
-	.string "handlinger.$"
+	.string "Den kan ikke lave flere handlinger.$"
 
 gText_WorkedFrighteninglyWell::
-	.string "Det fungerede skræmmende\n"
-	.string "godt.$"
+	.string "Det fungerede skræmmende godt.$"
 
 gText_WorkedHardAsStandoutMon::
 	.string "Den arbejdede så hårdt som den\n"
 	.string "fremstående POKéMON.$"
 
 gText_JudgedLookedOnExpectantly::
-	.string "Dommeren kiggede på\n"
-	.string "med forventning.$"
+	.string "Dommeren kiggede på med forventning.$"
 
 gText_WorkedRatherWell::
 	.string "Det fungerede ret godt.$"
 
 gText_WorkedLittleBetterThanUsual::
-	.string "Det fungerede lidt bedre\n"
-	.string "end sædvanligt.$"
+	.string "Det fungerede lidt bedre end\n"
+	.string "sædvanligt.$"
 
 @ Round result texts
 
 gText_MonFailedToStandOutAtAll::
-	.string "{STR_VAR_1} skilte sig ikke\n"
-	.string "ud overhovedet…{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} skilte sig ikke ud\n"
+	.string "overhovedet…{PAUSE_UNTIL_PRESS}$"
 
 gText_MonDidntStandOutVeryMuch::
-	.string "{STR_VAR_1} skilte sig ikke\n"
-	.string "meget ud…{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} skilte sig ikke meget\n"
+	.string "ud…{PAUSE_UNTIL_PRESS}$"
 
 gText_MonCaughtALittleAttention::
-	.string "{STR_VAR_1} fangede\n"
-	.string "en smule opmærksomhed.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} fangede en smule\n"
+	.string "opmærksomhed.{PAUSE_UNTIL_PRESS}$"
 
 gText_MonAttractedALotOfAttention::
-	.string "{STR_VAR_1} tiltrak en\n"
-	.string "masse opmærksomhed.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} tiltrak en masse\n"
+	.string "opmærksomhed.{PAUSE_UNTIL_PRESS}$"
 
 gText_MonCommandedTotalAttention::
-	.string "{STR_VAR_1} kommanderede\n"
-	.string "total opmærksomhed.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} kommanderede total\n"
+	.string "opmærksomhed.{PAUSE_UNTIL_PRESS}$"
 
 gText_MonHasntMadeItsAppeal::
-	.string "{STR_VAR_1} har ikke lavet\n"
-	.string "sin appel.{PAUSE_UNTIL_PRESS}$"
+	.string "{STR_VAR_1} har ikke lavet sin\n"
+	.string "appel.{PAUSE_UNTIL_PRESS}$"
 
 @ Unused
 gText_AnticipationSwelledForMonsAppealNext2::
@@ -352,76 +345,66 @@ gText_EmptyContestString::
 	.string "$"
 
 gText_JudgesViewsOnMonHeldFirm::
-	.string "Dommerens syn på\n"
-	.string "{STR_VAR_1} holdt fast.$"
+	.string "Dommerens syn på {STR_VAR_1} holdt\n"
+	.string "fast.$"
 
 gText_MonsXChangedPerceptions::
 	.string "{STR_VAR_1}'s {STR_VAR_3}\n"
 	.string "ændrede opfattelser.$"
 
 gText_MonsAppealEffectWoreOff::
-	.string "{STR_VAR_1}'s appel\n"
-	.string "effekt gik væk.$"
+	.string "{STR_VAR_1}'s appel effekt gik væk.$"
 
 gText_SpecialAppealsEffectWoreOff::
-	.string "Den specielle appels\n"
-	.string "effekt gik væk.$"
+	.string "Den specielle appels effekt gik væk.$"
 
 gText_EveryonesAppealsMadeToLookSame::
-	.string "Alles appeller blev\n"
-	.string "gjort ens.$"
+	.string "Alles appeller blev gjort ens.$"
 
 gText_CheapenedMonsAppeal::
-	.string "Det forringede\n"
-	.string "{STR_VAR_2}'s appel.$"
+	.string "Det forringede {STR_VAR_2}'s appel.$"
 
 gText_CheapenedAppealOfThoseAhead::
-	.string "Det forringede appellen\n"
-	.string "af dem foran.$"
+	.string "Det forringede appellen af dem foran.$"
 
 gText_StoleAttentionAwayFromMon::
-	.string "Det stjal opmærksomheden\n"
-	.string "fra {STR_VAR_2}.$"
+	.string "Det stjal opmærksomheden fra\n"
+	.string "{STR_VAR_2}.$"
 
 gText_CheapenedMonsAppeal2::
-	.string "Det forringede\n"
-	.string "{STR_VAR_2}'s appel.$"
+	.string "Det forringede {STR_VAR_2}'s appel.$"
 
 gText_SeverelyCheapenedOtherAppeals::
-	.string "Det forringede alvorligt\n"
-	.string "andre appeller.$"
+	.string "Det forringede alvorligt andre appeller.$"
 
 gText_AnticipationSwelledForMonsAppealNext::
 	.string "Forventningen steg til\n"
 	.string "{STR_VAR_1}'s appel næste.$"
 
 gText_CheapenedAppealOfThoseAhead2::
-	.string "Det forringede appellen\n"
-	.string "af dem foran.$"
+	.string "Det forringede appellen af dem foran.$"
 
 gText_CheapenedJudgesFavoriteAppeal::
 	.string "Det forringede dommerens\n"
 	.string "yndlingsappel.$"
 
 gText_AppealsOfOthersCheapenedByHalf::
-	.string "De andres appeller\n"
-	.string "blev halveret.$"
+	.string "De andres appeller blev halveret.$"
 
 gText_StoodOutToMakeUpForBeingJammed::
-	.string "Det skilte sig ud for at kompensere\n"
-	.string "for at blive forstyrret.$"
+	.string "Det skilte sig ud for at kompensere for\n"
+	.string "at blive forstyrret.$"
 
 gText_CantParticipateInAppealsAnyMore::
-	.string "Det kan ikke deltage i\n"
-	.string "appeller længere.$"
+	.string "Det kan ikke deltage i appeller længere.$"
 
 gText_TouchedJudgeForFantasticAppeal::
-	.string "Det rørte dommeren for\n"
-	.string "en fantastisk appel.$"
+	.string "Det rørte dommeren for en fantastisk\n"
+	.string "appel.$"
 
 gText_AnticipationRoseForUpcomingAppeals::
-	.string "Forventningen steg til\n"
-	.string "kommende appeller.$"
+	.string "Forventningen steg til kommende\n"
+	.string "appeller.$"
 
 gText_StoodOutAsMuchAsSpecialAppeals::
 	.string "Det skilte sig ud lige så meget som\n"
@@ -432,12 +415,11 @@ gText_StoodOutAsMuchAsMon::
 	.string "{STR_VAR_1}.$"
 
 gText_JammedAppealsMadeEvenLessNoticeable::
-	.string "Forstyrrede appeller blev gjort\n"
-	.string "endnu mindre synlige.$"
+	.string "Forstyrrede appeller blev gjort endnu\n"
+	.string "mindre synlige.$"
 
 gText_EveryonesAppealsMadeSame::
-	.string "Alles appeller blev\n"
-	.string "gjort ens.$"
+	.string "Alles appeller blev gjort ens.$"
 
 @ Appeal result texts
 
@@ -769,3 +751,6 @@ gText_ToughMove::
 
 gText_3QuestionMarks::
 	.string "???$"
+
+
+

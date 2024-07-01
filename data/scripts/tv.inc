@@ -83,3 +83,5 @@ EventScript_DoInSearchOfTrainers::
 	goto_if_eq VAR_RESULT, 0, EventScript_DoInSearchOfTrainers
 	goto EventScript_TurnOffTV
 	end
+
+

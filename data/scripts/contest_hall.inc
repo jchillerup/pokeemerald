@@ -1377,17 +1377,16 @@ LilycoveCity_ContestLobby_Text_ReceptionDontHavePokeblockCase:
 	.string "Hej!\p"
 	.string "Dette er receptionen for\n"
 	.string "POKéMON-KONKURRENCER.\p"
-	.string "Åh? Det ser ud til, at du ikke har\n"
-	.string "en {POKEBLOCK}-BEHOLDER endnu.\p"
-	.string "I så fald bliver vi nødt til at\n"
-	.string "give dig denne!$"
+	.string "Åh? Det ser ud til, at du ikke har en\n"
+	.string "{POKEBLOCK}-BEHOLDER endnu.\p"
+	.string "I så fald bliver vi nødt til at give dig\n"
+	.string "denne!$"
 
 LilycoveCity_ContestLobby_Text_NowThatWeveClearedThatUp:
-	.string "Okay, nu da vi har ryddet op\n"
-	.string "her…\p"
+	.string "Okay, nu da vi har ryddet op her…\p"
 	.string "Hej!\p"
 	.string "Dette er receptionen for\n"
-	.string "POKéMON-KONKURRENCER.$" 
+	.string "POKéMON-KONKURRENCER.$"
 
 LilycoveCity_ContestLobby_Text_ContestReception:
 	.string "Hej!\p"
@@ -1401,27 +1400,26 @@ LilycoveCity_ContestLobby_Text_CounterOnlyFor4PlayerContests:
 	.string "til 4-spiller POKéMON KONKURRENCER.$"
 
 LilycoveCity_ContestLobby_Text_EnterContest1:
-	.string "Vil du gerne tilmelde din POKéMON\n"
-	.string "i vores KONKURRENCER?$"
+	.string "Vil du gerne tilmelde din POKéMON i\n"
+	.string "vores KONKURRENCER?$"
 
 LilycoveCity_ContestLobby_Text_WhichTopic1:
 	.string "Hvilket emne vil du gerne have?$"
 
 LilycoveCity_ContestLobby_Text_ExplainContests:
 	.string "En POKéMON-KONKURRENCE involverer\n"
-	.string "fire TRÆNERE, der deltager med én\n"
-	.string "POKéMON hver i en konkurrence om\n"
-	.string "bedømmelse.\l"
-	.string "En KONKURRENCE har to bedømmelses-\n"
-	.string "faser, primær og sekundær.\p"
+	.string "fire TRÆNERE, der deltager med én\l"
+	.string "POKéMON hver i en konkurrence om\l"
+	.string "bedømmelse. En KONKURRENCE har to\l"
+	.string "bedømmelses- faser, primær og sekundær.\p"
 	.string "Primærbedømmelsen er en popularitets-\n"
 	.string "afstemning med publikums deltagelse.\p"
-	.string "Sekundærbedømmelsen omfatter POKéMONs\n"
-	.string "appel vha. deres angreb.\p"
-	.string "Planlæg dine appeller omhyggeligt\n"
-	.string "for at tiltrække JUDGENS mest\n"
-	.string "opmærksomhed og begejstre publikummet.\l"
-	.string "Gør dit bedste for at skille dig ud.\p"
+	.string "Sekundærbedømmelsen omfatter\n"
+	.string "POKéMONs appel vha. deres angreb.\p"
+	.string "Planlæg dine appeller omhyggeligt for\n"
+	.string "at tiltrække JUDGENS mest opmærksomhed\l"
+	.string "og begejstre publikummet. Gør dit\l"
+	.string "bedste for at skille dig ud.\p"
 	.string "Primær- og sekundærscoresne lægges\n"
 	.string "sammen til sidst.\p"
 	.string "Den POKéMON, der opnår den højeste\n"
@@ -1429,46 +1427,47 @@ LilycoveCity_ContestLobby_Text_ExplainContests:
 
 LilycoveCity_ContestLobby_Text_ExplainContestTypes:
 	.string "Der er fem slags KONKURRENCER.\p"
-	.string "SEJ, SMUK, SØD, KLOG, og\n"
-	.string "STÆRK er de fem kategorier.\p"
+	.string "SEJ, SMUK, SØD, KLOG, og STÆRK er de fem\n"
+	.string "kategorier.\p"
 	.string "Vælg den KONKURRENCE, der passer til\n"
 	.string "den POKéMON, du planlægger at indtaste.$"
 
 LilycoveCity_ContestLobby_Text_ExplainContestRanks:
 	.string "Der er fire rang af POKéMON\n"
 	.string "KONKURRENCER.\p"
-	.string "NORMAL, SUPER, HYPER og MASTER\n"
-	.string "er de fire rang.\p"
+	.string "NORMAL, SUPER, HYPER og MASTER er de\n"
+	.string "fire rang.\p"
 	.string "I NORMAL Rank, kan enhver POKéMON\n"
 	.string "deltage.\p"
 	.string "Enhver POKéMON, der vandt i NORMAL\n"
-	.string "Rank KONKURRENCEN, kan avancere til\n"
+	.string "Rank KONKURRENCEN, kan avancere til\l"
 	.string "SUPER Rank i samme kategori.\p"
 	.string "På samme måde kan en vinder i SUPER\n"
-	.string "Rank avancere til HYPER Rank, og\n"
-	.string "en vinder i HYPER Rank kan avancere\n"
-	.string "til MASTER Rank i samme kategori.\p"
+	.string "Rank avancere til HYPER Rank, og en\l"
+	.string "vinder i HYPER Rank kan avancere til\l"
+	.string "MASTER Rank i samme kategori.\p"
 	.string "En POKéMON, der vandt i MASTER Rank,\n"
-	.string "kan deltage i MASTER Rank så ofte\n"
-	.string "som dens TRÆNER ønsker.$"
+	.string "kan deltage i MASTER Rank så ofte som\l"
+	.string "dens TRÆNER ønsker.$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichRank:
 	.string "Hvilket rang vil du gerne træde ind i?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichContest1:
-	.string "Hvilken KONKURRENCE vil du gerne deltage i?$"
+	.string "Hvilken KONKURRENCE vil du gerne\n"
+	.string "deltage i?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon1:
 .string "Hvilken POKéMON vil du gerne sende ind?$"
 
 LilycoveCity_ContestLobby_Text_MonNotQualifiedForRank:
-	.string "Jeg er meget ked af det, men din POKéMON\n"
-	.string "er ikke kvalificeret til at konkurrere på\l"
-	.string "dette niveau endnu…$"
+	.string "Jeg er meget ked af det, men din\n"
+	.string "POKéMON er ikke kvalificeret til at\l"
+	.string "konkurrere på dette niveau endnu…$"
 
 LilycoveCity_ContestLobby_Text_EggCannotTakePart:
-	.string "Undskyld, men et ÆG kan ikke\n"
-	.string "deltage i en POKéMON-KONKURRENCE.$"
+	.string "Undskyld, men et ÆG kan ikke deltage i\n"
+	.string "en POKéMON-KONKURRENCE.$"
 
 LilycoveCity_ContestLobby_Text_MonInNoConditionForContest:
 	.string "Din POKéMON ser ud til ikke at være i\n"
@@ -1476,44 +1475,42 @@ LilycoveCity_ContestLobby_Text_MonInNoConditionForContest:
 
 LilycoveCity_ContestLobby_Text_AlreadyWonEnterAnyway:
 	.string "Åh, men det BÅND…\p"
-	.string "Din POKéMON har vundet denne KONKURRENCE\n"
-	.string "før, ikke sandt?\p"
-	.string "Vil du stadig tilmelde den\n"
-	.string "i denne KONKURRENCE?$"
+	.string "Din POKéMON har vundet denne\n"
+	.string "KONKURRENCE før, ikke sandt?\p"
+	.string "Vil du stadig tilmelde den i denne\n"
+	.string "KONKURRENCE?$"
 
 LilycoveCity_ContestLobby_Text_ConfirmContestMon:
 	.string "Er det din KONKURRENCE POKéMON?$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNum4:
-	.string "Okay, din POKéMON vil blive\n"
-	.string "indtastet i denne KONKURRENCE.\p"
+	.string "Okay, din POKéMON vil blive indtastet i\n"
+	.string "denne KONKURRENCE.\p"
 	.string "Din POKéMON er Indgang Nr. 4.\n"
 	.string "KONKURRENCEN vil begynde snart.$"
 
 LilycoveCity_ContestLobby_Text_ComeThroughHere:
-	.string "Kom venligst ind her.\n"
-	.string " Held og lykke!$"
+	.string "Kom venligst ind her.  Held og lykke!$"
 
 LilycoveCity_ContestLobby_Text_PokemonWonWeHavePrize:
 	.string "Tillykke! Din POKéMON er\n"
 	.string "konkurrencevinderen!\p"
-	.string "Vi har din præmie lige her.\n"
-	.string "Vær så god, følg med!\n$"
+	.string "Vi har din præmie lige her. Vær så god,\n"
+	.string "følg med!$"
 
 LilycoveCity_ContestLobby_Text_ComeBackForPrizeLater:
-	.string "Kom tilbage for din præmie\n"
-	.string "senere.$"
+	.string "Kom tilbage for din præmie senere.$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollows:
-	.string "MC: Hej! Vi er lige begyndt\n"
-	.string "med en {STR_VAR_3} Rank POKéMON\n"
+	.string "MC: Hej! Vi er lige begyndt med en\n"
+	.string "{STR_VAR_3} Rank POKéMON\l"
 	.string "{STR_VAR_2}!\p"
 	.string "De deltagende TRÆNERE og deres\n"
 	.string "POKéMON er som følger:$"
 
 ContestHall_Text_GettingStartedParticipantsAsFollowsLink:
-	.string "MC: Hej! Vi er lige begyndt\n"
-	.string "med et 4-spillers linket POKéMON\n"
+	.string "MC: Hej! Vi er lige begyndt med et\n"
+	.string "4-spillers linket POKéMON\l"
 	.string "{STR_VAR_2}!\p"
 	.string "De deltagende TRÆNERE og deres\n"
 	.string "POKéMON er som følger:$"
@@ -1526,24 +1523,23 @@ ContestHall_Text_SeenContestantsAudienceWillVote:
 	.string "MC: Vi har lige set de fire POKéMONs\n"
 	.string "deltagere.\p"
 	.string "Nu er det tid til primær bedømmelse!\p"
-	.string "Publikum vil stemme på deres\n"
-	.string "favorit POKéMON deltager.\p"
-	.string "Uden yderligere ado, lad\n"
-	.string "afstemningen begynde!$"
+	.string "Publikum vil stemme på deres favorit\n"
+	.string "POKéMON deltager.\p"
+	.string "Uden yderligere ado, lad afstemningen\n"
+	.string "begynde!$"
 
 ContestHall_Text_VotingUnderWay:
 .string "Afstemning i gang...$"
 
 ContestHall_Text_VotingCompleteLetsAppeal:
 	.string "Afstemningen er nu afsluttet!\p"
-	.string "Mens stemmerne tælles,\n"
-	.string "lad os gå videre til sekundær bedømmelse!\p"
-	.string "Anden fase af bedømmelsen er den\n"
-	.string "meget ventede appelleringstid!\p"
+	.string "Mens stemmerne tælles, lad os gå videre\n"
+	.string "til sekundær bedømmelse!\p"
+	.string "Anden fase af bedømmelsen er den meget\n"
+	.string "ventede appelleringstid!\p"
 	.string "Må deltagerne forbløffe os med\n"
 	.string "fantastiske appeller og bedårende træk!\p"
-	.string "Vis lidt entusiasme!\n"
-	.string "Lad os appellere!$"
+	.string "Vis lidt entusiasme! Lad os appellere!$"
 
 ContestHall_Text_ThatsItForJudging:
 .string "MC: Det var det for bedømmelsen!$"
@@ -1551,12 +1547,12 @@ ContestHall_Text_ThatsItForJudging:
 ContestHall_Text_ThankYouForAppeals:
 	.string "Tak til jer alle for en fantastisk\n"
 	.string "udstilling af kvalitetsappeller!\p"
-	.string "Dette afslutter al bedømmelse!\n"
-	.string "Tak for jeres fine indsats!$"
+	.string "Dette afslutter al bedømmelse! Tak for\n"
+	.string "jeres fine indsats!$"
 
 ContestHall_Text_JudgeLooksReady:
-	.string "Nu mangler kun pulserende proklamationen\n"
-	.string "af vinderen.\p"
+	.string "Nu mangler kun pulserende\n"
+	.string "proklamationen af vinderen.\p"
 	.string "DOMMEREN ser ud til at være klar til at\n"
 	.string "offentliggøre vinderen!$"
 
@@ -1569,16 +1565,14 @@ ContestHall_Text_CongratsTrainerXandMon:
 	.string "tillykke!$"
 
 ContestHall_Text_CongratsPleaseCompeteAgain:
-	.string "Tillykke!\n"
-	.string "Vil du kæmpe igen?$"
+	.string "Tillykke! Vil du kæmpe igen?$"
 
 ContestHall_Text_AcceptYourPrize:
-	.string "Her er du!\n"
-	.string "Værsgo at tage din præmie!$"
+	.string "Her er du! Værsgo at tage din præmie!$"
 
 ContestHall_Text_ConferRibbonAsPrize:
-	.string "Vi overrækker dig dette BÅND\n"
-	.string "som din præmie!$"
+	.string "Vi overrækker dig dette BÅND som din\n"
+	.string "præmie!$"
 
 ContestHall_Text_ReceivedRibbon:
 .string "{PLAYER} modtog et BÅND.$"
@@ -1588,9 +1582,9 @@ ContestHall_Text_PutRibbonOnMon:
 	.string "{STR_VAR_1}.$"
 
 ContestHall_Text_PickUpPrizeAtCounterLater:
-	.string "Venligst afhent din præmie\n"
-	.string "i receptionen senere.\l"
-	.string "Husk at deltage igen!$"
+	.string "Venligst afhent din præmie i\n"
+	.string "receptionen senere. Husk at deltage\l"
+	.string "igen!$"
 
 @ Unused
 ContestHall_Text_OnlyRegister4Players:
@@ -1602,8 +1596,8 @@ ContestHall_Text_OnlyRegister4Players:
     .string "Vil du deltage?$"
 
 LilycoveCity_ContestLobby_Text_ProgressWillBeSaved:
-	.string "Inden du deltager i en KONKURRENCE, \n"
-	.string "vil din fremskridt blive gemt.$"
+	.string "Inden du deltager i en KONKURRENCE,  vil\n"
+	.string "din fremskridt blive gemt.$"
 
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime:
 	.string "Vi håber, at du vil deltage en anden\n"
@@ -1640,12 +1634,12 @@ LilycoveCity_ContestLobby_Text_PlayersChoseDifferentContest:
 	.string "KONKURRENCE end en anden spiller.$"
 
 LilycoveCity_ContestLobby_Text_PlayersMadeDifferentChoice:
-	.string "Du har måske truffet et andet\n"
-	.string "valg end en anden spiller.$"
+	.string "Du har måske truffet et andet valg end\n"
+	.string "en anden spiller.$"
 
 LilycoveCity_ContestLobby_Text_PleaseWaitBButtonCancel:
-	.string "Vent venligst.\n"
-	.string "… … Tryk på B-knappen: Annuller$"
+	.string "Vent venligst. … … Tryk på B-knappen:\n"
+	.string "Annuller$"
 
 @ Unused
 LilycoveCity_ContestLobby_Text_ParticipateAnotherTime2:
@@ -1658,18 +1652,20 @@ LilycoveCity_ContestLobby_Text_TransmissionErrorTryAgain:
 	.string "Prøv venligst igen.$"
 
 LilycoveCity_ContestLobby_Text_YourMonIsEntryNumX:
-	.string "Din POKéMON vil blive tilmeldt\n"
-	.string "til KONKURRENCEN.\p"
-	.string "Din POKéMON er Tilmeldingsnummer {STR_VAR_2}.$"
+	.string "Din POKéMON vil blive tilmeldt til\n"
+	.string "KONKURRENCEN.\p"
+	.string "Din POKéMON er Tilmeldingsnummer\n"
+	.string "{STR_VAR_2}.$"
 
 LilycoveCity_ContestLobby_Text_ContestBeginShortly:
 	.string "KONKURRENCEN vil begynde om lidt.$"
 
 LilycoveCity_ContestLobby_Text_LinkContestReception:
-	.string "Velkommen! Dette er POKéMON-KONKURRENCEN\n"
-	.string "link modtagelses-skranke.\p"
-	.string "Du kan deltage i KONKURRENCER sammen med\n"
-	.string "en eller flere venner.$"
+	.string "Velkommen! Dette er\n"
+	.string "POKéMON-KONKURRENCEN link\l"
+	.string "modtagelses-skranke.\p"
+	.string "Du kan deltage i KONKURRENCER sammen\n"
+	.string "med en eller flere venner.$"
 
 LilycoveCity_ContestLobby_Text_WhichTopic2:
 .string "Hvilket emne vil du gerne vælge?$"
@@ -1678,21 +1674,23 @@ LilycoveCity_ContestLobby_Text_EnterContest3:
 	.string "Vil du gerne deltage i en KONKURRENCE?$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichContest3:
-	.string "Hvilken KONKURRENCE vil du gerne deltage i?$"
+	.string "Hvilken KONKURRENCE vil du gerne\n"
+	.string "deltage i?$"
 
 LilycoveCity_ContestLobby_Text_MonInNoCondition2:
-	.string "Din POKéMON ser ud til ikke at være\n"
-	.string "i stand til at deltage i en KONKURRENCE…$"
+	.string "Din POKéMON ser ud til ikke at være i\n"
+	.string "stand til at deltage i en KONKURRENCE…$"
 
 LilycoveCity_ContestLobby_Text_EggCannotTakePart2:
-	.string "Undskyld, men et ÆG kan ikke\ndeltage i en POKéMON-KONKURRENCE.$" 
+	.string "Undskyld, men et ÆG kan ikkedeltage i en\n"
+	.string "POKéMON-KONKURRENCE.$"
 
 LilycoveCity_ContestLobby_Text_EnterWhichPokemon3:
 .string "Hvilken POKéMON vil du gerne bringe ind?$"
 
 LilycoveCity_ContestLobby_Text_PleaseDecideLinkLeader:
-	.string "Vælg venligst, hvem af jer der\n"
-	.string "skal blive GRUPPELEDEREN.\p"
+	.string "Vælg venligst, hvem af jer der skal blive\n"
+	.string "GRUPPELEDEREN.\p"
 	.string "De andre spillere skal derefter vælge\n"
 	.string "“DELTA I GRUPPEN.”$"
 
@@ -1701,55 +1699,54 @@ LilycoveCity_ContestLobby_Text_PlayerAt4PCounterUseGMode:
 	.string "skranken for 4 spillere.\p"
 	.string "Der skal være fire spillere tilsluttet\n"
 	.string "via et GBA Game Link-kabel.\p"
-	.string "Når de fire spillere er klar,\n"
-	.string "vælg G-MODE (GLOBAL MODE),\l"
-	.string "og registrer dig for at komme ind igen, tak.$"
+	.string "Når de fire spillere er klar, vælg G-MODE\n"
+	.string "(GLOBAL MODE), og registrer dig for at\l"
+	.string "komme ind igen, tak.$"
 
 LilycoveCity_ContestLobby_Text_ExplainLinkContest:
 	.string "Dette er en KONKURRENCE for to til fire\n"
-	.string "spillere, der er forbundet ved brug af\n"
-	.string "en Wireless Adapter eller en GBA\n"
-	.string "Game Link-kabel.\p"
+	.string "spillere, der er forbundet ved brug af en\l"
+	.string "Wireless Adapter eller en GBA Game\l"
+	.string "Link-kabel.\p"
 	.string "Deltagerne bliver først bedt om at\n"
-	.string "vælge den tilstand, de ønsker at\n"
-	.string "deltage i.\p"
+	.string "vælge den tilstand, de ønsker at deltage\l"
+	.string "i.\p"
 	.string "Der er to forskellige tilstande.\p"
 	.string "E-TILSTAND (SMARAGD-TILSTAND) er for\n"
-	.string "to til fire spillere, hver med en\n"
-	.string "POKéMON Smaragd-spillekassette.\p"
-	.string "G-TILSTAND (GLOBAL TILSTAND) er kun for\n"
-	.string "fire spillere, hver med en POKéMON\n"
-	.string "Smaragd, Rubin eller Safir-spillekassette.\p"
+	.string "to til fire spillere, hver med en POKéMON\l"
+	.string "Smaragd-spillekassette.\p"
+	.string "G-TILSTAND (GLOBAL TILSTAND) er kun\n"
+	.string "for fire spillere, hver med en POKéMON\l"
+	.string "Smaragd, Rubin eller\l"
+	.string "Safir-spillekassette.\p"
 	.string "Spillerne bør drøfte, hvilken tilstand\n"
-	.string "de ønsker, og derefter vælge den samme\n"
+	.string "de ønsker, og derefter vælge den samme\l"
 	.string "tilstand.\p"
 	.string "Når alle spillerne har valgt den samme\n"
-	.string "KONKURRENCE i samme tilstand, er\n"
+	.string "KONKURRENCE i samme tilstand, er\l"
 	.string "registreringen af deltagelse fuldført.\p"
 	.string "Efter dette vil en KONKURRENCE starte\n"
 	.string "på normal vis.$"
 
 LilycoveCity_ContestLobby_Text_ExplainEMode:
-	.string "I E-TILSTAND (SMARAGD TILSTAND),\n"
-	.string "kan der afholdes en LINK-KONKURRENCE\l"
-	.string "med to til fire spillere. Hver spiller\n"
-	.string "skal have en POKéMON Smaragd\n"
-	.string "spilkassette.\p"
+	.string "I E-TILSTAND (SMARAGD TILSTAND), kan\n"
+	.string "der afholdes en LINK-KONKURRENCE med\l"
+	.string "to til fire spillere. Hver spiller skal\l"
+	.string "have en POKéMON Smaragd spilkassette.\p"
 	.string "Spillerne skal forbinde sig med\n"
-	.string "hinanden ved hjælp af trådløse\n"
-	.string "adaptere eller GBA Game Link\n"
-	.string "kabler.\p"
-	.string "Hvis der er færre end fire spillere,\n"
-	.string "vil TRÆNERE i hallen deltage for at\n"
-	.string "fuldføre 4-spiller KONKURRENCEN.\p"
-	.string "Vær opmærksom på, at E-TILSTAND\n"
-	.string "ikke er tilgængelig i POKéMON Ruby\n"
-	.string "eller Sapphire.$"
+	.string "hinanden ved hjælp af trådløse adaptere\l"
+	.string "eller GBA Game Link kabler.\p"
+	.string "Hvis der er færre end fire spillere, vil\n"
+	.string "TRÆNERE i hallen deltage for at fuldføre\l"
+	.string "4-spiller KONKURRENCEN.\p"
+	.string "Vær opmærksom på, at E-TILSTAND ikke er\n"
+	.string "tilgængelig i POKéMON Ruby eller\l"
+	.string "Sapphire.$"
 
 LilycoveCity_ContestLobby_Text_ExplainGMode:
-	.string "G-MODE (GLOBAL MODE) er specifikt\n"
-	.string "til fire spillere, der er forbundet\l"
-	.string "via GBA Game Link-kabler.\p"
+	.string "G-MODE (GLOBAL MODE) er specifikt til\n"
+	.string "fire spillere, der er forbundet via GBA\l"
+	.string "Game Link-kabler.\p"
 	.string "Hver spiller skal have en POKéMON\n"
 	.string "Emerald, Ruby eller Sapphire Game Pak.\p"
 	.string "KONKURRENCEN starter, når alle spillere\n"
@@ -1759,18 +1756,18 @@ LilycoveCity_ContestLobby_Text_ExplainGMode:
 
 LilycoveCity_ContestLobby_Text_NoWirelessAdapterInGMode:
 	.string "Jeg er meget ked af det.\p"
-	.string "G-MODE fungerer ikke\n"
-	.string "med trådløse adaptere.\p"
-	.string "Vælg venligst E-MODE eller\n"
-	.string "prøv igen med en GBA Game Link kabel.$"
+	.string "G-MODE fungerer ikke med trådløse\n"
+	.string "adaptere.\p"
+	.string "Vælg venligst E-MODE eller prøv igen med\n"
+	.string "en GBA Game Link kabel.$"
 
 LilycoveCity_ContestLobby_Text_WhichContestMode:
-	.string "Hvilken KONKURRENCEMODE vil du\n"
-	.string "gerne deltage i?$"
+	.string "Hvilken KONKURRENCEMODE vil du gerne\n"
+	.string "deltage i?$"
 
 ContestHall_Text_GettingStartedWireless:
-	.string "MC: Hej! Vi er lige begyndt\n"
-	.string "på et 4-spiller forbundet POKéMON\l"
+	.string "MC: Hej! Vi er lige begyndt på et\n"
+	.string "4-spiller forbundet POKéMON\l"
 	.string "{STR_VAR_2}!$"
 
 ContestHall_Text_ParticipantsAsFollows:
@@ -1783,25 +1780,27 @@ ContestHall_Text_WeveSeenContestants:
 	.string "Nu er det tid til primær vurdering!$"
 
 ContestHall_Text_AudienceWillVote:
-	.string "Publikum vil stemme på deres\n"
-	.string "favorit POKéMON-deltagere.$"
+	.string "Publikum vil stemme på deres favorit\n"
+	.string "POKéMON-deltagere.$"
 
 ContestHall_Text_LetVotingBegin:
-	.string "Uden mere snak,\n"
-	.string "lad afstemningen begynde!$"
+	.string "Uden mere snak, lad afstemningen\n"
+	.string "begynde!$"
 
 ContestHall_Text_VotingComplete:
 	.string "Afstemningen er nu afsluttet!\p"
-	.string "Mens stemmerne tælles op,\n"
-	.string "lad os gå videre til sekundær bedømmelse!$"
+	.string "Mens stemmerne tælles op, lad os gå\n"
+	.string "videre til sekundær bedømmelse!$"
 
 ContestHall_Text_SecondStageOfJudging:
-	.string "Den anden fase af bedømmelsen er\n"
-	.string "den længe ventede appel tid!\p"
-	.string "Må deltagerne forbløffe os med\n"
-	.string "superb appel af forbløffende moves!$"
+	.string "Den anden fase af bedømmelsen er den\n"
+	.string "længe ventede appel tid!\p"
+	.string "Må deltagerne forbløffe os med superb\n"
+	.string "appel af forbløffende moves!$"
 
 ContestHall_Text_LetsAppeal:
-	.string "Lad os se lidt entusiasme!\n"
-	.string "Lad os appellere!$"
+	.string "Lad os se lidt entusiasme! Lad os\n"
+	.string "appellere!$"
+
+
 

@@ -1420,3 +1420,5 @@ MossdeepCity_GameCorner_1F_EventScript_DodrioBerryPickingRecords::
 	waitstate
 	releaseall
 	end
+
+

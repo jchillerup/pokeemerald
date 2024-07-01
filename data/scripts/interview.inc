@@ -318,3 +318,5 @@ EventScript_ContestLiveInterview::
 
 EventScript_ContestLiveInterviewEnd::
 	return
+
+

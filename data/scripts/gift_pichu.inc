@@ -61,10 +61,10 @@ SurfPichu_Slot5:
 	return
 
 sText_MysteryGiftEgg:
-	.string "Tak fordi du bruger MYSTERY\n"
-	.string "GAVE Systemet.\p"
-	.string "Fra POKéMON CENTRET har vi\n"
-	.string "en gave - et POKéMON ÆG!\p"
+	.string "Tak fordi du bruger MYSTERY GAVE\n"
+	.string "Systemet.\p"
+	.string "Fra POKéMON CENTRET har vi en gave - et\n"
+	.string "POKéMON ÆG!\p"
 	.string "Vær venlig at opfostre det med\n"
 	.string "kærlighed og venlighed.$"
 
@@ -72,4 +72,6 @@ sText_FullParty:
 	.string "Åh, dit hold ser ud til at være fuldt.\p"
 	.string "Kom venligst og se mig efter at have\n"
 	.string "opbevaret en POKéMON på en PC.$"
+
+
 

@@ -26,23 +26,25 @@ MysteryGiftScript_BattleCardInfo:
 	end
 
 sText_MysteryGiftBattleCountCard:
-	.string "Tak fordi du bruger MYSTERY\n"
-	.string "GAVE Systemet.\p"
-	.string "Dit KAMP ANTAL KORT holder styr\n"
-	.string "på din kampoptegnelse mod\l"
-	.string "TRÆNERE med det samme KORT.\p"
-	.string "Find og kæmp mod TRÆNERE som\n"
-	.string "har det samme KORT som dig.\p"
+	.string "Tak fordi du bruger MYSTERY GAVE\n"
+	.string "Systemet.\p"
+	.string "Dit KAMP ANTAL KORT holder styr på din\n"
+	.string "kampoptegnelse mod TRÆNERE med det\l"
+	.string "samme KORT.\p"
+	.string "Find og kæmp mod TRÆNERE som har det\n"
+	.string "samme KORT som dig.\p"
 	.string "Du kan tjekke den overordnede\n"
 	.string "rangliste ved at læse NYHEDERNE.\p"
 	.string "Giv det endelig et forsøg!$"
 
 sText_MysteryGiftBattleCountCard_WonPrize:
-	.string "Tak fordi du bruger MYSTERY\n"
-	.string "GAVE Systemet.\p"
+	.string "Tak fordi du bruger MYSTERY GAVE\n"
+	.string "Systemet.\p"
 	.string "Tillykke!\p"
-	.string "Du har vundet en pris for at vinde\n"
-	.string "tre kampe!\p"
+	.string "Du har vundet en pris for at vinde tre\n"
+	.string "kampe!\p"
 	.string "Vi håber, at du vil blive inspireret til\n"
 	.string "at kæmpe mere.$"
+
+
 

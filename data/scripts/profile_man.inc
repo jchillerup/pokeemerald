@@ -94,71 +94,68 @@ ProfileMan_EventScript_Ret::
 	return
 
 ProfileMan_Text_CollectTrainerProfiles:
-	.string "Hej der, TRÆNER!\n"
-	.string "Du har et fantastisk smil der.\p"
+	.string "Hej der, TRÆNER! Du har et fantastisk\n"
+	.string "smil der.\p"
 	.string "Jeg har en hobby--at samle profilerne\n"
 	.string "af POKéMON TRÆNERE.$"
 
 ProfileMan_Text_MayISeeYourProfile:
-	.string "Så, hvad siger du?\n"
-	.string "Må jeg se din profil?$"
+	.string "Så, hvad siger du? Må jeg se din profil?$"
 
 ProfileMan_Text_EasyChatExplanation:
-	.string "Du laver din egen profil ved at\n"
-	.string "sætte fire ord eller fraser sammen.\p"
+	.string "Du laver din egen profil ved at sætte\n"
+	.string "fire ord eller fraser sammen.\p"
 	.string "Her viser jeg dig et eksempel på en\n"
 	.string "profil ved hjælp af fire tekster.\p"
 	.string "Du kan skifte de fire tekster ud med\n"
-	.string "andre tekster på hvilken som helst\n"
-	.string "måde, du ønsker, for at lave din\n"
-	.string "egen profil.\p"
-	.string "Der er masser af tekststykker, som\n"
-	.string "du kan bruge.\p"
-	.string "De er arrangeret i grupper som\n"
-	.string "POKéMON, livsstil og hobbyer, så det\n"
-	.string "er nemmere at finde dem frem.\p"
-	.string "Så vælg først tekstgruppen for at\n"
-	.string "vise en liste over valgmuligheder.\p"
+	.string "andre tekster på hvilken som helst måde,\l"
+	.string "du ønsker, for at lave din egen profil.\p"
+	.string "Der er masser af tekststykker, som du\n"
+	.string "kan bruge.\p"
+	.string "De er arrangeret i grupper som POKéMON,\n"
+	.string "livsstil og hobbyer, så det er nemmere at\l"
+	.string "finde dem frem.\p"
+	.string "Så vælg først tekstgruppen for at vise\n"
+	.string "en liste over valgmuligheder.\p"
 	.string "Vælg derefter det valg, du ønsker.\p"
-	.string "Gentag for de resterende tekstvalg,\n"
-	.string "og du vil have din helt egen profil.$"
+	.string "Gentag for de resterende tekstvalg, og\n"
+	.string "du vil have din helt egen profil.$"
 
 ProfileMan_Text_LetsSeeItThen:
-	.string "Ja! Tak!\n"
-	.string "Så lad os se det, så.$"
+	.string "Ja! Tak! Så lad os se det, så.$"
 
 ProfileMan_Text_ImagineYouWouldHaveWonderfulProfile:
 	.string "Åh nej, virkelig?\p"
-	.string "Jeg forestiller mig, at en person som dig\n"
-	.string "ville have en fantastisk profil…$"
+	.string "Jeg forestiller mig, at en person som\n"
+	.string "dig ville have en fantastisk profil…$"
 
 ProfileMan_Text_NotIntoItRightNow:
 	.string "Nå? Har du ikke lyst lige nu?\p"
 	.string "Nå, det passer mig fint når som helst!$"
 
 ProfileMan_Text_YouHaveWonderfulSmile:
-	.string "Hej med dig, TRÆNER!\n"
-	.string "Du har et fantastisk smil.$"
+	.string "Hej med dig, TRÆNER! Du har et\n"
+	.string "fantastisk smil.$"
 
 ProfileMan_Text_MayISeeYourNewProfile:
 	.string "Må jeg se din nye profil?$"
 
 ProfileMan_Text_EvenBetterThanLastProfile:
 	.string "Ja! Tak!\p"
-	.string "Jeg håber, det er endnu bedre end profilen\n"
-	.string "du viste mig før.$"  
+	.string "Jeg håber, det er endnu bedre end\n"
+	.string "profilen du viste mig før.$"
 
 ProfileMan_Text_LikeProfileWayItIs:
 	.string "Åh, du kan lide din profil, som den er.\p"
-	.string "Jeg bebrejder dig ikke - det er en fantastisk\n"
-	.string "profil, som den er nu.$"
+	.string "Jeg bebrejder dig ikke - det er en\n"
+	.string "fantastisk profil, som den er nu.$"
 
 ProfileMan_Text_FantasticProfile:
 	.string "F-fantastisk!\p"
-	.string "Din profil, den er vidunderlig!\n"
-	.string "Den siger virkelig, hvem du er.\p"
-	.string "Åh, enhver der hører denne profil\n"
-	.string "ville blive draget af dig!\p"
+	.string "Din profil, den er vidunderlig! Den siger\n"
+	.string "virkelig, hvem du er.\p"
+	.string "Åh, enhver der hører denne profil ville\n"
+	.string "blive draget af dig!\p"
 	.string "Tak!$"
 
 @ Unused
@@ -167,4 +164,6 @@ ProfileMan_Text_YouKnowSecretSaying:
     .string "Du kender det hemmelige ordsprog!\p"
     .string "Det betyder, at du nu er et medlem\n"
     .string "af MYSTERY EVENT CLUB!$"
+
+
 

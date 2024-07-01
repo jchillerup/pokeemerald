@@ -66,3 +66,5 @@ TrainerHill_EventScript_TrainerBattle::
 	waitbuttonpress
 	closemessage
 	end
+
+

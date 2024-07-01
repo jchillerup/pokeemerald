@@ -19,15 +19,13 @@ gText_TuckerWonSilver::
 	.string "Alle kigger!$"
 
 gText_TuckerDefeatSilver::
-	.string "Grr…\n"
-	.string "Hvad i…$"
+	.string "Grr… Hvad i…$"
 
 gText_TuckerWonGold::
 	.string "Min DOME ACE titel er ikke kun til show!$"
 
 gText_TuckerDefeatGold::
-	.string "Ahahaha!\n"
-	.string "Du er inspirerende!$"
+	.string "Ahahaha! Du er inspirerende!$"
 
 @ Battle Factory
 gText_NolandWonSilver::
@@ -35,12 +33,10 @@ gText_NolandWonSilver::
 	.string "Det var en god lektion, hva'? $"
 
 gText_NolandDefeatSilver::
-	.string "Godt klaret!\n"
-	.string "Du ved, hvad du laver!$"
+	.string "Godt klaret! Du ved, hvad du laver!$"
 
 gText_NolandWonGold::
-	.string "Hey, hey, hey!\n"
-	.string "Er du færdig allerede?$"
+	.string "Hey, hey, hey! Er du færdig allerede?$"
 
 gText_NolandDefeatGold::
 	.string "Hvad skete der her?$"
@@ -64,16 +60,13 @@ gText_GretaWonSilver::
 	.string "Du må prøve hårdere end det!$"
 
 gText_GretaDefeatSilver::
-	.string "Nej, det kan ikke passe!\n"
-	.string "Godt klaret!$"
+	.string "Nej, det kan ikke passe! Godt klaret!$"
 
 gText_GretaWonGold::
-	.string "Heheh!\n"
-	.string "Hvad havde du forventet?$"
+	.string "Heheh! Hvad havde du forventet?$"
 
 gText_GretaDefeatGold::
-	.string "Huh?\n"
-	.string "Er du seriøs?!$"
+	.string "Huh? Er du seriøs?!$"
 
 @ Battle Palace
 gText_SpenserWonSilver::
@@ -81,16 +74,14 @@ gText_SpenserWonSilver::
 	.string "du er en svag TRÆNER!$"
 
 gText_SpenserDefeatSilver::
-	.string "Ah…\n"
-	.string "Nu er dette noget andet…$"
+	.string "Ah… Nu er dette noget andet…$"
 
 gText_SpenserWonGold::
-	.string "Gwahahaha!\n"
-	.string "Mine brødre, vi har intet at frygte!$"
+	.string "Gwahahaha! Mine brødre, vi har intet at\n"
+	.string "frygte!$"
 
 gText_SpenserDefeatGold::
-	.string "Gwah!\n"
-	.string "Hahahaha!$"
+	.string "Gwah! Hahahaha!$"
 
 @ Battle Pyramid
 gText_BrandonWonSilver::
@@ -98,13 +89,16 @@ gText_BrandonWonSilver::
 	.string "Vis lidt indsats! Kom op!$"
 
 gText_BrandonDefeatSilver::
-	.string "Det er det! Du har gjort det godt!\n"
-	.string "Du har arbejdet hårdt for dette!$"
+	.string "Det er det! Du har gjort det godt! Du\n"
+	.string "har arbejdet hårdt for dette!$"
 
 gText_BrandonWonGold::
-	.string "Hey! Giv ikke op nu!\n"
-	.string "Kom op! Mist ikke troen på dig selv!$"
+	.string "Hey! Giv ikke op nu! Kom op! Mist ikke\n"
+	.string "troen på dig selv!$"
 
 gText_BrandonDefeatGold::
-	.string "Det er det! Du har gjort det!\n"
-	.string "Du holdt ved og arbejdede for dette!$"
+	.string "Det er det! Du har gjort det! Du holdt\n"
+	.string "ved og arbejdede for dette!$"
+
+
+

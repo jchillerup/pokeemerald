@@ -109,3 +109,5 @@ Movement_KecleonAppears:
 	delay_16
 	set_visible
 	step_end
+
+

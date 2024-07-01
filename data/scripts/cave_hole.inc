@@ -31,3 +31,5 @@ EventScript_FallDownHoleMtPyre::
 Movement_SetInvisible:
 	set_invisible
 	step_end
+
+

@@ -7,3 +7,5 @@ EventScript_RepelWoreOff::
 Text_RepelWoreOff:
 	.string "Effekten af REPEL er slidt af…$"
 
+
+

@@ -423,3 +423,5 @@ AbnormalWeather_Underwater_SetupEscapeWarpRoute129West::
 AbnormalWeather_Underwater_SetupEscapeWarpRoute129East::
 	setescapewarp MAP_ROUTE129, 43, 20
 	return
+
+

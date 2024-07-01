@@ -37,8 +37,8 @@ OldSeaMap_Obtained:
 	end
 
 sText_MysteryGiftOldSeaMapForYou:
-	.string "Tak fordi du bruger MYSTERY\n"
-	.string "GAVE Systemet.\p"
+	.string "Tak fordi du bruger MYSTERY GAVE\n"
+	.string "Systemet.\p"
 	.string "Lad mig bekræfte -- du er {PLAYER}?\p"
 	.string "Vi har modtaget dette GAMLE SØKORT\n"
 	.string "adresseret til dig.$"
@@ -46,16 +46,17 @@ sText_MysteryGiftOldSeaMapForYou:
 sText_MysteryGiftOldSeaMapUseAtPort:
 	.string "Det ser ud til at være til brug ved\n"
 	.string "LILYCOVE CITY havn.\p"
-	.string "Hvorfor ikke prøve det og se hvad\n"
-	.string "det handler om?$"
+	.string "Hvorfor ikke prøve det og se hvad det\n"
+	.string "handler om?$"
 
 sText_MysteryGiftOldSeaMapThankYou:
-	.string "Tak for at bruge MYSTERY\n"
-	.string "GAVE System.$"
+	.string "Tak for at bruge MYSTERY GAVE System.$"
 
 sText_MysteryGiftOldSeaMapBagFull:
-	.string "Åh, jeg beklager, {PLAYER}.\n"
-	.string "Lommen til de VIGTIGE TING er fuld.\p"
-	.string "Gem venligst noget på din PC,\n"
-	.string "og kom tilbage for denne.$"
+	.string "Åh, jeg beklager, {PLAYER}. Lommen til\n"
+	.string "de VIGTIGE TING er fuld.\p"
+	.string "Gem venligst noget på din PC, og kom\n"
+	.string "tilbage for denne.$"
+
+
 

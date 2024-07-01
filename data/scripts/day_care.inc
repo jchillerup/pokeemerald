@@ -278,29 +278,28 @@ Route117_Text_SeeWifeIfYoudLikeMeToRaiseMon:
 	.string "Jeg er DAGINSTITUTIONSMANDEN.\p"
 	.string "Jeg hjælper med at passe de dyrebare\n"
 	.string "POKéMON fra TRÆNERE.\p"
-	.string "Hvis du vil have mig til at opfostre dit POKéMON,\n"
-	.string "så tal med min kone.$"
+	.string "Hvis du vil have mig til at opfostre dit\n"
+	.string "POKéMON, så tal med min kone.$"
 
 Route117_Text_DoYouWantEgg:
 	.string "Åh, det er dig!\p"
-	.string "Vi passede din POKéMON,\n"
-	.string "og puha, hvor vi blev overrasket!\p"
+	.string "Vi passede din POKéMON, og puha, hvor vi\n"
+	.string "blev overrasket!\p"
 	.string "Din POKéMON havde et ÆG!\p"
-	.string "Vi ved ikke, hvordan det kom derhen,\n"
-	.string "men din POKéMON havde det.\p"
+	.string "Vi ved ikke, hvordan det kom derhen, men\n"
+	.string "din POKéMON havde det.\p"
 	.string "Vil du have det, ikke?$"
 
 Route117_Text_YourMonIsDoingFine:
-	.string "Åh, det er dig! Dejligt at se dig.\n"
-	.string "Din {STR_VAR_1} har det godt.$"
+	.string "Åh, det er dig! Dejligt at se dig. Din\n"
+	.string "{STR_VAR_1} har det godt.$"
 
 Route117_Text_IllKeepIt:
-	.string "Nå, så beholder jeg det.\n"
-	.string "Tak!$"
+	.string "Nå, så beholder jeg det. Tak!$"
 
 Route117_Text_YouHaveNoRoomForIt:
-	.string "Du har ikke plads til det…\n"
-	.string "Kom tilbage, når du har lavet plads.$"
+	.string "Du har ikke plads til det… Kom tilbage,\n"
+	.string "når du har lavet plads.$"
 
 Route117_Text_ReceivedEgg:
 	.string "{PLAYER} modtog ÆGGET fra\n"
@@ -310,11 +309,11 @@ Route117_Text_TakeGoodCareOfIt:
 .string "Pas godt på den.$"
 
 Route117_Text_FriendlyWithOtherTrainersMon:
-	.string "Forresten, angående din {STR_VAR_1},\n"
-	.string "den virkede venlig over for\l"
-	.string "{STR_VAR_3} fra {STR_VAR_2}.\p"
-	.string "Jeg tror endda, jeg så den\n"
-	.string "modtage et brev.$"
+	.string "Forresten, angående din\n"
+	.string "{STR_VAR_1}, den virkede venlig over\l"
+	.string "for {STR_VAR_3} fra {STR_VAR_2}.\p"
+	.string "Jeg tror endda, jeg så den modtage et\n"
+	.string "brev.$"
 
 @ Unused
 Route117_Text_SeeWifeIfYouWantToPickUpMon:
@@ -322,98 +321,94 @@ Route117_Text_SeeWifeIfYouWantToPickUpMon:
 	.string "skal du tale med min kone.$"
 
 Route117_Text_YourMonsAreDoingFine:
-	.string "Åh, det er dig! Din {STR_VAR_1}\n"
-	.string "og {STR_VAR_2} har det godt.$"
+	.string "Åh, det er dig! Din {STR_VAR_1} og\n"
+	.string "{STR_VAR_2} har det godt.$"
 
 Route117_Text_IWillKeepDoYouWantIt:
-	.string "Jeg vil virkelig beholde det.\n"
-	.string "Du vil have dette, ikke sandt?$"
+	.string "Jeg vil virkelig beholde det. Du vil have\n"
+	.string "dette, ikke sandt?$"
 
 Route117_PokemonDayCare_Text_WouldYouLikeUsToRaiseAMon:
-	.string "Jeg er DAGPLEJE-DAMEN.\p" 
-	.string "Vi kan opdrætte POKéMON for dig.\p" 
+	.string "Jeg er DAGPLEJE-DAMEN.\p"
+	.string "Vi kan opdrætte POKéMON for dig.\p"
 	.string "Vil du have os til at opdrætte en?$"
 
 Route117_PokemonDayCare_Text_WhichMonShouldWeRaise:
-	.string "Hvilken POKéMON skal vi opdrætte\n"
-	.string "til dig?$"
+	.string "Hvilken POKéMON skal vi opdrætte til\n"
+	.string "dig?$"
 
 Route117_PokemonDayCare_Text_WellRaiseYourMon:
-	.string "Okay, vi vil hæve din {STR_VAR_1}\n"
-	.string "i et stykke tid.\p"
+	.string "Okay, vi vil hæve din {STR_VAR_1} i et\n"
+	.string "stykke tid.\p"
 	.string "Kom tilbage senere for det.$"
 
 Route117_PokemonDayCare_Text_WeCanRaiseOneMore:
-	.string "Vi kan træne to af dine POKéMON.\n"
-	.string "Vil du have os til at træne én mere?$"
+	.string "Vi kan træne to af dine POKéMON. Vil du\n"
+	.string "have os til at træne én mere?$"
 
 Route117_PokemonDayCare_Text_HusbandWasLookingForYou:
 .string "Min mand ledte efter dig.$"
 
 Route117_PokemonDayCare_Text_FineThenComeAgain:
-	.string "Åh, fint så.\n"
-	.string "Kom igen.$"
+	.string "Åh, fint så. Kom igen.$"
 
 Route117_PokemonDayCare_Text_NotEnoughMoney:
 	.string "Du har ikke nok penge…$"
 
 Route117_PokemonDayCare_Text_TakeOtherOneBackToo:
-	.string "Vil du også tage den anden med,\n"
-    .string "så?$"
+	.string "Vil du også tage den anden med, så?$"
 
 Route117_PokemonDayCare_Text_ComeAgain:
-	.string "Fint.\n"
-	.string "Kom igen.$"
+	.string "Fint. Kom igen.$"
 
 Route117_PokemonDayCare_Text_GoodToSeeYou:
-	.string "Åh, det er dig! Dejligt at se dig.\n"
-	.string "Dine POKéMON har det helt sikkert godt!$"
+	.string "Åh, det er dig! Dejligt at se dig. Dine\n"
+	.string "POKéMON har det helt sikkert godt!$"
 
 Route117_PokemonDayCare_Text_YourMonHasGrownXLevels:
-	.string "På level er din {STR_VAR_1}\n"
-	.string "vokset med {STR_VAR_2}.$"
+	.string "På level er din {STR_VAR_1} vokset\n"
+	.string "med {STR_VAR_2}.$"
 
 Route117_PokemonDayCare_Text_YourTeamIsFull:
-	.string "Dit POKéMON-hold er fuldt.\n"
-	.string "Lav plads, og kom så og se mig.$"
+	.string "Dit POKéMON-hold er fuldt. Lav plads, og\n"
+	.string "kom så og se mig.$"
 
 @ Unused
 Route117_PokemonDayCare_Text_TakeBackWhichMon:
     .string "Hvilken POKéMON vil du tage tilbage?$"
 
 Route117_PokemonDayCare_Text_ItWillCostX:
-	.string "Hvis du ønsker din {STR_VAR_1} tilbage,\n"
-	.string "vil det koste ¥{STR_VAR_2}.$"
+	.string "Hvis du ønsker din {STR_VAR_1}\n"
+	.string "tilbage, vil det koste ¥{STR_VAR_2}.$"
 
 Route117_PokemonDayCare_Text_HeresYourMon:
-	.string "Perfekt!\n"
-	.string "Her er din POKéMON.$"
+	.string "Perfekt! Her er din POKéMON.$"
 
 Route117_PokemonDayCare_Text_TookBackMon:
-	.string "{PLAYER} tog {STR_VAR_1} tilbage fra\n"
-	.string "dagplejedamen.$"
+	.string "{PLAYER} tog {STR_VAR_1} tilbage\n"
+	.string "fra dagplejedamen.$"
 
 Route117_PokemonDayCare_Text_YouHaveJustOneMon:
-	.string "Åh? Men du har kun én\n"
-	.string "POKéMON.\p"
+	.string "Åh? Men du har kun én POKéMON.\p"
 	.string "Kom tilbage en anden gang.$"
 
 Route117_PokemonDayCare_Text_TakeYourMonBack:
 .string "Vil du tage din POKéMON tilbage?$"
 
 Route117_PokemonDayCare_Text_WhatWillYouBattleWith:
-	.string "Hvis du forlader mig den POKéMON,\n"
-	.string "hvad vil du kæmpe med?\p"
+	.string "Hvis du forlader mig den POKéMON, hvad\n"
+	.string "vil du kæmpe med?\p"
 	.string "Kom tilbage en anden gang.$"
 
 Text_EggHatchHuh:
 .string "Hva'?$"
 
 Route117_PokemonDayCare_Text_YoullBeLeftWithJustOne:
-	.string "Hvad?\n"
-	.string "Rolig nu.\p"
-	.string "Hvis du efterlader den POKéMON hos\n"
-	.string "mig, vil du kun have én tilbage.\p"
-	.string "Du vil være bedre stillet, hvis du\n"
-	.string "fanger nogle flere, tør jeg påstå.$"
+	.string "Hvad? Rolig nu.\p"
+	.string "Hvis du efterlader den POKéMON hos mig,\n"
+	.string "vil du kun have én tilbage.\p"
+	.string "Du vil være bedre stillet, hvis du fanger\n"
+	.string "nogle flere, tør jeg påstå.$"
+
+
 

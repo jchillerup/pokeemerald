@@ -38,24 +38,26 @@ MysticTicket_Obtained:
 	end
 
 sText_MysticTicketForYou:
-	.string "Tak fordi du bruger MYSTERY\n"
-	.string "GAVE Systemet.\p"
-	.string "Du må være {PLAYER}.\n"
-	.string "Der er en billet her til dig.$"
+	.string "Tak fordi du bruger MYSTERY GAVE\n"
+	.string "Systemet.\p"
+	.string "Du må være {PLAYER}. Der er en billet\n"
+	.string "her til dig.$"
 
 sText_MysticTicketUseAtPort:
 	.string "Det ser ud til at være til brug ved\n"
 	.string "LILYCOVE CITY havn.\p"
-	.string "Hvorfor ikke prøve det og se hvad\n"
-	.string "det handler om?$"
+	.string "Hvorfor ikke prøve det og se hvad det\n"
+	.string "handler om?$"
 
 sText_MysticTicketThankYou:
-	.string "Tak fordi du bruger MYSTERY\n"
-	.string "GAVE System.$"
+	.string "Tak fordi du bruger MYSTERY GAVE\n"
+	.string "System.$"
 
 sText_MysticTicketBagFull:
-	.string "Åh, undskyld, {PLAYER}.\n"
-	.string "Din TASCHEs NØGLEGENSTANDE-LOMME er fuld.\p"
-	.string "Gem venligst noget på din PC,\n"
-	.string "og kom tilbage for dette.$"
+	.string "Åh, undskyld, {PLAYER}. Din TASCHEs\n"
+	.string "NØGLEGENSTANDE-LOMME er fuld.\p"
+	.string "Gem venligst noget på din PC, og kom\n"
+	.string "tilbage for dette.$"
+
+
 

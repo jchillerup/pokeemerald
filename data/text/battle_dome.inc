@@ -1,7 +1,8 @@
 @ TRANSLATED
 
 BattleDome_Text_Potential1::
-	.string "Den bedste kandidat til at blive mester!$"
+	.string "Den bedste kandidat til at blive\n"
+	.string "mester!$"
 
 BattleDome_Text_Potential2::
 	.string "Et hold, der helt sikkert når finalen.$"
@@ -10,7 +11,8 @@ BattleDome_Text_Potential3::
 	.string "Et sandsynligt top-tre hold.$"
 
 BattleDome_Text_Potential4::
-	.string "En kandidat til at slutte på førstepladsen.$"
+	.string "En kandidat til at slutte på\n"
+	.string "førstepladsen.$"
 
 BattleDome_Text_Potential5::
 	.string "Et hold med topklasse potentiale.$"
@@ -49,10 +51,12 @@ BattleDome_Text_Potential16::
 	.string "Holdet mest usandsynligt til at vinde.$"
 
 BattleDome_Text_PotentialDomeAceTucker::
-	.string "Den perfekte, uovervindelige superstjerne!$"
+	.string "Den perfekte, uovervindelige\n"
+	.string "superstjerne!$"
 
 BattleDome_Text_StyleRiskDisaster::
-	.string "Villig til at risikere total katastrofe indimellem.$"
+	.string "Villig til at risikere total katastrofe\n"
+	.string "indimellem.$"
 
 BattleDome_Text_StyleEndureLongBattles::
 	.string "Dygtig til at udholde lange kampe.$"
@@ -67,7 +71,8 @@ BattleDome_Text_StyleUsesVeryRareMove::
 	.string "Bruger af og til et meget sjældent træk.$"
 
 BattleDome_Text_StyleUsesStartlingMoves::
-	.string "Bruger overraskende og forstyrrende træk.$"
+	.string "Bruger overraskende og forstyrrende\n"
+	.string "træk.$"
 
 BattleDome_Text_StyleConstantlyWatchesHP::
 	.string "Holder konstant øje med HP i kamp.$"
@@ -79,7 +84,8 @@ BattleDome_Text_StyleEnfeeblesFoes::
 	.string "Dygtig til at svække modstanderne.$"
 
 BattleDome_Text_StylePrefersLuckTactics::
-	.string "Foretrækker taktikker, der afhænger af held.$"
+	.string "Foretrækker taktikker, der afhænger af\n"
+	.string "held.$"
 
 BattleDome_Text_StyleRegalAtmosphere::
 	.string "Angriber med en majestætisk atmosfære.$"
@@ -88,13 +94,15 @@ BattleDome_Text_StylePowerfulLowPPMoves::
 	.string "Angriber med kraftfulde, lav-PP træk.$"
 
 BattleDome_Text_StyleEnfeebleThenAttack::
-	.string "Dygtig til at svække og derefter angribe.$"
+	.string "Dygtig til at svække og derefter\n"
+	.string "angribe.$"
 
 BattleDome_Text_StyleBattlesWhileEnduring::
 	.string "Kæmper mens de udholder alle angreb.$"
 
 BattleDome_Text_StyleUpsetsFoesEmotionally::
-	.string "Dygtig til at forstyrre modstanderne følelsesmæssigt.$"
+	.string "Dygtig til at forstyrre modstanderne\n"
+	.string "følelsesmæssigt.$"
 
 BattleDome_Text_StyleStrongAndStraightforward::
 	.string "Bruger stærke og direkte træk.$"
@@ -103,10 +111,12 @@ BattleDome_Text_StyleAggressivelyStrongMoves::
 	.string "Aggressivt bruger stærke træk.$"
 
 BattleDome_Text_StyleCleverlyDodgesAttacks::
-	.string "Kæmper mens de snedigt undviger angreb.$"
+	.string "Kæmper mens de snedigt undviger\n"
+	.string "angreb.$"
 
 BattleDome_Text_StyleUsesUpsettingMoves::
-	.string "Dygtig til at bruge forstyrrende angreb.$"
+	.string "Dygtig til at bruge forstyrrende\n"
+	.string "angreb.$"
 
 BattleDome_Text_StyleUsesPopularMoves::
 	.string "Bruger mange populære træk.$"
@@ -133,7 +143,8 @@ BattleDome_Text_StyleUsesAddedEffectMoves::
 	.string "Bruger ofte træk med ekstra effekter.$"
 
 BattleDome_Text_StyleUsesBalancedMixOfMoves::
-	.string "Bruger en velafbalanceret blanding af træk.$"
+	.string "Bruger en velafbalanceret blanding af\n"
+	.string "træk.$"
 
 BattleDome_Text_StyleSampleMessage1::
 	.string "Dette er prøvemeddelse 1.$"
@@ -274,13 +285,15 @@ BattleDome_Text_NeglectsSpDef::
 	.string "Svækker SP. FORSVAR.$"
 
 BattleDome_Text_RaisesMonsWellBalanced::
-	.string "Opdrætter POKéMON på en velafbalanceret måde.$"
+	.string "Opdrætter POKéMON på en\n"
+	.string "velafbalanceret måde.$"
 
 BattleDome_Text_LetTheBattleBegin::
 	.string "Lad kampen begynde!$"
 
 BattleDome_Text_TrainerWonUsingMove::
-	.string "{STR_VAR_1} vandt ved at bruge {STR_VAR_2}!$"
+	.string "{STR_VAR_1} vandt ved at bruge\n"
+	.string "{STR_VAR_2}!$"
 
 BattleDome_Text_TrainerBecameChamp::
 	.string "{STR_VAR_1} blev mesteren!$"
@@ -289,13 +302,16 @@ BattleDome_Text_TrainerWonByDefault::
 	.string "{STR_VAR_1} vandt uden modstander!$"
 
 BattleDome_Text_TrainerWonOutrightByDefault::
-	.string "{STR_VAR_1} vandt uden modstander med det samme!$"
+	.string "{STR_VAR_1} vandt uden modstander\n"
+	.string "med det samme!$"
 
 BattleDome_Text_TrainerWonNoMoves::
-	.string "{STR_VAR_1} vandt uden at bruge et træk!$"
+	.string "{STR_VAR_1} vandt uden at bruge et\n"
+	.string "træk!$"
 
 BattleDome_Text_TrainerWonOutrightNoMoves::
-	.string "{STR_VAR_1} vandt uden træk med det samme!$"
+	.string "{STR_VAR_1} vandt uden træk med det\n"
+	.string "samme!$"
 
 BattleDome_Text_Round1Match1::
 	.string "Runde 1, Kamp 1$"
@@ -341,3 +357,6 @@ BattleDome_Text_SemifinalMatch2::
 
 BattleDome_Text_FinalMatch::
 	.string "Finalekamp$"
+
+
+

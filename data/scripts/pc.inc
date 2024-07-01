@@ -64,3 +64,5 @@ EventScript_AccessHallOfFame::
 	waitstate
 	goto EventScript_AccessPC
 	end
+
+

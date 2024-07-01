@@ -26,8 +26,8 @@ Roulette_EventScript_Play::
 	end
 
 Roulette_Text_PlayMinimumWagerIsX::
-	.string "Det mindste bet på dette bord\n"
-	.string "er {STR_VAR_1}. Vil du spille?$"
+	.string "Det mindste bet på dette bord er\n"
+	.string "{STR_VAR_1}. Vil du spille?$"
 
 Roulette_Text_NotEnoughCoins::
 .string "Du har ikke nok MØNTER.$"
@@ -36,8 +36,8 @@ Roulette_Text_SpecialRateTable::
 .string "Særlig prisoversigt lige nu!$"
 
 Roulette_Text_ControlsInstruction::
-	.string "Placer dit væddemål med + Kontrol\n"
-	.string "Pad, og tryk derefter på A-knappen.$"
+	.string "Placer dit væddemål med + Kontrol Pad,\n"
+	.string "og tryk derefter på A-knappen.$"
 
 Roulette_Text_ItsAHit::
 .string "Det rammer plet!$"
@@ -65,6 +65,8 @@ Roulette_Text_YouDontHaveACoinCase::
 	.string "Du har ikke en MØNTHOLDER.$"
 
 Roulette_Text_CoinCaseIsFull::
-	.string "Din MØNTSAMLING er fuld!\n"
-	.string "Mønter kan byttes til præmier.$"
+	.string "Din MØNTSAMLING er fuld! Mønter kan\n"
+	.string "byttes til præmier.$"
+
+
 

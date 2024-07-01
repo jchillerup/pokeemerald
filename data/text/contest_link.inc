@@ -9,11 +9,12 @@ gText_LinkStandby4::
 	.string "Forbinder, vent venligst!$"
 
 gText_WinnerIsPlayersMonCongrats::
-	.string "The winner is {STR_VAR_1}'s {STR_VAR_2}!\n"
-	.string "Congratulations!$"
+	.string "The winner is {STR_VAR_1}'s\n"
+	.string "{STR_VAR_2}! Congratulations!$"
 
 gText_WinnerIsPlayersMon::
-	.string "The winner is {STR_VAR_1}'s {STR_VAR_2}!{PAUSE_UNTIL_PRESS}$"
+	.string "The winner is {STR_VAR_1}'s\n"
+	.string "{STR_VAR_2}!{PAUSE_UNTIL_PRESS}$"
 
 gText_PrimaryJudgingNumX::
 	.string "Primary judging: No. {STR_VAR_1}{PAUSE_UNTIL_PRESS}$"
@@ -38,3 +39,6 @@ gText_SetEventNumX2::
 gText_LinkTVProgramWillNotBeMadeTrainerLost::
 	.string "A link TV program will not be made\n"
 	.string "because the TRAINER lost.{PAUSE_UNTIL_PRESS}$"
+
+
+
