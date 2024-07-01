@@ -208,6 +208,17 @@ gText_ApprenticeRejectTeaching3::
 	.string "Hvilket kursus tror du, jeg måske har en\n"
 	.string "chance ved?$"
 
+gText_ApprenticeWhichLevelMode3::
+	.string "Er det sandt? Jeg kan ikke tro det!\n"
+	.string "Tænk at du vil rådgive mig!\l"
+	.string "Jeg... Jeg er så glad...\p"
+	.string "Det, jeg gerne vil spørge dig om, er virkelig\n"
+	.string "banalt, men jeg kan ikke beslutte mig...\p"
+	.string "På KAMPENS TÅRN kan du vælge\n"
+	.string "Level 50 eller Åbent Level.\p"
+	.string "Hvilken en tror du, jeg kan\n"
+	.string "have en chance med?$"
+
 gText_ApprenticeLevelModeThanks3::
 	.string "{STR_VAR_1}? Okay! Men tror du\n"
 	.string "virkelig, at en som mig ville have en\l"
